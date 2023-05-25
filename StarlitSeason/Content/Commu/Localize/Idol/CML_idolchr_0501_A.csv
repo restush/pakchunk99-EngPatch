@@ -1,0 +1,1549 @@
+"id","character","source","translatedstr"
+"Idolchr_0501_A_01_00_001(0)","Ｐ","よし、イベントは終わったし、
+今から帰って……って、玲音じゃないか","Okay, the event is over,
+Go home now and go to ......, isn't that Reine?"
+"Idolchr_0501_A_01_00_002(0)","玲音","やぁ、奇遇だね。
+今日はひとりなの？","Hey, what a coincidence.
+Are you alone today?"
+"Idolchr_0501_A_01_00_003(0)","Ｐ","ああ。
+玲音もひとりなのか？","
+Is Reine alone too?"
+"Idolchr_0501_A_01_00_004(0)","玲音","そうだよ。ちょうどよかった。
+キミに聞きたいことがあったんだ","Yes, just in time.
+I wanted to ask you something."
+"Idolchr_0501_A_01_00_005(0)","玲音","アタシの個性って、なんだと思う？","What do you think my personality is?"
+"Idolchr_0501_A_01_00_006(0)","Ｐ","突然だな……。
+いったいどうしたんだ？","All of a sudden. .......
+What the hell is going on?"
+"Idolchr_0501_A_01_00_007(0)","玲音","キミが海外研修に行っている間、
+アタシも、いろいろ挑戦していたんだ","While you are on overseas training,
+I was trying out different things too."
+"Idolchr_0501_A_01_00_008(0)","玲音","今よりもっと、成長できるようにと
+個性について研究しようと思っていてね","We want to help you grow even more than you are now.
+I'm trying to do some research on personalities."
+"Idolchr_0501_A_01_00_009(0)","玲音","それで、キミの考えも参考にさせて
+もらいたいんだけど、いいかな？","So, let me take your thoughts on this.
+I'd like to have it, if that's okay."
+"Idolchr_0501_A_01_00_010(0)","Ｐ","なるほど、そういうことか。
+そうだな、玲音の個性っていうと……","I see, that's how it is.
+Yes, Reine's personality is ......"
+"Idolchr_0501_A_01_00_011(0)","選択肢","格好良さ","coolness"
+"Idolchr_0501_A_01_00_012(0)","選択肢","ミステリアスさ","mysteriousness"
+"Idolchr_0501_A_01_00_013(0)","選択肢","派手さ","gaudiness"
+"Idolchr_0501_A_01_00_014(0)","Ｐ","堂々とした立ち振る舞いや、
+ステージ上での格好良さだと思うぞ！","Stand tall and be magnificent,
+I think you're looking good on stage!"
+"Idolchr_0501_A_01_00_015(0)","玲音","なるほど……格好良さか。
+自分ではあまり実感がないけど……","I see. ...... coolness.
+I don't really feel it myself, but ......"
+"Idolchr_0501_A_01_00_016(0)","玲音","うん、ありがとう。
+第三者の意見を聞いてみたかったんだ","Yeah, thanks.
+I just wanted to get a third-party opinion."
+"Idolchr_0501_A_01_00_017(0)","Ｐ","ミステリアスな雰囲気が、
+玲音の個性なんじゃないか？","Mysterious atmosphere,
+I think it's Reine's personality."
+"Idolchr_0501_A_01_00_018(0)","玲音","ミステリアス？
+へぇ……面白い見方もあるんだね","Mysterious?
+Heh, ...... interesting way to look at it."
+"Idolchr_0501_A_01_00_019(0)","玲音","考えたことはなかったけど、
+それならアタシの強みにもなるかもしれないね","I never thought about it,
+That could be one of my strengths, then."
+"Idolchr_0501_A_01_00_020(0)","Ｐ","派手なところかな。
+服とかそういうのじゃなく、雰囲気も含めて","I guess it's the fancy part.
+Not the clothes or anything like that, but the atmosphere."
+"Idolchr_0501_A_01_00_021(0)","玲音","派手なところ……？
+うーん、それは褒められているのかな？","Fancy place ......?
+Hmmm, is that a compliment?"
+"Idolchr_0501_A_01_00_022(0)","玲音","あまり自分では派手なつもりはないんだけどね、
+キミとアタシでは感覚が、少し違っているのかな","I don't intend to be too fancy myself,
+I wonder if you and I have slightly different senses."
+"Idolchr_0501_A_01_00_023(0)","玲音","……フフッ。こうしてキミと話していると、
+新しい発見があって、とても楽しいよ","......Hmmm...talking to you like this,
+I'm having so much fun discovering new things."
+"Idolchr_0501_A_01_00_024(0)","玲音","これも、海外研修で培ってきた
+キミのスキルなのかな？","This is also a result of our overseas training programs.
+Is it your skill?"
+"Idolchr_0501_A_01_00_025(0)","Ｐ","うーん……どうだろう。
+海外研修は関係あるのか、分からないな","Hmmm ...... I wonder.
+I don't know if overseas training has anything to do with it, I don't get it."
+"Idolchr_0501_A_01_00_026(0)","玲音","自覚はしていないんだね。でも、アタシには分かる。
+キミは、確かに成長している！","You don't know it, but I do.
+You are certainly growing!"
+"Idolchr_0501_A_01_00_027(0)","玲音","……そうだ！　近々フェスに参加するんだけど、
+そこでキミの力を試してみない？","...... Yes, I'm attending a festival soon,
+Why don't you try your hand there?"
+"Idolchr_0501_A_01_00_028(0)","玲音","海外研修でパワーアップした実力で、
+アタシをサポートしてみて欲しいな","With the ability empowered by overseas training,
+I hope you'll try to support me."
+"Idolchr_0501_A_01_00_029(0)","Ｐ","力を試すって……。
+事務所も違うのに、そんなことをして大丈夫なのか？","You can test your strength at .......
+Are you okay with that, even though we have different offices?"
+"Idolchr_0501_A_01_00_030(0)","玲音","アドバイザー、っていう名目なら
+問題ないんじゃない？","Advisor, if that's what you want to call it.
+No problem, right?"
+"Idolchr_0501_A_01_00_031(0)","玲音","その意見を取り入れるかどうかは、
+アタシの判断次第、ということだからね","Whether or not to incorporate that opinion,
+It's up to me."
+"Idolchr_0501_A_01_00_032(0)","Ｐ","……そこまで言うなら、参加させてもらうよ。
+だけど、ルミナスのこともあるし、今回だけだぞ","...... If you insist that much, I'll join you.
+But, we have the luminous thing going on, and it's just this once."
+"Idolchr_0501_A_01_00_033(0)","玲音","フフッ、そう言ってくれると思っていたよ！
+ありがとう！","Phew, I knew you would say that!
+Thank you!"
+"Idolchr_0501_A_01_00_034(0)","玲音","スケジュールが決まり次第、連絡させてもらうね。
+キミの活躍、期待しているよ！","I'll let you know as soon as I have a schedule.
+I'm looking forward to your success!"
+"Idolchr_0501_A_02_00_001(0)","Ｐ","（玲音のフェスは、大成功のうちに終わった）","(Reine's festival was a resounding success.)"
+"Idolchr_0501_A_02_00_002(0)","玲音","フェスでの件、感謝するよ。
+おかげで、素晴らしいステージになった","Thanks for what you did at the festival.
+It made for a great stage."
+"Idolchr_0501_A_02_00_003(0)","Ｐ","俺は少し、サポートしただけだよ。
+玲音の実力があったからこそ、成功したんだ","I was just a little, you know, supportive.
+It was Reine's ability to make it work."
+"Idolchr_0501_A_02_00_004(0)","玲音","フフッ、謙遜しなくてもいいよ。
+キミは、もっと自信を持つべきだ","Hmph, no need to be modest.
+You should have more confidence."
+"Idolchr_0501_A_02_00_005(0)","玲音","しかし、残念だね。
+キミのサポートが、一度きりのことだなんて……","But that's too bad.
+I can't believe your support is a one-time thing. ......"
+"Idolchr_0501_A_02_00_006(0)","玲音","……そうだ！　ねえキミ、これからもアタシを
+サポートしてくれないかな？","...... Yes! Hey, you, keep me in the loop.
+Can you support me?"
+"Idolchr_0501_A_02_00_007(0)","Ｐ","えっ、これからもか！？
+俺が、玲音を？","What, from now on?
+Me, Reine?"
+"Idolchr_0501_A_02_00_008(0)","玲音","ああ！　キミが一緒にいてくれれば、
+アタシは、もっと輝けると思うんだ！","Oh! If only you were with me,
+I think I can shine more!"
+"Idolchr_0501_A_02_00_009(0)","玲音","キミのメリットは……なんだろう。
+ちょっと考えるよ","I guess your merit is .......
+I'll think about it."
+"Idolchr_0501_A_02_00_010(0)","Ｐ","メリットはあるよ。玲音のトップとしての仕事ぶりを
+間近で見て、ルミナスに活かすことができる","There's merit to it, the way Reine works as a top executive.
+See it up close and make use of it for luminous"
+"Idolchr_0501_A_02_00_011(0)","Ｐ","それで良ければ、力になるよ","If that's okay with you, I'll help you."
+"Idolchr_0501_A_02_00_012(0)","玲音","ありがとう！　フフッ、お互いに切磋琢磨して、
+さらなる高みを、目指そう！","Thank you! Phew, friendly competition with each other,
+Let's aim higher!"
+"Idolchr_0501_A_02_00_013(0)","Ｐ","ああ、よろしく頼む！","Yeah, nice to meet you!"
+"Idolchr_0501_A_02_00_014(0)","玲音","……じゃあ、早速だけど、フェスでの
+アドバイスについて、聞いてもいい？","...... Well, I'll get right to it. I'll be at the festival.
+Can I ask you about your advice?"
+"Idolchr_0501_A_02_00_015(0)","Ｐ","ああ、あのアドバイスで、
+なにか気になるところがあったのか？","Oh, with that advice,
+Was there something on your mind?"
+"Idolchr_0501_A_02_00_016(0)","玲音","うん。
+あれは……アタシでは、思いつかないものだった","Yeah.
+That was something I would never have thought of at ...... Atashi!"
+"Idolchr_0501_A_02_00_017(0)","玲音","恐らく、普段からアタシと違った視点で、
+アイドルのことを、研究しているんだろう","Probably from a different perspective than ataasic usually,
+You must be studying your idols."
+"Idolchr_0501_A_02_00_018(0)","玲音","そこで、自分でも研究してみたいんだけど、
+どうやって研究したらいいかな？","So I'd like to do some research on my own,
+How do I do my research?"
+"Idolchr_0501_A_02_00_019(0)","Ｐ","玲音がアイドルについて研究するなら、か……。
+そうだな……","If you want to research Reine about idols, or ......."
+"Idolchr_0501_A_02_00_020(0)","選択肢","ＳＮＳでリサーチ","Research on SNS"
+"Idolchr_0501_A_02_00_021(0)","選択肢","ＴＶ番組の視聴","Watching TV programs"
+"Idolchr_0501_A_02_00_022(0)","選択肢","ひたすら妄想だ！","It's just a fantasy!"
+"Idolchr_0501_A_02_00_023(0)","Ｐ","ＳＮＳでリサーチだな。
+リアルタイムで更新される情報は、興味深いぞ","Research on social networking sites.
+Interesting to see the real-time updates!"
+"Idolchr_0501_A_02_00_024(0)","玲音","……なるほど、ＳＮＳか。
+キミはそうやって、情報を集めたりするんだね","...... I see, social networking.
+That's how you gather information."
+"Idolchr_0501_A_02_00_025(0)","Ｐ","ああ。着飾らない、生の本音が溢れてるから、
+今、求められているアイドル像も、見えてくる！","Yeah, because it's full of raw and honest feelings without dressing up,
+We can also see the image of idols that is now being sought after!"
+"Idolchr_0501_A_02_00_026(0)","玲音","うん……面白そうだ。
+アタシも、アカウントを作ってみるよ","Yeah ...... sounds interesting.
+I'll try to make an account too."
+"Idolchr_0501_A_02_00_027(0)","玲音","キミに聞いて正解だった。
+アタシはこれでまた、更に高みに行ける！","You were right to ask.
+Atashi can now go even higher again!"
+"Idolchr_0501_A_02_00_028(0)","Ｐ","ＴＶ番組を視聴することだな。ジャンルを問わず
+見ていると、求められている人物像が見えてくる","Watching TV shows... of any genre.
+The more you look at it, the more you'll see the person you're looking for."
+"Idolchr_0501_A_02_00_029(0)","玲音","そうか……様々なジャンルの番組を見て、
+出演しているアイドルを研究しているんだね","So ...... with a variety of programs in different genres,
+You're researching the idols you perform for."
+"Idolchr_0501_A_02_00_030(0)","玲音","ライブやフェスばかり気にしていたけど……。
+今まで以上に、ＴＶ番組も注意しておこう！","I only cared about live shows and festivals. ......
+More than ever, we should also pay attention to TV programs!"
+"Idolchr_0501_A_02_00_031(0)","Ｐ","理想のアイドル像を、ひたすら妄想するんだ！
+そして、それをどうすれば現実にできるか考える！","I fantasize about my ideal idol image!
+Then we think about how we can make it a reality!"
+"Idolchr_0501_A_02_00_032(0)","玲音","……妄想、だって？
+それは、思いつきもしなかったな……","...... delusional, because?
+That didn't even occur to me: ......"
+"Idolchr_0501_A_02_00_033(0)","玲音","でもアタシは妄想より、未来の自分がどうなって
+いたいかを思い描いて、努力するほうがいい","But I am more interested in how I will be in the future than in my fantasies.
+Better to envision how you want to be and strive for"
+"Idolchr_0501_A_02_00_034(0)","Ｐ","（そのまましばらく、玲音とアイドル研究について
+話し合った）","(I'm going to talk about idol research with Reine for a while.
+(Discussed)"
+"Idolchr_0501_A_02_00_035(0)","玲音","いろいろと参考になったよ。
+やっぱり、キミの話を聞くのは面白いね","I've found it helpful in many ways.
+It's interesting to hear your story, after all."
+"Idolchr_0501_A_02_00_036(0)","Ｐ","少しでも玲音の参考になったなら、良かったよ","I'm glad you found Reine helpful, even if only a little."
+"Idolchr_0501_A_02_00_037(0)","玲音","フフッ、謙虚だね。
+そんな姿勢も含めて、キミの強み、ということかな","Pfft, that's humbling.
+I guess that attitude is one of your strengths."
+"Idolchr_0501_A_02_00_038(0)","玲音","……でも、これで確信が持てた。
+キミがいてくれれば、アタシは成長できる","...... but now I'm sure of it.
+With you, I can grow."
+"Idolchr_0501_A_02_00_039(0)","玲音","協力関係を受け入れてくれて、ありがとう。
+キミのおかげで、目指すべき方向も見えてきた","Thank you for accepting our partnership.
+Thanks to you, I know where I need to go."
+"Idolchr_0501_A_02_00_040(0)","玲音","感謝するよ。
+ありがとう、これからもよろしく！","I appreciate it.
+Thanks and keep up the good work!"
+"Idolchr_0501_A_02_00_041(0)","Ｐ","ああ、よろしく！","Yeah, nice to meet you!"
+"Idolchr_0501_A_02_00_042(0)","Ｐ","（玲音とお互いにサポートし合う、協力関係か……。
+こちらもいい刺激がもらえて、勉強になりそうだ！）","(Is it a supportive and cooperative relationship between Reine and each other or .......
+(This one will be a good stimulus and a learning experience too!)"
+"Idolchr_0501_A_03_00_001(0)","Ｐ","（ようやく仕事が終わった……）","(Finally finished work ......)"
+"Idolchr_0501_A_03_00_002(0)","玲音","やあ、また会ったね、
+キミも仕事終わりかい？","Hi, we meet again,
+Are you done with work, too?"
+"Idolchr_0501_A_03_00_003(0)","Ｐ","ああ、玲音か。
+俺はちょうど、打ち合わせが終わったところだよ","Ah, Reine.
+I just got out of a meeting."
+"Idolchr_0501_A_03_00_004(0)","玲音","なるほどね。
+それなら、少し時間はあるかな？","
+Then maybe you have a little time?"
+"Idolchr_0501_A_03_00_005(0)","Ｐ","ああ、少しくらいなら。
+どうかしたのか？","Yeah, maybe a little bit.
+What's wrong?"
+"Idolchr_0501_A_03_00_006(0)","玲音","ありがとう。この間、キミと話していた
+個性について、自分なりに研究をしてみたんだ","Thanks, I was talking to you the other day.
+I've done my own research on individuality."
+"Idolchr_0501_A_03_00_007(0)","Ｐ","そうなのか。
+何か分かったことがあったのか？","I see.
+What did you find out?"
+"Idolchr_0501_A_03_00_008(0)","玲音","当たり前だけど、ＴＶやアイドル業界には、
+やっぱり個性的な人物が多いと思ってね","No wonder, but for the TV and idol industry,
+I knew there would be a lot of unique personalities."
+"Idolchr_0501_A_03_00_009(0)","玲音","最近、カップラーメンのＣＭで話題になっている、
+アイドルのことを調べてみたんだけど","Recently, there has been a lot of talk about cup ramen commercials,
+I've been trying to figure out what the idol is."
+"Idolchr_0501_A_03_00_010(0)","玲音","調べてみたら、かわいさだけじゃなく、
+天然でお茶目なところも人気のようだね","I checked it out and it's not just cute,
+Your natural and mischievous side seems to be popular too."
+"Idolchr_0501_A_03_00_011(0)","玲音","彼女のように、特徴的な性格や変わった特技を
+持っている人が、多く活躍している……","Like her, she has a distinctive personality and unusual skills.
+Many people who have are active in ......"
+"Idolchr_0501_A_03_00_012(0)","玲音","アタシには、そういった部分が足りていない！
+と、考えたんだ","Atashi is lacking in those areas!
+I thought about it."
+"Idolchr_0501_A_03_00_013(0)","Ｐ","……なるほど。
+特徴的な人物か","...... I see.
+Distinguishing Characteristics."
+"Idolchr_0501_A_03_00_014(0)","玲音","特徴的な人は、変わった特技や趣味を持つ事が多い。
+アタシも、見習おうと思ってね","Distinctive people often have unusual skills and hobbies.
+I'm trying to learn from you, too."
+"Idolchr_0501_A_03_00_015(0)","玲音","だから、スポーツやお笑い、エンターテイナー。
+いろんなジャンルの研究を始めているんだけど……","So, sports, comedy and entertainers.
+I'm starting to research different genres: ......"
+"Idolchr_0501_A_03_00_016(0)","玲音","キミのオススメも教えてくれない？
+どんなジャンルを研究したら、いいかな？","Can you give me your recommendations too?
+What genres should I research?"
+"Idolchr_0501_A_03_00_017(0)","Ｐ","玲音のためになりそうなものか……。
+それなら……","What might work for Reine. ......."
+"Idolchr_0501_A_03_00_018(0)","選択肢","格闘技","combat sport"
+"Idolchr_0501_A_03_00_019(0)","選択肢","パントマイム","pantomime"
+"Idolchr_0501_A_03_00_020(0)","選択肢","ＤＩＹ","DIY"
+"Idolchr_0501_A_03_00_021(0)","Ｐ","格闘技とかどうだ？　体の使い方はダンスの参考に
+なるし、試合もライブの参考になりそうだぞ！","How about some martial arts? The way you use your body is for dancing.
+It's going to be, and the match is going to be a live reference!"
+"Idolchr_0501_A_03_00_022(0)","玲音","格闘技か……！　なるほど、面白いね。
+確かに格好いい動きがありそうだ","Martial arts or ......! Well, that's interesting.
+It sure looks like it could be a cool move."
+"Idolchr_0501_A_03_00_023(0)","Ｐ","入場パフォーマンスが凝ってる選手もいるし、
+玲音も興味を持って研究できるんじゃないかな？","Some players have elaborate entrance performances,
+I'm sure Reine could be interested in studying it."
+"Idolchr_0501_A_03_00_024(0)","玲音","ありがとう。キミのアドバイスは、
+アタシに新しい世界を教えてくれる！","Thanks for your advice,
+It shows me a new world!"
+"Idolchr_0501_A_03_00_025(0)","Ｐ","パントマイムとかどうだ？　
+表現力は、アイドルの仕事にも活かせると思うぞ","How about a mime or something?
+I think you'll find that your expressive skills will serve you well in your idol work."
+"Idolchr_0501_A_03_00_026(0)","玲音","パントマイムか……。
+じゃあ、……こんな感じかな？","Pantomime or .......
+Okay, so ...... something like this?"
+"Idolchr_0501_A_03_00_027(0)","Ｐ","う、上手いな！　掘り下げると奥が深そうだけど、
+できているなら、別のものがいいかな？","Ugh, you're so good! It sounds like you're in deep when you dig into it,
+If it's done, would you prefer something else?"
+"Idolchr_0501_A_03_00_028(0)","玲音","フフ、パントマイムも興味深いけれど、
+もし他にもオススメがあれば、教えてほしいな","Pantomime is interesting, though,
+If you have any other recommendations, I'd love to hear them."
+"Idolchr_0501_A_03_00_029(0)","Ｐ","ＤＩＹとかどうだ？","How about some DIY?"
+"Idolchr_0501_A_03_00_030(0)","玲音","ＤＩＹといえば、日曜大工のことだね。
+アイドルの研究とどうつながるの？","When I say DIY, I mean Sunday carpentry.
+How does this connect to the study of idols?"
+"Idolchr_0501_A_03_00_031(0)","Ｐ","そ、それは………………。
+これから考えるよ……","So, that's ...................
+I'll think about it now: ......"
+"Idolchr_0501_A_03_00_032(0)","玲音","なるほど……。ＤＩＹ自体は面白そうだけど、
+アイドルとつなげるのは難しそうだね","I see. ....... The DIY itself sounds interesting,
+It's going to be hard to connect it to the idol."
+"Idolchr_0501_A_03_00_033(0)","Ｐ","そうやって、色々と興味を持てるのは
+玲音のひとつの才能だな","That's how you can be interested in so many things.
+That's one talent Reine has."
+"Idolchr_0501_A_03_00_034(0)","玲音","そんな大げさなものじゃないさ。
+アタシはただ、知りたいだけだよ","It's not that big of a deal.
+I just want to know."
+"Idolchr_0501_A_03_00_035(0)","玲音","何も知らないまま、知っているふりをするのも、
+妥協するのも……イヤなだけさ","And pretending to know something without knowing anything about it,
+I just don't want to compromise or ......"
+"Idolchr_0501_A_03_00_036(0)","Ｐ","ストイックだな……。
+玲音のそういうところは、俺も見習わないとな","Stoic. .......
+I need to learn from that part of Reine's life."
+"Idolchr_0501_A_03_00_037(0)","玲音","フフッ、協力者のキミにそこまで言われると、
+少しむず痒いね","Well, you're a collaborator, so much for that,
+It's a little itchy."
+"Idolchr_0501_A_03_00_038(0)","玲音","さて、もう少し個性について、研究してみるよ。
+何か気付いたことがあったら、連絡する","Okay, I'll do some more research on individuality.
+I'll let you know if I notice anything."
+"Idolchr_0501_A_03_00_039(0)","Ｐ","ああ、分かった。俺に手伝えることがあったら、
+遠慮なく言ってほしい","Yeah, okay, if there's anything I can do to help,
+Please don't hesitate to tell me."
+"Idolchr_0501_A_03_00_040(0)","玲音","ありがとう。
+キミのことは、頼りにさせてもらうよ","
+I'll be counting on you."
+"Idolchr_0501_A_04_00_001(0)","Ｐ","（仕事終わり、玲音に呼び出された……）","(After work, Reine called me to ......)"
+"Idolchr_0501_A_04_00_002(0)","玲音","やあ、突然呼び出して、すまなかったね","Hey, sorry to call you out of the blue."
+"Idolchr_0501_A_04_00_003(0)","Ｐ","仕事は終わっていたし、構わないけど……。
+いったいどうしたんだ？","I was done with work, and I don't mind, but .......
+What the hell is going on?"
+"Idolchr_0501_A_04_00_004(0)","玲音","実は、個性の研究がやっと形になってきてね。
+キミには、その成果を見てもらいたいんだ！","Actually, my research on individuality is finally taking shape.
+I want you to see the results!"
+"Idolchr_0501_A_04_00_005(0)","玲音","まず、臨機応変に対応できる柔軟なキャラ……。
+という個性を、研究してみたんだ","First, a flexible character who can respond flexibly .......
+I've been researching the personality of the ""Mere Old Man."
+"Idolchr_0501_A_04_00_006(0)","Ｐ","なるほど、柔軟さか。
+バラエティやライブのＭＣとかでも、役に立ちそうだ","I see. Flexibility.
+It would be useful for variety, live MCing, etc."
+"Idolchr_0501_A_04_00_007(0)","玲音","ああ。今のアタシなら、キミがどんな行動をしても、
+それに合わせた反応ができると思う","Yeah, now I can do whatever you do,
+I think we can react accordingly."
+"Idolchr_0501_A_04_00_008(0)","玲音","というわけで、アタシになにかアクションを
+起こしてほしい！　さぁ、かかってきて！","So, please give me some action.
+I want you to wake me up! Come on, take it!"
+"Idolchr_0501_A_04_00_009(0)","Ｐ","（かかってこいって言われても……それじゃあ、
+とりあえず、どこかに触って……）","(If you're told to take a chance, go to ...... then,
+In the meantime, touch somewhere else (......)"
+"Idolchr_0501_A_04_00_010(0)","タッチ","頭を撫でる","stroke a person's head"
+"Idolchr_0501_A_04_00_011(0)","タッチ","腕を掴む","grab someone by the arm"
+"Idolchr_0501_A_04_00_012(0)","タッチ","その他（タッチ）","Other (touch)"
+"Idolchr_0501_A_04_00_013(0)","タッチ","何もしない・時間切れ","Nothing to do/time is running out"
+"Idolchr_0501_A_04_00_014(0)","Ｐ","玲音は、いつも頑張ってるな。
+本当にすごいよ","Reine is always doing her best.
+It's really great."
+"Idolchr_0501_A_04_00_015(0)","玲音","えへへ♪
+ありがとう、プロデューサーさん！","Heh heh heh ♪
+Thank you, producer!"
+"Idolchr_0501_A_04_00_016(0)","玲音","アタシ……これから、もっともっと頑張るね♪
+だから、これからも応援よろしく！","Atashi ...... I'll work harder and harder from now on... ♪
+So please keep supporting us!"
+"Idolchr_0501_A_04_00_017(0)","Ｐ","…………ッ！？","............!"
+"Idolchr_0501_A_04_00_018(0)","玲音","……あれ、少し変だったかな？
+元気で明るい人物になりきってみたんだけど","...... Was that a little weird?
+I'm trying to be a cheerful, bright person."
+"Idolchr_0501_A_04_00_019(0)","Ｐ","……はっ！　すまん。
+普段の玲音と違いすぎて、混乱してた","...... Ha! Sorry.
+She was so different from the usual Reine that I was confused."
+"Idolchr_0501_A_04_00_020(0)","玲音","フフッ、驚いてくれてありがとう。
+アタシも演技した甲斐があるよ","Phew, thanks for the surprise.
+It's worth it for me, too."
+"Idolchr_0501_A_04_00_021(0)","Ｐ","（……とりあえず、玲音の腕を掴んでみるか）","(...... Let's just grab Reine's arm for now.)"
+"Idolchr_0501_A_04_00_022(0)","玲音","……せいっ！","......!"
+"Idolchr_0501_A_04_00_023(0)","Ｐ","アイタタタッ！？","Aita ta ta ta!"
+"Idolchr_0501_A_04_00_024(0)","玲音","どうかな？　少し護身術を覚えてみたんだ。
+手加減はしたつもりだけど、腕は痛む？","I don't know, I've been trying to learn a little self-defense.
+I thought I went easy on you, but does your arm hurt?"
+"Idolchr_0501_A_04_00_025(0)","Ｐ","お、驚いたな。一瞬、何をされたのか
+わからなかった……。あ、今は痛みはないぞ","Oh, what a surprise, what did they do to you for a moment?
+I didn't know. ....... Oh, no pain now!"
+"Idolchr_0501_A_04_00_026(0)","玲音","フフッ、良かった。腕を掴まれた瞬間に、
+手首を捻って、関節技を決めたんだ","Phew, thank goodness, just as he grabbed my arm,
+She twisted her wrists and decided to do some arthroplasty."
+"Idolchr_0501_A_04_00_027(0)","玲音","これなら咄嗟のアクションにも、対応できそうだと
+思ってね！　どうだった？","I thought this would be a good way to handle spur-of-the-moment actions.
+I thought so! How did it go?"
+"Idolchr_0501_A_04_00_028(0)","Ｐ","そうだな、玲音らしくて格好良かったし、
+見栄えのするリアクションだと思う","Yes, it was cool, and it was like Reine,
+I think it's a great looking reaction."
+"Idolchr_0501_A_04_00_029(0)","Ｐ","……覚悟しろ、玲音！
+おりゃぁっ！","...... Prepare yourself, Reine!
+Oryaaaah!"
+"Idolchr_0501_A_04_00_030(0)","玲音","きゃぁっ！？　な、何をするんですか！
+いきなり、触るなんて……","What are you doing? What are you doing?
+Suddenly, you're touching me. ......"
+"Idolchr_0501_A_04_00_031(0)","玲音","そ、それ以上近づかないでください！
+……大きな声を出しますよ！","Please don't come any closer!
+...... I'll be loud!"
+"Idolchr_0501_A_04_00_032(0)","Ｐ","わ、悪い。急に触ったりして……。
+どうしたら正解だったんだ……？","Wow, my bad...I suddenly touched it. ......
+How was I right ......?"
+"Idolchr_0501_A_04_00_033(0)","玲音","……っと、か弱い人物を演じてみたんだけど、
+どうだったかな？","I've been trying to play the role of a vulnerable character on ......,
+How did it go?"
+"Idolchr_0501_A_04_00_034(0)","Ｐ","え、演技だったのか……！？","Oh, it was an act. ......!"
+"Idolchr_0501_A_04_00_035(0)","玲音","うん。でも、急に触るのは驚くよ。
+それから触る場所も考えたほうがいいね","Yes, but I'm surprised at the sudden touch.
+And then you'd better think about where you touch it."
+"Idolchr_0501_A_04_00_036(0)","Ｐ","まったくもってそのとおりです。
+ごめんなさい……","You are absolutely right."
+"Idolchr_0501_A_04_00_037(0)","Ｐ","…………えっと……","............ eh ......"
+"Idolchr_0501_A_04_00_038(0)","玲音","おや、どうやらキミがアドリブに弱かったみたいだ。
+急に話を振って悪かったね","Oh, well, it looks like you're not very good at improvising.
+Sorry for the abrupt turn of events."
+"Idolchr_0501_A_04_00_039(0)","玲音","でも、黙り込んでしまうのは良くないよ。
+このままじゃキミとの信頼関係に悪影響かな","But it's not a good idea to shut up.
+I don't know if this is going to be good for our relationship."
+"Idolchr_0501_A_04_00_040(0)","Ｐ","すまん、考えすぎて止まってしまった……。
+俺も玲音を見習って、柔軟な対応を研究しようと思う","Sorry, I stopped to overthink it: .......
+I'm going to take a lesson from Reine and study how to be flexible too."
+"Idolchr_0501_A_04_00_041(0)","玲音","これは……予想外の展開だ。キミまで研究すると
+言い出すなんてね","This is an ...... unexpected turn of events...research up to Kimi...
+I can't believe you just said that."
+"Idolchr_0501_A_04_00_042(0)","玲音","その向上心に免じて、今回の対応は水に流すよ。
+信頼関係はこのまま維持だね","I'll let bygones be bygones in this response to that ambition.
+I guess we'll keep the trust intact."
+"Idolchr_0501_A_04_00_043(0)","Ｐ","それにしても……玲音は、本当にいろいろと
+試行錯誤をしているんだな","But still, ...... Reine is really a lot of things.
+You're doing a lot of trial and error."
+"Idolchr_0501_A_04_00_044(0)","玲音","フフッ、なんてことはないよ。
+アタシは、やれることをやっているだけなんだ","Phew, what a surprise.
+I'm just doing what I can."
+"Idolchr_0501_A_04_00_045(0)","玲音","また、面白い個性を研究したら、
+その成果を、キミにも見せてあげるね","Also, if you research interesting personalities,
+I'll show you how it's done."
+"Idolchr_0501_A_04_00_046(0)","Ｐ","それは、楽しみだな。
+期待してるよ","That's a lot of fun.
+I'm counting on you."
+"Idolchr_0501_A_04_00_047(0)","玲音","うん、期待していてくれ！","Yeah, you can count on it!"
+"Idolchr_0501_A_05_00_001(0)","Ｐ","（偶然、玲音も海の近くで撮影していたらしく
+会おうということになった……）","(Coincidentally, Reine was also filming near the ocean.
+We agreed to meet (......)"
+"Idolchr_0501_A_05_00_002(0)","玲音","やあ……待たせてしまったかな、子猫ちゃん？","Hey, ...... kept you waiting, didn't I, kitty?"
+"Idolchr_0501_A_05_00_003(0)","Ｐ","……今日は、一段と雰囲気を変えてきたな","...... You've taken the mood to a whole new level today."
+"Idolchr_0501_A_05_00_004(0)","玲音","フフッ、よくわかったね。
+新しいキャラ付けを試してみたんだ","Phew, you've got it all figured out.
+I was trying out a new characterization."
+"Idolchr_0501_A_05_00_005(0)","玲音","キミが思ったより、驚いてはくれなかったけど……。
+アタシには似合わなかった？","You didn't surprise me as much as I thought you would. ......
+Wasn't it a good fit for me?"
+"Idolchr_0501_A_05_00_006(0)","Ｐ","そんなことはないぞ。
+ただ……子猫ちゃんなんて、初めて言われたな","That's not true.
+Just ...... kitty, that's the first time you've ever said that to me."
+"Idolchr_0501_A_05_00_007(0)","玲音","確かにキミは子猫ちゃん、という感じではないか。
+もう少し使い方を考えたほうがいいね","You certainly look like a kitty, don't you?
+I'd suggest you think a little more about how you use it."
+"Idolchr_0501_A_05_00_008(0)","玲音","ちなみに……さっきのような状況なら、
+どんな言葉がいい？","By the way, if the situation is like ...... just now,
+What words would you like to hear?"
+"Idolchr_0501_A_05_00_009(0)","Ｐ","子猫ちゃんに代わる、適切な言葉か。
+そうだな、あえて言うなら……","Is this an appropriate word to replace kitty?
+Yes, I dare say ......"
+"Idolchr_0501_A_05_00_010(0)","選択肢","セニョール","señor"
+"Idolchr_0501_A_05_00_011(0)","選択肢","王子様","prince"
+"Idolchr_0501_A_05_00_012(0)","選択肢","ダーリン","darling"
+"Idolchr_0501_A_05_00_013(0)","Ｐ","セニョール、なんてどうだ？
+スペイン語だし、雰囲気がある","Señor, what do you think?
+It's Spanish and it's atmospheric."
+"Idolchr_0501_A_05_00_014(0)","玲音","セニョール、か。
+……セニョール、キミのために歌を届けに来たよ","Senor, huh?
+...... Senor, I've come to bring a song for you!"
+"Idolchr_0501_A_05_00_015(0)","Ｐ","さすが玲音だな。その挨拶がキザじゃなく、
+むしろサマになるなんて……！","That's Reine, that greeting isn't kitschy,
+I can't believe it's rather summery. ......"
+"Idolchr_0501_A_05_00_016(0)","玲音","フフ、そうかな？　でも……うん、いいね！
+こっちのほうが、アタシらしい挨拶な気がするよ","Huh, I don't think so. But ...... yeah, that's good!
+I think this is a more Atashi-like greeting."
+"Idolchr_0501_A_05_00_017(0)","玲音","せっかくだから、これからも時々使っていこうかな？","Since I'm here, I think I'll continue to use it from time to time."
+"Idolchr_0501_A_05_00_018(0)","Ｐ","王子様、とかかな？","Prince Charming, maybe?"
+"Idolchr_0501_A_05_00_019(0)","玲音","王子様か……。
+少し試してみようか！","Prince or .......
+Let's try a few!"
+"Idolchr_0501_A_05_00_020(0)","玲音","アタシの王子様、今日はキミだけに会いに来た。
+……こんな感じかな？","My prince, I came to see only you today.
+...... something like this?"
+"Idolchr_0501_A_05_00_021(0)","Ｐ","わ、悪い、玲音がかっこよすぎて、
+少し恥ずかしくなった……！","Wow, my bad, Reine is too cool,
+I'm a little embarrassed. ......"
+"Idolchr_0501_A_05_00_022(0)","玲音","あれ、恥ずかしがらせるのは本意じゃないし……。
+別の言葉にしてみようかな","That, and it's not my intention to embarrass you. ......
+Let me put it another way."
+"Idolchr_0501_A_05_00_023(0)","Ｐ","……ダーリンって、どうだ？
+玲音にダーリンって呼ばれるのは、新鮮な気がする","How's ...... darling?
+I think it's refreshing to have Reine call me darling."
+"Idolchr_0501_A_05_00_024(0)","玲音","どうしたんだい、ダーリン。
+そんなにアタシの声が、聞きたくなったのかな？","What's the matter, darling?
+Did you want to hear my voice that badly?"
+"Idolchr_0501_A_05_00_025(0)","玲音","……これは、あんまりしっくりこないかな。
+どちらかというと……恋人同士の会話みたいだ","...... I guess this doesn't really fit.
+It's more like a conversation between ...... lovers."
+"Idolchr_0501_A_05_00_026(0)","Ｐ","そ、そうだな。
+すまん、忘れてくれ……！","Yes, that's right.
+Sorry, forget it. ......"
+"Idolchr_0501_A_05_00_027(0)","Ｐ","うーん。……自分でも答えておいてなんだけど、
+玲音の言う個性って、この方向でいいのか……？","Hmmm. ...... I've answered this myself,
+Is this the direction Reine is talking about personality ......?"
+"Idolchr_0501_A_05_00_028(0)","玲音","キミから見ても、そう感じるかい？
+実はアタシも、あんまりしっくりきていなかったんだ","Do you feel the same way?
+Actually, I didn't really feel comfortable with it either."
+"Idolchr_0501_A_05_00_029(0)","Ｐ","プロデューサーとして見ても、玲音は元から十分
+魅力的だし、変に個性を盛る必要はないと思うぞ","Even if you look at Reine as a producer, she's good enough from the get-go.
+I think you're charming, and I don't think you need to be weird about your personality."
+"Idolchr_0501_A_05_00_030(0)","玲音","ありがとう。けれど、それでは現状から
+何も変わらないことになってしまう……","Thank you, but let's start with the status quo.
+Nothing is going to change: ......"
+"Idolchr_0501_A_05_00_031(0)","玲音","今のままでは、アタシの目指す高みには、
+辿り着けないんだ。どうしたものかな……","As it is now, I can't reach the heights I'm aiming for,
+I can't get to it. what's going on ......"
+"Idolchr_0501_A_05_00_032(0)","Ｐ","……新しい個性を付け加えるんじゃなくて、もう少し
+日常の中でヒントを探したほうがいいんじゃないか？","...... not to add a new personality, but a little more.
+I think we should look for clues in our daily lives."
+"Idolchr_0501_A_05_00_033(0)","玲音","日常の中でヒントを見つける、か……。
+新鮮味が足りなくはないかな？","Find tips in everyday life, or visit .......
+Isn't there a lack of freshness?"
+"Idolchr_0501_A_05_00_034(0)","Ｐ","玲音にとっては当たり前のことでも、
+他の人にとっては新鮮なものはありそうだけどな","Even if it is obvious to Reine,
+I'm sure there's something fresh in the air for the rest of us."
+"Idolchr_0501_A_05_00_035(0)","Ｐ","例えば、普段の行動や趣味とか。それなら、
+プライベートにヒントがあるかもしれないぞ","For example, their usual activities and hobbies, if that's the case,
+Maybe there's a clue in your private life."
+"Idolchr_0501_A_05_00_036(0)","玲音","なるほど……。アタシのプライベートか……。
+うん、その方面から考えるのもアリだね","I see. ....... Atashi's private or .......
+Yeah, you can think about it from that direction."
+"Idolchr_0501_A_05_00_037(0)","玲音","ありがとう！
+また、新しい発見があったよ","Thank you!
+I've also discovered something new."
+"Idolchr_0501_A_05_00_038(0)","玲音","そうと決まれば、キミにもサポートのために、
+アタシのプライベートを知ってもらうべきだね","If you decide to do so, you too, for support,
+I should let you know about my private life."
+"Idolchr_0501_A_05_00_039(0)","Ｐ","玲音のプライベートか……わかった。
+俺でよければ付き合うよ","Reine's private or ...... understood.
+I'll go out with you if it's okay with me."
+"Idolchr_0501_A_05_00_040(0)","玲音","フフッ、じゃあ、こちらから連絡するよ。
+都合をつけて、向かおうじゃないか！","Huh, well, we'll contact you from here.
+Let's make the best of it and head out!"
+"Idolchr_0501_A_05_00_041(0)","Ｐ","（玲音のプライベートって一体……？）","(What the hell is Reine's private life? ......?)"
+"Idolchr_0501_A_06_00_001(0)","Ｐ","（玲音のプライベートに付き合って、
+お寺に来たが……）","(Go along with Reine's private life,
+(I came to the temple but ......)"
+"Idolchr_0501_A_06_00_002(0)","Ｐ","立派なお寺だな。
+ここには、よく来るのか？","It's a magnificent temple.
+Do you come here often?"
+"Idolchr_0501_A_06_00_003(0)","玲音","たまにね。美しい境内や庭園を眺めながら、
+座禅をすることがあるんだ","Sometimes, while admiring the beautiful grounds and gardens,
+I sometimes do zazen."
+"Idolchr_0501_A_06_00_004(0)","玲音","今日はキミにも、
+座禅を体験してもらおうと思ってね","Today is for you too,
+I thought I'd give you a zazen experience."
+"Idolchr_0501_A_06_00_005(0)","Ｐ","へえ。玲音が座禅に興味があったなんて、
+全然知らなかったよ","Wow, I didn't know Reine was interested in zazen,
+I had no idea."
+"Idolchr_0501_A_06_00_006(0)","玲音","あまり言っていないからね。でも、静かな場所で
+無我の境地に至り、自分の思考や行動を客観視する","I haven't said much about it...but I do know where to find some peace and quiet.
+Reach a state of selflessness and objectify your thoughts and actions."
+"Idolchr_0501_A_06_00_007(0)","玲音","そうすることで、今自分に何が必要なのか……。
+再認識することができるんだ","By doing so, you can find out what you need now at .......
+I can reaffirm that."
+"Idolchr_0501_A_06_00_008(0)","Ｐ","なるほど……。玲音にとって大切な時間なんだな。
+よし、さっそくやってみるか！","I see. ....... It must be an important time for Reine.
+Okay, let's get on with it!"
+"Idolchr_0501_A_06_00_009(0)","玲音","……ふう、おしまいかな。
+静かでとても充実した時間を過ごせたよ","...... Wind, I think I'm done.
+It was quiet and I had a very productive time."
+"Idolchr_0501_A_06_00_010(0)","Ｐ","すごい集中力だったな。
+今の玲音に必要なものは見えたのか？","That was a great concentration.
+Did you see what Reine needs now?"
+"Idolchr_0501_A_06_00_011(0)","玲音","うん、そうだね……見えたよ。
+さて、私に必要なものはなんだと思う？","Yeah, yeah, I see .......
+Now, what do you think I need?"
+"Idolchr_0501_A_06_00_012(0)","Ｐ","今の玲音に必要なものは……","What Reine needs now is ......"
+"Idolchr_0501_A_06_00_013(0)","選択肢","研究の時間","Research Time"
+"Idolchr_0501_A_06_00_014(0)","選択肢","美味しいご飯","delicious meal"
+"Idolchr_0501_A_06_00_015(0)","選択肢","逞しい筋肉","strong muscles"
+"Idolchr_0501_A_06_00_016(0)","Ｐ","個性の研究をする時間、が一番必要なんじゃないか？","Time to study individuality, isn't that what we need most?"
+"Idolchr_0501_A_06_00_017(0)","玲音","フフ、その通りだよ。でも、こうしてキミと
+研究のために座禅する時間ができて嬉しいな","You're right.
+Glad you've got time to sit down for some research."
+"Idolchr_0501_A_06_00_018(0)","Ｐ","そう言ってもらえると、俺も来た甲斐があるよ","Well, when you say it like that, it makes my visit worthwhile."
+"Idolchr_0501_A_06_00_019(0)","玲音","これからもアタシのサポートをお願いするよ！
+もちろん、研究もね","I hope you will continue to support me!
+And research, of course."
+"Idolchr_0501_A_06_00_020(0)","Ｐ","美味しいご飯……だな。そろそろお昼ごはんを、
+食べたいんじゃないか？　俺は食べたい！","It's a good meal ....... It's time for lunch,
+You want to eat? I want to eat!"
+"Idolchr_0501_A_06_00_021(0)","玲音","あははっ、確かにお腹が空いたね。
+それに、美味しい食事はいつだって必要だ","Haha, you sure are hungry.
+Besides, a good meal is always necessary."
+"Idolchr_0501_A_06_00_022(0)","玲音","うん、それならキミの期待を裏切らないぐらい、
+美味しいお店に食べに行こう！","Yeah, that's about as good as you can get,
+Let's go eat at a good restaurant!"
+"Idolchr_0501_A_06_00_023(0)","Ｐ","逞しい筋肉だな！
+どんな苦境も乗り越える、屈強な体が必要だ！","You have strong muscles!
+You need a strong body to overcome any hardship!"
+"Idolchr_0501_A_06_00_024(0)","玲音","筋肉は確かに必要だけど……逞しさや屈強さより、
+しなやかな筋肉の方が必要かな？","Muscle is certainly necessary, but more than ...... muscularity and strength,
+Do we need more supple muscles?"
+"Idolchr_0501_A_06_00_025(0)","Ｐ","た、確かにアイドルならしなやかな筋肉の方が
+ちょうどいいよな……！","But if you're an idol, it's true that supple muscles are more important.
+Just right. ......!"
+"Idolchr_0501_A_06_00_026(0)","Ｐ","それにしても、今日は素晴らしい体験ができたよ。
+玲音、誘ってくれてありがとう","Still, it was a great experience today.
+Reine, thanks for inviting me."
+"Idolchr_0501_A_06_00_027(0)","玲音","キミも気に入ってもらえたようだね。
+安心したよ","I see you liked it too."
+"Idolchr_0501_A_06_00_028(0)","Ｐ","ああ、とてもリラックスできた。
+座禅が、こんなにも効果があるなんてな","Yeah, it was very relaxing.
+I never knew zazen could be so effective."
+"Idolchr_0501_A_06_00_029(0)","玲音","実際に体験してみると、よくわかるだろう？
+たまには家でも、やってみるといいよ","You know what it's like to actually experience it, don't you?
+Sometimes, at home, you just have to try."
+"Idolchr_0501_A_06_00_030(0)","玲音","……そうだ、今日付き合ってくれたお礼を、
+まだ言っていなかったね","...... Yes, thank you for hanging out with me today,
+You haven't told me yet."
+"Idolchr_0501_A_06_00_031(0)","玲音","ありがとう。キミが付き合ってくれたおかげで、
+いつもより充実したオフを、過ごすことができた！","Thank you, you've been a great help,
+I was able to spend more time off than usual!"
+"Idolchr_0501_A_06_00_032(0)","玲音","キミさえよければ、またオフに会える？
+座禅でも、そうでなくても","If you don't mind, can I see you off again?
+Zazen or not."
+"Idolchr_0501_A_06_00_033(0)","Ｐ","ああ、もちろんだ。
+今日のお礼に、今度は俺からも誘うよ","
+I'll thank you for today, and now I'll invite you to join me."
+"Idolchr_0501_A_06_00_034(0)","玲音","フフッ、それは楽しみだね。
+連絡……待っているよ！","Phew, that's a lot of fun.
+I'm waiting for your contact ......!"
+"Idolchr_0501_A_07_00_001(0)","Ｐ","（約束通り、今度は俺が玲音を誘って、
+ゲームセンターにやってきた）","(As promised, this time I invited Reine,
+(They came to the arcade.)"
+"Idolchr_0501_A_07_00_002(0)","玲音","へぇ……意外だね。
+キミは、ゲームが好きなのかい？","Heh, ...... that's surprising.
+Do you like games?"
+"Idolchr_0501_A_07_00_003(0)","Ｐ","玲音はあまり来なさそうだから、誘ってみたんだ","Reine doesn't seem to come here often, so I invited her."
+"Idolchr_0501_A_07_00_004(0)","玲音","なるほど。色々知りたいと言っていた
+アタシのために、場所を考えてくれたんだね","I see...he wanted to know a lot of things.
+You thought of a place for me, didn't you?"
+"Idolchr_0501_A_07_00_005(0)","玲音","……言われてみると、ゲームセンターには、
+あまり縁がなかったかもしれない","......If you ask me, in the arcade,
+We may not have had much of a connection."
+"Idolchr_0501_A_07_00_006(0)","玲音","見識を広げるいいチャンスだね！
+個性についても、なにか参考になるかもしれないし","It's a good chance to expand your insight!
+It might help you with something about your personality, too."
+"Idolchr_0501_A_07_00_007(0)","Ｐ","それなら良かった。
+早速ゲームで遊んでみるのはどうだ？","Good then.
+How about we play a quick game?"
+"Idolchr_0501_A_07_00_008(0)","玲音","フフ、そうだね、早く遊ぼうじゃないか！
+まずは、キミのオススメを教えてほしい","Huh, yes, let's play quickly, shall we?
+First, I'd like to know your recommendations."
+"Idolchr_0501_A_07_00_009(0)","Ｐ","玲音におすすめのゲームか。
+そうだな……","Is this a game you recommend for Reine?"
+"Idolchr_0501_A_07_00_010(0)","選択肢","写真シール機","photo sealing machine"
+"Idolchr_0501_A_07_00_011(0)","選択肢","シューティング
+ゲーム","shooting
+game"
+"Idolchr_0501_A_07_00_012(0)","選択肢","プライズゲーム","arcade game where one can win a prize"
+"Idolchr_0501_A_07_00_013(0)","選択肢","リズムゲーム","rhythm game"
+"Idolchr_0501_A_07_00_014(0)","Ｐ","ゲームではないけど……せっかくだから、
+写真シールを作るのはどうだ？","It's not a game, but it's ...... so I'm here,
+How about making photo stickers?"
+"Idolchr_0501_A_07_00_015(0)","玲音","それはいい考えだね！
+アタシも一度やってみたかったんだ","That's a good idea!
+I've always wanted to try it."
+"Idolchr_0501_A_07_00_016(0)","Ｐ","玲音、撮ったことがなかったのか。
+それなら一緒に挑戦してみよう","Reine, you've never taken a picture before.
+Then let's try it together."
+"Idolchr_0501_A_07_00_017(0)","玲音","フフッ、すごく面白そう！
+今日はキミとゲームセンターに来た記念日だね","Pfft, that sounds very interesting!
+Today is the anniversary of your visit to the arcade."
+"Idolchr_0501_A_07_00_018(0)","玲音","きっと素敵な思い出が残せるだろう！","I am sure you will leave with wonderful memories!"
+"Idolchr_0501_A_07_00_019(0)","Ｐ","（その後、玲音と一緒に何枚も写真を撮った。
+気に入ってくれたみたいで良かった……！）","(I then took a number of pictures with Reine.
+(I'm glad you liked it: ......!)"
+"Idolchr_0501_A_07_00_020(0)","Ｐ","シューティングゲームにしよう！","Let's make it a shooting game!"
+"Idolchr_0501_A_07_00_021(0)","玲音","なるほど、この銃でゾンビを倒せばいいんだね。
+なんだか血が騒ぐよ！","I see, so you can use this gun to kill zombies.
+It kind of makes my blood boil!"
+"Idolchr_0501_A_07_00_022(0)","玲音","協力して、このゲームをクリアしよう。
+サポートはキミに任せた！","Let's work together to complete this game.
+You're in charge of support!"
+"Idolchr_0501_A_07_00_023(0)","Ｐ","ああ、任せてくれ！","Yeah, I'll take care of it!"
+"Idolchr_0501_A_07_00_024(0)","Ｐ","（その後、シューティングゲームは予想以上に
+盛り上がり、玲音はとても楽しそうだった……！）","(Then the shooter was more than expected.
+It was a lot of fun and Reine seemed to be having a great time ......!)"
+"Idolchr_0501_A_07_00_025(0)","Ｐ","やっぱりプライズゲームかな。
+お菓子を狙ってみないか？","I guess it's still a prize game.
+Why don't you go for the candy?"
+"Idolchr_0501_A_07_00_026(0)","玲音","なるほど、景品を取るゲームだね。
+……なかなか難しそうだけど、面白そうだ！","I see, it's a game of taking prizes.
+...... looks quite difficult, but interesting!"
+"Idolchr_0501_A_07_00_027(0)","玲音","あのクッキーを狙ってみよう。
+アタシは絶対に、クッキーを手に入れてみせる！","Let's go for that cookie.
+I will definitely get the cookies!"
+"Idolchr_0501_A_07_00_028(0)","玲音","おかしいな、もう少しでクッキーがとれそうなのに
+なかなか取れない……もう１回やろう！","Funny, I almost got a cookie.
+It's hard to get ...... Let's do it again!"
+"Idolchr_0501_A_07_00_029(0)","Ｐ","（お金を投入するのは３回目だ。玲音が時間とお金を
+つぎ込み過ぎないよう、俺が止めよう……！）","(This is the third time I've put money into this project, Reine has put time and money into it.
+I'll stop you from spending too much ......!)"
+"Idolchr_0501_A_07_00_030(0)","Ｐ","そうだな。玲音なら、
+リズムゲームが得意なんじゃないか？","Yes, Reine would,
+Maybe you're good at rhythm games."
+"Idolchr_0501_A_07_00_031(0)","玲音","リズムゲームか……。
+うん、やってみよう！","Rhythm Games or .......
+Yeah, let's do it!"
+"Idolchr_0501_A_07_00_032(0)","Ｐ","（さ、さすが世界のトップアイドル！
+玲音が上手すぎて……人が集まってきてしまったぞ）","(Hey, that's right, the world's top idol!
+(Reine is so good, she's got all the ...... people here.)"
+"Idolchr_0501_A_07_00_033(0)","お客さん","ねえ、あのリズムゲームがすっごく上手な人って、
+もしかして……玲音じゃない？","Hey, that guy who is so good at that rhythm game,
+Maybe it's ...... Reine?"
+"Idolchr_0501_A_07_00_034(0)","玲音","あれ、気づかれてしまったみたいだね","Oh, I think they've noticed that."
+"Idolchr_0501_A_07_00_035(0)","Ｐ","（その後、慌ててプレイを中断し、玲音と一緒に
+一旦その場を離れることになった……）","(Then he hurriedly interrupted play with Reine.
+(Once we had to leave the place ......)"
+"Idolchr_0501_A_07_00_036(0)","Ｐ","……玲音、どうだった？
+ゲームセンターは気に入ったか？","...... Reine, how did it go?
+Like the arcade?"
+"Idolchr_0501_A_07_00_037(0)","玲音","ああ、もちろん！
+こんなに楽しい場所だとは思わなかったよ","Yes, of course!
+I didn't realize how much fun this place was."
+"Idolchr_0501_A_07_00_038(0)","玲音","これからも遊びに来たくなったな。
+またキミに、付き合ってほしいくらいには！","I'd love to keep coming back to visit.
+I would love for you to go out with me again!"
+"Idolchr_0501_A_07_00_039(0)","Ｐ","ははっ、喜んでもらえて、よかったよ","Haha, I'm glad you're happy."
+"Idolchr_0501_A_07_00_040(0)","玲音","ああ、大満足だよ。……そうだ、
+次はあのコインゲームを、やってみない？","Yeah, I'm very happy with it. ...... Yeah,
+Next time, why don't you try that coin game?"
+"Idolchr_0501_A_07_00_041(0)","Ｐ","構わないけど、少し休憩した方がいいんじゃないか？
+さっきから、ずっと遊びっぱなしだろ？","I don't mind, but maybe we should take a break.
+You've been playing around with it for a while now, haven't you?"
+"Idolchr_0501_A_07_00_042(0)","玲音","ありがとう。でも、大丈夫。
+こう見えても、体力には自信がある方なんだ","Thanks, but no problem.
+I may look like this, but I have confidence in my physical strength."
+"Idolchr_0501_A_07_00_043(0)","玲音","せっかくのキミと楽しむ時間だし、
+今日は思う存分遊びたいんだ","It's time to have fun with you,
+I just want to play as much as I can today."
+"Idolchr_0501_A_07_00_044(0)","Ｐ","……わかった。
+そういうことなら、とことん遊ぼう！","...... Okay, I get it.
+If that's the case, let's play hard to get!"
+"Idolchr_0501_A_07_00_045(0)","玲音","フフッ、ありがとう。キミなら、
+そう言ってくれると信じていたよ","Thank you,
+I knew you would say that."
+"Idolchr_0501_A_07_00_046(0)","玲音","今日は時間を忘れて、一緒に
+ゲームセンターで遊びつくそう！","Forget about time today and join us.
+Let's play in the game center!"
+"Idolchr_0501_A_08_00_001(0)","Ｐ","（玲音から呼び出されてカフェに来てみたが……）","(Reine called me to come to the cafe. ......)"
+"Idolchr_0501_A_08_00_002(0)","玲音","あっ、キミ、こっちだにゃん。
+やっと来たにゃん！","Oh, you, this way.
+Finally, I'm here!"
+"Idolchr_0501_A_08_00_003(0)","詩花","あ、プロデューサーさん、
+グリュース・ゴットだにゃん♪","Oh, Producer-san,
+Grüss Gott."
+"Idolchr_0501_A_08_00_004(0)","亜夜","ちょっと、遅いわよ！
+……お、遅い……にゃん……","Hey, you're late!
+......Oh, slow......Nyan......"
+"Idolchr_0501_A_08_00_005(0)","Ｐ","……ま、待たせた……にゃん？","......Wait, I made you wait. ...... Nyan?"
+"Idolchr_0501_A_08_00_006(0)","玲音","亜夜、恥ずかしがっては、ダメだにゃん。
+もっと自信を持って、胸を張るのにゃん","Aya, don't be shy.
+Be more confident and puff out your chest."
+"Idolchr_0501_A_08_00_007(0)","亜夜","で、でも……やっぱり、恥ずかしい……。
+にゃ、にゃん……","And, but ...... I'm still embarrassed .......
+Meow, Meow ......"
+"Idolchr_0501_A_08_00_008(0)","Ｐ","ちょ、ちょっと待ってくれ！
+……どういう状況なんだ？","Wait a minute!
+...... What's the situation?"
+"Idolchr_0501_A_08_00_009(0)","玲音","実は、個性の研究をする中で、特徴的な語尾を
+つけるのはどうか、と詩花が言ってくれたにゃん","In fact, in the course of my research on personalities, I found that the characteristic endings
+Shihana suggested to me that I should put it on."
+"Idolchr_0501_A_08_00_010(0)","玲音","キミがくれたアドバイスとは違うけど、試してみよう
+と思ったんだにゃん。まずは猫の語尾からにゃん","Not exactly the advice you gave me, but I'll give it a try.
+I thought, ""I'll start with the cat's endings."
+"Idolchr_0501_A_08_00_011(0)","詩花","はい！　せっかくなので、みんなで語尾を
+変えてみよう、という話になったんですにゃん","Yes! Since we're all here, let's all get to the end of the story.
+We decided to change it."
+"Idolchr_0501_A_08_00_012(0)","亜夜","あ、あたしは断ったのよ！
+ちょっと恥ずかしいし……！","Oh, I said no!
+It's a little embarrassing and ......!"
+"Idolchr_0501_A_08_00_013(0)","亜夜","だ、だけど……玲音さんと詩花さんがやるのに、
+あたしだけやらないなんて……できない、にゃん……","Dunno, but ...... Reine and Shika are going to do it,
+I can't ...... not do it, nyan ......"
+"Idolchr_0501_A_08_00_014(0)","詩花","ふふふっ、大丈夫！
+ちゃーんと、可愛いよ、にゃん♪","Hmmm, okay!
+You're so cute, Nyan♪"
+"Idolchr_0501_A_08_00_015(0)","Ｐ","なるほど……そういうことだったのか。
+突然のことで焦ったよ……","I see what you mean. ...... That's what I meant.
+I was in a hurry all of a sudden. ......"
+"Idolchr_0501_A_08_00_016(0)","玲音","みんな、とてもいい感じだと思うにゃん。
+キミもそう思うにゃん？","I think they all look very nice.
+You think so too?"
+"Idolchr_0501_A_08_00_017(0)","Ｐ","そ、そうだな。
+みんな似合っていると思うぞ","Yes, that's right.
+I think they all look good on you."
+"Idolchr_0501_A_08_00_018(0)","亜夜","ちょっと！　本当にそう思ってるの？
+顔がにやけてるわよ！","Hey! You really think so?
+Your face is smiling!"
+"Idolchr_0501_A_08_00_019(0)","詩花","ダメだよ、亜夜にゃん。
+ちゃんと語尾には気をつけないと、にゃん","No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no.
+You have to be careful with the endings, nyan."
+"Idolchr_0501_A_08_00_020(0)","亜夜","亜夜にゃん！？
+な、なんですかその呼び方！","Aya!
+What is it you call it?"
+"Idolchr_0501_A_08_00_021(0)","詩花","あれ？　ダメだったにゃん？
+かわいいと思うんだけど……にゃん","Oh, it didn't work?
+I think it's cute. ......nya"
+"Idolchr_0501_A_08_00_022(0)","亜夜","え？　い、イヤというわけではないですけど……
+これを続けるのは、ちょっと……にゃん……","What? No, it's not that I don't like it. ......
+I'm going to keep this going for a bit ...... nyan ......"
+"Idolchr_0501_A_08_00_023(0)","亜夜","……や、やっぱりダメです……！
+あたしには恥ずかしすぎます……！","...... and also ......, which is still no good!
+Too embarrassing for me. ......"
+"Idolchr_0501_A_08_00_024(0)","玲音","難しいにゃん？
+……いいアイディアだと思ったんだけどにゃあ","Is it difficult?
+I thought ...... was a good idea."
+"Idolchr_0501_A_08_00_025(0)","詩花","あの、玲音さん、提案したのは私なんですけど……。
+少し、話しにくいですね","Um, Reine, I was the one who suggested .......
+It's a little hard to talk about."
+"Idolchr_0501_A_08_00_026(0)","亜夜","それに……にゃんと言うのは、
+あまり、斬新ではないと思います","And what is it that you say at ......?
+I don't think it's very original."
+"Idolchr_0501_A_08_00_027(0)","詩花","あ、確かに、猫や犬は鉄板だよね。
+そういう衣装も、よく見かけるし……","Oh, sure, cats and dogs are ironclads.
+I see those costumes all the time, too. ......"
+"Idolchr_0501_A_08_00_028(0)","玲音","それもそうだね。
+ねえキミ、他に語尾で個性を出す案はないかな？","That's true, too.
+Hey Kimi, any other suggestions on how to personalize the endings?"
+"Idolchr_0501_A_08_00_029(0)","Ｐ","語尾で個性を出す方法、か……。
+うーん、そうだな……","How to make a word unique, or ......."
+"Idolchr_0501_A_08_00_030(0)","選択肢","侍の喋り方","Samurai Speech"
+"Idolchr_0501_A_08_00_031(0)","選択肢","魚っぽく喋る","speak like a fish"
+"Idolchr_0501_A_08_00_032(0)","選択肢","業界用語を使う","use industry jargon"
+"Idolchr_0501_A_08_00_033(0)","Ｐ","侍っぽい喋り方とかどうだろう？
+海外でも人気があるし、いいんじゃないかな？","How about a samurai-like way of speaking?
+It's popular overseas, too."
+"Idolchr_0501_A_08_00_034(0)","玲音","侍……確かに、これなら特徴的でござる。
+アタシたちの活躍を、世界に発信するでござる！","Samurai...... sure, this would be distinctive, that it is.
+We will send out our activities to the world, that we will!"
+"Idolchr_0501_A_08_00_035(0)","玲音","って……感じでどうかな？","How does that sound like ......?"
+"Idolchr_0501_A_08_00_036(0)","Ｐ","玲音だからカッコいいけど、アイドルには少し
+独特すぎたな……。あまり役に立たなくて、すまない","It's Reine, so it's cool, but it's a bit of an idol.
+Too peculiar. ....... Not much help, sorry."
+"Idolchr_0501_A_08_00_037(0)","玲音","いや、そんなことはないよ。キミの提案は、
+いつもユニークで、アタシを楽しませてくれる！","No, it's not, what you're proposing,
+They are always unique and entertaining to the atta..!"
+"Idolchr_0501_A_08_00_038(0)","玲音","他にも色々アイディアはある？
+あるなら、聞かせてほしいな！","Do you have any other ideas?
+If you have, I'd like to hear about it!"
+"Idolchr_0501_A_08_00_039(0)","Ｐ","そうだな、他には……","Yes, the only other one is ......"
+"Idolchr_0501_A_08_00_040(0)","Ｐ","魚っぽい語尾とか……？
+魚アイドルを目指してみるぞー！　みたいな","Fishy endings or ......?
+Like, ""I'm going to try to become a fish idol!"
+"Idolchr_0501_A_08_00_041(0)","玲音","……魚？　うーん、こんな感じかギョ？
+ギョギョギョ……使いこなすのが難しいギョ","...... fish? Hmmm, something like this, Gyo?
+GyoGyoGyo ...... is difficult to master."
+"Idolchr_0501_A_08_00_042(0)","詩花","ふふふ、玲音さんったら。
+お魚は少し、難しそうですね","Hmmm, Reine.
+Fish seems a bit, well, difficult."
+"Idolchr_0501_A_08_00_043(0)","玲音","フフッ、そうだね。でも詩花がこんなに楽しそうに
+笑ってくれたなら、やってみた甲斐もあったよ","Yes, but Poetic Flower looks so happy.
+If you laughed, it was worth a try."
+"Idolchr_0501_A_08_00_044(0)","玲音","魚は残念ながら難しそうだね。
+他にもアイディアはあるかな？","Fish, unfortunately, seem to be difficult.
+Do you have any other ideas?"
+"Idolchr_0501_A_08_00_045(0)","Ｐ","他にも試してみるのか？
+そうだな、それなら……","You're going to try something else?
+Yes, that would be ......"
+"Idolchr_0501_A_08_00_046(0)","Ｐ","語尾とは少し違うけれど、業界用語を使うアイドル。
+……とかはどうだ？","Idols who use industry terminology, though it is a little different from the end of the word.
+How about something like ......?"
+"Idolchr_0501_A_08_00_047(0)","玲音","業界用語というと、単語の中の文字を入れ替えて
+話す、アレのことだね……","When we talk about industry terms, we're talking about replacing letters in words.
+Talking about that thing. ......"
+"Idolchr_0501_A_08_00_048(0)","玲音","今夜アタシとザギンでシースーを食べないかい？　
+……これで合っているかな？","Would you like to have a see-saw with Atashi tonight at Zagin?
+...... Is this correct?"
+"Idolchr_0501_A_08_00_049(0)","Ｐ","……意外とさまになってるな。
+これも、玲音の圧倒的なオーラが為せる技か？","...... is surprisingly well dressed.
+Is this also due to Reine's overwhelming aura?"
+"Idolchr_0501_A_08_00_050(0)","玲音","本当？
+それじゃあ時々、この口調で喋ってみようかな","Really?
+Then I'll try to speak in this tone from time to time."
+"Idolchr_0501_A_08_00_051(0)","亜夜","ちょ、ちょっと玲音さん！？　あなた、玲音さんに
+適当なこと、吹き込まないでくれる？","Hey, hey, Reine-san! You, Reine-san!
+Can you please stop spouting off all these random things?"
+"Idolchr_0501_A_08_00_052(0)","Ｐ","わ、悪い。ちょっと似合っていたから、つい……。
+それじゃあ、他の案を考えてみるよ……","Wow, my bad...it kinda looked good on me, so I just went to .......
+Okay, I'll see what else I can come up with: ......"
+"Idolchr_0501_A_08_00_053(0)","Ｐ","（その後も玲音は色々出てきた提案を拾って、
+語尾や話し方を試していった……）","(After that, Reine picked up on various suggestions that came up,
+(......) where he experimented with endings and speech patterns."
+"Idolchr_0501_A_08_00_054(0)","詩花","あの、玲音さん……いろいろ試してみましたけど、
+語尾を変えるのは、やめたほうがいいかもしれません","Um, Reine, I've tried ...... a lot of things,
+Maybe you shouldn't change the end of the word."
+"Idolchr_0501_A_08_00_055(0)","玲音","そうだね。
+意外性はあるけど、ちょっと奇抜過ぎかも","Yes, it is.
+Unexpected, but maybe a little too bizarre."
+"Idolchr_0501_A_08_00_056(0)","亜夜","そうですよ。それに、急に口調が変わったら、
+みんな困惑すると思います！","Yes, and if you suddenly change your tone,
+I think people will be confused!"
+"Idolchr_0501_A_08_00_057(0)","玲音","仕方ない、別の方法を探すよ。キミ、一緒に考えて
+くれてありがとう、おかげで新しい課題が見えたよ","We'll find another way, Kimi, together.
+Thanks for giving it to me, I see a new challenge thanks to you."
+"Idolchr_0501_A_08_00_058(0)","Ｐ","少しでも役に立ったなら良かったよ。あと、俺も
+口調を変えるのは……やめたほうがいいと思う","I'm glad I could be of some help, and me too.
+I think you should stop changing your tone ......"
+"Idolchr_0501_A_08_00_059(0)","玲音","フフ、そうだね。
+詩花と亜夜も、付き合ってくれてありがとう","Huh, yes.
+Shika and Aya, thanks for keeping me company too."
+"Idolchr_0501_A_08_00_060(0)","詩花","ふふふっ、こちらこそありがとうございます♪
+今日はいつもと違ったお話ができて、楽しかったです","Hmmm...thank you too...
+It was fun to have a different kind of conversation with you today!"
+"Idolchr_0501_A_08_00_061(0)","亜夜","またいつでも相談してくださいね！
+あたしたちも、玲音さんの力になります","Please feel free to contact me again anytime!
+We will also help you, Reine."
+"Idolchr_0501_A_08_00_062(0)","玲音","それは頼もしいね。今日は……亜夜が照れている
+かわいい姿も見れたことだし、収穫はあったよ","That's dependable. ...... sub-night is shining today!
+I got to see some cute faces, and it paid off."
+"Idolchr_0501_A_08_00_063(0)","詩花","そうですね。
+とってもかわいい亜夜にゃんちゃんでした♪","
+She was very cute!"
+"Idolchr_0501_A_08_00_064(0)","亜夜","ちょ、ちょっと玲音さん、詩花さん！？
+もしかして、にゃんってわざと……！？","Hey, hey, Reine, Shika!
+Maybe Nyan is deliberately ......!"
+"Idolchr_0501_A_08_00_065(0)","玲音","それは誤解だよ。アタシは真剣だった。
+でも、思わぬ副産物……というところかな？","That's a misunderstanding, I was serious.
+But I guess it's an unexpected byproduct of ......."
+"Idolchr_0501_A_08_00_066(0)","亜夜","もぅ、玲音さん！　次は相談にのりませんよ？","Reine, I won't ask you for advice next time, okay?"
+"Idolchr_0501_A_08_00_067(0)","玲音","フフッ、ごめんよ、すこしからかいが過ぎたね。
+そんなこと言わず、また相談に乗って欲しいな","Sorry, I was a bit too much of a tease.
+Don't say that. I'd love to talk to you about it again."
+"Idolchr_0501_A_08_00_068(0)","Ｐ","（３人とも仲が良くて微笑ましいな……。でも、
+玲音が個性について悩んでいるのは、変わりない）","(All three of you are so close and smiling. ....... But,
+(Reine's worries about individuality are no different.)"
+"Idolchr_0501_A_08_00_069(0)","Ｐ","（詩花の提案でやってみたと話していたけど……。
+少し停滞しているように感じるな……）","(I was talking about doing this at Shika's suggestion, but you can find it at .......
+Seems a little stagnant to me (......)."
+"Idolchr_0501_A_09_00_001(0)","Ｐ","（玲音の様子が気になって、
+つい……アポを取ってしまった）","(I was wondering how Reine was doing,
+(I just ended up making an appointment at ......)"
+"Idolchr_0501_A_09_00_002(0)","玲音","すまない、仕事が少し押してしまってね。
+待たせてしまったかな？","Sorry, work has been pushing me a bit.
+Did I keep you waiting?"
+"Idolchr_0501_A_09_00_003(0)","Ｐ","いや、大丈夫だ。
+急に呼び出して悪いな","No, I'm fine.
+Sorry to call you out on such short notice."
+"Idolchr_0501_A_09_00_004(0)","玲音","キミからの誘いなら大歓迎さ。
+それで、話というのは？","I'd be happy to take you up on your offer.
+So, what's the story?"
+"Idolchr_0501_A_09_00_005(0)","Ｐ","最近の玲音の様子が気になってな。以前、
+日常の中から探すって、話していただろ？","I was wondering how Reine was doing lately, before,
+We talked about looking for it in everyday life, right?"
+"Idolchr_0501_A_09_00_006(0)","玲音","そうだね、だからキミに、アタシの趣味の座禅に
+付き合ってもらったりしていたね","I know, that's why I want you to join me in my hobby of zazen.
+You used to take me out with you."
+"Idolchr_0501_A_09_00_007(0)","Ｐ","ああ。でも今、停滞しているのかと思って。
+だから、語尾の提案も試していたのかな、と……","Yeah, but I was wondering if we're stagnating now.
+So, I was also trying out the end-of-word suggestion: ......"
+"Idolchr_0501_A_09_00_008(0)","玲音","なるほど……。
+キミに心配をかけてしまったようだね。","
+I'm sorry I've caused you so much worry."
+"Idolchr_0501_A_09_00_009(0)","玲音","あれから、日常から探すことも試しているけれど……
+いまいちピンとくるものがなくてね","Since then, though, I've tried looking for it in my daily life: ......
+It just didn't quite click with me."
+"Idolchr_0501_A_09_00_010(0)","玲音","だから、前回の語尾のように、
+色々と試していたんだ","So, like the end of the last word,
+I was trying different things."
+"Idolchr_0501_A_09_00_011(0)","Ｐ","そうだったのか","I didn't think so."
+"Idolchr_0501_A_09_00_012(0)","玲音","試したことが刺激になって、見つけられるように
+なればいいと思っていたんだけど……","What you try will inspire you to find
+I was hoping it would be ......"
+"Idolchr_0501_A_09_00_013(0)","玲音","でも……ついつい、張り切り過ぎて、
+キミが心配する事態を、招いてしまったようだね","But ...... I've been overzealous,
+I'm afraid I've brought you exactly what you need to worry about."
+"Idolchr_0501_A_09_00_014(0)","Ｐ","たまにならいいと思うけどな。
+玲音たちの仲の良さそうな様子も見れたし","I think it's okay if it's only once in a while.
+I could see how well Reine and her friends seemed to get along."
+"Idolchr_0501_A_09_00_015(0)","玲音","フフ、アタシと詩花と亜夜は、３人ともタイプが
+違うし、お互いいい刺激になっているよ","Atashi, Shika, and Ayaka are all three of my types.
+It's different, and we're both very inspired by each other."
+"Idolchr_0501_A_09_00_016(0)","Ｐ","いいメンバーだな。それに玲音の個性研究の流れで、
+玲音の新しい一面が見れたのも良かった","Nice member, and in the vein of Reine's personality research,
+It was nice to see a new side of Reine."
+"Idolchr_0501_A_09_00_017(0)","玲音","……アタシの新しい一面？
+いったい、なんのことだい？","......A new side of Atashi?
+What on earth are you talking about?"
+"Idolchr_0501_A_09_00_018(0)","Ｐ","そうだな……。
+玲音の新しい一面って言うのは……","
+A new side of Reine is called ......"
+"Idolchr_0501_A_09_00_019(0)","選択肢","好奇心旺盛なところ","A curious place"
+"Idolchr_0501_A_09_00_020(0)","選択肢","ノリがいいこと","being easily influenced into joining some mood"
+"Idolchr_0501_A_09_00_021(0)","選択肢","天然なところ","A natural place"
+"Idolchr_0501_A_09_00_022(0)","Ｐ","好奇心旺盛なところだな。
+思っていた以上で、びっくりしたよ","It's a curious place.
+It was more than I expected, and I was surprised."
+"Idolchr_0501_A_09_00_023(0)","玲音","びっくりさせてしまったかな？
+何も知らないものを否定したくもないからね","Did I startle you?
+I don't even want to deny something I know nothing about."
+"Idolchr_0501_A_09_00_024(0)","玲音","キミはびっくりしたかもしれないけど、アタシの
+好奇心を笑わず、向き合ってくれて嬉しかったよ！","You may be surprised to learn that my
+I'm glad you didn't laugh at my curiosity and faced it!"
+"Idolchr_0501_A_09_00_025(0)","Ｐ","笑わないよ。最前線を走る人が、さらに先へ進み
+続けているんだ。すごいなって、感心するばかりだ","I won't laugh; those on the front lines go further and
+I'm just so impressed."
+"Idolchr_0501_A_09_00_026(0)","玲音","フフ、キミに面と向かって褒められるなんて、
+嬉しいな。……ありがとう","I can't believe you complimented me to my face,
+Glad to hear it. ...... Thanks!"
+"Idolchr_0501_A_09_00_027(0)","Ｐ","すごくノリがいいことかな。
+俺の冗談にも付き合ってくれるし","I guess it's the fact that I'm very flippant.
+She even plays along with my jokes."
+"Idolchr_0501_A_09_00_028(0)","玲音","キミとの会話は楽しいからね。
+自然と反応してしまうんだ","I enjoy talking with you.
+It's a natural reaction."
+"Idolchr_0501_A_09_00_029(0)","玲音","それに、冗談を言い合える仲なんて最高じゃないか。
+これからもこの協力関係を続けていこう","Besides, isn't it great to be able to joke around with each other?
+Let's continue this cooperative relationship."
+"Idolchr_0501_A_09_00_030(0)","Ｐ","話していて気づいたんだけど、
+玲音って、天然なところがあるよな","I noticed it when we were talking,
+Reine has a natural tendency, doesn't she?"
+"Idolchr_0501_A_09_00_031(0)","玲音","……天然？
+そんなことを言われたのは初めてだよ","...... natural?
+That's the first time anyone's ever said that to me."
+"Idolchr_0501_A_09_00_032(0)","玲音","いや、でも……キミが言うのだから、
+アタシにはそういう一面も、あるのかもしれないね","No, but ...... Kimi says so,
+Maybe I have that side of me, too."
+"Idolchr_0501_A_09_00_033(0)","玲音","それじゃあ、キミが見つけてくれた新しい一面を
+より強化して、個性にしてみようかな？","Well, then, you've found a new side to me.
+Let's enhance it more and make it unique, shall we?"
+"Idolchr_0501_A_09_00_034(0)","Ｐ","玲音、そのことだけどな……。
+玲音は今でも十分個性的で、魅力的だ","Reine, about that, though: .......
+Reine is still unique and attractive enough."
+"Idolchr_0501_A_09_00_035(0)","Ｐ","無理に何かを付け足す必要は、ないんじゃないか？","You don't have to force me to add anything, do you?"
+"Idolchr_0501_A_09_00_036(0)","玲音","新しい個性を付け加えるんじゃなく、日常の中で
+探す……キミは前もそんなことを言ってくれたね","It's not about adding a new personality, but about the everyday.
+Look for ...... you've said that before."
+"Idolchr_0501_A_09_00_037(0)","玲音","アタシが伸ばすものは、既にアタシ自身の中にある。
+……ってことかな？","What I extend is already within myself.
+Do you mean ......?"
+"Idolchr_0501_A_09_00_038(0)","Ｐ","ああ、俺は無理やり追加したものじゃなく、
+玲音の中に、伸ばすべきものがあると信じている","Yeah, not something I was forced to add,
+I believe there is something in Reine that needs to be stretched."
+"Idolchr_0501_A_09_00_039(0)","玲音","フフッ、そうか……。アタシが伸ばすべきものは、
+自分の中にあると、キミが信じてくれている……","Huh, so ...... is what I need to extend,
+You believe it's inside you. ......"
+"Idolchr_0501_A_09_00_040(0)","玲音","わかった。アタシは、自分の持っているもので
+勝負する。今の自分を更に磨き、上を目指す！","Okay, I'll take what I have.
+Compete, improve your current self and aim for the next step!"
+"Idolchr_0501_A_09_00_041(0)","Ｐ","ああ、その意気だ！","Yeah, that's the spirit!"
+"Idolchr_0501_A_09_00_042(0)","玲音","気づかせてくれて、ありがとう。
+キミのおかげで、スッキリしたよ","Thanks for bringing this to my attention.
+You've made me feel so much better."
+"Idolchr_0501_A_09_00_043(0)","玲音","キミは頼りになるね。キミへのお礼は……より一層
+高みに登ったアタシ自身を見せるのが、一番かな？","You can count on me, and you can thank me even more at ......
+Is it best to show Atashi himself, who has climbed to a higher level?"
+"Idolchr_0501_A_09_00_044(0)","Ｐ","よく分かっているな。
+俺にトップアイドル、玲音の姿を見せてくれ！","You know exactly what you're talking about.
+Show me the top idol, Reine!"
+"Idolchr_0501_A_09_00_045(0)","玲音","フフ、任せてほしい！
+近いうち、キミをその場に招待するよ！","Huh, I hope you'll leave it to me!
+I'll invite you there soon!"
+"Idolchr_0501_A_10_00_001(0)","Ｐ","（玲音からゲームセンター以外のオススメの場所を
+聞かれて、案内することになった……）","(Reine to recommend a place other than a game center.
+(They asked me and I had to show them around ......)"
+"Idolchr_0501_A_10_00_002(0)","Ｐ","水族館にしたけど、大丈夫だったか？","I made it to the aquarium, was it ok?"
+"Idolchr_0501_A_10_00_003(0)","玲音","うん、問題ないよ。
+水族館に来たのは、随分と久しぶりだな","Yeah, no problem.
+It's been a long time since I've been to the aquarium."
+"Idolchr_0501_A_10_00_004(0)","Ｐ","よかった。仕事で先週来た、なんて言われたら、
+今から別の場所を考えるところだったよ","Good, if they say they came last week for work,
+I was just about to think of another place now."
+"Idolchr_0501_A_10_00_005(0)","玲音","フフッ、その場合でも、アタシは構わないよ。
+仕事とプライベートは別だからね、問題ないさ","In that case, I don't mind.
+Work and private life are separate. No problem."
+"Idolchr_0501_A_10_00_006(0)","玲音","ところで、キミが水族館をオススメする理由って？","By the way, why would you recommend an aquarium?"
+"Idolchr_0501_A_10_00_007(0)","Ｐ","……水族館はみんな、水槽に夢中だろ？
+玲音が周りの人に気付かれにくいと思って","...... Aquariums are all about the tanks, right?
+Reine thought it would be hard for people around her to notice."
+"Idolchr_0501_A_10_00_008(0)","玲音","確かに……あまり人目が気にならないね。
+今日は存分に楽しもう。もちろん、キミも一緒にね","You're right, ...... I don't really care for the public eye.
+Let's have fun today, and of course, you're welcome to join us."
+"Idolchr_0501_A_10_00_009(0)","Ｐ","ああ。さて、どこから回ろうか。大水槽に、
+イルカショー、アシカやペンギンもいるぞ","Now, where should we start?
+Dolphin show, sea lions and penguins."
+"Idolchr_0501_A_10_00_010(0)","玲音","どれも楽しみだね。じゃあ、キミに案内して
+もらおうかな。どこから見るのがオススメなの？","I'm looking forward to it all, then you show me the way.
+I'll take it...where do you recommend I start looking?"
+"Idolchr_0501_A_10_00_011(0)","Ｐ","（玲音が楽しめそうで、
+人に見つかりにくそうなのは……）","(I think I would enjoy Reine,
+(......) that people are unlikely to find."
+"Idolchr_0501_A_10_00_012(0)","選択肢","イルカショー","dolphin show"
+"Idolchr_0501_A_10_00_013(0)","選択肢","順路通り","in (the proper) order"
+"Idolchr_0501_A_10_00_014(0)","選択肢","大水槽","large water tank"
+"Idolchr_0501_A_10_00_015(0)","選択肢","食事","meal"
+"Idolchr_0501_A_10_00_016(0)","Ｐ","イルカショーからだな！　遅い時間になると混むし、
+ショーの間、みんなイルカに夢中だ","From the dolphin show! It gets crowded later in the day,
+During the show, everyone's crazy about the dolphins."
+"Idolchr_0501_A_10_00_017(0)","玲音","つまり、誰もアタシに気付かなそうってことだね。
+いいね、行こう！","That means no one is going to notice me.
+Great, let's go!"
+"Idolchr_0501_A_10_00_018(0)","玲音","イルカショー、すごい迫力だったね！
+あんなに高くジャンプするなんて、思わなかったよ！","The dolphin show was very powerful!
+I never thought I'd jump that high!"
+"Idolchr_0501_A_10_00_019(0)","Ｐ","イルカショーを見ている時、
+玲音は本当に楽しそうだったな","While watching a dolphin show,
+Reine looked really happy."
+"Idolchr_0501_A_10_00_020(0)","玲音","フフ、もしかして……キミはイルカショーよりも
+アタシのことを見ていたのかな？　なんてね！","Huh, maybe ...... you are more than a dolphin show.
+I wonder if he was looking at me!"
+"Idolchr_0501_A_10_00_021(0)","Ｐ","え、いや、そんなことは、ないと思うが……。
+つ、次に行こう！","Eh, no, I don't think so. ......
+One, let's move on!"
+"Idolchr_0501_A_10_00_022(0)","玲音","もちろん、他も見て回ろう！
+楽しみだな","Of course, let's look around at the others!
+Looking forward to it."
+"Idolchr_0501_A_10_00_023(0)","Ｐ","順路通りに行こうか。その方が人の流れにも
+逆らわないから、きっとゆっくり見られるぞ","I'll follow the route, it'll be easier on the flow of people.
+I'm not going against you. I'm sure you'll be able to take your time to see it."
+"Idolchr_0501_A_10_00_024(0)","玲音","そうだね、それに、楽しめるように順路は
+組まれているだろうし、それが良さそうだ！","Yes, and in order for you to enjoy it.
+It will be assembled and it looks good!"
+"Idolchr_0501_A_10_00_025(0)","玲音","どの水槽もとても見ごたえがあったね！
+大きな魚はやっぱり圧巻だったよ！","All the tanks were very impressive!
+The big fish were still a sight to behold!"
+"Idolchr_0501_A_10_00_026(0)","Ｐ","ああ、大きな魚といえば……サメの水槽も
+すごかったな！","Oh, and speaking of big fish, ...... also has a shark tank.
+That was amazing!"
+"Idolchr_0501_A_10_00_027(0)","玲音","うん、大迫力だったよ！　ああ楽しいな！
+さあ次は？　どんどん進もう！","Yeah, it was a big crowd pleaser! Yeah, it's fun!
+Now what's next? Let's keep moving forward!"
+"Idolchr_0501_A_10_00_028(0)","Ｐ","（玲音が楽しそうだ。周りの人にもバレなくて
+良かった。次見に行くエリアは……っと）","(Reine looks like she's having a great time, and people around her don't even know she's there.
+(Good, the next area I'm going to look at is ......)"
+"Idolchr_0501_A_10_00_029(0)","Ｐ","大水槽かな。大きくて圧倒されるぞ","It's a big tank, but it's so big you'll be overwhelmed."
+"Idolchr_0501_A_10_00_030(0)","玲音","入り口のすぐのエリアにあるんだよね。
+行ってみよう","It's in the area right at the entrance.
+Let's go."
+"Idolchr_0501_A_10_00_031(0)","玲音","すごい人だったね。ゆっくり見るのは難しかったけど
+おかげでアタシがいるって、バレずに済んだよ","It was hard to take my time to see it, but there were a lot of people.
+Thanks to you, they didn't know I was here."
+"Idolchr_0501_A_10_00_032(0)","Ｐ","ああ、大体水族館は、入り口近くに大水槽があって、
+混雑しているんだ。失念していたよ……悪かったな","Oh, usually the aquarium has a large tank near the entrance,
+It's crowded, I forgot about it. ...... my bad."
+"Idolchr_0501_A_10_00_033(0)","玲音","びっくりしたけど、いい経験にはなったかな。
+さ、次もキミが案内してくれる？","I was surprised, but I guess it was a good experience.
+Now, will you take me to the next one?"
+"Idolchr_0501_A_10_00_034(0)","Ｐ","ああ。次はそうだな……","Yeah, that's next time: ......"
+"Idolchr_0501_A_10_00_035(0)","Ｐ","まずは腹ごしらえ、食事から！
+なんていうのはどうだ？","First, let's get hungry and eat!
+What do you say?"
+"Idolchr_0501_A_10_00_036(0)","玲音","食事から？　せっかく水族館に来たんだから、
+まずは水槽を眺めるところから始めたいな","From the meal? We've come all the way to the aquarium,
+I'd start by looking at the tank."
+"Idolchr_0501_A_10_00_037(0)","Ｐ","そ、そうだよな、悪かった。
+それじゃあ……最初に回るのは……","Yeah, you're right, my bad.
+Then ...... will be the first one to turn ......"
+"Idolchr_0501_A_10_00_038(0)","玲音","ここの水族館はとても充実しているね！","The aquarium here is very well stocked!"
+"Idolchr_0501_A_10_00_039(0)","玲音","イルカやジンベエザメももちろん、
+どの水槽もみんな魅力的で、楽しかったよ！","Dolphins and whale sharks, of course,
+All the tanks were fascinating and fun!"
+"Idolchr_0501_A_10_00_040(0)","Ｐ","ああ、そうだな。
+俺はさっきの青色の魚が、すごく綺麗だと思ったよ","
+I thought that blue fish you just saw was so beautiful."
+"Idolchr_0501_A_10_00_041(0)","玲音","あのナンヨウハギのことかな？
+映画キャラクターのモデルにもなった魚だね","Is it that elasmobranch?
+That's the fish that was used as a model for the movie character."
+"Idolchr_0501_A_10_00_042(0)","Ｐ","ああ～、だからなんとなく知っていたのか！
+初めて見たけど、想像以上に鮮やかな魚だったな","Ah - so you somehow knew about it!
+I've never seen this fish before, but it's even more vibrant than I'd imagined."
+"Idolchr_0501_A_10_00_043(0)","玲音","とても綺麗だったね。さっきは青色だったけど、
+夜になると、白みがかった紫に見えるらしいよ","It was very beautiful...it was blue earlier,
+They say it looks whitish purple at night."
+"Idolchr_0501_A_10_00_044(0)","玲音","どんな色なんだろうね？
+夜の姿も見てみたいな","What color is it?
+I'd love to see them at night."
+"Idolchr_0501_A_10_00_045(0)","Ｐ","随分詳しいんだな。
+もしかして、飼ってたことでもあるのか？","You know a lot about it.
+Maybe you've even kept them?"
+"Idolchr_0501_A_10_00_046(0)","玲音","いや、さっき水槽の近くに書かれていた説明を
+覚えただけだよ","No, the description that was written near the tank earlier.
+I just learned it."
+"Idolchr_0501_A_10_00_047(0)","Ｐ","……全然気づかなかった。玲音はよく周りを
+見ているし、記憶力がすごいんだな","...... I didn't notice it at all, Reine is often around.
+You're watching and you have a great memory."
+"Idolchr_0501_A_10_00_048(0)","玲音","細かいところまで、気にしてしまうだけだよ。
+ねえ、キミが言っていたとおりだったね","It's all about the details, you know, you just can't be too careful.
+Hey, you were right."
+"Idolchr_0501_A_10_00_049(0)","Ｐ","俺が言っていたとおり？","Just like I said?"
+"Idolchr_0501_A_10_00_050(0)","玲音","本当にみんな、水槽の魚に夢中だったね。
+おかげで、アタシも気にせず楽しめたよ！","Everyone was really into the fish in the tank, weren't they?
+Thanks to that, I was able to enjoy myself without worrying!"
+"Idolchr_0501_A_10_00_051(0)","玲音","普段、こういった人の多い施設は、
+どうしても……敬遠してしまっていたから","Usually, these facilities are full of people,
+I just couldn't help but shy away from ......."
+"Idolchr_0501_A_10_00_052(0)","Ｐ","玲音ならそうだよな……。
+今日は楽しめたならなによりだ","Reine would be the one to do so. ......
+Glad you had a good time today."
+"Idolchr_0501_A_10_00_053(0)","玲音","うん、ありがとう。
+今日は、キミと一緒に水族館へ来れて良かった","Yeah, thanks.
+It was nice to come to the aquarium with you today."
+"Idolchr_0501_A_10_00_054(0)","玲音","次は約束通り、キミに……。
+トップアイドルの玲音を見せるよ！","The next one is for you, as promised: .......
+I'll show you the top idol Reine!"
+"Idolchr_0501_A_10_00_055(0)","玲音","……っと、あそこに、お土産屋さんがあるね。
+キミとふたりで楽しんだ思い出に、何か買おうかな","....... There is a souvenir shop over there.
+I'll buy you something to remember the fun we had together."
+"Idolchr_0501_A_10_00_056(0)","玲音","せっかくだから、キミが選んでくれる？","Since we're at it, can you pick one out for me?"
+"Idolchr_0501_A_10_00_057(0)","Ｐ","ああ、それなら俺にプレゼントさせてくれ。
+今日の記念ってことで","Oh, then let me present it to you.
+I mean, it's a commemoration of today."
+"Idolchr_0501_A_10_00_058(0)","玲音","本当？　ありがとう、大切にするよ！","Really? Thanks, I'll take good care of it!"
+"Idolchr_0501_A_11_00_001(0)","Ｐ","（玲音から、喫茶店に来るように連絡があった。
+どうしたんだろう……？）","(Reine contacted me to come to the coffee shop.
+(What's wrong with ......?)"
+"Idolchr_0501_A_11_00_002(0)","Ｐ","玲音、急な話のようだが、
+いったい何があったんだ？","Reine, this seems sudden,
+What the hell happened?"
+"Idolchr_0501_A_11_00_003(0)","玲音","突然だけど、仕事で地方へ行くんだ。
+キミにも付いてきてほしい！","All of a sudden, I'm going to a rural area for work.
+I want you to follow me!"
+"Idolchr_0501_A_11_00_004(0)","Ｐ","え、仕事で地方だって？
+急にそんなことを言われても……","Oh, you said you're in the country for work?
+Suddenly that's what I'm talking about. ......"
+"Idolchr_0501_A_11_00_005(0)","玲音","もうすぐ搭乗時間だ。
+さあ、早く行こう！","It's almost boarding time.
+Come on, let's go quickly!"
+"Idolchr_0501_A_11_00_006(0)","Ｐ","（もしかするとこれは、俺のアドリブ力を試す
+ドッキリ？　それなら……）","(Maybe this is a test of my improvisation skills.
+(Surprise? Then ......)"
+"Idolchr_0501_A_11_00_007(0)","選択肢","（行ってみよう）","(Let's go)"
+"Idolchr_0501_A_11_00_008(0)","選択肢","（断ってみよう）","(Let's say no.)"
+"Idolchr_0501_A_11_00_009(0)","Ｐ","わ、わかった！玲音のためなら、
+地方だろうが、海外へだって付いていってみせる！","Wow, okay, for Reine's sake,
+I will follow you to the countryside or even overseas!"
+"Idolchr_0501_A_11_00_010(0)","玲音","フフッ、少しは悩むかと思ったけど……。
+キミのことを甘く見ていたようだね","Huh, I thought it would bother you a little. ......
+I guess I underestimated you."
+"Idolchr_0501_A_11_00_011(0)","玲音","付いてきてくれるなら、問題ない！","If you follow me, no problem!"
+"Idolchr_0501_A_11_00_012(0)","Ｐ","……断る！
+飛行機に乗るのは怖い！","...... Refuse!
+I am afraid to fly!"
+"Idolchr_0501_A_11_00_013(0)","玲音","そんな！？　まさか、断られるなんて……！
+しかもそんな理由、予想もしていなかったよ","Oh no! I didn't think they would say no. ......
+And I never expected such a reason."
+"Idolchr_0501_A_11_00_014(0)","玲音","海外研修のときはどうしていたんだ？
+もしかして、船を使ったのかい？","What did you do during your training abroad?
+Did you use a boat, by any chance?"
+"Idolchr_0501_A_11_00_015(0)","玲音","それなら船で行こうか？","Shall we go by boat then?"
+"Idolchr_0501_A_11_00_036(0)","Ｐ","（そこまで俺を……。本当は飛行機は大丈夫だけど、
+玲音を試すようなドッキリ返事をしてしまった）","(You can get me there at ....... The truth is, I'm fine with flying,
+(I gave a surprise reply that tested Reine)"
+"Idolchr_0501_A_11_00_016(0)","Ｐ","ちょ、ちょっと待ってくれ。冗談じゃないのか？
+本当はどうして呼び出したんだ？","Wait a minute, are you kidding me?
+Why did you really call me up?"
+"Idolchr_0501_A_11_00_017(0)","玲音","ん？　冗談だと思ってたの？
+本気だよ","Hmm? You thought I was joking?
+I mean it."
+"Idolchr_0501_A_11_00_018(0)","玲音","ほら、ここにキミの分のチケットもある。
+冗談じゃないって、わかった？","Here, here's your ticket.
+Are you kidding me?"
+"Idolchr_0501_A_11_00_019(0)","Ｐ","これは新幹線の搭乗引換券。
+本気だったのか……","This is a boarding voucher for the Shinkansen.
+You were serious: ......"
+"Idolchr_0501_A_11_00_037(0)","Ｐ","スケジュールは
+調整させてもらう必要があるけど……","Schedule.
+I'll need to have it adjusted, though: ......"
+"Idolchr_0501_A_11_00_020(0)","玲音","うん。それにキミの予定は、
+既にリサーチ済みさ！","Yeah, and your schedule,
+I've already done my research!"
+"Idolchr_0501_A_11_00_021(0)","玲音","さて、本気と分かったところで、もう一度聞こう。
+アタシの仕事に付いてきてくれる？","Now that we know you are serious, let's hear it again.
+Will you follow me in my work?"
+"Idolchr_0501_A_11_00_022(0)","Ｐ","……どうして俺なんだ？
+協力しているとはいえ、事務所も違うだろ？","...... Why me?
+You're cooperating with them, but you're not in the same office."
+"Idolchr_0501_A_11_00_023(0)","玲音","この前、キミが言ってくれただろう？
+無理に個性を作る必要はないって","You told me the other day.
+She said you don't have to force yourself to be unique."
+"Idolchr_0501_A_11_00_024(0)","玲音","だから、この仕事で間違いじゃないって確認したい。
+この仕事で、キミのアドバイスがほしい！","So I want to make sure I'm not making a mistake with this job.
+I need your advice on this job!"
+"Idolchr_0501_A_11_00_025(0)","玲音","そしてキミのアドバイスで、アタシは更に上を
+目指せるか、見極めたいんだ！","And with your advice, I'm going to take it up a notch.
+I want to see if I can aim for it!"
+"Idolchr_0501_A_11_00_026(0)","玲音","それに、キミにトップアイドルとしての姿を
+見せるって、約束もしていたしね！　どうかな？","And I want you to be a top idol.
+And I promised to show it to him! What do you think?"
+"Idolchr_0501_A_11_00_027(0)","Ｐ","……わかった、そこまで言われたらな。
+俺は、玲音に付いていくよ","...... Okay, if you can say that much.
+I'll follow Reine."
+"Idolchr_0501_A_11_00_028(0)","玲音","フフッ、ありがとう。
+キミなら来てくれると信じていたよ！","Phew, thanks.
+I knew you would come!"
+"Idolchr_0501_A_11_00_029(0)","玲音","あっ、そうだ……伝え忘れていたけど、
+日帰りだから、帰りは心配しなくても大丈夫だ","Oh, yeah, I forgot to tell you about ......,
+It's a day trip, so don't worry about getting home."
+"Idolchr_0501_A_11_00_030(0)","玲音","もしキミが一泊したいというなら、
+宿を取っておくけど……","If you want to stay overnight,
+I'll save you some lodging, though: ......"
+"Idolchr_0501_A_11_00_031(0)","Ｐ","いや、俺も仕事があるしな。
+終わり次第、すぐに帰らないと","No, I have work to do, too.
+We need to leave as soon as we're done."
+"Idolchr_0501_A_11_00_032(0)","玲音","それは残念だね。仕事終わりに、
+ゆっくり観光も悪くはなかったんだけど……","That's too bad, after work,
+Slow sightseeing wasn't bad either. ......"
+"Idolchr_0501_A_11_00_033(0)","Ｐ","観光か……確かにそれも悪くないけど……って、
+そういえば、なんの仕事なんだ？","Tourism or ...... certainly isn't that bad, but ...... is,
+Come to think of it, what kind of work is that?"
+"Idolchr_0501_A_11_00_034(0)","玲音","フフ、着いてからのお楽しみ、と言いたいところ
+だけど……言っておかないとフェアじゃないね","I would say, ""Enjoy it when you get there.
+But it wouldn't be fair if I didn't say ......"
+"Idolchr_0501_A_11_00_035(0)","玲音","トップアイドル、玲音のシークレットライブへ、
+招待するよ！","Top idol, Reine, goes to a secret live performance,
+Invitation!"
+"Idolchr_0501_A_11_01_001(0)","玲音","ありがとう！　キミのおかげで、
+シークレットライブは大成功だったよ","Thank you! Thanks to you,
+The Secret Live was a huge success."
+"Idolchr_0501_A_11_01_002(0)","Ｐ","玲音の力があってこそだよ。
+俺は、ちょっとしたアドバイスをしただけさ","It's only because of Reine's help.
+I'm just giving you a little advice."
+"Idolchr_0501_A_11_01_003(0)","玲音","謙遜しないでいいよ。ファンの盛り上がりはいつも
+以上だった！　キミには不思議な力があるね","Don't be modest, the fans are always excited.
+That's all! You have magical powers."
+"Idolchr_0501_A_11_01_004(0)","Ｐ","そこまで言ってもらえると、俺も嬉しいよ","I'm glad you said that."
+"Idolchr_0501_A_11_01_005(0)","玲音","そうだ、今日のお礼をしたいんだけど、
+まだ時間はあるかい？　一緒にご飯でもどうかな？","Yes, I want to thank you for today,
+Do you still have time? Would you like to have dinner with me?"
+"Idolchr_0501_A_11_01_006(0)","玲音","近くに、美味しい寿司屋があると聞いたんだ。
+アタシにご馳走させてほしい！","I heard there was a great sushi place nearby.
+I want you to treat me!"
+"Idolchr_0501_A_11_01_007(0)","Ｐ","ご飯を食べるのは構わないけど……。
+玲音に払わせるのは悪いな","I don't mind if you eat your food. ......
+Sorry to make Reine pay for this."
+"Idolchr_0501_A_11_01_008(0)","玲音","どうして？
+今日のお礼なのに！","Why?
+I'm just thanking you for today!"
+"Idolchr_0501_A_11_01_009(0)","Ｐ","俺は、玲音からたくさん学ばせてもらったんだ。
+だからむしろ、俺が玲音にご馳走するよ","I learned a lot from Reine.
+So I'd rather treat Reine myself."
+"Idolchr_0501_A_11_01_010(0)","玲音","なるほど、そう来たか……。
+しかし、ここは譲れないね","Well, that's how it came about. ......
+But I'm not giving in here."
+"Idolchr_0501_A_11_01_011(0)","玲音","キミには、地方にまで来てもらった借りがある。
+それに……今日の成功は、キミのおかげだ","We owe you a debt of gratitude for coming to our region.
+And ...... you're the reason we made it today."
+"Idolchr_0501_A_11_01_012(0)","玲音","だからここは、アタシのお願いを聞いてほしいな。
+アタシの成功を祝ってくれるのならね！","So here, I'd like you to do me a favor.
+If only to congratulate me on my success!"
+"Idolchr_0501_A_11_01_013(0)","Ｐ","そう言われてしまうと……。わかった、じゃあ、
+次の機会があったら、俺にご馳走させてくれ","That being said, ....... Okay, then,
+Next time you get a chance, give me a treat."
+"Idolchr_0501_A_11_01_014(0)","玲音","フフッ、わかったよ。とてもキミらしい答えだ。
+さて……話も済んだし、早くお店へ向かおうか","Okay, that's a very you answer.
+Now that we're done with the ...... story, let's head to the store quickly."
+"Idolchr_0501_A_11_01_015(0)","玲音","モタモタしていると、
+帰りが遅くなってしまうからね！","If you're moping,
+I'm going to be home late!"
+"Idolchr_0501_A_11_01_016(0)","Ｐ","あ、ああ。急ごうか","Uh, yeah, let's hurry up."
+"Idolchr_0501_A_11_01_017(0)","Ｐ","（現状に満足せず、模索し続ける玲音の姿勢は
+すごいな……玲音から学ぶことは本当に多い）","(Reine's attitude of not being satisfied with the status quo and continuing to seek
+(Amazing ...... there is so much to learn from Reine)"
+"Idolchr_0501_A_12_00_001(0)","Ｐ","（玲音に誘われて、喫茶店に来た）","(Reine invited me to a coffee shop.)"
+"Idolchr_0501_A_12_00_002(0)","玲音","この前のシークレットライブは、キミの
+サポートのおかげで、とても盛り上がったよ","The last secret live show was your
+The support made it so much fun!"
+"Idolchr_0501_A_12_00_003(0)","玲音","仕事中、どんなことを意識するといいと思う？
+今後の参考にしようと思うんだ","What do you think I should be aware of while at work?
+I'm going to use it for future reference."
+"Idolchr_0501_A_12_00_004(0)","Ｐ","仕事中に意識していることか。
+そうだな……","Are you aware of this at work?"
+"Idolchr_0501_A_12_00_005(0)","選択肢","期待を裏切る","disappoint"
+"Idolchr_0501_A_12_00_006(0)","選択肢","ファンとの距離感","Distance from fans"
+"Idolchr_0501_A_12_00_007(0)","Ｐ","俺は、いい意味でファンの期待を裏切れるように
+意識して、サポートしたつもりだ","I'm trying to disappoint my fans in a good way.
+I'm aware of it, and I've tried to support it."
+"Idolchr_0501_A_12_00_008(0)","Ｐ","たとえば今回は、ファンの玲音への期待を思い、
+それを上回るパフォーマンスを見せられるようにした","For example, this time, I thought about the expectations of the fans for Reine,
+I made sure I could outperform it."
+"Idolchr_0501_A_12_00_009(0)","玲音","なるほど……。
+期待を上回ることで、期待を裏切ったんだね","
+You've exceeded expectations by exceeding them."
+"Idolchr_0501_A_12_00_010(0)","Ｐ","ああ。玲音は元々抜群のリズム感を持っていたし、
+元から圧倒的にかっこいいオーラがあった","Reine originally had an excellent sense of rhythm,
+There was an overwhelming aura of coolness from the get-go."
+"Idolchr_0501_A_12_00_011(0)","Ｐ","玲音の持ち味を活かして、かつファンの期待を
+裏切るのが、あの時は、ラップだっただけなんだ","Reine's own strengths and the expectations of her fans.
+Betrayal was just a wrap back then."
+"Idolchr_0501_A_12_00_012(0)","玲音","なるほど。その瞬間、瞬間に合わせて、
+アタシの中にあった輝きを更に伸ばして……","I see...in the moment, in the moment,
+Further extending the brilliance that was within Atashi: ......"
+"Idolchr_0501_A_12_00_013(0)","玲音","ファンの期待を超えさせてくれたってことだね！","I guess that means you let me exceed my fans' expectations!"
+"Idolchr_0501_A_12_00_014(0)","玲音","フフッ、とても興味深い。
+やっぱりキミは、いい目をしているね！","Huh, very interesting.
+You have a good eye, after all!"
+"Idolchr_0501_A_12_00_015(0)","玲音","キミを選んだアタシも、
+見る目があったってことかな？","I chose you, too,
+Does that mean you had eyes to see?"
+"Idolchr_0501_A_12_00_016(0)","Ｐ","そう思ってもらえるなら、嬉しいよ","I'm glad you feel that way."
+"Idolchr_0501_A_12_00_017(0)","Ｐ","ファンが、もっと玲音を身近に感じられるように
+意識していたよ","Fans can feel more familiar with Reine.
+I was aware of that."
+"Idolchr_0501_A_12_00_018(0)","玲音","なるほど、ファンとの距離感か……。
+確かにアタシは親しみやすさはあまりなさそうだ","I see....the distance between you and your fans. ......
+Certainly Atashi doesn't seem very friendly."
+"Idolchr_0501_A_12_00_019(0)","玲音","詩花や亜夜のほうが、ファンとの距離感は
+近く感じそうだね","Shika and Aya are much closer to their fans than
+Sounds like you're getting close."
+"Idolchr_0501_A_12_00_020(0)","玲音","今後はその辺りも意識して、パフォーマンスを
+してみることにするよ！　ありがとう！","In the future, we will also be aware of this area and perform
+I'll try to do that, thanks!"
+"Idolchr_0501_A_12_00_021(0)","Ｐ","でもファンとの距離感も、玲音の良さだ。
+だから、時々、一瞬近くなるくらいで丁度いいと思う","But the distance between Reine and her fans is also a good thing.
+So I think sometimes it's just right to be close for a moment."
+"Idolchr_0501_A_12_00_022(0)","玲音","フフッ、奥が深いね。近すぎず遠すぎず、時々、
+手を伸ばせば届きそうな気がする、ってところかな","Phew, that's deep, not too close, not too far, sometimes,
+I feel like I can reach it if I just reach out."
+"Idolchr_0501_A_12_00_023(0)","Ｐ","トップアイドルらしい、いい立ち位置だと思うぞ！","That's a nice position to be in, typical of a top idol!"
+"Idolchr_0501_A_12_00_024(0)","Ｐ","……いろいろ試してみたけど、これで玲音は
+今のままで十分だって、分かってもらえたか？","I've tried ...... a lot of things, but this is how Reine is.
+You see what I'm saying?"
+"Idolchr_0501_A_12_00_025(0)","玲音","そうだね。今回のことで、アタシも、
+キミのアドバイスが正しいって思ったよ","Yes, this time around, so did Ata,
+I knew your advice was right."
+"Idolchr_0501_A_12_00_026(0)","玲音","アタシに新たな個性は必要ない。
+今持っている武器を、より磨いていく！","I don't need a new personality.
+We will refine the weapons we have now!"
+"Idolchr_0501_A_12_00_027(0)","玲音","そうすることで、もっとアタシは、
+アイドルとして高みを目指すことができる！","By doing so, I'm more ata..,
+You can aim high as an idol!"
+"Idolchr_0501_A_12_00_028(0)","Ｐ","ああ、俺もそう思うよ","Yeah, I think so too."
+"Idolchr_0501_A_12_00_029(0)","玲音","今回、いろいろと試行錯誤する中で、
+その取っ掛かりを掴めた気がするよ","In this time, in the course of various trials and errors,
+I think I've got a clue about that."
+"Idolchr_0501_A_12_00_030(0)","玲音","ありがとう。キミのおかげで、
+アタシはまたひとつ成長することができた","Thank you, you made it happen,
+I was able to grow up one more time."
+"Idolchr_0501_A_12_00_031(0)","Ｐ","いや、こちらこそだ。
+俺もいろいろ勉強させてもらったよ、ありがとう","No, it's the same here.
+I've learned a lot too, thanks."
+"Idolchr_0501_A_12_00_032(0)","玲音","フフッ、キミにそう言ってもらると……嬉しいよ！","I'm glad to hear you say that ......!"
+"Idolchr_0501_A_12_00_033(0)","Ｐ","それで、これからどうするんだ？
+個性についての研究は、もう終わりか？","So what are you going to do now?
+Is the study of individuality over?"
+"Idolchr_0501_A_12_00_034(0)","玲音","いや……もう少し続けようと思う。
+アタシは、アタシのことをよく知る必要がある","No. ...... I'll keep going a little longer.
+I need to get to know my ata"
+"Idolchr_0501_A_12_00_035(0)","玲音","今やめてしまうのは……もったいないからね！","It would be a waste of ...... time to stop now!"
+"Idolchr_0501_A_12_00_036(0)","Ｐ","確かにそうだな","Indeed."
+"Idolchr_0501_A_12_00_037(0)","玲音","そういうわけだから、これからもキミはアタシの
+サポートをよろしく頼むよ！","That's why you'll always be my
+Please give me your support!"
+"Idolchr_0501_A_12_00_038(0)","Ｐ","もちろんだ。
+こちらこそ、よろしくな玲音！","
+It's nice to meet you too, Reine!"
+"Idolchr_0501_A_12_00_039(0)","玲音","……それに実は、キミ自身にも興味が出てきたんだ。
+こんなに優秀なプロデューサーは、そういないからね","...... and I'm actually getting curious about you myself.
+There aren't many producers that are this good at what they do."
+"Idolchr_0501_A_12_00_040(0)","玲音","普段から何を考え、どう勉強しているのか……。
+キミの全てを見極めてみたいな","What do you usually think about and how do you study? ......
+I'd like to find out everything about you."
+"Idolchr_0501_A_12_00_041(0)","Ｐ","そ、それは……。
+……お、お手柔らかに頼むぞ？","So, that's .......
+...... Oh, take it easy on me, will you?"
+"Idolchr_0501_A_12_00_042(0)","玲音","あははっ、さて、どうかな？
+楽しみにしていて欲しいな！","Haha, well, what do you think?
+I hope you're looking forward to it!"
+"Idolchr_0501_Z_01_00_001(0)","Ｐ","（個性についての研究が続いているからか、
+玲音は俺のもとを頻繁に訪れるようになった）","(Is it because of the ongoing research on individuality?
+(Reine began to visit me more often.)"
+"Idolchr_0501_Z_01_00_002(0)","玲音","やあ、今日もいい天気だね。
+調子はどうだい？","Hey, it's another beautiful day.
+How are you doing?"
+"Idolchr_0501_Z_01_00_003(0)","Ｐ","好調だよ。玲音こそ、やけにテンションが高いな。
+何かいいことでもあったのか？","Reine is the one who is so excited.
+What's so good about it?"
+"Idolchr_0501_Z_01_00_004(0)","玲音","最近、すごく調子がいいんだ。
+これもキミのおかげさ！","I've been doing really well lately.
+I owe it all to you!"
+"Idolchr_0501_Z_01_00_005(0)","Ｐ","噂には聞いてるよ。
+また、ファンが増えたみたいだな","I've heard rumors.
+Looks like you've got another fan."
+"Idolchr_0501_Z_01_00_006(0)","Ｐ","アイドルとして、どんどん進化しているんだな。
+……俺も負けてられないよ","As an idol, you are evolving more and more.
+...... I can't lose either."
+"Idolchr_0501_Z_01_00_007(0)","玲音","フフ、キミの噂も聞いているよ。
+どんどん成果をあげているそうじゃないか","I've heard rumors about you, too.
+I hear you're getting better and better results."
+"Idolchr_0501_Z_01_00_008(0)","玲音","キミの最近の活躍を見ていると、
+アタシも感心することが多いんだ","I've seen Kimi's recent success,
+I'm often impressed, too."
+"Idolchr_0501_Z_01_00_009(0)","Ｐ","本当か？
+玲音にそう言ってもらえると、嬉しいな","Really?
+I'm glad to hear you say that Reine."
+"Idolchr_0501_Z_01_00_010(0)","玲音","当たり前さ！　そうだ、アタシにできることが
+あるなら、いつでも頼ってほしい","Of course! Yes, there is something I can do.
+If you have, you can always count on us."
+"Idolchr_0501_Z_01_00_011(0)","玲音","キミがアタシに協力してくれたように、
+アタシもキミの力になるよ！","Just like you helped me,
+I'll help you, too!"
+"Idolchr_0501_Z_01_00_012(0)","Ｐ","ありがとう。
+困ったことがあれば、相談させてもらうよ","
+If you need help, I'll be happy to discuss it with you."
+"Idolchr_0501_Z_01_00_013(0)","玲音","フフッ、いつでも頼ってもらえるように、
+実力を磨いておくよ","Pfft, you can always count on us,
+I'll brush up on my skills."
+"Idolchr_0501_Z_01_00_014(0)","玲音","ああ、そうだ……相談といえば……。
+キミに聞いてほしいことがあるんだ！","Ah, yes, speaking of ...... consultations, you can visit .......
+There's something I want you to hear!"
+"Idolchr_0501_Z_01_00_015(0)","玲音","今度、ライブがあるんだけど、
+そのときのＭＣに漫才を取り入れようと思う","I have a live concert coming up,
+I'll try to incorporate some comic relief into the MC at that time."
+"Idolchr_0501_Z_01_00_016(0)","Ｐ","漫才！？","Comic!"
+"Idolchr_0501_Z_01_00_017(0)","玲音","ああ、ファンのみんなに、笑いを提供できれば、
+特別なライブになると思わないかい？","Oh, if only I could give all my fans a good laugh,
+It's going to be a special show, don't you think?"
+"Idolchr_0501_Z_01_00_018(0)","Ｐ","あ、相方はどうするんだ？","Oh, what about your partner?"
+"Idolchr_0501_Z_01_00_019(0)","玲音","あっ！　……言われてみれば、必要だね。
+相方か……キミに手伝ってもらおうかな？","Ah! ...... If you ask me, you need it.
+I can get my partner or ...... Kimi to help you."
+"Idolchr_0501_Z_01_00_020(0)","Ｐ","お、俺なのか！？
+いや、さすがにそれは、厳しいぞ……！？","Oh, it's me!
+No, indeed, that's a tough one, ......!"
+"Idolchr_0501_Z_01_00_021(0)","玲音","フフッ、ちょっとした冗談だよ。
+ちょっとだけ、本気だったけどね","Huh, just kidding.
+I was serious for a minute, though."
+"Idolchr_0501_Z_01_00_022(0)","玲音","さて、キミが相方に立候補してくれないのなら、
+誰がいいかな……？","Now, if you won't run for partner,
+Who would you like to ......?"
+"Idolchr_0501_Z_01_00_023(0)","玲音","やっぱり詩花かな？　亜夜にも頼んでみたいけど、
+難しいかな？　キミはどう思う？","I'm still thinking of Shihana, though I'd like to ask Aya to do the same,
+Is it hard? What do you think?"
+"Idolchr_0501_Z_01_00_024(0)","Ｐ","うーん……ふたりを巻き込むのは、
+やめておいたほうが、いいんじゃないか……？","Hmmm ...... to get you two involved,
+You shouldn't, shouldn't you ......?"
+"Idolchr_0501_Z_01_00_025(0)","玲音","キミがそういうのなら……わかった。
+ふたりに話を持ちかけるのは、やめておこう","If that's what you're after, ...... got it.
+Let's not talk to both of them."
+"Idolchr_0501_Z_01_00_026(0)","Ｐ","それはそうと玲音、アイドルのライブで漫才を
+するには、準備が足りてないと思うぞ","That's right, Reine, you're a comic at an idol show.
+I don't think you're ready for this."
+"Idolchr_0501_Z_01_00_027(0)","Ｐ","もっと他の方法がいいんじゃないか？
+玲音らしくて、玲音らしくないような……","Wouldn't you prefer a different approach?
+It's like Reine and not like Reine. ......"
+"Idolchr_0501_Z_01_00_028(0)","玲音","なるほど、それなら別案を考えないといけないね！
+一緒に考えてくれるかな？","I see, then I'll have to come up with another plan!
+Will you think about it with me?"
+"Idolchr_0501_Z_01_00_029(0)","Ｐ","わ、わかった。玲音のライブが成功できるよう、
+盛り上がる企画を考えよう！","I hope Reine's concert will be a success,
+Let's come up with a plan to get the ball rolling!"
+"Idolchr_0501_Z_01_00_030(0)","玲音","ありがとう！　さすがアタシが見込んだ
+アドバイザーだ！　とても心強いよ","Thank you!
+Advisor! Very encouraging."
+"Idolchr_0501_Z_01_00_031(0)","玲音","……キミとなら、たくさんの可能性が見えてくるね。
+フフッ、これからもよろしく頼むよ","I can see a lot of possibilities with ...... Kimi.
+I'm looking forward to working with you in the future."

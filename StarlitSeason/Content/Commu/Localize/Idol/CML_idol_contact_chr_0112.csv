@@ -1,0 +1,735 @@
+"id","character","source","translatedstr"
+"spworkchr_0112_A_01_00_001(0)","Ｐ","（あずささんにトーク番組の仕事をとってきた。
+今日はいよいよ収録日だ！）","(I got Azusa a job on a talk show.
+Today's the day of the recording!)"
+"spworkchr_0112_A_01_00_002(0)","Ｐ","もうすぐ本番ですが、調子はどうですか？","The show is about to start, how are you doing?"
+"spworkchr_0112_A_01_00_003(0)","あずさ","司会の方とは、一緒にお仕事をしたことがあるので、
+あまり緊張せずに済みそうです","I have worked with the moderator,
+I don't think I'll be too nervous."
+"spworkchr_0112_A_01_00_004(0)","Ｐ","それはよかったです。
+あずささん、台本確認は出来ていますか？","That was good.
+Azusa-san, have you confirmed the script?"
+"spworkchr_0112_A_01_00_005(0)","あずさ","はい、台本に変更があるとスタッフさんが
+おっしゃっていたので、今、確認をしようかと……","Yes, if there is a change in the script, the staff
+Since you mentioned it, I thought I would check now: ......"
+"spworkchr_0112_A_01_00_006(0)","あずさ","大幅な変更はないみたいですが……あら？
+恋愛話のトークが追加になっていますね","It doesn't look like there are any significant changes. ...... Oh?
+You've added a talk about love stories."
+"spworkchr_0112_A_01_00_007(0)","あずさ","私の恋愛観ですか～。
+いったい何を話せばいいんでしょうか？","Is it my view of love~?
+What on earth am I supposed to talk about?"
+"spworkchr_0112_A_01_00_008(0)","Ｐ","（ここは慎重に行きたいところだが……）","(I'd like to be cautious here. ......)"
+"spworkchr_0112_A_01_00_009(0)","選択肢","運命の人について","About the Fateful One"
+"spworkchr_0112_A_01_00_010(0)","選択肢","初恋の人について","About my first love"
+"spworkchr_0112_A_01_00_011(0)","Ｐ","運命の人について話してみたらどうですか？","Why don't you talk about your destiny?"
+"spworkchr_0112_A_01_00_012(0)","あずさ","運命の人、ですか？
+……みんなの前で話していいのかしら","Destiny, is it?
+I wonder if I can talk about this in front of everyone at ......"
+"spworkchr_0112_A_01_00_013(0)","あずさ","私はまだ、迷ってばかりだし
+上手く伝えられるかどうか……","And I'm still so lost.
+I don't know if I can communicate it well: ......"
+"spworkchr_0112_A_01_00_014(0)","Ｐ","無理をして上手く伝える必要はありません。
+あずささんの思うままに話せばいいんです","There is no need to force yourself to communicate well.
+You can talk as you wish, Azusa-san."
+"spworkchr_0112_A_01_00_015(0)","Ｐ","あずささんの素直な心に触れれば、見ている人も
+きっと、何かを感じ取ってくれるはずですから","If you touch the honest heart of Ms. Azusa, you will be able to see
+I am sure you will feel something."
+"spworkchr_0112_A_01_00_016(0)","あずさ","……わかりました。
+私なりの言葉で伝えたいと思います","I understand .......
+I would like to tell you in my own words"
+"spworkchr_0112_A_01_00_017(0)","あずさ","だから……プロデューサーさん、
+最後まで見ていてくれますか？","So ...... producer,
+Will you watch me until the end?"
+"spworkchr_0112_A_01_00_018(0)","Ｐ","もちろんです。
+収録が終わるまで、ちゃんと見ていますよ","Of course.
+I'll be watching you right up until the end of the recording."
+"spworkchr_0112_A_01_00_019(0)","Ｐ","初恋の人については、どうですか？","What about your first love?"
+"spworkchr_0112_A_01_00_020(0)","あずさ","え……は、初恋、ですか？
+それはちょっと……","Eh ...... is your first love, right?
+That's a little ......"
+"spworkchr_0112_A_01_00_021(0)","Ｐ","初恋は誰しも経験があるものですし、
+何より初恋トークは盛り上がりますから！","And everyone has experienced their first love,
+Above all, first love talk is a lot of fun!"
+"spworkchr_0112_A_01_00_022(0)","あずさ","うーん……初恋、初恋……。難しいテーマですけど
+みなさんが楽しんでくれるのでしたら……","Hmmm ...... first love, first love ....... It's a difficult subject, but...
+If you all enjoy it, please visit ......"
+"spworkchr_0112_A_01_00_023(0)","あずさ","なんとか頑張ってみますね","I'll try to do my best somehow."
+"spworkchr_0112_A_01_00_024(0)","Ｐ","（運命の人を探すというあずささんの恋愛観は、
+多くの人の共感を呼んだ。この仕事は成功だ！）","(What is your view of love, Azusa-san, in terms of searching for your destiny?
+(It struck a chord with a lot of people; this job is a success!)"
+"spworkchr_0112_A_01_00_025(0)","Ｐ","（あずささんが照れすぎて、上手くトークできずに
+終わってしまった。……俺のチョイスミスだ）","(Azusa-san was too shy to talk well.
+(It's over. ...... my bad choice)"
+"Idolchr_0112_B_20_01_001(0)","Ｐ","（事務所に行くと、どこか困っている様子で、
+ため息をついているあずささんがいた）","(When I went to the office, he seemed somewhat troubled,
+(There was Azusa, sighing)"
+"Idolchr_0112_B_20_01_002(0)","Ｐ","あずささん、どうかしたんですか？","Azusa-san, what's wrong?"
+"Idolchr_0112_B_20_01_003(0)","あずさ","それが……恥ずかしながら、
+新しい事務所にまだ慣れてなくて……","That's what ...... is ashamed of,
+I'm still getting used to my new office: ......"
+"Idolchr_0112_B_20_01_004(0)","あずさ","来る途中で、また迷子になってしまいました～。
+プロデューサーさん、どうしたらいいでしょう？","On the way here, I got lost again!
+What should I do, Producer-san?"
+"Idolchr_0112_B_20_01_005(0)","Ｐ","それなら……","Then ......"
+"Idolchr_0112_B_20_01_006(0)","選択肢","一緒に行きますよ","I'll go with you."
+"Idolchr_0112_B_20_01_007(0)","選択肢","電話してください","Call me."
+"Idolchr_0112_B_20_01_008(0)","選択肢","自力で頑張って","Good luck on your own."
+"Idolchr_0112_B_20_01_009(0)","Ｐ","迷子になりそうな時は、俺が一緒に行きますよ","If you feel lost, I'll go with you."
+"Idolchr_0112_B_20_01_010(0)","あずさ","ふふ、ありがとうございます♪
+プロデューサーさんは、優しいですね～","Hmmm, thank you... ♪
+Your producer is so kind!"
+"Idolchr_0112_B_20_01_011(0)","Ｐ","困ったことがあれば、俺に電話してください。
+すぐに駆け付けますから","If you need help, call me.
+I'll be right there."
+"Idolchr_0112_B_20_01_012(0)","あずさ","それなら安心して迷子になれますね～。
+……ふふ、なんて冗談です♪","Then I can get lost in peace!
+...... Hmmm, what a joke... ♪"
+"Idolchr_0112_B_20_01_013(0)","Ｐ","あずささんなら、きっと大丈夫です。
+自力で頑張ってください！","I am sure Azusa-san will be fine.
+Good luck on your own!"
+"Idolchr_0112_B_20_01_014(0)","あずさ","それができないから困っていたのですが……。
+できればプロデューサーさんに頼りたいですけど……","I was having trouble because I can't do that. ......
+I'd like to rely on the producer if possible, though: ......"
+"Idolchr_0112_B_20_01_015(0)","あずさ","でも、プロデューサーさんに
+あまり迷惑もかけられませんし……","But I'd like to tell the producer...
+I can't be too much trouble. ......"
+"Idolchr_0112_B_20_01_016(0)","Ｐ","いえ、俺の負担が増えるのは問題ないので、
+無理をせず、どんどん頼ってください","No, I don't have a problem with the added burden on me,
+Take it easy and rely on us more and more!"
+"Idolchr_0112_B_20_01_017(0)","あずさ","ありがとうございます～。
+その時は、よろしくお願いしますね","Thank you~.
+I look forward to working with you then."
+"Idolchr_0112_B_20_02_001(0)","Ｐ","（事務所であずささんとテレビを見ていたら、
+教育番組が始まった）","(I was in the office watching TV with Azusa,
+(Educational programming began)"
+"Idolchr_0112_B_20_02_002(0)","あずさ","ふふ、みんな笑顔で楽しそう。
+こういう子どもたちと触れ合う仕事もいいですよね","Phew, everyone looks happy and smiling.
+It's nice to have a job like this where you get to interact with children."
+"Idolchr_0112_B_20_02_003(0)","あずさ","もし私がアイドルをやっていなかったら、
+保育士さんになっていたかもしれません～","If I had not been an idol,
+I would have been a nursery school teacher!"
+"Idolchr_0112_B_20_02_004(0)","Ｐ","あずささんが保育士さん、ですか。
+それは……","Azusa-san is a nursery school teacher, right?"
+"Idolchr_0112_B_20_02_005(0)","選択肢","確かにいいと思う","I certainly think it's a good idea."
+"Idolchr_0112_B_20_02_006(0)","選択肢","アイドルの方がいい","Idol is better."
+"Idolchr_0112_B_20_02_007(0)","選択肢","すでに保育士である","Already a childcare provider"
+"Idolchr_0112_B_20_02_008(0)","Ｐ","あずささんは面倒見もいいですし、
+確かにあっていると思います","Azusa-san is also very caring,
+I think you're right."
+"Idolchr_0112_B_20_02_009(0)","あずさ","そうですか～、ありがとうございます。
+うふふっ","I see - thank you very much.
+giggling"
+"Idolchr_0112_B_20_02_010(0)","Ｐ","保育士さんもあっていると思いますが、
+あずささんはアイドルの方がふさわしいですよ","I'm sure there are childcare providers, too,
+Azusa-san is more suitable for an idol."
+"Idolchr_0112_B_20_02_011(0)","あずさ","そ、そうでしょうか？　プロデューサーさんが
+そうおっしゃるなら、そうかもしれませんね～","Well, isn't it? The producer.
+If you say so, I guess you're right~."
+"Idolchr_0112_B_20_02_012(0)","Ｐ","うちの事務所は若い子も多いし、あずささんの
+立場としては、今とそう変わらないんじゃ……","Our office has many young girls, and Azusa's
+As for the position, it's not so different than it is now. ......"
+"Idolchr_0112_B_20_02_013(0)","あずさ","え？　そうですか……。
+そう言われれば、確かに……","Eh? I see. .......
+That being said, it is indeed ......"
+"Idolchr_0112_B_20_02_014(0)","Ｐ","いずれにしても、その優しさと思いやりがあれば、
+みんなから好かれるのは間違いないでしょうね","Either way, its kindness and compassion,
+I'm sure everyone will like it."
+"Idolchr_0112_B_20_02_015(0)","あずさ","あらあら～、ふふっ、
+そんなことを言われると照れちゃいます","Oh my goodness - phew,
+I'm embarrassed when you say that."
+"Idolchr_0112_B_20_02_016(0)","Ｐ","でも、あずささんも気になっているみたいですし。
+今度、子ども向けの番組の仕事を取ってきますね","But Azusa-san seems to be concerned about it.
+I'll get you a job on a children's show next time."
+"Idolchr_0112_B_20_02_017(0)","あずさ","はい、お願いします。
+楽しみにしていますね～","Yes, please.
+I'm looking forward to it!"
+"Idolchr_0112_B_20_03_001(0)","Ｐ","（次の仕事まで余裕があるので、
+あずささんと一緒にカフェにやって来た）","(I have enough time until my next job,"
+"Idolchr_0112_B_20_03_002(0)","Ｐ","そういえばあずささんは、
+カフェ巡りが好きだって言っていましたっけ","Oh, by the way, Azusa,
+Did I mention I like visiting cafes?"
+"Idolchr_0112_B_20_03_003(0)","あずさ","はい、今でもよくカフェ巡りをしているんですよ～","Yes, I still visit cafes often!"
+"Idolchr_0112_B_20_03_004(0)","あずさ","ただ、迷子になってしまって、
+気に入ったカフェに、なかなかたどり着けなくて……","I just got lost,
+I had a hard time finding a cafe that I liked. ......"
+"Idolchr_0112_B_20_03_005(0)","Ｐ","それなら、いい方法がありますよ","Then I have a good idea."
+"Idolchr_0112_B_20_03_006(0)","選択肢","誰かと行く","I'm going with someone."
+"Idolchr_0112_B_20_03_007(0)","選択肢","お店に電話する","Call the store"
+"Idolchr_0112_B_20_03_008(0)","選択肢","メモをする","Notes."
+"Idolchr_0112_B_20_03_009(0)","Ｐ","誰かと一緒に行けば、迷わずに行けるはずです！","If you go with someone, you will not get lost!"
+"Idolchr_0112_B_20_03_010(0)","あずさ","まあ、それは名案ですね！
+それにおしゃべりも楽しめますし、一石二鳥です♪","Well, that's a great idea!
+Plus, it's a great way to chat and kill two birds with one stone."
+"Idolchr_0112_B_20_03_011(0)","Ｐ","迷った時は、お店に電話をかけるといいですよ","When in doubt, call the store!"
+"Idolchr_0112_B_20_03_012(0)","あずさ","アイディアはいいと思いますが、
+お店の方の迷惑になってしまわないでしょうか？","I think the idea is a good one,
+Wouldn't it be a nuisance to the shoppers?"
+"Idolchr_0112_B_20_03_013(0)","Ｐ","場所をメモすれば、大丈夫です！","Just note the location and you'll be fine!"
+"Idolchr_0112_B_20_03_014(0)","あずさ","それが不思議なことに、メモをしても
+歩いているうちに迷ってしまうんです～","That's what's so strange about it, even though I wrote it down.
+I get lost while I'm walking around~."
+"Idolchr_0112_B_20_03_015(0)","Ｐ","まあ、本当に行きたいお店なら、
+言ってくれれば一緒に行きますから","Well, if it's a restaurant you really want to go to,
+Just tell me and I'll go with you."
+"Idolchr_0112_B_20_03_016(0)","あずさ","ふふ、ありがとうございます。
+では、遠慮なく声をかけさせてもらいますね♪","Hmm, thank you very much.
+Well, then, I won't hesitate to call on you... ♪"
+"Idolchr_0112_B_20_04_001(0)","Ｐ","（打ち合わせが終わったし、事務所に戻るか……。
+ん？　あの後ろ姿は……）","(The meeting is over, let's go back to the office. ......
+(Hm? That back view is ......)"
+"Idolchr_0112_B_20_04_002(0)","Ｐ","あずささんじゃないですか。
+こんなところで奇遇ですね","Isn't that Azusa-san?
+What a coincidence in a place like this."
+"Idolchr_0112_B_20_04_003(0)","あずさ","あら、プロデューサーさん？　お疲れ様です～。
+先程まで歌織ちゃんと一緒に食事をしていたんですよ","Oh, producer? Good work~!
+I was having dinner with Utahori just a few minutes ago."
+"Idolchr_0112_B_20_04_004(0)","Ｐ","歌織さんと……。
+どんな話をしていたんですか？","Please visit ...... with Ms. Utaori.
+What did you talk about?"
+"Idolchr_0112_B_20_04_005(0)","あずさ","うふふ、女の子の秘密です♪
+なーんて、どんなことを話していたと思いますか？","Mmmm, it's a girl's secret... ♪
+What do you think they were talking about?"
+"Idolchr_0112_B_20_04_006(0)","Ｐ","そうですね……。
+あずささんと歌織さんだから……","
+It's Azusa and Utaori. ......"
+"Idolchr_0112_B_20_04_007(0)","選択肢","アイドルのこと","Idol."
+"Idolchr_0112_B_20_04_008(0)","選択肢","将来のこと","The Future"
+"Idolchr_0112_B_20_04_009(0)","選択肢","お酒のこと","Alcoholic Beverages."
+"Idolchr_0112_B_20_04_010(0)","Ｐ","アイドルのことじゃないですか？","Isn't it about idols?"
+"Idolchr_0112_B_20_04_011(0)","あずさ","正解です♪　歌織ちゃんと話すのは楽しくて、
+あっという間に時間が過ぎちゃいました～","You are correct...I enjoy talking with you, Utahori,
+The time passed so quickly!"
+"Idolchr_0112_B_20_04_012(0)","Ｐ","うーん、将来のこととか？","Hmmm, like the future?"
+"Idolchr_0112_B_20_04_013(0)","あずさ","いえ、アイドルのことを話してて……。あ、でも
+アイドルとしての将来の話は、少ししました～","No, I was talking about idols. ....... Oh, but
+We talked a little about my future as an idol."
+"Idolchr_0112_B_20_04_014(0)","Ｐ","ふたりとも成人しているし、お酒のことですか？","They are both adults and it is about alcohol?"
+"Idolchr_0112_B_20_04_015(0)","あずさ","お酒の席でしたら、お酒の話もするんですけど。
+さっき話していたのは、アイドルについてで……","If it's a drinking occasion, we talk about drinking.
+We were just talking about idols at ......"
+"Idolchr_0112_B_20_04_016(0)","あずさ","ルミナスを頑張ろうって、
+改めて話していたんですよ～","She said, ""Let's work hard on Luminous,
+We were talking about it again!"
+"Idolchr_0112_B_20_04_017(0)","Ｐ","そうでしたか。ふたりはみんなのことを
+よく見てくれていますし、俺も助かってます","Oh, right, the two of you are all about the people.
+You're looking out for me a lot, and you're helping me too."
+"Idolchr_0112_B_20_04_018(0)","Ｐ","いつもありがとうございます","Thank you for everything."
+"Idolchr_0112_B_20_04_019(0)","あずさ","あらあら～♪　こちらこそ、
+いつもプロデュースありがとうございます","Oh my goodness~~~ it's my pleasure,
+Thank you for all you produce!"
+"Idolchr_0112_B_20_04_020(0)","あずさ","これからも、よろしくお願いしますね","I look forward to working with you in the future."
+"Idolchr_0112_B_20_05_001(0)","Ｐ","（あずささんの仕事が終わり、
+公園で一息つくことになった）","(Azusa's work is done,
+(We had to take a break in the park.)"
+"Idolchr_0112_B_20_05_002(0)","子ども","今度はママが鬼だよ！
+ボクが逃げるから、１０数えてね！","This time, Mom is the devil!
+I'm going to run away, so count to ten!"
+"Idolchr_0112_B_20_05_003(0)","あずさ","ふふ、とても仲のいい家族ですね。
+ああいう幸せもあるんですよね……","Hmmm, a very close family.
+There's happiness like that too. ......"
+"Idolchr_0112_B_20_05_004(0)","Ｐ","（あずささんの夢の先には、
+あの家族のような光景があるのかもしれない）","(Beyond Azusa's dream,
+(Maybe there's a scene like that family.)"
+"Idolchr_0112_B_20_05_005(0)","Ｐ","プロジェクトルミナスが終わったら、
+あずささんはどうするんですか？","When Project Luminous is finished,
+What about Azusa-san?"
+"Idolchr_0112_B_20_05_006(0)","あずさ","それが、まだ何も考えていなくて……。
+プロデューサーさんはどうしたらいいと思いますか？","That's why I haven't thought about it yet. ......
+What do you think producers should do?"
+"Idolchr_0112_B_20_05_007(0)","Ｐ","そうですね……","Right..."
+"Idolchr_0112_B_20_05_008(0)","選択肢","運命の人を探す","Find your destiny"
+"Idolchr_0112_B_20_05_009(0)","選択肢","とりあえず休憩する","I'll take a break for now."
+"Idolchr_0112_B_20_05_010(0)","選択肢","新ユニットを結成","Formed a new unit"
+"Idolchr_0112_B_20_05_011(0)","Ｐ","あずささんの夢でもありますし、
+運命の人を探す、とか？","It is also Azusa-san's dream,
+Finding your destiny, maybe?"
+"Idolchr_0112_B_20_05_012(0)","あずさ","ふふ、それは大事ですね。
+見つけられるように頑張ります～","Hmm, that's important.
+I'll do my best to find it~."
+"Idolchr_0112_B_20_05_013(0)","Ｐ","とりあえず、休憩するのはどうでしょうか？","In the meantime, how about taking a break?"
+"Idolchr_0112_B_20_05_014(0)","あずさ","身体を休めるのは大事ですからね。
+でも、休憩している間に置いていかれないかしら……","It's important to rest your body.
+But I wonder if they'll leave us while they take a break: ......"
+"Idolchr_0112_B_20_05_015(0)","Ｐ","新しいユニットを結成しますか？","Forming a new unit?"
+"Idolchr_0112_B_20_05_016(0)","あずさ","え？　もうそんな話があるんですか？
+さすがに気が早いように思いますけど……","What? You're already talking about that?
+It seems a bit early indeed, but ......"
+"Idolchr_0112_B_20_05_017(0)","Ｐ","でも……俺はこれからもずっと、
+あずささんの活躍を見ていたいです","But ...... I will always be,
+I would love to see Azusa-san in action!"
+"Idolchr_0112_B_20_05_018(0)","あずさ","あらあら～。
+そ、それはちょっと照れちゃいますね……","Oh dear~.
+Well, that's a little embarrassing: ......"
+"Idolchr_0112_B_20_05_019(0)","Ｐ","なので、これからも一緒に頑張っていきましょう！","So let's continue to work together!"
+"Idolchr_0112_B_20_06_001(0)","Ｐ","（レッスンが終わって事務所に戻る途中、
+息抜きも兼ねて、公園に寄ることになった）","(On the way back to the office after the lesson,
+(We had to stop at a park to catch our breath.)"
+"Idolchr_0112_B_20_06_002(0)","あずさ","今日のレッスンはいつもよりハードで、
+少し疲れました～","Today's lesson was harder than usual,
+I'm a little tired."
+"Idolchr_0112_B_20_06_003(0)","Ｐ","事務所までまだ歩きますし、少し休憩しましょうか。
+飲み物を買ってくるので、待っていてくださいね","We still have a long walk to the office. Let's take a short break.
+I'll get you a drink, please wait for me."
+"Idolchr_0112_B_20_06_004(0)","Ｐ","（さて、何にしようかな）","(Well, what shall we call it?)"
+"Idolchr_0112_B_20_06_005(0)","選択肢","カフェラテ","cafe latte"
+"Idolchr_0112_B_20_06_006(0)","選択肢","フルーツジュース","fruit juice"
+"Idolchr_0112_B_20_06_007(0)","選択肢","コーンスープ","corn soup"
+"Idolchr_0112_B_20_06_008(0)","Ｐ","お待たせしました。
+はい、どうぞ","Thank you for your patience.
+Here you go."
+"Idolchr_0112_B_20_06_009(0)","あずさ","まあ！　ちょうどカフェラテが飲みたかったんです！
+ふふ、さすがプロデューサーさんですね♪","Well! I just wanted a cafe latte!
+Hmmm...you are indeed a producer..."
+"Idolchr_0112_B_20_06_010(0)","Ｐ","（よかった、喜んでもらえたみたいだ……！）","(Thank goodness they're happy with it. ......!)"
+"Idolchr_0112_B_20_06_011(0)","Ｐ","お待たせしました。
+はい、どうぞ","Thank you for your patience.
+Here you go."
+"Idolchr_0112_B_20_06_012(0)","あずさ","おいしそうなフルーツジュースですね。
+ありがとうございます","That looks like a delicious fruit juice."
+"Idolchr_0112_B_20_06_013(0)","Ｐ","（おいしそうに飲んでいる。よかった）","(She's drinking it, thank goodness.)"
+"Idolchr_0112_B_20_06_014(0)","Ｐ","お待たせしました。
+はい、どうぞ","Thank you for your patience.
+Here you go."
+"Idolchr_0112_B_20_06_015(0)","あずさ","コーンスープ、ですか？
+すみません、レッスンの後に飲むのはちょっと……","Corn soup, is it?
+Sorry, I'm not sure I want to drink after my lesson: ......"
+"Idolchr_0112_B_20_06_016(0)","Ｐ","（うっ……どうやら、
+チョイスミスをしてしまったみたいだ）","(Ugh ...... apparently,
+(I think I made a poor choice.)"
+"Idolchr_0112_B_20_07_001(0)","Ｐ","（仕事の帰り際、あずささんの希望で
+ゲームセンターにやって来た）","(On the way home from work, at Azusa's request.
+(Came to the arcade)"
+"Idolchr_0112_B_20_07_002(0)","Ｐ","……そうですか、亜美や真美たちを見て、
+ゲームセンターに興味を持ったんですね","...... Well, look at Ami and Mami and the others,
+So you're interested in arcade games."
+"Idolchr_0112_B_20_07_003(0)","あずさ","ええ、私も来てみたくて……でも、どのゲームも
+難しそうですね。雰囲気だけでも楽しめるかしら……","Yeah, I wanted to come to ......, but every game
+Looks difficult, I wonder if I can enjoy just the atmosphere: ......"
+"Idolchr_0112_B_20_07_004(0)","Ｐ","（そうだな、あずささんができそうなものは……）","(Yes, Azusa could do that: ......)"
+"Idolchr_0112_B_20_07_005(0)","選択肢","カプセルトイ","capsule toy"
+"Idolchr_0112_B_20_07_006(0)","選択肢","クレーンゲーム","crane game"
+"Idolchr_0112_B_20_07_007(0)","選択肢","格闘ゲーム","beat'-em-up game"
+"Idolchr_0112_B_20_07_008(0)","Ｐ","カプセルトイはどうですか？","What about capsule toys?"
+"Idolchr_0112_B_20_07_009(0)","あずさ","あら、動物の小さいお人形さんもあるんですね。
+ふふ、可愛い♪","Oh, you have little animal dolls, too.
+Hmmm...so cute..."
+"Idolchr_0112_B_20_07_010(0)","Ｐ","（気に入ってもらえたみたいだな）","(I see you liked it.)"
+"Idolchr_0112_B_20_07_011(0)","Ｐ","クレーンゲームはどうですか？","How about a crane game?"
+"Idolchr_0112_B_20_07_012(0)","あずさ","これを操作して、中の景品を取るんですよね？
+難しそうだけど……やってみます！","You operate this to take the prize inside, right?
+It looks difficult but I will try ......!"
+"Idolchr_0112_B_20_07_013(0)","Ｐ","（あずささんは楽しそうにゲームをしていたが、
+結局、景品をとることはできなかった）","(Although Azusa-san seemed to enjoy playing the game,
+(In the end, I couldn't take the prize.)"
+"Idolchr_0112_B_20_07_014(0)","Ｐ","格闘ゲームはどうですか？","What about fighting games?"
+"Idolchr_0112_B_20_07_015(0)","あずさ","格闘ゲーム……。すみません、
+こういった人が戦うものはあまり得意ではなくて","Fighting games. ....... Sorry,
+I'm not very good at these people fighting things."
+"Idolchr_0112_B_20_07_016(0)","Ｐ","（そうか、こういうゲームは苦手なんだな……）","(Okay, so you're not good at these games. ......)"
+"Idolchr_0112_B_20_08_001(0)","Ｐ","あずささん、さっきから雑誌を熱心に見ていますね。
+……お出かけ特集、ですか","Azusa-san, you have been looking at the magazine intently since a while ago.
+...... Outing Special, is it?"
+"Idolchr_0112_B_20_08_002(0)","Ｐ","どこか行ってみたいところでもあるんですか？","Is there somewhere you would like to visit?"
+"Idolchr_0112_B_20_08_003(0)","あずさ","そうですね、行きたいところはあるんですけど、
+ひとりだと迷ってしまうので……","Yes, there are places I would like to go,
+If you're alone, you're lost. ......"
+"Idolchr_0112_B_20_08_004(0)","Ｐ","それなら、俺が一緒に行きますよ。
+あずささんの行きたいところって……","Then I'll go with you.
+Where Azusa wants to go is ......"
+"Idolchr_0112_B_20_08_005(0)","選択肢","カフェ","cafe"
+"Idolchr_0112_B_20_08_006(0)","選択肢","水族館","aquarium"
+"Idolchr_0112_B_20_08_007(0)","選択肢","プール","(swimming) pool"
+"Idolchr_0112_B_20_08_008(0)","Ｐ","カフェですか？","Is it a cafe?"
+"Idolchr_0112_B_20_08_009(0)","あずさ","はい！　もっと色々なカフェに行ってみたくて。
+ぜひ、今度一緒に行きましょう～","Yes! I wanted to visit more cafes.
+We should definitely go together sometime~!"
+"Idolchr_0112_B_20_08_010(0)","Ｐ","（カフェ巡り、本当に好きなんだな。
+一緒に行く時が楽しみだ！）","(You really like visiting cafes, don't you?
+Can't wait to see when we go together!!!)"
+"Idolchr_0112_B_20_08_011(0)","Ｐ","水族館ですか？","Is it an aquarium?"
+"Idolchr_0112_B_20_08_012(0)","あずさ","水族館もいいですね。
+お魚さんを見ると、癒やされそうです～","An aquarium would be nice.
+Seeing the fish seems to heal you~!"
+"Idolchr_0112_B_20_08_013(0)","Ｐ","（どうやら行きたかった場所は、違うみたいだな）","(Apparently not where I wanted to go.)"
+"Idolchr_0112_B_20_08_014(0)","Ｐ","プールですか？","Is it a swimming pool?"
+"Idolchr_0112_B_20_08_015(0)","あずさ","プールですか？　ごめんなさい……
+私、泳ぐことができないんです","Is it a swimming pool? Sorry ......
+I can't swim."
+"Idolchr_0112_B_20_08_016(0)","Ｐ","（しまった……！
+空気が悪くなってしまった……）","(Shit. ......!
+(The air quality has gone bad: ......)"
+"Idolchr_0112_C_30_01_001(0)","Ｐ","（あずささんの仕事終わり、
+気分転換を兼ねて出かけることにした……）","(Azusa-san's end of work,
+I decided to go out for a change (......)"
+"Idolchr_0112_C_30_01_002(0)","Ｐ","（もうこんな時間か……。
+あずささんも楽しんでくれたようだな）","(Is it that time already? .......
+(I see you enjoyed it too, Azusa-san.)"
+"Idolchr_0112_C_30_01_003(0)","あずさ","今日はありがとうございました。
+気分転換ができて、頑張れそうです～","Thank you for your time today.
+I'll be able to change my mind and do my best~!"
+"Idolchr_0112_C_30_01_004(0)","あずさ","プロデューサーさん、今日は楽しかったですね。
+うふふ、また今度、ご一緒しましょう～","Producer, I had a great time today.
+Ummm...let's get together again sometime~!"
+"runintochr_0112_A_01_00_001(0)","あずさ","……あら？
+プロデューサーさん、おはようございます","...... Oh?
+Good morning, producers!"
+"runintochr_0112_A_01_00_002(0)","Ｐ","おはようございます、あずささん。
+事務所への道、覚えられたんですね！","
+You have learned your way to the office!"
+"runintochr_0112_A_01_00_003(0)","あずさ","いえ、それが……ちょっと迷ってしまって……。
+親切な方に、ここまで送っていただきました～","No, that's ...... I got a little lost .......
+A kind person gave me a ride here~!"
+"runintochr_0112_A_01_00_004(0)","Ｐ","そ、そうですか……。
+じゃあ、このまま一緒に行きましょう","
+Well, let's just go along for the ride."
+"runintochr_0112_A_01_00_005(0)","Ｐ","そういえば……あずささん、ルミナスはどうですか？","Speaking of which, ...... Azusa, what about Luminous?"
+"runintochr_0112_A_01_00_006(0)","あずさ","うふふっ、みんな明るくて元気で、
+賑やかで楽しいです","Ummm, everyone is so cheerful and energetic,
+It's lively and fun!"
+"runintochr_0112_A_01_00_007(0)","あずさ","それにとっても仲良しで。この間もレッスン帰りに、
+みんなでカフェに行ったんですよ～","We are also good friends, and the other day on our way home from a lesson,
+We all went to a cafe together!"
+"runintochr_0112_A_01_00_008(0)","Ｐ","それならよかったです。
+この調子で頑張っていきましょうね","I'm glad to hear that.
+Let's keep up the good work!"
+"runintochr_0112_B_02_00_001(0)","Ｐ","ん？　あそこでキョロキョロしているのは……。
+おーい、あずささーん！","Hmm? The one scurrying around over there is .......
+Hey, Azusa!"
+"runintochr_0112_B_02_00_002(0)","あずさ","あら、プロデューサーさん。おはようございます。
+いいところで会えました～","Good morning, Producer-san.
+We met at the right place!"
+"runintochr_0112_B_02_00_003(0)","Ｐ","もしかして、また迷子になっていたんですか？","Perhaps you were lost again?"
+"runintochr_0112_B_02_00_004(0)","あずさ","はい。事務所に行こうと思ったら迷っちゃって……","Yes. I was going to go to the office, but I got lost. ......"
+"runintochr_0112_B_02_00_005(0)","あずさ","でも……朝からプロデューサーさんに会えるのなら、
+迷子になるのも悪くないかな……なんて。うふふ","But if I can see the producer at ...... morning,
+It's not a bad idea to get lost in ....... ugh."
+"runintochr_0112_B_02_00_006(0)","Ｐ","え？　今、何か言いましたか？","What? Did you just say something?"
+"runintochr_0112_B_02_00_007(0)","あずさ","うふふ……
+なんでもありませんよ～","Ufufu: ......
+It's nothing."
+"runintochr_0112_B_02_00_008(0)","Ｐ","……そうですか？
+では、一緒に事務所に行きましょうか","...... is that right?
+Well, let's go to the office together."
+"runintochr_0112_C_03_00_001(0)","Ｐ","ふう、やっと仕事が一段落した……。
+ちょっと休憩してから、最後に確認をするか","Phew, I'm finally done with work. ......
+I'll take a short break and then we can check in one last time."
+"runintochr_0112_C_03_00_002(0)","あずさ","プロデューサーさん、お疲れさまです～","Thanks for your hard work, producer!"
+"runintochr_0112_C_03_00_003(0)","Ｐ","あずささん……？
+こんな時間にどうしました？","Azusa-san ......?
+What are you doing here at this hour?"
+"runintochr_0112_C_03_00_004(0)","あずさ","一言伝えたくて。いつもプロデュースしてくれて、
+ありがとうございます","I just wanted to say thank you for always producing,"
+"runintochr_0112_C_03_00_005(0)","Ｐ","どういたしまして。
+けど……急にどうしたんですか？","You're welcome.
+But what's up with ...... all of a sudden?"
+"runintochr_0112_C_03_00_006(0)","あずさ","プロデューサーさんにはいつもお世話に
+なっているので、お礼を伝えたくて……","I'm always grateful to my producer.
+I wanted to thank you for your help and support. ......"
+"runintochr_0112_C_03_00_007(0)","あずさ","至らないところもあるかと思いますが、
+これからも一緒に頑張っていきましょう♪","I'm sure there are some things I haven't done well,
+Let's keep working together... ♪"
+"runintochr_0112_C_03_00_008(0)","Ｐ","そうですね、どんどん前に進んで行きましょう！
+これからもよろしくお願いします","Yes, let's keep moving forward!
+Thank you for your continued support."
+"runintochr_0112_D_01_00_001(0)","あずさ","まぁ、プロデューサーさん。
+おはようございます～","Well, Producer-san.
+Good morning~!"
+"runintochr_0112_D_01_01_001(0)","あずさ","おはようございます、プロデューサーさん。
+今日もみんなで頑張りましょうね～♪","Good morning, producers.
+Let's all work hard today~♪"
+"runintochr_0112_E_02_00_001(0)","あずさ","プロデューサーさん、お疲れ様でした～。
+明日も一緒に頑張りましょう","Thank you for your hard work, producer!
+Let's work together again tomorrow."
+"runintochr_0112_E_02_01_001(0)","あずさ","あらあら、もうこんな時間……。
+プロデューサーさん、一緒に帰りませんか～","Oh my goodness, it's that time already .......
+Producer-san, why don't you come home with me?"
+"workchr_0112_A_01_00_001(0)","Ｐ","今日の仕事はアミューズメント施設にある、
+『占いストリート』の取材番組です","Today's work is in the amusement center,
+This is a program covering ""Fortune Telling Street."
+"workchr_0112_A_01_00_002(0)","あずさ","占いストリートのとある一角に、
+とても有名な占い師の方が、いらっしゃるんですよね","In one corner of Fortune Telling Street,
+There is a very famous fortune teller, isn't there?"
+"workchr_0112_A_01_00_003(0)","あずさ","私、一度その方にお会いしたいと思っていたんです！","I had hoped to meet him once!"
+"workchr_0112_A_01_00_004(0)","あずさ","プロデューサーさん、
+素敵なお仕事をありがとうございます♪","
+Thank you for your wonderful work... ♪"
+"workchr_0112_A_01_00_005(0)","Ｐ","喜んでいただけて、何よりです。
+じゃあ、占い師のところへ向かいましょうか","I am glad you are pleased.
+Well, let's head over to the fortune teller."
+"workchr_0112_A_01_00_006(0)","占い師","今日はよろしくお願いします。
+まずは三浦さんのことを、占わせてもらいますね","Thank you for your time today.
+First of all, let me tell your fortune, Mr. Miura."
+"workchr_0112_A_01_00_007(0)","あずさ","はい、よろしくお願いします。
+ええっと……何を占ってもらおうかしら……","Yes, please.
+Let's see ...... what should I have my fortune read ......"
+"workchr_0112_A_01_00_008(0)","Ｐ","あずささんが占いたいことで、いいですよ","Whatever you want to divine, Azusa-san, is fine."
+"workchr_0112_A_01_00_009(0)","あずさ","そうですね……、取材で来てますし、
+お仕事に関することでしょうか？","Yes, ......, and I'm here for an interview,
+Is it about your work?"
+"workchr_0112_A_01_00_010(0)","あずさ","でも、私が一番興味あるのは恋愛運ですし……。
+定番どころの金運や、健康運も気になります～","But I'm most interested in love luck and .......
+I'm also interested in money and health, which are the standard items - I'm also interested in health."
+"workchr_0112_A_01_00_011(0)","あずさ","うう……プロデューサーさん、
+どんなことを占ってもらえばいいでしょうか～？","Uu...... producer,
+What kind of things should I have my fortune read~?"
+"workchr_0112_A_01_00_012(0)","Ｐ","あずささんが占ってもらう内容は……","The contents of Azusa's fortune-telling are available at ......"
+"workchr_0112_A_01_00_013(0)","選択肢","仕事運","one's fate (fortune) as concerns business"
+"workchr_0112_A_01_00_014(0)","選択肢","金運","economic fortune"
+"workchr_0112_A_01_00_015(0)","選択肢","健康運","one's fate (fortune) as concerns health"
+"workchr_0112_A_01_00_016(0)","選択肢","恋愛運","one's fate (fortune) as concerns love"
+"workchr_0112_A_01_00_017(0)","Ｐ","仕事運でしょうか。今後のアイドル活動について、
+占ってもらうのはどうですか？","Is it luck at work, or about your future idol activities?
+How about having your fortune told?"
+"workchr_0112_A_01_00_018(0)","あずさ","プロデューサーさんがそうおっしゃるなら、
+仕事運にしてみますね","If the producer says so,
+I'll try my luck at work."
+"workchr_0112_A_01_00_019(0)","占い師","三浦さんの仕事運は、絶好調です。
+アイドルも向いていると出ていますよ","Mr. Miura's work luck is in great shape.
+Idols are also listed as being suited for the job."
+"workchr_0112_A_01_00_020(0)","あずさ","まあ、本当ですか！？　それじゃあ、
+この調子でお仕事を頑張らないと、ですね。うふふ♪","Well, really! Well then,
+I'll have to keep up the good work...ugh!"
+"workchr_0112_A_01_00_021(0)","Ｐ","（番組映えする結果が出たぞ！
+あずささんも、すごく嬉しそうだ）","(We've got a show-worthy result!
+(Azusa-san looks very happy.)"
+"workchr_0112_A_01_00_022(0)","Ｐ","（取材はかなりいい雰囲気で進み、占いも話題に
+なって、視聴率も好記録を叩き出したぞ！）","(The interview went quite well, and fortune-telling was also a topic of discussion.
+(The ratings are up, and we've hit a new record!)"
+"workchr_0112_A_01_00_023(0)","Ｐ","ここは定番の金運でいきましょう！","Let's go with the standard golden rule here!"
+"workchr_0112_A_01_00_024(0)","あずさ","わかりました～。
+それでは、金運でお願いしますね","I understand~.
+Now, let's have a golden opportunity, please."
+"workchr_0112_A_01_00_025(0)","占い師","……結果が出ました。
+三浦さんはこの先、巨万の富を得るでしょう","
+Mr. Miura will have a huge fortune in the future."
+"workchr_0112_A_01_00_026(0)","あずさ","ええっ、巨万の富ですか！？
+ど、どうしましょう……！","What? A huge fortune?
+What should we do? ......!"
+"workchr_0112_A_01_00_027(0)","Ｐ","（う、羨ましい……じゃなくて、
+番組的に盛り上がる結果が出たぞ！）","(Ugh, I'm not jealous ......,
+(We've got some programmatically exciting results!)"
+"workchr_0112_A_01_00_028(0)","Ｐ","（撮れ高はバッチリ！　話題性もあって、
+番組はなかなかの視聴率をマークした）","(The shots are perfect! It's a hot topic,
+(The program marked a pretty good rating.)"
+"workchr_0112_A_01_00_029(0)","Ｐ","そうですね……健康運にしましょうか！","Yes, let's make it ...... health luck!"
+"workchr_0112_A_01_00_030(0)","占い師","三浦さんの健康運は……可もなく不可もなく、
+と言ったところでしょうか","Ms. Miura's health luck is ...... neither good nor bad,
+I guess you could say"
+"workchr_0112_A_01_00_031(0)","あずさ","そ、そうですか。
+でも、何もないのが一番ですよね～","Oh, I see.
+But nothing is better than nothing!"
+"workchr_0112_A_01_00_032(0)","Ｐ","（あずささんはほっとしているようだが、
+特に盛り上がることなく無難に終わってしまった）","(Azusa seems relieved, though,
+(It went off without a hitch without any particular excitement.)"
+"workchr_0112_A_01_00_033(0)","Ｐ","（健康運同様、
+視聴率も可もなく不可もなくだった……）","(As well as health luck,
+The ratings were neither good nor bad (......)"
+"workchr_0112_A_01_00_034(0)","Ｐ","気になっているみたいですし、
+恋愛運にしましょう","And he's concerned about it,
+Let's make it love luck."
+"workchr_0112_A_01_00_035(0)","Ｐ","（恋愛運を占ってもらった結果、
+『待ち人は来ず』と出てしまった）","(The result of a love fortune telling,
+I got out, 'The waiter never came.'"")"
+"workchr_0112_A_01_00_036(0)","Ｐ","（あずささんは落ち込んでしまい、視聴率は
+番組のコーナーの中で最下位になってしまった……）","(Azusa was depressed and the ratings were
+(......), which is the lowest ranked of the program's sections."
+"workchr_0112_A_01_00_037(0)","Ｐ","（今回の仕事は成功だ！）","(This job was a success!)"
+"workchr_0112_A_01_00_038(0)","Ｐ","（今回の仕事は失敗だ。次こそは！）","（This job was a mistake...next time!)"
+"workchr_0112_B_01_00_001(0)","Ｐ","あずささん、今回のお仕事、
+『ザ・アイドル温泉旅館！』ですが……","Azusa, this job,
+The Idol Hot Springs Ryokan!"" but ......"
+"workchr_0112_B_01_00_002(0)","あずさ","うふふ、いいお湯でした♪
+すごく楽しかったです～","Mmmm, it was nice hot water... ♪
+It was a lot of fun!"
+"workchr_0112_B_01_00_003(0)","Ｐ","あずささんも、前からとても楽しみにしていましたね","Azusa-san has been looking forward to it very much for a long time!"
+"workchr_0112_B_01_00_004(0)","Ｐ","またオフの時にでもみんなで来ましょうか。
+それで、この後、インタビューがあるんですが……","Shall we all come back together again when we are off duty?
+So, there's an interview after this: ......"
+"workchr_0112_B_01_00_005(0)","あずさ","はい♪　ええっと、私なりの観点で旅館について、
+お話をすればいいんですよね？","Yes...Â Well, my own point of view on ryokan,
+We can talk about it, right?"
+"workchr_0112_B_01_00_006(0)","Ｐ","はい。特にいいと思ったところを、
+話してください","Yes, especially the parts I thought were good,
+Tell us about it."
+"workchr_0112_B_01_00_007(0)","あずさ","うーん、たくさんあるのですけど～、
+温泉ももちろん良かったですし……","Hmmm...there are a lot of them~,
+And of course the hot springs were great. ......"
+"workchr_0112_B_01_00_008(0)","あずさ","お料理も評判通りすっごく美味しくて、お料理に
+合わせたお酒も選んでいただき、幸せでした～♪","The food was as good as its reputation.
+We were also happy to have the choice of matching drinks~!"
+"workchr_0112_B_01_00_009(0)","あずさ","それにサービスが行き届いていますよね～。
+女将さんの人柄が感じられて、とっても良かったです","And the service is excellent!
+It was very nice to feel the personality of the proprietress!"
+"workchr_0112_B_01_00_010(0)","あずさ","どれも良くて、迷ってしまいます……。
+プロデューサーさんは、何がいいと思いますか？","They are all good and I can't decide. ......
+What do you think the producer would like?"
+"workchr_0112_B_01_00_011(0)","Ｐ","そうですね、あずささんが言った中からだったら……","Yes, if it was one of the ones Azusa mentioned: ......"
+"workchr_0112_B_01_00_012(0)","選択肢","サービス","Service"
+"workchr_0112_B_01_00_013(0)","選択肢","料理","cooking"
+"workchr_0112_B_01_00_014(0)","選択肢","温泉","hot spring"
+"workchr_0112_B_01_00_015(0)","選択肢","お酒","alcohol"
+"workchr_0112_B_01_00_016(0)","Ｐ","サービスについてはどうですか？
+他と差別化もされていて、話題になると思います","What about service?
+I think it is differentiated from others and will be talked about!"
+"workchr_0112_B_01_00_017(0)","あずさ","そうですね、女将さんもとてもいい方なので、
+サービスにしようと思います♪","Yes, the landlady is very nice,
+I'm going to make it a service.Â"
+"workchr_0112_B_01_00_018(0)","あずさ","私が迷子にならないように、女将さんが
+目的の場所まで案内してくださったんですよ","To make sure I don't get lost, the landlady
+She guided us to the place we wanted to go."
+"workchr_0112_B_01_00_019(0)","あずさ","他にも館内では女将さんやスタッフさんの気遣いが
+溢れていて、至れり尽くせりなんですよ～♪","The other attentiveness of the proprietress and staff in the museum.
+It's overflowing and it's blissful~!"
+"workchr_0112_B_01_00_020(0)","Ｐ","（あずささんのレポートで、旅館の丁寧なサービスが
+知れ渡り、更に人気旅館になった！）","(Azusa-san's report on the courteous service at the ryokan.
+(The ryokan became even more popular as it became well known!)"
+"workchr_0112_B_01_00_021(0)","Ｐ","（そしてレポートが分かりやすかったこともあり、
+視聴率は大幅にアップしたぞ！）","(And the report was easy to understand,
+(The ratings are up big time!)"
+"workchr_0112_B_01_00_022(0)","Ｐ","今回は料理について話しませんか？
+美味しかったし、画面も映えると思うんです","Why don't we talk about cooking this time?
+It was delicious and I think it would look great on the screen."
+"workchr_0112_B_01_00_023(0)","あずさ","私もここのお料理が気に入ったので、
+ぜひそうしましょう～","I liked the food here too,
+Let's do it!"
+"workchr_0112_B_01_00_024(0)","あずさ","お料理のお魚は新鮮で、とっても美味しいわ～！
+ふふっ、いくらでも食べられちゃいそう♪","The fish in your dish is fresh and so delicious!
+Hmmm, I could eat as much as I want..."
+"workchr_0112_B_01_00_025(0)","Ｐ","（あずささんが料理を褒めたおかげで、
+旅館の知名度が更にアップしたぞ！）","(Thanks to Azusa's praise of the food,
+(The ryokan's getting even more publicity!)"
+"workchr_0112_B_01_00_026(0)","Ｐ","（視聴率もそれなりに良かったが、あずささんは、
+食べ過ぎてしまったと後悔していた）","(The ratings were reasonably good, but Azusa,
+(She regretted that he had eaten too much.)"
+"workchr_0112_B_01_00_027(0)","Ｐ","旅館といえば温泉！
+ということで、温泉にしましょう","Speaking of ryokan, hot springs!
+So, let's go to the spa."
+"workchr_0112_B_01_00_028(0)","あずさ","はぁ……とっても気持ち良かったわ♪
+ここの温泉の効能は、いろいろあるみたいで……","Haa...... felt so good....
+The benefits of the hot springs here seem to be many: ......"
+"workchr_0112_B_01_00_029(0)","Ｐ","（旅館の人に尋ねながら、
+あずささんは温泉について細かくレポートした）","(While asking the innkeeper,
+(Azusa gave a detailed report on the hot springs)"
+"workchr_0112_B_01_00_030(0)","Ｐ","（だが、温泉と周辺の話が盛り上がりすぎて
+旅館の印象が薄くなってしまった……）","(But there was too much talk about the hot springs and the surrounding area.
+(The inn is less impressive: ......)"
+"workchr_0112_B_01_00_031(0)","P ","ここは定番どころを外して、
+お酒にしてみましょうか","Take off the standard place here,
+Let's make it a drink."
+"workchr_0112_B_01_00_032(0)","Ｐ","（周辺には様々な地酒があり、お酒好きには
+たまらないレポートになりそうだったが……）","(There are a variety of local sake in the area for those who love to drink.
+(It was going to be an irresistible report. ......)"
+"workchr_0112_B_01_00_033(0)","P ","（お酒の話ばかりでは旅館のアピールには繋がらない
+ということで、出番は大幅カットされてしまった）","(All this talk about alcohol does not appeal to inns.
+(So the turnout was cut drastically.)"
+"workchr_0112_B_01_00_034(0)","Ｐ","（今回の仕事は成功だ！）","(This job was a success!)"
+"workchr_0112_B_01_00_035(0)","Ｐ","（今回の仕事は失敗だ。次こそは！）","（This job was a mistake...next time!)"
+"workchr_0112_C_01_00_001(0)","Ｐ","（あずささんが『魅惑のアイドル特集』という、
+雑誌のグラビアコーナーに参加することになった）","(Azusa-san calls it a ""fascinating idol feature,
+(I'm going to participate in the gravure section of the magazine.)"
+"workchr_0112_C_01_00_002(0)","あずさ","あの……こんな感じでいいでしょうか？","Um, ...... is this how you want to do it?"
+"workchr_0112_C_01_00_003(0)","カメラマン","はい！　そのポーズのまま、
+視線だけ外してもらっていいですか？","Yes! Stay in that pose,
+Can I ask you to just remove your gaze?"
+"workchr_0112_C_01_00_004(0)","あずさ","は～い。
+ええっと、視線を外して……","Yes~yes.
+Let's see, out of sight ......"
+"workchr_0112_C_01_00_005(0)","Ｐ","（カメラマンと相性がいいのか、
+撮影は順調に進んでいるみたいだな）","(Do you work well with a photographer?
+(Sounds like filming is going well.)"
+"workchr_0112_C_01_00_006(0)","Ｐ","お疲れさまです、あずささん。
+どの写真も素敵に撮れていますよ","Thanks for your help, Azusa.
+All the pictures look great!"
+"workchr_0112_C_01_00_007(0)","あずさ","プロデューサーさんに褒めていただけるなんて、
+頑張ったかいがありました～。うふふ♪","I can't believe the producer praised me,
+It was worth the effort~ ughhhh!"
+"workchr_0112_C_01_00_008(0)","カメラマン","今回、三浦さんの魅力を余すことなく、
+撮影することができました！","This time, we will not miss any of Ms. Miura's charms,
+We were able to photograph it!"
+"workchr_0112_C_01_00_009(0)","カメラマン","色々な一面が撮れたと思いますが、おふたりは
+どんな魅力の写真を、プッシュしたいですか？","I'm sure you guys were able to capture many aspects of the couple.
+What kind of photos of charm do you want to push?"
+"workchr_0112_C_01_00_010(0)","Ｐ","う～ん、そうですね……。
+あずささんは、どう思いますか？","Hmmm, yes, .......
+What do you think, Azusa-san?"
+"workchr_0112_C_01_00_011(0)","あずさ","個人的には、表情をいつもより
+大人っぽくなるように意識してみました","Personally, I've always found the expression to be more
+I made a conscious effort to make it look mature."
+"workchr_0112_C_01_00_012(0)","あずさ","あ、でも……ポーズも咲耶ちゃんに
+相談したりして、研究したんですよ～","Oh, but ...... pose for Sakuya, too.
+I consulted with them and studied them~!"
+"workchr_0112_C_01_00_013(0)","あずさ","どれがいいか、迷っちゃいますね……。
+プロデューサーさんにお願いしてもいいですか？","I can't decide which one I like better. ......
+Can I ask the producer for a favor?"
+"workchr_0112_C_01_00_014(0)","Ｐ","それじゃあ、俺が選ばせてもらいますね","Well, I'll let you choose then."
+"workchr_0112_C_01_00_015(0)","選択肢","表情","facial expression"
+"workchr_0112_C_01_00_016(0)","選択肢","ポーズ","pose"
+"workchr_0112_C_01_00_017(0)","選択肢","脚","leg"
+"workchr_0112_C_01_00_018(0)","選択肢","胸","chest"
+"workchr_0112_C_01_00_019(0)","Ｐ","俺がプッシュしたいのは、表情です。
+特にこの写真なんてどうですか？","What I'm trying to push is the look.
+How about this picture in particular?"
+"workchr_0112_C_01_00_020(0)","あずさ","まあ！　自分で言うのもなんですが、
+とても色っぽいですね、ふふっ♪","Well! I can say it myself,
+Very sexy...phew!"
+"workchr_0112_C_01_00_021(0)","Ｐ","はい。それでいて優しく微笑んでいる表情が、
+見る人の目を奪うと思うんです","Yes, and yet with a gently smiling expression,
+I think it's an eye opener for the viewer."
+"workchr_0112_C_01_00_022(0)","あずさ","そ、そんな、プロデューサーさんったら。
+褒めすぎですよ……","Oh, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no.
+That's too much praise. ......"
+"workchr_0112_C_01_00_023(0)","カメラマン","私もこの写真が三浦さんの魅力を、
+一番引き出していると思います！","I too find this photo fascinating for Mr. Miura,
+I think it brings out the most!"
+"workchr_0112_C_01_00_024(0)","Ｐ","（カメラマンからも太鼓判を押され、
+表情が魅力的な写真に決まった）","(The photographer also gave her stamp of approval,
+(I decided on a photo with an attractive expression)"
+"workchr_0112_C_01_00_025(0)","Ｐ","（あずささんのグラビア特集のおかげで
+雑誌はあっという間に完売した）","(Thanks to Azusa's gravure feature.
+(The magazine sold out in no time.)"
+"workchr_0112_C_01_00_026(0)","Ｐ","ポーズが魅力的な写真がいいと思います。
+この写真とか……","I think the photos should be attractively posed.
+Like this photo: ......"
+"workchr_0112_C_01_00_027(0)","あずさ","あ……私が考えたポーズですね。
+カメラマンさん、どうでしょうか？","Oh ...... I thought of that pose.
+What do you think, photographer?"
+"workchr_0112_C_01_00_028(0)","カメラマン","セクシーで、とてもいいと思います！","I think it is sexy and very nice!"
+"workchr_0112_C_01_00_029(0)","あずさ","うふふ、ありがとうございます♪
+それじゃあ、これでお願いしますね","Mmmm, thank you... ♪
+Well, I'll leave you with this then."
+"workchr_0112_C_01_00_030(0)","Ｐ","（セクシーなあずささんのグラビアに、
+雑誌の売り上げは好調！）","(For sexy Azusa's gravure,
+(Magazine sales are booming!)"
+"workchr_0112_C_01_00_031(0)","Ｐ","（あずささんのファンから、
+たくさんのファンレターが届いたぞ）","(From a fan of Azusa's,
+(Lots of fan letters coming your way.)"
+"workchr_0112_C_01_00_032(0)","Ｐ","あずささんは脚のラインが綺麗ですよね。
+ほら、この写真とか、特にいいと思います","Azusa-san has beautiful legs.
+See, I think this picture and others are especially nice."
+"workchr_0112_C_01_00_033(0)","あずさ","そ、そうでしょうか……？　でも、この写真だと
+カメラが脚に寄りすぎてるかもしれません……","Well, isn't it ......? But with this picture.
+Camera may be too close to the legs ......"
+"workchr_0112_C_01_00_034(0)","Ｐ","そうですね……。でも今回はこのセクシーさを
+押し出したいんですが……","Yes, ......, but this time with this sexiness.
+I'd like to push it out: ......"
+"workchr_0112_C_01_00_035(0)","カメラマン","うーん、結構きわどい感じの写真に見えますね。
+すみません。こっちで修整して、ごまかしてみます","Hmmm, it looks like a pretty racy photo.
+Sorry, I'll fix it over here and try to cover it up."
+"workchr_0112_C_01_00_036(0)","Ｐ","（ギリギリセクシーを目指したが、修整された写真は
+可もなく不可もなく、評価はいまいちだった……）","(I tried to be just barely sexy, but the photo was fixed.
+(Not possible, but the rating was not good: ......)"
+"workchr_0112_C_01_00_037(0)","Ｐ","やっぱりこの写真一択でしょう！
+胸が強調されていて、写真写りもすごくいいですよ","I guess I would have to choose this photo!
+The breasts are emphasized and look very photogenic."
+"workchr_0112_C_01_00_038(0)","あずさ","えっ！？
+こ、この写真は、ちょっと……","
+This picture is a little ......"
+"workchr_0112_C_01_00_039(0)","カメラマン","はい……これはセクシーすぎてボツにしようかと。
+雑誌としても、ギリギリアウトなんで……","Yes ...... this is too sexy and I was thinking of rejecting it.
+As a magazine, we're just about there. ......"
+"workchr_0112_C_01_00_040(0)","Ｐ","そ、そうですか……","Is that so..."
+"workchr_0112_C_01_00_041(0)","Ｐ","（雑誌社からのＮＧもあったが、俺が危険な写真を
+選んだことで、あずささんも傷つけてしまった……）","(There was also a ng from the magazine company, but I was the one who took the dangerous pictures.
+(I also hurt Azusa by choosing ......)"
+"workchr_0112_C_01_00_042(0)","Ｐ","（今回の仕事は成功だ！）","(This job was a success!)"
+"workchr_0112_C_01_00_043(0)","Ｐ","（今回の仕事は失敗だ。次こそは！）","（This job was a mistake...next time!)"

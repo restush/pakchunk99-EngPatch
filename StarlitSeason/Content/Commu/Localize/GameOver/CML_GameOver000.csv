@@ -1,0 +1,351 @@
+"id","character","source","translatedstr"
+"GameOver_01_0000_00_001(0)","高木","プロデューサータスクは、
+うまくいかなかったようだね……","Looks like things didn't work out with your 
+producer tasks..."
+"GameOver_01_0000_00_002(0)","高木","君の実力を買っていたのだが、
+今回のプロジェクトは難易度が高かったか……","I really valued your abilities, but this project was
+way too difficult..."
+"GameOver_01_0000_00_003(0)","高木","残念だが、現時点をもって、
+このプロジェクトは凍結するしかあるまい……","I'ts unfortunate, but as of now, I'm afraid we
+have no choice but to suspend the project..."
+"GameOver_01_0000_00_004(0)","高木","アイドルや関係者には私から謝罪しておこう。
+……ひどい顔をしている。君もしっかり休むといい","I'll apologize to the idols and everyone involved. 
+...You look awful. You should get some good rest."
+"GameOver_02_0000_00_001(0)","高木","ううむ。既定のファン人数に届かなかったか。
+『スターリットシーズン』はここまでのようだね","Hmm. Looks like we didn't reach our fan 
+benchmarks. Our Starlit Season is over."
+"GameOver_02_0000_00_002(0)","高木","ルミナスの挑戦……他事務所との合同ユニットは
+やはり簡単ではなかったか……","The challenges of Luminous... A joint unit with 
+other agencies really wasn't easy after all..."
+"GameOver_02_0000_00_003(0)","高木","残念だが、現時点をもって、
+このプロジェクトは解散するしかあるまい……","I'ts unfortunate, but as of now, I'm afraid we
+have no choice but to suspend the project..."
+"GameOver_02_0000_00_004(0)","高木","アイドルや関係者には私から謝罪しておこう。
+……ひどい顔をしている。君もしっかり休むといい","I'll apologize to the idols and everyone involved. 
+...You look awful. You should get some good rest."
+"GameOver_02_0001_00_001(0)","高木","ううむ。既定のファン人数に届かなかったか。
+『スターリットシーズン』はここまでのようだね","Hmm. Looks like we didn't reach our fan 
+benchmarks. Our Starlit Season is over."
+"GameOver_02_0001_00_002(0)","高木","ルミナスの挑戦……他事務所との合同ユニットは
+やはり簡単ではなかったか……","The challenges of Luminous... A joint unit with 
+other agencies really wasn't easy after all..."
+"GameOver_02_0001_00_003(0)","高木","残念だが、現時点をもって、
+このプロジェクトは解散するしかあるまい……","I'ts unfortunate, but as of now, I'm afraid we
+have no choice but to suspend the project..."
+"GameOver_02_0001_00_004(0)","高木","アイドルや関係者には私から謝罪しておこう。
+……ひどい顔をしている。君もしっかり休むといい","I'll apologize to the idols and everyone involved. 
+...You look awful. You should get some good rest."
+"GameOver_03_0000_00_001(0)","高木","選考ステージが上手くいかなかったようだね。
+君には期待していたのだが、残念な結果となった","Looks like the selection stage didn't go well. I had
+high hopes for you, but this was disappointing."
+"GameOver_03_0000_00_002(0)","高木","『スターリットシーズン』は終了だ……。
+本日をもって、ルミナスは解散としよう","The Starlit Season is over for us...
+As of today, Luminous will disband."
+"GameOver_03_0000_00_003(0)","高木","だが、みんなにとってもいい経験となったと思う。
+……もちろん君にもだ","But, I think it was a good experience for everyone.
+...And also for you as well."
+"GameOver_03_0000_00_004(0)","高木","アイドルや関係者には私から謝罪しておこう。
+……ひどい顔をしている。君もしっかり休むといい","I'll apologize to the idols and everyone involved. 
+...You look awful. You should get some good rest."
+"GameOver_03_0001_00_001(0)","高木","『クリスタルウィンター』、あともう少しだったね。
+最優秀ユニットに選ばれなかったが、頑張ったと思う","We almost had the Crystal Winter. We weren't
+chosen as the best unit, but everyone tried hard."
+"GameOver_03_0001_00_002(0)","高木","『スターリットシーズン』は今日で終了だ
+……本日をもって、ルミナスは解散としよう","Our Starlit Season ends today.
+...As of today, Luminous will disband."
+"GameOver_03_0001_00_003(0)","高木","みんなにとっても、いい経験となったと思う。
+君は少し、休みたまえ","I think it was a good experience for everyone.
+You should get some good rest."
+"GameOver_03_0002_00_001(0)","P","（新しいパフォーマンスは無理なのか……。このまま
+『スターリットシーズン』を進んでいけるのか……）","(Can we not put on another performance...? 
+Can't we continue through the Starlit Season...?)"
+"GameOver_03_0002_00_002(0)","P","（そして…俺の不安は的中した……）","(And so... my anxiety became realized...)"
+"GameOver_03_0002_00_003(0)","P","（月末ステージで結果を出せず、
+そこで『スターリットシーズン』は終了した）","(We didn't make any results for the monthly 
+stage, and so our Starlit Season is over.)"
+"GameOver_03_0004_00_001(0)","P","（ディアマントには遠く及ばなかった……。
+これでは、共演なんて夢のまた夢だ……）","(We were no match against Diamant... At this
+rate, performing together is just a pipedream...)"
+"GameOver_03_0004_00_002(0)","P","（そして……俺の不安は的中した……）","(And so... my anxiety became realized...)"
+"GameOver_03_0004_00_003(0)","P","（年末の『クリスタルウィンター』で結果を出せず、
+ルミナスの『スターリットシーズン』は終了した）","(We didn't gets results for the year-ending 
+Crystal Winter. Luminous' Starlit Season is over.)"
+"GameOver_04_0004_02_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0004_02_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0004_02_003(0)","","「４/１」","April 3"
+"GameOver_04_0004_02_004(0)","","「４/１０」","April 10"
+"GameOver_04_0004_02_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0004_02_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0004_03_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0004_03_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0004_03_003(0)","","「４/１」","April 3"
+"GameOver_04_0004_03_004(0)","","「４/１０」","April 10"
+"GameOver_04_0004_03_005(0)","","「４/１７」","April 17"
+"GameOver_04_0004_03_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0004_03_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0004_04_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0004_04_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0004_04_003(0)","","「４/１」","April 3"
+"GameOver_04_0004_04_004(0)","","「４/１０」","April 10"
+"GameOver_04_0004_04_005(0)","","「４/１７」","April 17"
+"GameOver_04_0004_04_006(0)","","「４/２４」","April 24"
+"GameOver_04_0004_04_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0004_04_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0005_01_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0005_01_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0005_01_003(0)","","「５/１」","May 1"
+"GameOver_04_0005_01_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0005_01_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0005_02_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0005_02_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0005_02_003(0)","","「５/１」","May 1"
+"GameOver_04_0005_02_004(0)","","「５/８」","May 8"
+"GameOver_04_0005_02_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0005_02_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0005_03_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0005_03_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0005_03_003(0)","","「５/１」","May 1"
+"GameOver_04_0005_03_004(0)","","「５/８」","May 8"
+"GameOver_04_0005_03_005(0)","","「５/１５」","May 15"
+"GameOver_04_0005_03_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0005_03_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0005_04_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0005_04_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0005_04_003(0)","","「５/１」","May 1"
+"GameOver_04_0005_04_004(0)","","「５/８」","May 8"
+"GameOver_04_0005_04_005(0)","","「５/１５」","May 15"
+"GameOver_04_0005_04_006(0)","","「５/２２」","May 22"
+"GameOver_04_0005_04_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0005_04_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0006_01_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0006_01_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0006_01_003(0)","","「６/２」","June 5"
+"GameOver_04_0006_01_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0006_01_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0006_02_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0006_02_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0006_02_003(0)","","「６/２」","June 5"
+"GameOver_04_0006_02_004(0)","","「６/１２」","June 12"
+"GameOver_04_0006_03_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0006_03_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0006_03_003(0)","","「６/２」","June 5"
+"GameOver_04_0006_03_004(0)","","「６/１２」","June 12"
+"GameOver_04_0006_03_005(0)","","「６/１９」","June 19"
+"GameOver_04_0006_04_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0006_04_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0006_04_003(0)","","「６/２」","June 5"
+"GameOver_04_0006_04_004(0)","","「６/１２」","June 12"
+"GameOver_04_0006_04_005(0)","","「６/１９」","June 19"
+"GameOver_04_0006_04_006(0)","","「６/２６」","June 26"
+"GameOver_04_0007_01_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0007_01_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0007_01_003(0)","","「７/３」","July 3"
+"GameOver_04_0007_01_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0007_01_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0006_04_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0007_02_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0007_02_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0007_02_003(0)","","「７/３」","July 3"
+"GameOver_04_0007_02_004(0)","","「７/１０」","July 10"
+"GameOver_04_0007_02_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0007_02_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0007_03_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0007_03_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0007_03_003(0)","","「７/３」","July 3"
+"GameOver_04_0007_03_004(0)","","「７/１０」","July 10"
+"GameOver_04_0007_03_005(0)","","「７/１７」","July 17"
+"GameOver_04_0007_03_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0007_03_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0007_04_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0007_04_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0007_04_003(0)","","「７/３」","July 3"
+"GameOver_04_0007_04_004(0)","","「７/１０」","July 10"
+"GameOver_04_0007_04_005(0)","","「７/１７」","July 17"
+"GameOver_04_0007_04_006(0)","","「７/２４」","July 24"
+"GameOver_04_0007_04_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0007_04_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0008_03_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0008_03_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0008_03_003(0)","","「８/１」","August 1"
+"GameOver_04_0008_03_004(0)","","「８/７」","August 7"
+"GameOver_04_0008_03_005(0)","","「８/１４」","August 14"
+"GameOver_04_0008_03_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0008_03_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0008_04_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0008_04_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0008_04_003(0)","","「８/１」","August 1"
+"GameOver_04_0008_04_004(0)","","「８/７」","August 7"
+"GameOver_04_0008_04_005(0)","","「８/１４」","August 14"
+"GameOver_04_0008_04_006(0)","","「８/２１」","August 21"
+"GameOver_04_0008_04_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0008_04_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0009_01_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0009_01_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0009_01_003(0)","","「９/１」","September 1"
+"GameOver_04_0009_01_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0009_01_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0009_02_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0009_02_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0009_02_003(0)","","「９/１」","September 1"
+"GameOver_04_0009_02_004(0)","","「９/１１」","September 11"
+"GameOver_04_0009_02_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0009_02_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0009_03_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0009_03_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0009_03_003(0)","","「９/１」","September 1"
+"GameOver_04_0009_03_004(0)","","「９/１１」","September 11"
+"GameOver_04_0009_03_005(0)","","「９/１８」","September 18"
+"GameOver_04_0009_03_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0009_03_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0009_04_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0009_04_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0009_04_003(0)","","「９/１」","September 1"
+"GameOver_04_0009_04_004(0)","","「９/１１」","September 11"
+"GameOver_04_0009_04_005(0)","","「９/１８」","September 18"
+"GameOver_04_0009_04_006(0)","","「９/２５」","September 25"
+"GameOver_04_0009_04_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0009_04_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0010_01_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0010_01_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0010_01_003(0)","","「１０/２」","October 2"
+"GameOver_04_0010_01_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0010_01_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0010_02_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0010_02_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0010_02_003(0)","","「１０/２」","October 2"
+"GameOver_04_0010_02_004(0)","","「１０/９」","October 9"
+"GameOver_04_0010_02_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0010_02_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0010_03_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0010_03_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0010_03_003(0)","","「１０/２」","October 2"
+"GameOver_04_0010_03_004(0)","","「１０/９」","October 9"
+"GameOver_04_0010_03_005(0)","","「１０/１６」","October 16"
+"GameOver_04_0010_03_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0010_03_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0010_04_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0010_04_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0010_04_003(0)","","「１０/２」","October 2"
+"GameOver_04_0010_04_004(0)","","「１０/９」","October 9"
+"GameOver_04_0010_04_005(0)","","「１０/１６」","October 16"
+"GameOver_04_0010_04_006(0)","","「１０/２３」","October 23"
+"GameOver_04_0010_04_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0010_04_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0011_01_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0011_01_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0011_01_003(0)","","「１０/３０」","October 30"
+"GameOver_04_0011_01_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0011_01_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0011_02_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0011_02_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0011_02_003(0)","","「１０/３０」","October 30"
+"GameOver_04_0011_02_004(0)","","「１１/１３」","November 13"
+"GameOver_04_0011_02_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0011_02_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0011_03_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0011_03_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0011_03_003(0)","","「１０/３０」","October 30"
+"GameOver_04_0011_03_004(0)","","「１１/１３」","November 13"
+"GameOver_04_0011_03_005(0)","","「１１/２０」","November 20"
+"GameOver_04_0011_03_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0011_03_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0011_04_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0011_04_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0011_04_003(0)","","「１０/３０」","October 30"
+"GameOver_04_0011_04_004(0)","","「１１/１３」","November 13"
+"GameOver_04_0011_04_005(0)","","「１１/２０」","November 20"
+"GameOver_04_0011_04_006(0)","","「１１/２７」","November 27"
+"GameOver_04_0011_04_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0011_04_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0012_01_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0012_01_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0012_01_003(0)","","「１２/１」","December 1"
+"GameOver_04_0012_01_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0012_01_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0012_02_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0012_02_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0012_02_003(0)","","「１２/１」","December 1"
+"GameOver_04_0012_02_004(0)","","「１２/１１」","December 11"
+"GameOver_04_0012_02_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0012_02_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0012_03_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0012_03_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0012_03_003(0)","","「１２/１」","December 1"
+"GameOver_04_0012_03_004(0)","","「１２/１１」","December 11"
+"GameOver_04_0012_03_005(0)","","「１２/１８」","December 18"
+"GameOver_04_0012_03_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0012_03_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."
+"GameOver_04_0012_04_001(0)","P","俺は判断を間違えたのか……しっかりプロデュース
+していれば、違う結果になったのだろうか……","Did I make a mistake...? I wonder if my results
+producing would've been different if I did better..."
+"GameOver_04_0012_04_002(0)","P","（もし、あのときに戻れるなら……）","(If I could go back to that time...)"
+"GameOver_04_0012_04_003(0)","","「１２/１」","December 1"
+"GameOver_04_0012_04_004(0)","","「１２/１１」","December 11"
+"GameOver_04_0012_04_005(0)","","「１２/１８」","December 18"
+"GameOver_04_0012_04_006(0)","","「１２/２５」","December 25"
+"GameOver_04_0012_04_007(0)","P","なんてな……って、あれ？","What... what's this?"
+"GameOver_04_0012_04_008(0)","P","い、意識が……遠のいて……いく……","M-my consciousness is... drifting... far away..."

@@ -1,0 +1,2406 @@
+key,source,target,Translation Notes,Outstanding issues
+ST_In_MD/TEXT_01_0001,今日もノッてくぜー！！,,,
+ST_In_MD/TEXT_01_0002,ええー、もう終わりー？,"Ehh, it's already over?",,
+ST_In_MD/TEXT_01_0011,全然ユレがたんないよ！！,,,
+ST_In_MD/TEXT_01_0012,もっとノッてこー！,,,
+ST_In_MD/TEXT_01_0021,ノッてきた！,,,
+ST_In_MD/TEXT_01_0022,チケットとれて良かったー！,I'm glad I got tickets!,,
+ST_In_MD/TEXT_01_0031,テンション上がってきたー！,The tension is rising!,,
+ST_In_MD/TEXT_01_0032,ユレてきた！！,,,
+ST_In_MD/TEXT_01_0041,やっぱ、歌は生できかないとね！,,,
+ST_In_MD/TEXT_01_0042,この歌声を待ってたんだ！,I've been waiting for this singing!,,
+ST_In_MD/TEXT_01_0051,キャー！今のステップステキー！！,Kyaa! That move just now was wonderful!!,,
+ST_In_MD/TEXT_01_0052,踊りがカッコイイよね！！,That dance was so cool!!,,
+ST_In_MD/TEXT_01_0061,あ、今こっち見て笑ったよね！！,"Ah, I just noticed this and laughed!!",,
+ST_In_MD/TEXT_01_0062,あの笑顔に、いやされるんだよなあ！,That smile has healed me!,,
+ST_In_MD/TEXT_01_1001,合格できるのは上位{CLEAR_RANK}組までですよ,,,
+ST_In_MD/TEXT_01_1002,ふー……。お疲れ様です,,,
+ST_In_MD/TEXT_01_1051,私の指示通りの順番でアピールしてください,Please appeal in the order of my instructions.,,
+ST_In_MD/TEXT_01_1052,そうです！素晴らしいですね,Yes! This is wonderful.,,
+ST_In_MD/TEXT_01_1053,…ちょっと難しかったでしょうか？,...was that too difficult?,,
+ST_In_MD/TEXT_01_1061,元気がいいアイドル、ポイント高いですよ！,Extra points for the energetic idol!,,
+ST_In_MD/TEXT_01_1062,あなたの歌声、魅力的です！,Your singing is fascinating!,,
+ST_In_MD/TEXT_01_1063,あなたのダンス、目が離せません！,,,
+ST_In_MD/TEXT_01_1064,あなたの笑顔、素敵ですね！,,,
+ST_In_MD/TEXT_01_1065,センターの子に注目ね！,Focus on the girl at the center!,,
+ST_In_MD/TEXT_01_1066,あなたアピールが少ないわ、見せてくれる,"You haven't made many appeals, show me what you've got.",,
+ST_In_MD/TEXT_01_1067,私のジンクス２番の位置の子に注目よ！,,,
+ST_In_MD/TEXT_01_1068,私のジンクス３番の位置の子に注目よ！,,,
+ST_In_MD/TEXT_01_1069,私のジンクス４番の位置の子に注目よ！,,,
+ST_In_MD/TEXT_01_1070,私のジンクス５番の位置の子に注目よ！,,,
+ST_In_MD/TEXT_01_1101,俺の番組に出演できるのは上位{CLEAR_RANK}組まで！,,,
+ST_In_MD/TEXT_01_1102,そこまで！みんな、お疲れ！,"That's a wrap! Good work, everyone!",,
+ST_In_MD/TEXT_01_1151,指示した順番通りにアピールしてみろ！,,,
+ST_In_MD/TEXT_01_1152,やるじゃないか！そうこなくっちゃな！,,,
+ST_In_MD/TEXT_01_1153,おいおい…がっかりさせないでくれよ,,,
+ST_In_MD/TEXT_01_1161,元気が１番！キミに注目だ！,,,
+ST_In_MD/TEXT_01_1162,そこのキミ、いい声出てるじゃないか！,,,
+ST_In_MD/TEXT_01_1163,そこのキミ、キレのいい動きしてるな！,,,
+ST_In_MD/TEXT_01_1164,そこのキミ、輝いてるな！,,,
+ST_In_MD/TEXT_01_1165,センターが気になるよね,,,
+ST_In_MD/TEXT_01_1166,キミはアピールできてないな、みせてくれ！,,,
+ST_In_MD/TEXT_01_1167,俺のジンクス２番の子はどうかな,,,
+ST_In_MD/TEXT_01_1168,俺のジンクス３番の子はどうかな,,,
+ST_In_MD/TEXT_01_1169,俺のジンクス４番の子はどうかな,,,
+ST_In_MD/TEXT_01_1170,俺のジンクス５番の子はどうかな,,,
+ST_In_MD/TEXT_01_1201,上位{CLEAR_RANK}組まで合格だ、力を見せてくれ,,,
+ST_In_MD/TEXT_01_1202,審査は終了だ、ご苦労,,,
+ST_In_MD/TEXT_01_1251,指示した順にアピールできるか、チェックだ,,,
+ST_In_MD/TEXT_01_1252,ふむ、そうこなくてはな,,,
+ST_In_MD/TEXT_01_1253,…期待しすぎたか？,,,
+ST_In_MD/TEXT_01_1261,あんたの元気の良さ、評価に値するな,,,
+ST_In_MD/TEXT_01_1262,いい声を持っているな、あんた,,,
+ST_In_MD/TEXT_01_1263,あんたの身のこなし、ただものじゃないな,,,
+ST_In_MD/TEXT_01_1264,あんた、なかなか華があるじゃないか,,,
+ST_In_MD/TEXT_01_1265,センターは大丈夫か？,Is the center OK?,,
+ST_In_MD/TEXT_01_1266,あんたアピールが少ないな、できるのか？,,,
+ST_In_MD/TEXT_01_1267,ジンクスでいけば２番の子が気になるな,,,
+ST_In_MD/TEXT_01_1268,ジンクスでいけば３番の子が気になるな,,,
+ST_In_MD/TEXT_01_1269,ジンクスでいけば４番の子が気になるな,,,
+ST_In_MD/TEXT_01_1270,ジンクスでいけば５番の子が気になるな,,,
+ST_In_MD/TEXT_01_1301,私が認めるのは上位{CLEAR_RANK}組までです,,,
+ST_In_MD/TEXT_01_1302,そこまで。あなたたちの実力はわかりました,,,
+ST_In_MD/TEXT_01_1351,私の指示通り、動いてもらいましょうか,,,
+ST_In_MD/TEXT_01_1352,なるほど……悪くありませんね,,,
+ST_In_MD/TEXT_01_1353,あなたには失望しました,,,
+ST_In_MD/TEXT_01_1361,あなたの活発さ……目を引きますね,,,
+ST_In_MD/TEXT_01_1362,あなたの歌声……耳に残りますね,,,
+ST_In_MD/TEXT_01_1363,あなたのダンス……もっと見せなさい,,,
+ST_In_MD/TEXT_01_1364,あなたの輝き……見過ごせませんね,,,
+ST_In_MD/TEXT_01_1365,センターはどうですか？,,,
+ST_In_MD/TEXT_01_1366,あなた、アピールが足りていませんよ？,,,
+ST_In_MD/TEXT_01_1367,２番のあなた……チャンスをあげましょう,,,
+ST_In_MD/TEXT_01_1368,３番のあなた……チャンスをあげましょう,,,
+ST_In_MD/TEXT_01_1369,４番のあなた……チャンスをあげましょう,,,
+ST_In_MD/TEXT_01_1370,５番のあなた……チャンスをあげましょう,,,
+ST_In_MD/TEXT_01_1401,さあ、はじめましょう！上位{CLEAR_RANK}組まで合格よ,,,
+ST_In_MD/TEXT_01_1402,審査はここまで！……素晴らしい競演だったわ,,,
+ST_In_MD/TEXT_01_1451,わたしの指示通りに動いてみせて！,,,
+ST_In_MD/TEXT_01_1452,あら、アナタ、とてもいいわ！,,,
+ST_In_MD/TEXT_01_1453,どうやら見込み違いだったようね……,,,
+ST_In_MD/TEXT_01_1461,アナタの情熱……もっと燃やしてみなさい！,,,
+ST_In_MD/TEXT_01_1462,アナタ、いい歌声を持っているのね,,,
+ST_In_MD/TEXT_01_1463,そこのアナタ！なんて機敏なダンスなの！,,,
+ST_In_MD/TEXT_01_1464,アナタの美しさ……目が離せないわ,,,
+ST_In_MD/TEXT_01_1465,アナタの時間よ、センター！,,,
+ST_In_MD/TEXT_01_1466,そこのアナタ、もっとアピールなさい,,,
+ST_In_MD/TEXT_01_1467,わたしの勘は２番に注目と言っているわ！,,,
+ST_In_MD/TEXT_01_1468,わたしの勘は３番に注目と言っているわ！,,,
+ST_In_MD/TEXT_01_1469,わたしの勘は４番に注目と言っているわ！,,,
+ST_In_MD/TEXT_01_1470,わたしの勘は５番に注目と言っているわ！,,,
+ST_In_MD/TEXT_01_1501,上位{CLEAR_RANK}組まで合格ね！アゲていこっ♪,,,
+ST_In_MD/TEXT_01_1502,はい、そこまで～！いい感じだったょ,,,
+ST_In_MD/TEXT_01_1551,あたしのお願い、聞いてくれるよね？,,,
+ST_In_MD/TEXT_01_1552,うんうん！いい感じ♪,,,
+ST_In_MD/TEXT_01_1553,普通そこで失敗するぅ？,,,
+ST_In_MD/TEXT_01_1561,あの子、テンションぶちアゲだね！,,,
+ST_In_MD/TEXT_01_1562,ちょっと、あの子見て！歌うまっ！,,,
+ST_In_MD/TEXT_01_1563,あの子のダンス見た！？マジヤバっ！,,,
+ST_In_MD/TEXT_01_1564,あの子、すっごいキレイ……,,,
+ST_In_MD/TEXT_01_1565,センターはどう？盛り上がってるぅ？,,,
+ST_In_MD/TEXT_01_1566,あの子、もしかして恥ずかしがり屋さん？,,,
+ST_In_MD/TEXT_01_1567,２番の子！あたしが見てるょ！,2nd girl! I'm watching you!,,
+ST_In_MD/TEXT_01_1568,３番の子！あたしが見てるょ！,3rd girl! I'm watching you!,,
+ST_In_MD/TEXT_01_1569,４番の子！あたしが見てるょ！,4th girl! I'm watching you!,,
+ST_In_MD/TEXT_01_1570,５番の子！あたしが見てるょ！,5th girl! I'm watching you!,,
+ST_In_MD/TEXT_01_1601,いきますよ！上位{CLEAR_RANK}組までが合格です,,,
+ST_In_MD/TEXT_01_1602,そこまで！みなさん、よござんした,,,
+ST_In_MD/TEXT_01_1651,私の指導に、ついてこれますかな？,,,
+ST_In_MD/TEXT_01_1652,あっぱれ！お見事です,,,
+ST_In_MD/TEXT_01_1653,少し期待が過ぎましたか……,,,
+ST_In_MD/TEXT_01_1661,あなた、いい気迫ですね！すんばらしい,,,
+ST_In_MD/TEXT_01_1662,あなたの歌唱力……もっと見せてください,,,
+ST_In_MD/TEXT_01_1663,あなたの舞い姿……惹きつけられますね,,,
+ST_In_MD/TEXT_01_1664,あなたの美しさ……大輪の花のようだ,,,
+ST_In_MD/TEXT_01_1665,センター、あなたの出番ですよ,"Center, it's your turn.",,
+ST_In_MD/TEXT_01_1666,あなた、もっとアピールなさい,"You there, I need more appeals.",,
+ST_In_MD/TEXT_01_1667,私のラッキーナンバー、２番はどうです？,"How are you faring, my lucky number 2?",,
+ST_In_MD/TEXT_01_1668,私のラッキーナンバー、３番はどうです？,"How are you faring, my lucky number 3?",,
+ST_In_MD/TEXT_01_1669,私のラッキーナンバー、４番はどうです？,"How are you faring, my lucky number 4?",,
+ST_In_MD/TEXT_01_1670,私のラッキーナンバー、５番はどうです？,"How are you faring, my lucky number 5?",,
+ST_In_MD/TEXT_01_1701,はじめますわ。合格は上位{CLEAR_RANK}組までよ,,,
+ST_In_MD/TEXT_01_1702,そこまで！さあ、最後に笑うのは誰かしら？,,,
+ST_In_MD/TEXT_01_1751,私のリクエスト、応えられて？,,,
+ST_In_MD/TEXT_01_1752,少しは見所があるみたいね,,,
+ST_In_MD/TEXT_01_1753,ふぅ……ガッカリさせないでくれる？,,,
+ST_In_MD/TEXT_01_1761,ここは貴方の独壇場、もっと魅せなさい？,,,
+ST_In_MD/TEXT_01_1762,貴方の歌声、もう少し聴かせてくれる？,,,
+ST_In_MD/TEXT_01_1763,貴方の舞踏、もう少し見させてくれる？,,,
+ST_In_MD/TEXT_01_1764,貴方の美貌、もう少し咲かせてくれる？,,,
+ST_In_MD/TEXT_01_1765,センター、準備はよくて？見ているわよ,,,
+ST_In_MD/TEXT_01_1766,貴方、アピールが足りないわ。本気を出して,,,
+ST_In_MD/TEXT_01_1767,今日の気分は２番……そう、貴方のことよ,,,
+ST_In_MD/TEXT_01_1768,今日の気分は３番……そう、貴方のことよ,,,
+ST_In_MD/TEXT_01_1769,今日の気分は４番……そう、貴方のことよ,,,
+ST_In_MD/TEXT_01_1770,今日の気分は５番……そう、貴方のことよ,,,
+ST_In_MD/TEXT_01_1801,上位{CLEAR_RANK}組までが合格だ。死力を尽くせ,,,
+ST_In_MD/TEXT_01_1802,終わりだ。物足りないな……こんなものか？,,,
+ST_In_MD/TEXT_01_1851,俺の指示通りに動いてみせろ,,,
+ST_In_MD/TEXT_01_1852,少しはやるようだな？,,,
+ST_In_MD/TEXT_01_1853,ふん……話にならん,,,
+ST_In_MD/TEXT_01_1861,いい気合いだ。もっとみせてみろ,,,
+ST_In_MD/TEXT_01_1862,ボーカルは及第点だ。もっとないのか？,,,
+ST_In_MD/TEXT_01_1863,ダンスは及第点だ。もっとないのか？,,,
+ST_In_MD/TEXT_01_1864,ビジュアルは及第点だ。もっとないのか？,,,
+ST_In_MD/TEXT_01_1865,センター、本気を出してみろ,,,
+ST_In_MD/TEXT_01_1866,そこ、アピールが足りないぞ,,,
+ST_In_MD/TEXT_01_1867,２番、動けるか？……みせてみろ,,,
+ST_In_MD/TEXT_01_1868,３番、動けるか？……みせてみろ,,,
+ST_In_MD/TEXT_01_1869,４番、動けるか？……みせてみろ,,,
+ST_In_MD/TEXT_01_1870,５番、動けるか？……みせてみろ,,,
+ST_In_MD/TEXT_01_1901,最終審査をはじめる。合格は上位{CLEAR_RANK}組までだ,,,
+ST_In_MD/TEXT_01_1902,終わりだ。最終審査に相応しい戦いだった,,,
+ST_In_MD/TEXT_01_1951,さあ、俺の指示についてこれるか！？,,,
+ST_In_MD/TEXT_01_1952,素晴らしい……素晴らしいぞっ！,,,
+ST_In_MD/TEXT_01_1953,少し期待をしすぎたか……,,,
+ST_In_MD/TEXT_01_1961,いいテンションだ……！どこまでいける！？,,,
+ST_In_MD/TEXT_01_1962,心が震える……！なんという歌唱力だ！,,,
+ST_In_MD/TEXT_01_1963,胸が弾む……！なんて軽快なダンスだ！,,,
+ST_In_MD/TEXT_01_1964,目を奪われる……！圧倒的なビジュアルだ！,,,
+ST_In_MD/TEXT_01_1965,センター！お前はこんなものじゃないだろ？,,,
+ST_In_MD/TEXT_01_1966,アピールが足らないぞ！宝の持ち腐れだ！,,,
+ST_In_MD/TEXT_01_1967,２番の調子はどうだ？もっと見せてくれ！,,,
+ST_In_MD/TEXT_01_1968,３番の調子はどうだ？もっと見せてくれ！,,,
+ST_In_MD/TEXT_01_1969,４番の調子はどうだ？もっと見せてくれ！,,,
+ST_In_MD/TEXT_01_1970,５番の調子はどうだ？もっと見せてくれ！,,,
+ST_In_MD/TEXT_01_2001,幸せの笑顔届けます！,Delivering Happy Smiles!,,
+ST_In_MD/TEXT_01_2002,みんなに素敵な時間を,Having a Good Time with Everyone,overflow,
+ST_In_MD/TEXT_01_2003,みんなの視線独り占め,Everyone's Point of Attention,overflow,
+ST_In_MD/TEXT_01_2004,眠り姫の見る夢は……,The Dream of the Sleeping Princess is...,,
+ST_In_MD/TEXT_01_2005,約束の地に響く歌声,Singing Echoes in the Promised Land,overflow,
+ST_In_MD/TEXT_01_2006,蒼き鳥の羽ばたき,Flapping of the Blue Bird,,
+ST_In_MD/TEXT_01_2007,キラメキ全開の元気！,Glittering Energy Unleashed!,,
+ST_In_MD/TEXT_01_2008,一緒にハイターッチ♪,Let's High-Five♪,,
+ST_In_MD/TEXT_01_2009,一歩を踏み出す勇気,Courage to Take the First Step,,
+ST_In_MD/TEXT_01_2010,ナミダの先にある笑顔,A Smile Beyond the Tears,,
+ST_In_MD/TEXT_01_2011,躍動ダンス&ステップ,Dynamic Dance & Step,,
+ST_In_MD/TEXT_01_2012,プリティパフォーマー,Pretty Performer,,
+ST_In_MD/TEXT_01_2013,真美☆ドリーミング,Mami☆Dreaming,,
+ST_In_MD/TEXT_01_2014,真美流おとなあぴーる,Mami-style Adult Appeal,,
+ST_In_MD/TEXT_01_2015,月下に佇む一輪の花,Lone Flower Beneath the Moon,,
+ST_In_MD/TEXT_01_2016,風と彩る花びらの舞,Windy & Colorful Petal Dance,overflow,
+ST_In_MD/TEXT_01_2017,はいさい南国ダンス♪,Haisai Southern Dance♪,,
+ST_In_MD/TEXT_01_2018,常夏太陽テンション！,Endless Summer Solar Tension!,overflow,
+ST_In_MD/TEXT_01_2019,気まぐれダイアモンド,Whimsical Diamond,,
+ST_In_MD/TEXT_01_2020,世界一アイドル宣言！,Self-proclaimed World's #1 Idol!,overflow,
+ST_In_MD/TEXT_01_2021,亜美☆シャイニング,Ami☆Shining,,
+ST_In_MD/TEXT_01_2022,亜美流ぴゅああぴーる,Ami-style Pure Appeal,,
+ST_In_MD/TEXT_01_2023,慈愛の微笑み,Smiles of Kindness,,
+ST_In_MD/TEXT_01_2024,晴れ色な思い伝えます,Reminder of Sunny Colors,,
+ST_In_MD/TEXT_01_2025,パーフェクトブレイン,Perfect Brain,,
+ST_In_MD/TEXT_01_2026,いっぱいの魔法を君に,Give You a Lot of Magic,,
+ST_In_MD/TEXT_01_2027,光輝なる堕天の祝福,Brilliant Fallen Angel's Blessing,,
+ST_In_MD/TEXT_01_2028,ゲファレナーエンゲル,Gefallener Engel,,
+ST_In_MD/TEXT_01_2029,まいぺーすあぴーる,My Pace Appeal,,
+ST_In_MD/TEXT_01_2030,たまには本気出すかな,I'll Get Serious Every So Often,overflow,
+ST_In_MD/TEXT_01_2031,ギャル★エモーション,Gyaru★Emotion,,
+ST_In_MD/TEXT_01_2032,トキメキ★マイハート,Tokimeki★My Heart,not sure how to translate tokimeki,
+ST_In_MD/TEXT_01_2033,きらりん☆すぱーくる,Kirarin☆Sparkle,,
+ST_In_MD/TEXT_01_2034,はぴはぴ☆まじっく,Happy Happy☆Magic,,
+ST_In_MD/TEXT_01_2035,シャイニングウサミン,Shining Usamin,,
+ST_In_MD/TEXT_01_2036,ウサミン星より愛を！,Love from Planet Usamin!,,
+ST_In_MD/TEXT_01_2037,高みへと臨む光の風,Wind of Light Facing The Heights,,
+ST_In_MD/TEXT_01_2038,心と心を結ぶ恋風,Wind of Love that Connects Hearts,,
+ST_In_MD/TEXT_01_2039,未来に届く満開の笑顔,Full Bloom Smile that Reaches the Future,,
+ST_In_MD/TEXT_01_2040,夢に向かってスマイル,Smiling Towards Her Dream,barely overflow,
+ST_In_MD/TEXT_01_2041,静かなる決意の旋律,Melody of Silent Determination,,
+ST_In_MD/TEXT_01_2042,たった一つの歌,Just One Song,,
+ST_In_MD/TEXT_01_2043,きらめけ！羽ばたく翼,Glitter! Flapping Wings,,
+ST_In_MD/TEXT_01_2044,みんなわたしに夢中♪,Everyone is Crazy About Me♪,overflow,
+ST_In_MD/TEXT_01_2045,不器用な想いと紬ぐ糸,Awkward Feelings with Tsumugi Threads,,
+ST_In_MD/TEXT_01_2046,素直な気持ち一歩ずつ,Step At a Time With Honest Feelings,overflow,
+ST_In_MD/TEXT_01_2047,織り重なる調和の歌声,Singing That Weaves Harmony,,
+ST_In_MD/TEXT_01_2048,笑顔のアンサンブル,Ensemble of Smiles,,
+ST_In_MD/TEXT_01_2049,想いを伝える琴の葉,Conveying the Sounds of the Koto Leaves,koto no ha is a metaphoric phrase that's weird to translate literally -F91,
+ST_In_MD/TEXT_01_2050,素直な気持ちを歌声に,Singing Honest Feelings,,
+ST_In_MD/TEXT_01_2051,まどろみジェミニ,Sleepy Gemini,"Changed from Sleeping Gemini to Sleepy Gemini to match the same structure
+as Amana's Unison Appeal, since her and Tenka are twins.",
+ST_In_MD/TEXT_01_2052,乱れ咲きブルースター,Abruptly Blooming Blue Star,overflow,
+ST_In_MD/TEXT_01_2053,彩光のアルバ,Alba's Colors,not sure how to translate the kanji,
+ST_In_MD/TEXT_01_2054,未開拓ジャーニー,Undeveloped Journey,,
+ST_In_MD/TEXT_01_2055,ルミナスフラッシュ！,Luminous Flash!,,
+ST_In_MD/TEXT_01_2056,ヒーローアピール！！,Hero Appeal!!,,
+ST_In_MD/TEXT_01_2057,はつらつジェミニ,Lively Gemini,,
+ST_In_MD/TEXT_01_2058,咲き誇るサルビア,Full Blooming Salvia,,
+ST_In_MD/TEXT_01_2059,七色光彩,Rainbow Glow,,
+ST_In_MD/TEXT_01_2060,凛として進む道,Dignified Path,,
+ST_In_MD/TEXT_01_2061,ウラオモテノハート,Two-faced Heart,,
+ST_In_MD/TEXT_01_2062,ミスティックパープル,Mystic Purple,,
+ST_In_MD/TEXT_01_2063,絢爛たる獅子の舞踏,Gorgeous Lion Dance,,
+ST_In_MD/TEXT_01_2064,至高に挑む王者の威風,Majestic King That Challenges the Best,overflow,
+ST_In_MD/TEXT_01_2065,咲き誇れ星々の旋律,Melody of Blooming Stars,,
+ST_In_MD/TEXT_01_2066,世界に響け慈愛の歌声,Kind Singing That Echoes Worldwide,overflow,
+ST_In_MD/TEXT_01_2067,純白無垢なる可能性,Possibility of Pure White Innocence,,
+ST_In_MD/TEXT_01_2068,紡がれた絆と歩む世界,World That Spins Through Bonds,not sure how accurate this is. overflow,
+ST_In_MD/TEXT_01_2069,漆黒を舞う熱き想念,Passionate Ideas That Dance in Jet Black,,
+ST_In_MD/TEXT_01_2070,白夜を望む情熱の歌声,Passionite Singing That Overlooks the Midnight Sun,overflow,
+ST_In_MD/TEXT_01_2201,トリックオアトリート☆上位{CLEAR_RANK}組が合格ね♪,,,
+ST_In_MD/TEXT_01_2202,そこまで☆ハロウィンの栄冠は誰の手に！？,,,
+ST_In_MD/TEXT_01_2251,お願い☆あたしの言う通りに動いて♪,,,
+ST_In_MD/TEXT_01_2252,さっすが☆あとでキャンディあげる♪,,,
+ST_In_MD/TEXT_01_2253,ドンマイ☆あとでイタズラしてあげる♪,,,
+ST_In_MD/TEXT_01_2261,きゃはっ☆キミ、テンション高いね♪,,,
+ST_In_MD/TEXT_01_2262,うきゃっ☆ボーカルとってもいい感じ♪,,,
+ST_In_MD/TEXT_01_2263,うきゃっ☆ダンスとってもいい感じ♪,,,
+ST_In_MD/TEXT_01_2264,うきゃっ☆ビジュアルとってもいい感じ♪,,,
+ST_In_MD/TEXT_01_2265,おーいっ☆センター！生きてるか―！,,,
+ST_In_MD/TEXT_01_2266,ありゃっ☆キミ、もっとアピールしなきゃ！,,,
+ST_In_MD/TEXT_01_2267,じゃーんっ☆抽選の結果、２番が当選です♪,,,
+ST_In_MD/TEXT_01_2268,じゃーんっ☆抽選の結果、３番が当選です♪,,,
+ST_In_MD/TEXT_01_2269,じゃーんっ☆抽選の結果、４番が当選です♪,,,
+ST_In_MD/TEXT_01_2270,じゃーんっ☆抽選の結果、５番が当選です♪,,,
+ST_In_MD/TEXT_01_2301,審査スタート☆上位{CLEAR_RANK}組までが合格だよ♪,,,
+ST_In_MD/TEXT_01_2302,そこまで☆勝利の栄冠は誰の手に！？,,,
+ST_In_MD/TEXT_01_2351,お願い☆あたしの言う通りに動いて♪,,,
+ST_In_MD/TEXT_01_2352,さっすが☆ミッション大成功、だね♪,,,
+ST_In_MD/TEXT_01_2353,ドンマイ☆失敗しても明日があるさ♪,,,
+ST_In_MD/TEXT_01_2361,きゃはっ☆キミ、テンション高いね♪,,,
+ST_In_MD/TEXT_01_2362,うきゃっ☆ボーカルとってもいい感じ♪,,,
+ST_In_MD/TEXT_01_2363,うきゃっ☆ダンスとってもいい感じ♪,,,
+ST_In_MD/TEXT_01_2364,うきゃっ☆ビジュアルとってもいい感じ♪,,,
+ST_In_MD/TEXT_01_2365,おーいっ☆センター！生きてるか―！,,,
+ST_In_MD/TEXT_01_2366,ありゃっ☆キミ、もっとアピールしなきゃ！,,,
+ST_In_MD/TEXT_01_2367,じゃーんっ☆抽選の結果、２番が当選です♪,,,
+ST_In_MD/TEXT_01_2368,じゃーんっ☆抽選の結果、３番が当選です♪,,,
+ST_In_MD/TEXT_01_2369,じゃーんっ☆抽選の結果、４番が当選です♪,,,
+ST_In_MD/TEXT_01_2370,じゃーんっ☆抽選の結果、５番が当選です♪,,,
+ST_In_MD/TEXT_01_2401,ルミナスＶＳディアマント。審査開始シマス,,,
+ST_In_MD/TEXT_01_2402,審査終了シマス。審査結果集計中…………,,,
+ST_In_MD/TEXT_01_2451,アピールミッション、審査開始……,,,
+ST_In_MD/TEXT_01_2452,アピールミッションノ成功ヲ確認……,,,
+ST_In_MD/TEXT_01_2453,アピールミッションノ失敗ヲ確認……,,,
+ST_In_MD/TEXT_01_2461,テンションガ高イ、アイドルヲ検知……,,,
+ST_In_MD/TEXT_01_2462,ボーカルスペックノ高イ、アイドルヲ検知,,,
+ST_In_MD/TEXT_01_2463,ダンススペックノ高イ、アイドルヲ検知,,,
+ST_In_MD/TEXT_01_2464,ビジュアルスペックノ高イ、アイドルヲ検知,,,
+ST_In_MD/TEXT_01_2465,センターノ、アイドルニ注目……,,,
+ST_In_MD/TEXT_01_2466,アピールガタラナイ、アイドルニ注目……,,,
+ST_In_MD/TEXT_01_2467,ランダム抽出……２番ノアイドルニ注目……,,,
+ST_In_MD/TEXT_01_2468,ランダム抽出……３番ノアイドルニ注目……,,,
+ST_In_MD/TEXT_01_2469,ランダム抽出……４番ノアイドルニ注目……,,,
+ST_In_MD/TEXT_01_2470,ランダム抽出……５番ノアイドルニ注目……,,,
+ST_In_MD/TEXT_01_2501,審査開始シマス。勝利条件：上位{CLEAR_RANK}組マデ,,,
+ST_In_MD/TEXT_01_2502,審査終了シマス。審査結果集計中…………,,,
+ST_In_MD/TEXT_01_2551,アピールミッション、審査開始……,,,
+ST_In_MD/TEXT_01_2552,アピールミッションノ成功ヲ確認……,,,
+ST_In_MD/TEXT_01_2553,アピールミッションノ失敗ヲ確認……,,,
+ST_In_MD/TEXT_01_2561,テンションガ高イ、アイドルヲ検知……,,,
+ST_In_MD/TEXT_01_2562,ボーカルスペックノ高イ、アイドルヲ検知,,,
+ST_In_MD/TEXT_01_2563,ダンススペックノ高イ、アイドルヲ検知,,,
+ST_In_MD/TEXT_01_2564,ビジュアルスペックノ高イ、アイドルヲ検知,,,
+ST_In_MD/TEXT_01_2565,センターノ、アイドルニ注目……,,,
+ST_In_MD/TEXT_01_2566,アピールガタラナイ、アイドルニ注目……,,,
+ST_In_MD/TEXT_01_2567,ランダム抽出……２番ノアイドルニ注目……,,,
+ST_In_MD/TEXT_01_2568,ランダム抽出……３番ノアイドルニ注目……,,,
+ST_In_MD/TEXT_01_2569,ランダム抽出……４番ノアイドルニ注目……,,,
+ST_In_MD/TEXT_01_2570,ランダム抽出……５番ノアイドルニ注目……,,,
+ST_In_MD/TEXT_01_2601,上位{CLEAR_RANK}組までが合格ってことで、ヨロシク！,,,
+ST_In_MD/TEXT_01_2602,はい、おわり。みんな、ぶっちゃけどうよ？,,,
+ST_In_MD/TEXT_01_2651,ほんじゃま、俺の指示通りにヨロシク！,,,
+ST_In_MD/TEXT_01_2652,うんうん、いいねー！いいじゃない！,,,
+ST_In_MD/TEXT_01_2653,あちゃ～。見てらんないね、こりゃ,,,
+ST_In_MD/TEXT_01_2661,お、そこのキミ！元気だねぇ！いいよいいよ,,,
+ST_In_MD/TEXT_01_2662,あの子、歌うまいねぇ……どこの子よ？,,,
+ST_In_MD/TEXT_01_2663,あの子、ダンスうまいねぇ……どこの子よ？,,,
+ST_In_MD/TEXT_01_2664,あの子、華があるねぇ……どこの子よ？,,,
+ST_In_MD/TEXT_01_2665,どう？センターのキミ、いけそう？,,,
+ST_In_MD/TEXT_01_2666,キミ、隠れてないで、もっとアピールして！,,,
+ST_In_MD/TEXT_01_2667,今日の気分は２番かな。どう、いけちゃう？,,,
+ST_In_MD/TEXT_01_2668,今日の気分は３番かな。どう、いけちゃう？,,,
+ST_In_MD/TEXT_01_2669,今日の気分は４番かな。どう、いけちゃう？,,,
+ST_In_MD/TEXT_01_2670,今日の気分は５番かな。どう、いけちゃう？,,,
+ST_In_MD/TEXT_01_2701,上位{CLEAR_RANK}組までが合格……いけるわね？,,,
+ST_In_MD/TEXT_01_2702,はい、お疲れ様。……楽しい時間だったわ,,,
+ST_In_MD/TEXT_01_2751,私の手のひらの上で、踊ってみせて,,,
+ST_In_MD/TEXT_01_2752,あら、驚いたわ。うまく踊ってみせるものね,,,
+ST_In_MD/TEXT_01_2753,無様なものね……出直してらっしゃい,,,
+ST_In_MD/TEXT_01_2761,元気な子がいるわね。若い頃を思い出すわ,,,
+ST_In_MD/TEXT_01_2762,歌唱力なら貴方ね。いいわ、続けて,,,
+ST_In_MD/TEXT_01_2763,ダンスなら貴方ね。いいわ、続けて,,,
+ST_In_MD/TEXT_01_2764,画面映えなら貴方ね。いいわ、続けて,,,
+ST_In_MD/TEXT_01_2765,センター、貴方は何ができるのかしら？,,,
+ST_In_MD/TEXT_01_2766,臆病な子ね……もっとアピールなさい,,,
+ST_In_MD/TEXT_01_2767,個人的には２番の子が気になるかしら？,,,
+ST_In_MD/TEXT_01_2768,個人的には３番の子が気になるかしら？,,,
+ST_In_MD/TEXT_01_2769,個人的には４番の子が気になるかしら？,,,
+ST_In_MD/TEXT_01_2770,個人的には５番の子が気になるかしら？,,,
+ST_In_MD/TEXT_01_2801,さあ、はじめよう！上位{CLEAR_RANK}組までが合格だ！,,,
+ST_In_MD/TEXT_01_2802,そこまでだ！うん、とてもいい勝負だった！,,,
+ST_In_MD/TEXT_01_2851,俺の指示通り、動いてみてくれ！,,,
+ST_In_MD/TEXT_01_2852,さすがだ！いいセンスをしているね,,,
+ST_In_MD/TEXT_01_2853,残念だったね。でも、次のチャンスがあるさ,,,
+ST_In_MD/TEXT_01_2861,元気なアイドルだ！こっちも元気になるよ,,,
+ST_In_MD/TEXT_01_2862,すごい歌唱力だ。とても魅力的だね！,,,
+ST_In_MD/TEXT_01_2863,すごいダンスだ。躍動感に満ちてるね！,,,
+ST_In_MD/TEXT_01_2864,すごいビジュアルだ。なかなかの逸材だね,,,
+ST_In_MD/TEXT_01_2865,センター、君の実力を見せてくれるかい？,,,
+ST_In_MD/TEXT_01_2866,少しアピールが足りないかな？できるかい？,,,
+ST_In_MD/TEXT_01_2867,ここで注目すべきは２番かもしれないね……,,,
+ST_In_MD/TEXT_01_2868,ここで注目すべきは３番かもしれないね……,,,
+ST_In_MD/TEXT_01_2869,ここで注目すべきは４番かもしれないね……,,,
+ST_In_MD/TEXT_01_2870,ここで注目すべきは５番かもしれないね……,,,
+ST_In_MD/TEXT_01_2901,はじめるとしよう。上位{CLEAR_RANK}組までが合格だ,,,
+ST_In_MD/TEXT_01_2902,未来の扉は開かれた。勝利者に祝福にあれ,,,
+ST_In_MD/TEXT_01_2951,ここは仮面舞踏会……思うままに舞うといい,,,
+ST_In_MD/TEXT_01_2952,素晴らしい。ボクの見込み通りだ,,,
+ST_In_MD/TEXT_01_2953,……少し期待をしすぎたかな？,,,
+ST_In_MD/TEXT_01_2961,キミ、楽しんでいるね。注目させてもらおう,,,
+ST_In_MD/TEXT_01_2962,魅力的な歌声だ。評価に値する,,,
+ST_In_MD/TEXT_01_2963,活発的なダンスだ。目を見張るものがある,,,
+ST_In_MD/TEXT_01_2964,圧倒的なビジュアルだ。惹きつけられる,,,
+ST_In_MD/TEXT_01_2965,センターはユニットの華だ。期待しよう,,,
+ST_In_MD/TEXT_01_2966,キミ、アピールが足りてないようだが？,,,
+ST_In_MD/TEXT_01_2967,２番のキミ、出番だ。実力を見せてもらおう,"Number 2, you're up. Let's see what you can do",,
+ST_In_MD/TEXT_01_2968,３番のキミ、出番だ。実力を見せてもらおう,"Number 3, you're up. Let's see what you can do",,
+ST_In_MD/TEXT_01_2969,４番のキミ、出番だ。実力を見せてもらおう,"Number 4, you're up. Let's see what you can do",,
+ST_In_MD/TEXT_01_2970,５番のキミ、出番だ。実力を見せてもらおう,"Number 5, you're up. Let's see what you can do",,
+ST_In_MD/TEXT_01_3001,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>全員のVo.スキルブーストを{0}％上げる</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>increase everyone's Vo. skill boost by {0}%.</> ",this section is for character exclusive Unison Appeal descriptions,"there is text overflow in the Unison Appeal selection menu
+so we will need to short all of these descriptions. there is a
+tighter constraint here than the skill board itself."
+ST_In_MD/TEXT_01_3002,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>全員のテンションを{0}％上げる</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase everyone's tension by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3003,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>全員のDa.スキルブーストを{0}％上げる</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>increase everyone's Da. Skill Boost by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3004,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the idol's tension by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3005,"<appeal_def>ユニゾンアピール開始から{0}秒間</>
+<appeal_def>能力リクエストをVo.に変える</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>change the appeal type to Vo. for {0} seconds.</> ",,...
+ST_In_MD/TEXT_01_3006,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the idol's tension by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3007,"<appeal_def>ユニゾンアピール開始から{0}秒間</>
+<appeal_def>能力リクエストをDa.に変える</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>change the appeal type to Da. for {0} seconds.</> ",,...
+ST_In_MD/TEXT_01_3008,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>全員のテンションを{0}％上げる</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase everyone's tension by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3009,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>ユニットのシンクロゲージを{0}％増やす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3010,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>ユニットの思い出を{0}増やす</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase available memories by {0}.</> ",,...
+ST_In_MD/TEXT_01_3011,"<appeal_def>ユニゾンアピールが発生している間</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>During a Unison Appeal,</>
+<appeal_def>increase the idol's tension by {0}%.</> ",,"there is text overflow in the Unison Appeal selection menu
+so we will need to short all of these descriptions. there is a
+tighter constraint here than the skill board itself."
+ST_In_MD/TEXT_01_3012,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>ユニットのシンクロゲージを{0}％増やす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3013,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>全員のDa.スキルブーストを{0}％上げる</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>increase everyone's Da. Skill Boost by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3014,"<appeal_def>ユニゾンアピール中のPERFECT達成</>
+<appeal_def>1回ごとに全員のテンションを{0}％上げる</>","<appeal_def>Each PERFECT jugdement during Unison</>
+<appeal_def>Appeals will increase everyone's Tension</>
+<appeal_def>by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3015,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>ユニットのシンクロゲージを{0}％増やす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3016,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>ユニットの思い出を{0}増やす</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase available memories by {0}.</> ",,...
+ST_In_MD/TEXT_01_3017,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>ユニットのシンクロゲージを{0}％増やす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3018,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>ユニットの思い出を{0}増やす</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase available memories by {0}.</> ",,...
+ST_In_MD/TEXT_01_3019,"<appeal_def>ユニゾンアピール開始から{0}秒間</>
+<appeal_def>能力リクエストをVi.に変える</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>change the appeal type to Vi. for {0} seconds.</> ",,...
+ST_In_MD/TEXT_01_3020,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the idol's tension by {0}%.</> ",,"there is text overflow in the Unison Appeal selection menu
+so we will need to short all of these descriptions. there is a
+tighter constraint here than the skill board itself."
+ST_In_MD/TEXT_01_3021,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>全員のVi.スキルブーストを{0}％上げる</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>increase everyone's Vi. Skill Boost by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3022,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>全員のテンションを{0}％上げる</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase everyone's tension by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3023,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the idol's tension by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3024,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>ユニットのシンクロゲージを{0}％増やす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3025,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>全員のVo.スキルブーストを{0}％上げる</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>increase everyone's Vo. Skill Boost by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3026,"<appeal_def>ユニゾンアピール中のPERFECT達成</>
+<appeal_def>1回ごとに全員のテンションを{0}％上げる</>","<appeal_def>Each PERFECT jugdement during Unison</>
+<appeal_def>Appeals will increase everyone's Tension</>
+<appeal_def>by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3027,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>全員のVi.スキルブーストを{0}％上げる</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>increase everyone's Vi. Skill Boost by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3028,"<appeal_def>ユニゾンアピール中のPERFECT達成</>
+<appeal_def>1回ごとに全員のテンションを{0}％上げる</>","<appeal_def>Each PERFECT jugdement during Unison</>
+<appeal_def>Appeals will increase everyone's Tension</>
+<appeal_def>by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3029,"<appeal_def>ユニゾンアピール開始から{0}秒間</>
+<appeal_def>能力リクエストをVo.に変える</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>change the appeal type to Vo. for {0} seconds.</> ",,...
+ST_In_MD/TEXT_01_3030,"<appeal_def>ユニゾンアピール中のPERFECT達成</>
+<appeal_def>1回ごとに全員のテンションを{0}％上げる</>","<appeal_def>Each PERFECT jugdement during Unison</>
+<appeal_def>Appeals will increase everyone's Tension</>
+<appeal_def>by {0}%.</> ",,"there is text overflow in the Unison Appeal selection menu
+so we will need to short all of these descriptions. there is a
+tighter constraint here than the skill board itself."
+ST_In_MD/TEXT_01_3031,"<appeal_def>ユニゾンアピール開始から{0}秒間</>
+<appeal_def>能力リクエストをDa.に変える</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>change the appeal type to Da. for {0} seconds.</> ",,...
+ST_In_MD/TEXT_01_3032,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the idol's tension by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3033,"<appeal_def>ユニゾンアピールが発生している間</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>During a Unison Appeal,</>
+<appeal_def>increase the idol's tension by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3034,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>ユニットのシンクロゲージを{0}％増やす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3035,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the idol's tension by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3036,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>ユニットのシンクロゲージを{0}％増やす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3037,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>全員の全スキルブーストを{0}％上げる</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>increase everyone's parameter Skill Boosts by {0}%.</> ",,
+ST_In_MD/TEXT_01_3038,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>全員のテンションを{0}％上げる</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase everyone's tension by {0}%.</> ",,
+ST_In_MD/TEXT_01_3039,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>全員のDa.スキルブーストを{0}％上げる</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>increase everyone's Da. Skill Boost by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3040,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>全員のテンションを{0}％上げる</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase everyone's tension by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3041,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>ユニットのシンクロゲージを{0}％増やす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3042,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>ユニットの思い出を{0}増やす</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase available memories by {0}.</> ",,...
+ST_In_MD/TEXT_01_3043,"<appeal_def>ユニゾンアピール開始から{0}秒間</>
+<appeal_def>能力リクエストをVi.に変える</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>change the appeal type to Vi. for {0} seconds.</> ",,...
+ST_In_MD/TEXT_01_3044,"<appeal_def>ユニゾンアピール中のPERFECT達成</>
+<appeal_def>1回ごとに全員のテンションを{0}％上げる</>","<appeal_def>Each PERFECT jugdement during Unison</>
+<appeal_def>Appeals will increase everyone's Tension</>
+<appeal_def>by {0}%.</> ",,"there is text overflow in the Unison Appeal selection menu
+so we will need to short all of these descriptions. there is a
+tighter constraint here than the skill board itself."
+ST_In_MD/TEXT_01_3045,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>ユニットのシンクロゲージを{0}％増やす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3046,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>ユニットの思い出を{0}増やす</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase available memories by {0}.</> ",,...
+ST_In_MD/TEXT_01_3047,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>全員のVo.スキルブーストを{0}％上げる</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>increase everyone's Vo. Skill Boost by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3048,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the idol's tension by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3049,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>全員のVo.スキルブーストを{0}％上げる</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>increase everyone's Vo. Skill Boost by {0}%.</> ",,
+ST_In_MD/TEXT_01_3050,"<appeal_def>ユニゾンアピール中のPERFECT達成</>
+<appeal_def>1回ごとに全員のテンションを{0}％上げる</>","<appeal_def>Each PERFECT jugdement during Unison</>
+<appeal_def>Appeals will increase everyone's Tension</>
+<appeal_def>by {0}%.</> ",,
+ST_In_MD/TEXT_01_3051,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>全員のVi.スキルブーストを{0}％上げる</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>increase everyone's Vi. Skill Boost by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3052,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the idol's tension by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3053,"<appeal_def>ユニゾンアピール開始から{0}秒間</>
+<appeal_def>能力リクエストをVo.に変える</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>change the appeal type to Vo. for {0} seconds.</> ",,...
+ST_In_MD/TEXT_01_3054,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>全員のテンションを{0}％上げる</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase everyone's tension by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3055,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the idol's tension by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3056,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>ユニットのシンクロゲージを{0}％増やす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3057,"<appeal_def>ユニゾンアピール開始から{0}秒間</>
+<appeal_def>能力リクエストをDa.に変える</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>change the appeal type to Da. for {0} seconds.</> ",,"there is text overflow in the Unison Appeal selection menu
+so we will need to short all of these descriptions. there is a
+tighter constraint here than the skill board itself."
+ST_In_MD/TEXT_01_3058,"<appeal_def>ユニゾンアピール中のPERFECT達成</>
+<appeal_def>1回ごとに全員のテンションを{0}％上げる</>","<appeal_def>Each PERFECT jugdement during Unison</>
+<appeal_def>Appeals will increase everyone's Tension</>
+<appeal_def>by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3059,"<appeal_def>ユニゾンアピール開始から{0}秒間</>
+<appeal_def>能力リクエストをVi.に変える</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>change the appeal type to Vi. for {0} seconds.</> ",,...
+ST_In_MD/TEXT_01_3060,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>全員のテンションを{0}％上げる</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase everyone's tension by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3061,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>全員のVi.スキルブーストを{0}％上げる</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>increase everyone's Vi. Skill Boost by {0}%.</> ",,
+ST_In_MD/TEXT_01_3062,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the idol's tension by {0}%.</> ",,
+ST_In_MD/TEXT_01_3063,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the idol's tension by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3064,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>ユニットのシンクロゲージを{0}％増やす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3065,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>ユニットのシンクロゲージを{0}％増やす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3066,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>ユニットの思い出を{0}増やす</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase available memories by {0}.</> ",,...
+ST_In_MD/TEXT_01_3067,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>全員の全スキルブーストを{0}％上げる</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>increase everyone's parameter Skill Boosts by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3068,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>全員のテンションを{0}％上げる</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase everyone's tension by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3069,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>全員のDa.スキルブーストを{0}％上げる</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>increase everyone's Da. Skill Boost by {0}%.</> ",,...
+ST_In_MD/TEXT_01_3070,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>全員のテンションを{0}％上げる</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase everyone's tension by {0}%.</> ",,"there is text overflow in the Unison Appeal selection menu
+so we will need to short all of these descriptions. there is a
+tighter constraint here than the skill board itself."
+ST_In_MD/TEXT_01_4001,バタフライエフェクト,Butterfly Effect,,
+ST_In_MD/TEXT_01_4002,バタフライエフェクトＥＸ,Butterfly Effect EX,,
+ST_In_MD/TEXT_01_4003,オーバー・ザ・トップ,Over The Top,,
+ST_In_MD/TEXT_01_4004,オーバー・ザ・トップＥＸ,Over The Top EX, ,
+ST_In_MD/TEXT_01_4005,コズミック・ライナー,Cosmic Liner,,
+ST_In_MD/TEXT_01_4006,コズミック・ライナーＥＸ,Cosmic Liner EX,,
+ST_In_MD/TEXT_01_4007,オープン・ユニバース,Open Universe,,
+ST_In_MD/TEXT_01_4008,オープン・ユニバースＥＸ,Open Universe EX,,
+ST_In_MD/TEXT_01_4009,フェアリー・テイル,Fairy Tale,,
+ST_In_MD/TEXT_01_4010,フェアリー・テイルＥＸ,Fairy Tale EX,,
+ST_In_MD/TEXT_01_4011,イノセント・スカイ,Innocent Sky,,
+ST_In_MD/TEXT_01_4012,イノセント・スカイＥＸ,Innocent Sky EX,,
+ST_In_MD/TEXT_01_4013,ブリリアントスターズ,Brilliant Stars,,
+ST_In_MD/TEXT_01_4014,ブリリアントスターズＥＸ,Brilliant Stars EX,,
+ST_In_MD/TEXT_01_4015,ゴールド・ブラッサム,Gold Blossom,,
+ST_In_MD/TEXT_01_4016,ゴールド・ブラッサムＥＸ,Gold Blossom EX,,
+ST_In_MD/TEXT_01_4017,シュバルツ・グロー,Schwarz Glow,,
+ST_In_MD/TEXT_01_4018,シュバルツ・グローＥＸ,Schwarz Glow EX,,
+ST_In_MD/TEXT_01_4101,"<appeal_def>Vo.クライマックスアピール終了時に</>
+<appeal_def>ユニットの思い出を{0}増やす</>","<appeal_def>At the end of a Vo. Climax Appeal,</>
+<appeal_def>increase the unit's memories by {0}</>",this section is probably for unlockabe Climax Appeals,
+ST_In_MD/TEXT_01_4102,"<appeal_def>Vo.クライマックスアピール終了時に</>
+<appeal_def>ユニットの思い出を{0}増やす</>","<appeal_def>At the end of a Vo. Climax Appeal,</>
+<appeal_def>increase the unit's memories by {0}</>",,
+ST_In_MD/TEXT_01_4103,"<appeal_def>Vi.クライマックスアピール終了時に</>
+<appeal_def>ユニットのシンクロゲージを{0}％増やす</>","<appeal_def>At the end of a Vi. Climax Appeal,</>
+<appeal_def>increase the unit's Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_4104,"<appeal_def>Vi.クライマックスアピール終了時に</>
+<appeal_def>ユニットのシンクロゲージを{0}％増やす</>","<appeal_def>At the end of a Vi. Climax Appeal,</>
+<appeal_def>increase the unit's Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_4105,"<appeal_def>Da.クライマックスアピール終了時に</>
+<appeal_def>全員のテンションを{0}％上げる</>","<appeal_def>At the end of a Da. Climax Appeal,</>
+<appeal_def>increase everyone's tension by {0}%</>",,
+ST_In_MD/TEXT_01_4106,"<appeal_def>Da.クライマックスアピール終了時に</>
+<appeal_def>全員のテンションを{0}％上げる</>","<appeal_def>At the end of a Da. Climax Appeal,</>
+<appeal_def>increase everyone's tension by {0}%</>",,
+ST_In_MD/TEXT_01_4107,"<appeal_def>Da.クライマックスアピール終了時に</>
+<appeal_def>ユニットのシンクロゲージを{0}％増やす</>","<appeal_def>At the end of a Da. Climax Appeal,</>
+<appeal_def>increase the unit's Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_4108,"<appeal_def>Da.クライマックスアピール終了時に</>
+<appeal_def>ユニットのシンクロゲージを{0}％増やす</>","<appeal_def>At the end of a Da. Climax Appeal,</>
+<appeal_def>increase the unit's Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_4109,"<appeal_def>Vo.クライマックスアピール終了時に</>
+<appeal_def>全員のテンションを{0}％上げる</>","<appeal_def>At the end of a Vo. Climax Appeal,</>
+<appeal_def>increase everyone's tension by {0}%</>",,
+ST_In_MD/TEXT_01_4110,"<appeal_def>Vo.クライマックスアピール終了時に</>
+<appeal_def>全員のテンションを{0}％上げる</>","<appeal_def>At the end of a Vo. Climax Appeal,</>
+<appeal_def>increase everyone's tension by {0}%</>",,
+ST_In_MD/TEXT_01_4111,"<appeal_def>Vi.クライマックスアピール終了時に</>
+<appeal_def>ユニットの思い出を{0}増やす</>","<appeal_def>At the end of a Vi. Climax Appeal,</>
+<appeal_def>increase the unit's memories by {0}</>",,
+ST_In_MD/TEXT_01_4112,"<appeal_def>Vi.クライマックスアピール終了時に</>
+<appeal_def>ユニットの思い出を{0}増やす</>","<appeal_def>At the end of a Vi. Climax Appeal,</>
+<appeal_def>increase the unit's memories by {0}</>",,
+ST_In_MD/TEXT_01_4113,"<appeal_def>Da.クライマックスアピール終了時に</>
+<appeal_def>ユニットの思い出を{0}増やす</>","<appeal_def>At the end of a Da. Climax Appeal,</>
+<appeal_def>increase the unit's memories by {0}</>",,
+ST_In_MD/TEXT_01_4114,"<appeal_def>Da.クライマックスアピール終了時に</>
+<appeal_def>ユニットの思い出を{0}増やす</>","<appeal_def>At the end of a Da. Climax Appeal,</>
+<appeal_def>increase the unit's memories by {0}</>",,
+ST_In_MD/TEXT_01_4115,"<appeal_def>Vi.クライマックスアピール終了時に</>
+<appeal_def>全員のテンションを{0}％上げる</>","<appeal_def>At the end of a Vi. Climax Appeal,</>
+<appeal_def>increase everyone's tension by {0}%</>",,
+ST_In_MD/TEXT_01_4116,"<appeal_def>Vi.クライマックスアピール終了時に</>
+<appeal_def>全員のテンションを{0}％上げる</>","<appeal_def>At the end of a Vi. Climax Appeal,</>
+<appeal_def>increase everyone's tension by {0}%</>",,
+ST_In_MD/TEXT_01_4117,"<appeal_def>Vo.クライマックスアピール終了時に</>
+<appeal_def>ユニットのシンクロゲージを{0}％増やす</>","<appeal_def>At the end of a Vo. Climax Appeal,</>
+<appeal_def>increase the unit's Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_4118,"<appeal_def>Vo.クライマックスアピール終了時に</>
+<appeal_def>ユニットのシンクロゲージを{0}％増やす</>","<appeal_def>At the end of a Vo. Climax Appeal,</>
+<appeal_def>increase the unit's Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_6301,ヒートアップサウンド,Heat Up Sound,,
+ST_In_MD/TEXT_01_6302,ヒートワイドサウンド,Heat Wide Sound,,
+ST_In_MD/TEXT_01_6303,シンセシスブースター,Synthesis Booster,,
+ST_In_MD/TEXT_01_6304,ボーカルアッパー,Vocal Upper,,
+ST_In_MD/TEXT_01_6305,ダンスアッパー,Dance Upper,,
+ST_In_MD/TEXT_01_6306,ビジュアルアッパー,Visual Upper,,
+ST_In_MD/TEXT_01_6307,ヒートアップユニチャ,Heat Up Unison Charge,"based on descriptions of id XXXX+1000, yunicha is short for Unison Charge",
+ST_In_MD/TEXT_01_6308,ヒートワイドユニチャ,Heat Wide Unison Charge,,
+ST_In_MD/TEXT_01_6309,シンセシスユニチャ,Synthesis Unison Charge,,
+ST_In_MD/TEXT_01_6310,アシッドウェーブ,Acid Wave,,
+ST_In_MD/TEXT_01_6311,バステッドイマジン,Busted Imagine,,
+ST_In_MD/TEXT_01_6312,ボーカルユニチャ,Vocal Unison Charge,,
+ST_In_MD/TEXT_01_6313,ダンスユニチャ,Dance Unison Charge,,
+ST_In_MD/TEXT_01_6314,ビジュアルユニチャ,Visual Unison Charge,,
+ST_In_MD/TEXT_01_6315,ヒートアップコンプ,Heat Up Complete,"based on descriptions of id XXXX+1000, comp is short for complete/completion",
+ST_In_MD/TEXT_01_6316,ヒートワイドコンプ,Heat Wide Complete,,
+ST_In_MD/TEXT_01_6317,シンセシスコンプ,Synthesis Complete,,
+ST_In_MD/TEXT_01_6318,アシッドユニチャ,Acid Unison Charge,,
+ST_In_MD/TEXT_01_6319,バステッドユニチャ,Busted Unison Charge,,
+ST_In_MD/TEXT_01_6320,スパークルユニチャ,Sparkle Unison Charge,,
+ST_In_MD/TEXT_01_6321,ボーカルコンプ,Vocal Complete,,
+ST_In_MD/TEXT_01_6322,ダンスコンプ,Dance Complete,,
+ST_In_MD/TEXT_01_6323,ビジュアルコンプ,Visual Complete,,
+ST_In_MD/TEXT_01_6324,スパークルコンプ,Sparkle Complete,,
+ST_In_MD/TEXT_01_6325,ボーカルカウンター,Vocal Counter,,
+ST_In_MD/TEXT_01_6326,ダンスカウンター,Dance Counter,,
+ST_In_MD/TEXT_01_6327,ビジュアルカウンター,Visual Counter,,
+ST_In_MD/TEXT_01_6328,バステッドカウンター,Busted Counter,,
+ST_In_MD/TEXT_01_6329,アシッドカウンター,Acid Counter,,
+ST_In_MD/TEXT_01_6330,スパークルカウンター,Sparkle Counter,,
+ST_In_MD/TEXT_01_6401,ボーカルリクエスト,Vocal Request,,
+ST_In_MD/TEXT_01_6402,ダンスリクエスト,Dance Request,,
+ST_In_MD/TEXT_01_6403,ビジュアルリクエスト,Visual Request,,
+ST_In_MD/TEXT_01_6404,ボーカルセルフ,Vocal Self,,
+ST_In_MD/TEXT_01_6405,ダンスセルフ,Dance Self,,
+ST_In_MD/TEXT_01_6406,ビジュアルセルフ,Visual Self,,
+ST_In_MD/TEXT_01_6407,ヒートアップターム,Heat Up Term,,
+ST_In_MD/TEXT_01_6408,メモリアップコンプ,Memory Up Comp,,
+ST_In_MD/TEXT_01_6409,オールアッパーセルフ,All Upper Self,,
+ST_In_MD/TEXT_01_6410,ヒートワイドパーフェ,Heat Wide Perf,,
+ST_In_MD/TEXT_01_6411,オールカウンター,All Counter,,
+ST_In_MD/TEXT_01_6412,バステッドパーフェ,Busted Perf,,
+ST_In_MD/TEXT_01_6501,北東エリアの思い出,Memories from the Northeast,,
+ST_In_MD/TEXT_01_6502,中央エリアの思い出,Memories from the Central,,
+ST_In_MD/TEXT_01_6503,南エリアの思い出,Memories from the South,,
+ST_In_MD/TEXT_01_6504,西エリアの思い出,Memories from the West,,
+ST_In_MD/TEXT_01_6505,上方エリアの思い出,Memories from Kansai,,
+ST_In_MD/TEXT_01_6506,首都エリアの思い出,Memories from the Capital,,
+ST_In_MD/TEXT_01_7301,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase the idol's tension by {0}%</>","this section is probably for unlockable Unison Appeals
+from the unison academy",
+ST_In_MD/TEXT_01_7302,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>全員のテンションを{0}％上げる</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase everyone's tension by {0}%</>",,
+ST_In_MD/TEXT_01_7303,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>ユニットのシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase the unit's Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_7304,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>全員のVo.スキルブーストを{0}％上げる</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>increase everyone's Vo. skill boosts by {0}%</>",,
+ST_In_MD/TEXT_01_7305,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>全員のDa.スキルブーストを{0}％上げる</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>increase everyone's Da. skill boosts by {0}%</>",,
+ST_In_MD/TEXT_01_7306,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>全員のVi.スキルブーストを{0}％上げる</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>increase everyone's Vi. skill boosts by {0}%</>",,
+ST_In_MD/TEXT_01_7307,"<appeal_def>ユニゾンチャージのサポート時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>When supporting in a Unison Charge,</>
+<appeal_def>increase the idol's tension by {0}%</>",,
+ST_In_MD/TEXT_01_7308,"<appeal_def>ユニゾンチャージのサポート時に</>
+<appeal_def>全員のテンションを{0}％上げる</>","<appeal_def>When supporting in a Unison Charge,</>
+<appeal_def>increase everyone's tension by {0}%</>",,
+ST_In_MD/TEXT_01_7309,"<appeal_def>ユニゾンチャージのサポート時に</>
+<appeal_def>ユニットのシンクロゲージを{0}％増やす</>","<appeal_def>When supporting in a Unison Charge,</>
+<appeal_def>increase the unit's Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_7310,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>相手のシンクロゲージを{0}％減らす</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>reduce the opponent's Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_7311,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>相手のテンションを{0}％下げる</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>reduce the opponent's tension by {0}%</>",,
+ST_In_MD/TEXT_01_7312,"<appeal_def>ユニゾンチャージのサポート時に</>
+<appeal_def>全員のVo.スキルブーストを{0}％上げる</>","<appeal_def>When supporting in a Unison Charge,</>
+<appeal_def>increase everyone's Vo. skill boosts by {0}%</>",,
+ST_In_MD/TEXT_01_7313,"<appeal_def>ユニゾンチャージのサポート時に</>
+<appeal_def>全員のDa.スキルブーストを{0}％上げる</>","<appeal_def>When supporting in a Unison Charge,</>
+<appeal_def>increase everyone's Da. skill boosts by {0}%</>",,
+ST_In_MD/TEXT_01_7314,"<appeal_def>ユニゾンチャージのサポート時に</>
+<appeal_def>全員のVi.スキルブーストを{0}％上げる</>","<appeal_def>When supporting in a Unison Charge,</>
+<appeal_def>increase everyone's Vi. skill boosts by {0}%</>",,
+ST_In_MD/TEXT_01_7315,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase the idol's tension by {0}%.</> ",,
+ST_In_MD/TEXT_01_7316,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>全員のテンションを{0}％上げる</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase everyone's tension by {0}%.</> ",,
+ST_In_MD/TEXT_01_7317,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>ユニットのシンクロゲージを{0}％増やす</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase the unit's Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_7318,"<appeal_def>ユニゾンチャージのサポート時に</>
+<appeal_def>相手のシンクロゲージを{0}％減らす</>","<appeal_def>When supporting in a Unison Charge,</>
+<appeal_def>reduce the opponent's Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_7319,"<appeal_def>ユニゾンチャージのサポート時に</>
+<appeal_def>相手のテンションを{0}％下げる</>","<appeal_def>When supporting in a Unison Charge,</>
+<appeal_def>reduce the opponent's tension by {0}%</>",,
+ST_In_MD/TEXT_01_7320,"<appeal_def>ユニゾンチャージのサポート時に</>
+<appeal_def>ユニットのスターゲージを{0}％増やす</>","<appeal_def>When supporting in a Unison Charge,</>
+<appeal_def>increase the unit's star gauge by {0}%</>",,
+ST_In_MD/TEXT_01_7321,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>全員のVo.スキルブーストを{0}％上げる</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase everyone's Vo. skill boosts by {0}%</>",,
+ST_In_MD/TEXT_01_7322,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>全員のDa.スキルブーストを{0}％上げる</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase everyone's Da. skill boosts by {0}%</>",,
+ST_In_MD/TEXT_01_7323,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>全員のVi.スキルブーストを{0}％上げる</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase everyone's Vi. skill boosts by {0}%</>",,
+ST_In_MD/TEXT_01_7324,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>ユニットのスターゲージを{0}％増やす</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase the unit's star gauge by {0}%</>",,
+ST_In_MD/TEXT_01_7325,"<appeal_def>ユニゾンカウンター発生時に</>
+<appeal_def>全員のVo.スキルブーストを{0}％上げる</>","<appeal_def>When a Unison Counter occurs,</>
+<appeal_def>increase everyone's Vo. skill boosts by {0}%</>",,
+ST_In_MD/TEXT_01_7326,"<appeal_def>ユニゾンカウンター発生時に</>
+<appeal_def>全員のDa.スキルブーストを{0}％上げる</>","<appeal_def>When a Unison Counter occurs,</>
+<appeal_def>increase everyone's Da. skill boosts by {0}%</>",,
+ST_In_MD/TEXT_01_7327,"<appeal_def>ユニゾンカウンター発生時に</>
+<appeal_def>全員のVi.スキルブーストを{0}％上げる</>","<appeal_def>When a Unison Counter occurs,</>
+<appeal_def>increase everyone's Vi. skill boosts by {0}%</>",,
+ST_In_MD/TEXT_01_7328,"<appeal_def>ユニゾンカウンター発生時に</>
+<appeal_def>相手のテンションを{0}％下げる</>","<appeal_def>When a Unison Counter occurs,</>
+<appeal_def>reduce the opponent's tension by {0}%</>",,
+ST_In_MD/TEXT_01_7329,"<appeal_def>ユニゾンカウンター発生時に</>
+<appeal_def>相手のシンクロゲージを{0}％減らす</>","<appeal_def>When a Unison Counter occurs,</>
+<appeal_def>reduce the opponent's Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_7330,"<appeal_def>ユニゾンカウンター発生時に</>
+<appeal_def>ユニットのスターゲージを{0}％増やす</>","<appeal_def>When a Unison Counter occurs,</>
+<appeal_def>increase the unit's star gauge by {0}%</>",,
+ST_In_MD/TEXT_01_7401,"<appeal_def>ユニゾンアピール開始から{0}秒間</>
+<appeal_def>能力リクエストをVo.に変える</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>change the appeal type to Vo. for {0} seconds.</> ",,
+ST_In_MD/TEXT_01_7402,"<appeal_def>ユニゾンアピール開始から{0}秒間</>
+<appeal_def>能力リクエストをDa.に変える</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>change the appeal type to Da. for {0} seconds.</> ",,
+ST_In_MD/TEXT_01_7403,"<appeal_def>ユニゾンアピール開始から{0}秒間</>
+<appeal_def>能力リクエストをVi.に変える</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>change the appeal type to Vi. for {0} seconds.</> ",,
+ST_In_MD/TEXT_01_7404,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>自分のVo.スキルブーストを{0}％上げる</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>increase the Vo. skill boost by {0}%</>",,
+ST_In_MD/TEXT_01_7405,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>自分のDa.スキルブーストを{0}％上げる</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>increase the Da. skill boost by {0}%</>",,
+ST_In_MD/TEXT_01_7406,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>自分のVi.スキルブーストを{0}％上げる</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>increase the Vi. skill boost by {0}%</>",,
+ST_In_MD/TEXT_01_7407,"<appeal_def>ユニゾンアピールが発生している間</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>During a Unison Appeal,</>
+<appeal_def>increase the idol's tension by {0}%.</> ",,
+ST_In_MD/TEXT_01_7408,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>ユニットの思い出を{0}増やす</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase the unit's memories by {0}</>",,
+ST_In_MD/TEXT_01_7409,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>自分の全スキルブーストを{0}％上げる</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>increase all skill boosts by {0}%</>",,
+ST_In_MD/TEXT_01_7410,"<appeal_def>ユニゾンアピール中のPERFECT達成</>
+<appeal_def>1回ごとに全員のテンションを{0}％上げる</>","<appeal_def>Each PERFECT jugdement during Unison</>
+<appeal_def>Appeals will increase everyone's Tension</>
+<appeal_def>by {0}%.</> ",,
+ST_In_MD/TEXT_01_7411,"<appeal_def>ユニゾンカウンター発生時に</>
+<appeal_def>全員の全スキルブーストを{0}％上げる</>","<appeal_def>When a Unison Counter occurs,</>
+<appeal_def>increase everyone's skill boosts by {0}%</>",,
+ST_In_MD/TEXT_01_7412,"<appeal_def>ユニゾンアピール中のPERFECT達成</>
+<appeal_def>1回ごとに相手のテンションを{0}％下げる</>","<appeal_def>Each PERFECT jugdement during Unison</>
+<appeal_def>reduce the opponent's tension by {0}%</>",,
+ST_In_MD/TEXT_01_7501,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>全員のVo.スキルブーストを{0}％上げる</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase everyone's Vo. skill boosts by {0}%</>",,
+ST_In_MD/TEXT_01_7502,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>全員のDa.スキルブーストを{0}％上げる</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase everyone's Da. skill boosts by {0}%</>",,
+ST_In_MD/TEXT_01_7503,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>全員のVi.スキルブーストを{0}％上げる</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase everyone's Vi. skill boosts by {0}%</>",,
+ST_In_MD/TEXT_01_7504,"<appeal_def>ユニゾンカウンター発生時に</>
+<appeal_def>相手の思い出を{0}減らす</>","<appeal_def>When a Unison Counter occurs,</>
+<appeal_def>reduce the opponent's memories by {0}</>",,
+ST_In_MD/TEXT_01_7505,"<appeal_def>ユニゾンアピール中のPERFECT達成</>
+<appeal_def>1回ごとに相手のシンクロゲージを{0}％減らす</>","<appeal_def>Each PERFECT jugdement during Unison</>
+<appeal_def>Appeals will reduce the opponent's Synchro </>
+<appeal_def>Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_7506,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>全員の全スキルブーストを{0}％上げる</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase everyone's skill boosts by {0}%</>",,
+ST_In_MD/TEXT_01_8001,４月３０日,April 30,,
+ST_In_MD/TEXT_01_8002,カレイドパビリオン,Kaleido Pavilion,,
+ST_In_MD/TEXT_01_8003,５月２８日,May 28,,
+ST_In_MD/TEXT_01_8004,スカイヒルズホール,Sky Hills Hall,,
+ST_In_MD/TEXT_01_8005,６月３０日,June 30,,
+ST_In_MD/TEXT_01_8006,アイドルフューチャー,Idol Future,,
+ST_In_MD/TEXT_01_8007,７月３０日,July 30,,
+ST_In_MD/TEXT_01_8008,スプラッシュガーデン,Splash Garden,,
+ST_In_MD/TEXT_01_8009,８月２７日,August 27,,
+ST_In_MD/TEXT_01_8010,デルタライトキャンプ,Delta Light Camp,,
+ST_In_MD/TEXT_01_8011,９月３０日,September 30,,
+ST_In_MD/TEXT_01_8012,LOVEフラッグシアター,LOVE Flag Theater,,
+ST_In_MD/TEXT_01_8013,１０月２９日,October 29,,
+ST_In_MD/TEXT_01_8014,ナイトメアカーニバル,Nightmare Carnival,,
+ST_In_MD/TEXT_01_8015,１１月３０日,November 30,,
+ST_In_MD/TEXT_01_8016,サプライズ☆アリーナ,Suprise☆Arena,,
+ST_In_MD/TEXT_01_8017,１２月３１日,December 31,,
+ST_In_MD/TEXT_01_8018,スターリットドーム,Starlit Dome,,
+ST_In_MD/TEXT_01_CAP_DETAIL_0355,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>","this section describes opponent Climax Appeals.
+subject noun use should not confuse readers",
+ST_In_MD/TEXT_01_CAP_DETAIL_0357,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0360,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0373_1,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0373_2,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0373_3,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0374_1,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0374_2,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0374_3,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0377_1,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0377_2,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0377_3,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0507,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>相手のシンクロゲージを{0}％減らす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>reduce the opponent's Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0509_1,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0509_2,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0509_3,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0512_1,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0512_2,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0512_3,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0601,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0609,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0616,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0628,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0702,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0704,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0706,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0708,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0710,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0712,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0801,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0802,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0803,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0805,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0806,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0807,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0809,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0810,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0811,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0815,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>相手のテンションを{0}％下げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>reduce the opponent's tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0818_1,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>相手のシンクロゲージを{0}％減らす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>reduce the opponent's Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0818_2,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>相手のシンクロゲージを{0}％減らす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>reduce the opponent's Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_0818_3,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>相手のシンクロゲージを{0}％減らす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>reduce the opponent's Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_AF01,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_AF02,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_CF01,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_CF02,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_CMF21,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>相手のシンクロゲージを{0}％減らす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>reduce the opponent's Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_CSF11,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_CSF12,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_CSF21,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_DF01,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_DF02,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_DF03,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_DF04,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_DF05,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_DF06,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_KSF11,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_KSF21,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_KSF22,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_LF01,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_LF02,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_MF01_1,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_MF01_2,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_MF01_3,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_MF02_1,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_MF02_2,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_MF02_3,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_MF03_1,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_MF03_2,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_MF03_3,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_MF04_1,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_MF04_2,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_MF04_3,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_MF05_1,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_MF05_2,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_MF05_3,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_MF06_1,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_MF06_2,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_MF06_3,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_MSF11,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>相手のテンションを{0}％下げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>reduce the opponent's tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_MSF12,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_MSF21,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>相手のテンションを{0}％下げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>reduce the opponent's tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_MSF22,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_NSF11,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_NSF21,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_QSF01,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_QSF02,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_QSF03,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF17,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>相手のテンションを{0}％下げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>reduce the opponent's tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF18,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF19,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF20,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>相手のテンションを{0}％下げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>reduce the opponent's tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF21,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF22,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF23,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF24,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF25,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>相手のテンションを{0}％下げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>reduce the opponent's tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF26,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF27,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF28,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF29,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>相手のテンションを{0}％下げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>reduce the opponent's tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF30,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF31,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF32,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF33,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF34,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>相手のテンションを{0}％下げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>reduce the opponent's tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF35,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF36,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF37,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF38,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>相手のテンションを{0}％下げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>reduce the opponent's tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF39,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF40,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>相手のテンションを{0}％下げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>reduce the opponent's tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF41,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF42,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF43,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>相手のテンションを{0}％下げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>reduce the opponent's tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF44,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF45,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF46,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF47,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF48,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF49,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF50,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF51,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF52,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>相手のテンションを{0}％下げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>reduce the opponent's tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF53,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF54,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>相手のテンションを{0}％下げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>reduce the opponent's tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF55,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF56,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF57,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF58,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>相手のテンションを{0}％下げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>reduce the opponent's tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF59,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SF60,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>相手のテンションを{0}％下げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>reduce the opponent's tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SMF11,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_SSF21,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_WSF11,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>相手のテンションを{0}％下げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>reduce the opponent's tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_WSF12,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_DETAIL_WSF21,"<appeal_def>クライマックスアピール終了時に</>
+<appeal_def>相手のテンションを{0}％下げる</>","<appeal_def>At the end of the Climax Appeal,</>
+<appeal_def>reduce the opponent's tension by {0}%</>",,
+ST_In_MD/TEXT_01_CAP_NAME_0355,充填！ビクトリーショット,Load Up! Victory Shot,,
+ST_In_MD/TEXT_01_CAP_NAME_0357,世界はゴスで１つになる,,,
+ST_In_MD/TEXT_01_CAP_NAME_0360,私たちの流儀,,,
+ST_In_MD/TEXT_01_CAP_NAME_0373_1,誰だってプリンセス,,,
+ST_In_MD/TEXT_01_CAP_NAME_0373_2,誰だってプリンセス,,,
+ST_In_MD/TEXT_01_CAP_NAME_0373_3,誰だってプリンセス,,,
+ST_In_MD/TEXT_01_CAP_NAME_0374_1,ＭＡＴＣＨ↑ＵＰ,MATCH ↑ UP,,
+ST_In_MD/TEXT_01_CAP_NAME_0374_2,ＭＡＴＣＨ↑ＵＰ,MATCH ↑ UP,,
+ST_In_MD/TEXT_01_CAP_NAME_0374_3,ＭＡＴＣＨ↑ＵＰ,MATCH ↑ UP,,
+ST_In_MD/TEXT_01_CAP_NAME_0377_1,ＭＡＴＣＨ↑ＵＰ,MATCH ↑ UP,,
+ST_In_MD/TEXT_01_CAP_NAME_0377_2,ＭＡＴＣＨ↑ＵＰ,MATCH ↑ UP,,
+ST_In_MD/TEXT_01_CAP_NAME_0377_3,ＭＡＴＣＨ↑ＵＰ,MATCH ↑ UP,,
+ST_In_MD/TEXT_01_CAP_NAME_0394,シュバルツ・グロー,Schwarz Glow,,
+ST_In_MD/TEXT_01_CAP_NAME_0507,ラッキースター！,Lucky Star!,,
+ST_In_MD/TEXT_01_CAP_NAME_0509_1,シュバルツ・グロー,Schwarz Glow,,
+ST_In_MD/TEXT_01_CAP_NAME_0509_2,シュバルツ・グロー,Schwarz Glow,,
+ST_In_MD/TEXT_01_CAP_NAME_0509_3,シュバルツ・グロー,Schwarz Glow,,
+ST_In_MD/TEXT_01_CAP_NAME_0512_1,シュバルツ・グロー,Schwarz Glow,,
+ST_In_MD/TEXT_01_CAP_NAME_0512_2,シュバルツ・グロー,Schwarz Glow,,
+ST_In_MD/TEXT_01_CAP_NAME_0512_3,シュバルツ・グロー,Schwarz Glow,,
+ST_In_MD/TEXT_01_CAP_NAME_0601,届けたい心の声,,,
+ST_In_MD/TEXT_01_CAP_NAME_0609,過ぎ去りしあの日々に,,,
+ST_In_MD/TEXT_01_CAP_NAME_0616,誰だってプリンセス,,,
+ST_In_MD/TEXT_01_CAP_NAME_0628,誰だってプリンセス,,,
+ST_In_MD/TEXT_01_CAP_NAME_0702,アライブアタック,Alive Attack,,
+ST_In_MD/TEXT_01_CAP_NAME_0704,プリコグフィールド,Precog Field,not sure if this is right,
+ST_In_MD/TEXT_01_CAP_NAME_0706,ダズリングナイト,Dazzling Night,,
+ST_In_MD/TEXT_01_CAP_NAME_0708,目指すはトップ！,,,
+ST_In_MD/TEXT_01_CAP_NAME_0710,君が望むなら,,,
+ST_In_MD/TEXT_01_CAP_NAME_0712,万事オッケー！,,,
+ST_In_MD/TEXT_01_CAP_NAME_0801,期待の新星！,,,
+ST_In_MD/TEXT_01_CAP_NAME_0802,期待の新星！,,,
+ST_In_MD/TEXT_01_CAP_NAME_0803,期待の新星！,,,
+ST_In_MD/TEXT_01_CAP_NAME_0804,突き抜けて明日へ,,,
+ST_In_MD/TEXT_01_CAP_NAME_0805,俺たちは最高だ！,,,
+ST_In_MD/TEXT_01_CAP_NAME_0806,俺たちは最高だ！,,,
+ST_In_MD/TEXT_01_CAP_NAME_0807,俺たちは最高だ！,,,
+ST_In_MD/TEXT_01_CAP_NAME_0808,ぴょんぴょんダンス♪,Hop Hop Dance♪,,
+ST_In_MD/TEXT_01_CAP_NAME_0809,ＳＡＹ“ＨＥＬＬＯ！！”,"SAY ""HELLO!!""",,
+ST_In_MD/TEXT_01_CAP_NAME_0810,ＳＡＹ“ＨＥＬＬＯ！！”,"SAY ""HELLO!!""",,
+ST_In_MD/TEXT_01_CAP_NAME_0811,ＳＡＹ“ＨＥＬＬＯ！！”,"SAY ""HELLO!!""",,
+ST_In_MD/TEXT_01_CAP_NAME_0812,放課後の約束♪,,,
+ST_In_MD/TEXT_01_CAP_NAME_0815,いつかセンパイと！,,,
+ST_In_MD/TEXT_01_CAP_NAME_0818_1,スパイシースマイル,Spicy Smile,,
+ST_In_MD/TEXT_01_CAP_NAME_0818_2,スパイシースマイル,Spicy Smile,,
+ST_In_MD/TEXT_01_CAP_NAME_0818_3,スパイシースマイル,Spicy Smile,,
+ST_In_MD/TEXT_01_CAP_NAME_AF01,シンクロナイズド,Synchronized,,
+ST_In_MD/TEXT_01_CAP_NAME_AF02,私たちの流儀,,,
+ST_In_MD/TEXT_01_CAP_NAME_CF01,群青色の青春,,,
+ST_In_MD/TEXT_01_CAP_NAME_CF02,世界はゴスで１つになる,,,
+ST_In_MD/TEXT_01_CAP_NAME_CMF21,ラッキースター！,Lucky Star!,,
+ST_In_MD/TEXT_01_CAP_NAME_CSF11,トライアングルテーマ,Triangle Theme,,
+ST_In_MD/TEXT_01_CAP_NAME_CSF12,からめる、キャラメル,"Caramel, Kyaramel",,
+ST_In_MD/TEXT_01_CAP_NAME_CSF21,ペアフレーム３５号,Pair Frame #35,,
+ST_In_MD/TEXT_01_CAP_NAME_DF01,ＮｏｔＥｎｏｕｇｈ！,Not Enough!,,
+ST_In_MD/TEXT_01_CAP_NAME_DF02,ナチュラル・パワー,Natural Power,,
+ST_In_MD/TEXT_01_CAP_NAME_DF03,からめる、キャラメル,"Caramel, Kyaramel",,
+ST_In_MD/TEXT_01_CAP_NAME_DF04,誰だってプリンセス,,,
+ST_In_MD/TEXT_01_CAP_NAME_DF05,群青色の青春,,,
+ST_In_MD/TEXT_01_CAP_NAME_DF06,充填！ビクトリーショット,Load Up! Victory Shot,,
+ST_In_MD/TEXT_01_CAP_NAME_KSF11,これが見たかったのね,,,
+ST_In_MD/TEXT_01_CAP_NAME_KSF21,なないろの奇跡,Rainbow Miracle,,
+ST_In_MD/TEXT_01_CAP_NAME_KSF22,なんて素敵なＧかしら,,,
+ST_In_MD/TEXT_01_CAP_NAME_LF01,いつか灰に還る日,,,
+ST_In_MD/TEXT_01_CAP_NAME_LF02,ＭＡＴＣＨ↑ＵＰ,MATCH ↑ UP,,
+ST_In_MD/TEXT_01_CAP_NAME_MF01_1,アンゴルモアの勅命,Angolmois' Edict,,
+ST_In_MD/TEXT_01_CAP_NAME_MF01_2,アンゴルモアの勅命,Angolmois' Edict,,
+ST_In_MD/TEXT_01_CAP_NAME_MF01_3,アンゴルモアの勅命,Angolmois' Edict,,
+ST_In_MD/TEXT_01_CAP_NAME_MF02_1,アンゴルモアの勅命,Angolmois' Edict,,
+ST_In_MD/TEXT_01_CAP_NAME_MF02_2,アンゴルモアの勅命,Angolmois' Edict,,
+ST_In_MD/TEXT_01_CAP_NAME_MF02_3,アンゴルモアの勅命,Angolmois' Edict,,
+ST_In_MD/TEXT_01_CAP_NAME_MF03_1,アンゴルモアの勅命,Angolmois' Edict,,
+ST_In_MD/TEXT_01_CAP_NAME_MF03_2,アンゴルモアの勅命,Angolmois' Edict,,
+ST_In_MD/TEXT_01_CAP_NAME_MF03_3,アンゴルモアの勅命,Angolmois' Edict,,
+ST_In_MD/TEXT_01_CAP_NAME_MF04_1,アンゴルモアの勅命,Angolmois' Edict,,
+ST_In_MD/TEXT_01_CAP_NAME_MF04_2,アンゴルモアの勅命,Angolmois' Edict,,
+ST_In_MD/TEXT_01_CAP_NAME_MF04_3,アンゴルモアの勅命,Angolmois' Edict,,
+ST_In_MD/TEXT_01_CAP_NAME_MF05_1,アンゴルモアの勅命,Angolmois' Edict,,
+ST_In_MD/TEXT_01_CAP_NAME_MF05_2,アンゴルモアの勅命,Angolmois' Edict,,
+ST_In_MD/TEXT_01_CAP_NAME_MF05_3,アンゴルモアの勅命,Angolmois' Edict,,
+ST_In_MD/TEXT_01_CAP_NAME_MF06_1,アンゴルモアの勅命,Angolmois' Edict,,
+ST_In_MD/TEXT_01_CAP_NAME_MF06_2,アンゴルモアの勅命,Angolmois' Edict,,
+ST_In_MD/TEXT_01_CAP_NAME_MF06_3,アンゴルモアの勅命,Angolmois' Edict,,
+ST_In_MD/TEXT_01_CAP_NAME_MSF11,失恋惑星感情帯,,,
+ST_In_MD/TEXT_01_CAP_NAME_MSF12,いつか灰に還る日,,,
+ST_In_MD/TEXT_01_CAP_NAME_MSF21,ＬＯＷ：ＴＥＥＮ,LOW : TEEN,,
+ST_In_MD/TEXT_01_CAP_NAME_MSF22,最終章：永遠のふたり,,,
+ST_In_MD/TEXT_01_CAP_NAME_NSF11,ラストクエスチョン,Last Question,,
+ST_In_MD/TEXT_01_CAP_NAME_NSF21,サイバー・ハイパー,Cyber Hyper,,
+ST_In_MD/TEXT_01_CAP_NAME_QSF01,いつか灰に還る日,The Day It Returns to Ash,,
+ST_In_MD/TEXT_01_CAP_NAME_QSF02,からめる、キャラメル,"Caramel, Kyaramel",,
+ST_In_MD/TEXT_01_CAP_NAME_QSF03,ＭＡＴＣＨ↑ＵＰ,MATCH ↑ UP,,
+ST_In_MD/TEXT_01_CAP_NAME_SF17,さくらんぼのため息,,,
+ST_In_MD/TEXT_01_CAP_NAME_SF18,選ばれた世界線,,,
+ST_In_MD/TEXT_01_CAP_NAME_SF19,私たちの流儀,,,
+ST_In_MD/TEXT_01_CAP_NAME_SF20,ＬＯＷ：ＴＥＥＮ,LOW : TEEN,,
+ST_In_MD/TEXT_01_CAP_NAME_SF21,全てを巻き込む力,,,
+ST_In_MD/TEXT_01_CAP_NAME_SF22,なんて素敵なＧかしら,,,
+ST_In_MD/TEXT_01_CAP_NAME_SF23,ペアフレーム３５号,Pair Frame #35,,
+ST_In_MD/TEXT_01_CAP_NAME_SF24,君がいればＳＵＮＤＡＹ,,,
+ST_In_MD/TEXT_01_CAP_NAME_SF25,失恋惑星感情帯,,,
+ST_In_MD/TEXT_01_CAP_NAME_SF26,ラストクエスチョン,Last Question,,
+ST_In_MD/TEXT_01_CAP_NAME_SF27,君とＪＵＭＰＩＮＧ！,JUMPING with you!,,
+ST_In_MD/TEXT_01_CAP_NAME_SF28,これが見たかったのね,,,
+ST_In_MD/TEXT_01_CAP_NAME_SF29,アイシアイサレ,,,
+ST_In_MD/TEXT_01_CAP_NAME_SF30,なないろの奇跡,Rainbow Miracle,,
+ST_In_MD/TEXT_01_CAP_NAME_SF31,超・乱れ撃ちだドン！,,,
+ST_In_MD/TEXT_01_CAP_NAME_SF32,トライアングルテーマ,Triangle Theme,,
+ST_In_MD/TEXT_01_CAP_NAME_SF33,いつか灰に還る日,,,
+ST_In_MD/TEXT_01_CAP_NAME_SF34,雨と涙と銀の弾,,,
+ST_In_MD/TEXT_01_CAP_NAME_SF35,からめる、キャラメル,"Caramel, Kyaramel",,
+ST_In_MD/TEXT_01_CAP_NAME_SF36,サイバー・ハイパー,Cyber Hyper,,
+ST_In_MD/TEXT_01_CAP_NAME_SF37,最終章：永遠のふたり,,,
+ST_In_MD/TEXT_01_CAP_NAME_SF38,月光、蒼く染めて,,,
+ST_In_MD/TEXT_01_CAP_NAME_SF39,ナチュラル・パワー,Natural Power,,
+ST_In_MD/TEXT_01_CAP_NAME_SF40,成り立てフレッシュ！,,,
+ST_In_MD/TEXT_01_CAP_NAME_SF41,放課後の狩人たち,,,
+ST_In_MD/TEXT_01_CAP_NAME_SF42,今がチャンスよ♪,Now's our chance♪,,
+ST_In_MD/TEXT_01_CAP_NAME_SF43,さくらんぼのため息,,,
+ST_In_MD/TEXT_01_CAP_NAME_SF44,シンクロナイズド,Synchronized,,
+ST_In_MD/TEXT_01_CAP_NAME_SF45,私たちの流儀,,,
+ST_In_MD/TEXT_01_CAP_NAME_SF46,とろける吐息,,,
+ST_In_MD/TEXT_01_CAP_NAME_SF47,からめる、キャラメル,"Caramel, Kyaramel",,
+ST_In_MD/TEXT_01_CAP_NAME_SF48,幸福万有引力,,,
+ST_In_MD/TEXT_01_CAP_NAME_SF49,セブンカラーズ,Seven Colors,,
+ST_In_MD/TEXT_01_CAP_NAME_SF50,群青色の青春,,,
+ST_In_MD/TEXT_01_CAP_NAME_SF51,放課後の狩人たち,,,
+ST_In_MD/TEXT_01_CAP_NAME_SF52,ココロに響くオモイ,,,
+ST_In_MD/TEXT_01_CAP_NAME_SF53,いつか灰に還る日,,,
+ST_In_MD/TEXT_01_CAP_NAME_SF54,ＬＯＷ：ＴＥＥＮ,LOW : TEEN,,
+ST_In_MD/TEXT_01_CAP_NAME_SF55,最終章：永遠のふたり,,,
+ST_In_MD/TEXT_01_CAP_NAME_SF56,シンクロナイズド,Synchronized,,
+ST_In_MD/TEXT_01_CAP_NAME_SF57,ＮｏｔＥｎｏｕｇｈ！,Not Enough!,,
+ST_In_MD/TEXT_01_CAP_NAME_SF58,月光、蒼く染めて,,,
+ST_In_MD/TEXT_01_CAP_NAME_SF59,世界はゴスで１つになる,,,
+ST_In_MD/TEXT_01_CAP_NAME_SF60,ダウンチューニング,Down Tuning,,
+ST_In_MD/TEXT_01_CAP_NAME_SMF11,私たちの流儀,Our Style,,
+ST_In_MD/TEXT_01_CAP_NAME_SSF21,君とＪＵＭＰＩＮＧ！,JUMPING and You!,,
+ST_In_MD/TEXT_01_CAP_NAME_WSF11,さくらんぼのため息,,,
+ST_In_MD/TEXT_01_CAP_NAME_WSF12,君がいればＳＵＮＤＡＹ,,,
+ST_In_MD/TEXT_01_CAP_NAME_WSF21,アイシアイサレ,,,
+ST_In_MD/TEXT_01_DETAIL_7601,"<appeal_def>ユニゾンアピールが発生している間</>
+<appeal_def>自分の全スキルブーストを{0}％上げる</>","<appeal_def>During a Unison Appeal,</>
+<appeal_def>increase all skill boosts by {0}%</>",,
+ST_In_MD/TEXT_01_DETAIL_7602,"<appeal_def>ユニゾンアピールが発生している間</>
+<appeal_def>自分の全スキルブーストを{0}％上げる</>","<appeal_def>During a Unison Appeal,</>
+<appeal_def>increase all skill boosts by {0}%</>",,
+ST_In_MD/TEXT_01_DETAIL_7603,"<appeal_def>ユニゾンアピールが発生している間</>
+<appeal_def>自分の全スキルブーストを{0}％上げる</>","<appeal_def>During a Unison Appeal,</>
+<appeal_def>increase all skill boosts by {0}%</>",,
+ST_In_MD/TEXT_01_DETAIL_7604,"<appeal_def>ユニゾンアピールが発生している間</>
+<appeal_def>自分の全スキルブーストを{0}％上げる</>","<appeal_def>During a Unison Appeal,</>
+<appeal_def>increase all skill boosts by {0}%</>",,
+ST_In_MD/TEXT_01_DETAIL_7605,"<appeal_def>ユニゾンアピールが発生している間</>
+<appeal_def>自分の全スキルブーストを{0}％上げる</>","<appeal_def>During a Unison Appeal,</>
+<appeal_def>increase all skill boosts by {0}%</>",,
+ST_In_MD/TEXT_01_DETAIL_7606,"<appeal_def>ユニゾンアピールが発生している間</>
+<appeal_def>自分の全スキルブーストを{0}％上げる</>","<appeal_def>During a Unison Appeal,</>
+<appeal_def>increase all skill boosts by {0}%</>",,
+ST_In_MD/TEXT_01_DETAIL_7701,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_DETAIL_7702,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>自分のVo.スキルブーストを{0}％上げる</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase the Vo. skill boost by {0}%</>",,
+ST_In_MD/TEXT_01_DETAIL_7703,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>自分のDa.スキルブーストを{0}％上げる</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase the Da. skill boost by {0}%</>",,
+ST_In_MD/TEXT_01_DETAIL_7704,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>自分のVi.スキルブーストを{0}％上げる</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase the Vi. skill boost by {0}%</>",,
+ST_In_MD/TEXT_01_DETAIL_7705,"<appeal_def>ユニゾンカウンター発生時に</>
+<appeal_def>ユニットの思い出を{0}増やす</>","<appeal_def>When a Unison Counter occurs,</>
+<appeal_def>increase the unit's memories by {0}</>",,
+ST_In_MD/TEXT_01_DETAIL_7706,"<appeal_def>ユニゾンコンプリート達成時に</>
+<appeal_def>ユニットのシンクロゲージを{0}％増やす</>","<appeal_def>Achieving Unison Complete will</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_FR_NAME_0001,ディアマント,Diamant,,
+ST_In_MD/TEXT_01_FR_NAME_0094,ガミＰエンジェルズ,Gami-P Angels,,
+ST_In_MD/TEXT_01_FR_NAME_0334,メイビー☆プリンセス,Maybe☆Princess,,
+ST_In_MD/TEXT_01_FR_NAME_0335,少女リベリオン,Girls Rebellion,,
+ST_In_MD/TEXT_01_FR_NAME_0336,Ｇｉｒｌｓ→Ｌａｄｉｅｓ,Girls→Ladies,,
+ST_In_MD/TEXT_01_FR_NAME_0353,少女リベリオン,Girls Rebellion,,
+ST_In_MD/TEXT_01_FR_NAME_0355,アイドル勇士ゴー３,Idol Hero Go 3,,
+ST_In_MD/TEXT_01_FR_NAME_0357,５ＯＴＨＩＣ／ＰＡＲＴＹ,5OTHIC/PARTY,,
+ST_In_MD/TEXT_01_FR_NAME_0360,戒律少女Σ,,,
+ST_In_MD/TEXT_01_FR_NAME_0373_1,メイビー☆プリンセス,Maybe☆Princess,,
+ST_In_MD/TEXT_01_FR_NAME_0373_2,メイビー☆プリンセス,Maybe☆Princess,,
+ST_In_MD/TEXT_01_FR_NAME_0373_3,メイビー☆プリンセス,Maybe☆Princess,,
+ST_In_MD/TEXT_01_FR_NAME_0374_1,Ｇｉｒｌｓ→Ｌａｄｉｅｓ,Girls→Ladies,,
+ST_In_MD/TEXT_01_FR_NAME_0374_2,Ｇｉｒｌｓ→Ｌａｄｉｅｓ,Girls→Ladies,,
+ST_In_MD/TEXT_01_FR_NAME_0374_3,Ｇｉｒｌｓ→Ｌａｄｉｅｓ,Girls→Ladies,,
+ST_In_MD/TEXT_01_FR_NAME_0377_1,Ｇｉｒｌｓ→Ｌａｄｉｅｓ,Girls→Ladies,,
+ST_In_MD/TEXT_01_FR_NAME_0377_2,Ｇｉｒｌｓ→Ｌａｄｉｅｓ,Girls→Ladies,,
+ST_In_MD/TEXT_01_FR_NAME_0377_3,Ｇｉｒｌｓ→Ｌａｄｉｅｓ,Girls→Ladies,,
+ST_In_MD/TEXT_01_FR_NAME_0394,亜夜,Aya,,
+ST_In_MD/TEXT_01_FR_NAME_0504,メイビー☆プリンセス,Maybe☆Princess,,
+ST_In_MD/TEXT_01_FR_NAME_0507,魔王エンジェル,Devil Angel,Devil Angel - project-imas.com wiki,
+ST_In_MD/TEXT_01_FR_NAME_0509_1,ディアマント,Diamant,,
+ST_In_MD/TEXT_01_FR_NAME_0509_2,ディアマント,Diamant,,
+ST_In_MD/TEXT_01_FR_NAME_0509_3,ディアマント,Diamant,,
+ST_In_MD/TEXT_01_FR_NAME_0512_1,ディアマント,Diamant,,
+ST_In_MD/TEXT_01_FR_NAME_0512_2,ディアマント,Diamant,,
+ST_In_MD/TEXT_01_FR_NAME_0512_3,ディアマント,Diamant,,
+ST_In_MD/TEXT_01_FR_NAME_0601,佐野 美心,Mikokoro Sano,,
+ST_In_MD/TEXT_01_FR_NAME_0609,雪月花,Setsugetsuka,Setsugetsuka - project-imas.com wiki,
+ST_In_MD/TEXT_01_FR_NAME_0616,メイビー☆プリンセス,Maybe☆Princess,,
+ST_In_MD/TEXT_01_FR_NAME_0628,メイビー☆プリンセス,Maybe☆Princess,,
+ST_In_MD/TEXT_01_FR_NAME_0702,日高 愛,Ai Hidaka,,
+ST_In_MD/TEXT_01_FR_NAME_0704,水谷 絵理,Eri Mizutani,,
+ST_In_MD/TEXT_01_FR_NAME_0706,秋月 涼,Ryo Akizuki,,
+ST_In_MD/TEXT_01_FR_NAME_0708,天ヶ瀬 冬馬,Toma Amagase,,
+ST_In_MD/TEXT_01_FR_NAME_0710,伊集院 北斗,Hokuto Ijuin,,
+ST_In_MD/TEXT_01_FR_NAME_0712,御手洗 翔太,Shota Mitarai,,
+ST_In_MD/TEXT_01_FR_NAME_0801,DRAMATIC STARS,DRAMATIC STARS,,
+ST_In_MD/TEXT_01_FR_NAME_0802,DRAMATIC STARS,DRAMATIC STARS,,
+ST_In_MD/TEXT_01_FR_NAME_0803,DRAMATIC STARS,DRAMATIC STARS,,
+ST_In_MD/TEXT_01_FR_NAME_0805,Jupiter,Jupiter,,
+ST_In_MD/TEXT_01_FR_NAME_0806,Jupiter,Jupiter,,
+ST_In_MD/TEXT_01_FR_NAME_0807,Jupiter,Jupiter,,
+ST_In_MD/TEXT_01_FR_NAME_0809,ディアリースターズ,Dearly Stars,,
+ST_In_MD/TEXT_01_FR_NAME_0810,ディアリースターズ,Dearly Stars,,
+ST_In_MD/TEXT_01_FR_NAME_0811,ディアリースターズ,Dearly Stars,,
+ST_In_MD/TEXT_01_FR_NAME_0815,サイネリア,Cineria,,
+ST_In_MD/TEXT_01_FR_NAME_0818_1,桜井 夢子,Yumeko Sakurai,,
+ST_In_MD/TEXT_01_FR_NAME_0818_2,桜井 夢子,Yumeko Sakurai,,
+ST_In_MD/TEXT_01_FR_NAME_0818_3,桜井 夢子,Yumeko Sakurai,,
+ST_In_MD/TEXT_01_FR_NAME_0904,亜夜,Aya,,
+ST_In_MD/TEXT_01_FR_NAME_AF01,リリックモンキーズ,Lyric Monkeys,,
+ST_In_MD/TEXT_01_FR_NAME_AF02,戒律少女Σ,,,
+ST_In_MD/TEXT_01_FR_NAME_CF01,群青同好会,,,
+ST_In_MD/TEXT_01_FR_NAME_CF02,５ＯＴＨＩＣ／ＰＡＲＴＹ,5OTHIC/PARTY,,
+ST_In_MD/TEXT_01_FR_NAME_CMF21_1,魔王エンジェル,Devil Angel,,
+ST_In_MD/TEXT_01_FR_NAME_CMF21_2,魔王エンジェル,Devil Angel,,
+ST_In_MD/TEXT_01_FR_NAME_CMF21_3,魔王エンジェル,Devil Angel,,
+ST_In_MD/TEXT_01_FR_NAME_CSF11,三平方の定理,,,
+ST_In_MD/TEXT_01_FR_NAME_CSF12,シュガーファントム,Sugar Phantom,,
+ST_In_MD/TEXT_01_FR_NAME_CSF21,三ツ星アイフレーム,3 Star Eye Frame,,
+ST_In_MD/TEXT_01_FR_NAME_DF01,ＴＨＥバックシャン,,,
+ST_In_MD/TEXT_01_FR_NAME_DF02,天然少女,,,
+ST_In_MD/TEXT_01_FR_NAME_DF03,シュガーファントム,Sugar Phantom,,
+ST_In_MD/TEXT_01_FR_NAME_DF04,メイビー☆プリンセス,Maybe☆Princess,,
+ST_In_MD/TEXT_01_FR_NAME_DF05,群青同好会,,,
+ST_In_MD/TEXT_01_FR_NAME_DF06,アイドル勇士ゴー３,Idol Hero Go 3,,
+ST_In_MD/TEXT_01_FR_NAME_KSF11,ハローハロー,Hallo Hallo,,
+ST_In_MD/TEXT_01_FR_NAME_KSF21,ナナイロ,Nanairo,,
+ST_In_MD/TEXT_01_FR_NAME_KSF22,スーパーG,Super G,,
+ST_In_MD/TEXT_01_FR_NAME_LF01,ＧｒａｕｅＷｅｌｔ,Graue Welt,,
+ST_In_MD/TEXT_01_FR_NAME_LF02,Ｇｉｒｌｓ→Ｌａｄｉｅｓ,Girls→Ladies,,
+ST_In_MD/TEXT_01_FR_NAME_MF01_1,ミス・アンゴルモア,Miss Angolmois,,
+ST_In_MD/TEXT_01_FR_NAME_MF01_2,ミス・アンゴルモア,Miss Angolmois,,
+ST_In_MD/TEXT_01_FR_NAME_MF01_3,ミス・アンゴルモア,Miss Angolmois,,
+ST_In_MD/TEXT_01_FR_NAME_MF02_1,ミス・アンゴルモア,Miss Angolmois,,
+ST_In_MD/TEXT_01_FR_NAME_MF02_2,ミス・アンゴルモア,Miss Angolmois,,
+ST_In_MD/TEXT_01_FR_NAME_MF02_3,ミス・アンゴルモア,Miss Angolmois,,
+ST_In_MD/TEXT_01_FR_NAME_MF03_1,ミス・アンゴルモア,Miss Angolmois,,
+ST_In_MD/TEXT_01_FR_NAME_MF03_2,ミス・アンゴルモア,Miss Angolmois,,
+ST_In_MD/TEXT_01_FR_NAME_MF03_3,ミス・アンゴルモア,Miss Angolmois,,
+ST_In_MD/TEXT_01_FR_NAME_MF04_1,ミス・アンゴルモア,Miss Angolmois,,
+ST_In_MD/TEXT_01_FR_NAME_MF04_2,ミス・アンゴルモア,Miss Angolmois,,
+ST_In_MD/TEXT_01_FR_NAME_MF04_3,ミス・アンゴルモア,Miss Angolmois,,
+ST_In_MD/TEXT_01_FR_NAME_MF05_1,ミス・アンゴルモア,Miss Angolmois,,
+ST_In_MD/TEXT_01_FR_NAME_MF05_2,ミス・アンゴルモア,Miss Angolmois,,
+ST_In_MD/TEXT_01_FR_NAME_MF05_3,ミス・アンゴルモア,Miss Angolmois,,
+ST_In_MD/TEXT_01_FR_NAME_MF06_1,ミス・アンゴルモア,Miss Angolmois,,
+ST_In_MD/TEXT_01_FR_NAME_MF06_2,ミス・アンゴルモア,Miss Angolmois,,
+ST_In_MD/TEXT_01_FR_NAME_MF06_3,ミス・アンゴルモア,Miss Angolmois,,
+ST_In_MD/TEXT_01_FR_NAME_MSF11,プラネット・キス,Planet Kiss,,
+ST_In_MD/TEXT_01_FR_NAME_MSF12,ＧｒａｕｅＷｅｌｔ,Graue Welt,,
+ST_In_MD/TEXT_01_FR_NAME_MSF21,モンスターステップ,Monster Step,,
+ST_In_MD/TEXT_01_FR_NAME_MSF22,ガールズ・トリロジー,Girls Trilogy,,
+ST_In_MD/TEXT_01_FR_NAME_NSF11,キューティーQ,Cutie Q,,
+ST_In_MD/TEXT_01_FR_NAME_NSF21,電脳小娘,Cyber Girls,,
+ST_In_MD/TEXT_01_FR_NAME_QSF01,ＧｒａｕｅＷｅｌｔ,Graue Welt,,
+ST_In_MD/TEXT_01_FR_NAME_QSF02,シュガーファントム,Sugar Phantom,,
+ST_In_MD/TEXT_01_FR_NAME_QSF03,Ｇｉｒｌｓ→Ｌａｄｉｅｓ,Girls → Ladies,,
+ST_In_MD/TEXT_01_FR_NAME_SF11,気持ちＳＴＡＴＩＯＮ,Kimochi STATION,,
+ST_In_MD/TEXT_01_FR_NAME_SF12,HEAtWAvE,,,
+ST_In_MD/TEXT_01_FR_NAME_SF13,浜風クインテット,Hamakze Quintet,,
+ST_In_MD/TEXT_01_FR_NAME_SF14,祇園精舎,,,
+ST_In_MD/TEXT_01_FR_NAME_SF15,ドリーミーガール,Dreamy Girl,,
+ST_In_MD/TEXT_01_FR_NAME_SF16,テルミドール,Thermidor,not sure if this is right,
+ST_In_MD/TEXT_01_FR_NAME_SF17,さくらんぼ三銃士,,,
+ST_In_MD/TEXT_01_FR_NAME_SF18,riola,Riola,,
+ST_In_MD/TEXT_01_FR_NAME_SF19,戒律少女Σ,,,
+ST_In_MD/TEXT_01_FR_NAME_SF20,モンスターステップ,Monster Step,,
+ST_In_MD/TEXT_01_FR_NAME_SF21,カタマリヒメ,Katamari Princess,,
+ST_In_MD/TEXT_01_FR_NAME_SF22,スーパーG,Super G,,
+ST_In_MD/TEXT_01_FR_NAME_SF23,三ツ星アイフレーム,3 Star Eye Frame,not sure if this is right,
+ST_In_MD/TEXT_01_FR_NAME_SF24,また日曜日,,,
+ST_In_MD/TEXT_01_FR_NAME_SF25,プラネット・キス,Planet Kiss,,
+ST_In_MD/TEXT_01_FR_NAME_SF26,キューティーQ,Cutie Q,,
+ST_In_MD/TEXT_01_FR_NAME_SF27,恋してコニーリョ,,,
+ST_In_MD/TEXT_01_FR_NAME_SF28,ハローハロー,Hallo Hallo,going to assume this is some cheeky german,
+ST_In_MD/TEXT_01_FR_NAME_SF29,LovEME,,,
+ST_In_MD/TEXT_01_FR_NAME_SF30,ナナイロ,Nanairo,,
+ST_In_MD/TEXT_01_FR_NAME_SF31,タイコスキー,,,
+ST_In_MD/TEXT_01_FR_NAME_SF32,三平方の定理,,,
+ST_In_MD/TEXT_01_FR_NAME_SF33,ＧｒａｕｅＷｅｌｔ,Graue Welt,,
+ST_In_MD/TEXT_01_FR_NAME_SF34,嘘と銃弾,,,
+ST_In_MD/TEXT_01_FR_NAME_SF35,シュガーファントム,Sugar Phantom,,
+ST_In_MD/TEXT_01_FR_NAME_SF36,電脳小娘,Cyber Girls,,
+ST_In_MD/TEXT_01_FR_NAME_SF37,ガールズ・トリロジー,Girls Trilogy,,
+ST_In_MD/TEXT_01_FR_NAME_SF38,月光連盟,,,
+ST_In_MD/TEXT_01_FR_NAME_SF39,天然少女,,,
+ST_In_MD/TEXT_01_FR_NAME_SF40,アイドルEGG,Idol EGG,,
+ST_In_MD/TEXT_01_FR_NAME_SF41,３年Ｉ組生徒会,,,
+ST_In_MD/TEXT_01_FR_NAME_SF42,PIC-PAC,,,
+ST_In_MD/TEXT_01_FR_NAME_SF43,さくらんぼ三銃士,,,
+ST_In_MD/TEXT_01_FR_NAME_SF44,リリックモンキーズ,Lyric Monkeys,,
+ST_In_MD/TEXT_01_FR_NAME_SF45,戒律少女Σ,,,
+ST_In_MD/TEXT_01_FR_NAME_SF46,甘い息,Sweet Breath,,
+ST_In_MD/TEXT_01_FR_NAME_SF47,シュガーファントム,Sugar Phantom,,
+ST_In_MD/TEXT_01_FR_NAME_SF48,ハッピーコメット,Happy Comet,,
+ST_In_MD/TEXT_01_FR_NAME_SF49,虹色カラーパレッツ,Rainbow Color Palletes,,
+ST_In_MD/TEXT_01_FR_NAME_SF50,群青同好会,,,
+ST_In_MD/TEXT_01_FR_NAME_SF51,３年Ｉ組生徒会,,,
+ST_In_MD/TEXT_01_FR_NAME_SF52,モノローグ,Monologue,,
+ST_In_MD/TEXT_01_FR_NAME_SF53,ＧｒａｕｅＷｅｌｔ,Graue Welt,,
+ST_In_MD/TEXT_01_FR_NAME_SF54,モンスターステップ,Monster Step,,
+ST_In_MD/TEXT_01_FR_NAME_SF55,ガールズ・トリロジー,Girls Trilogy,,
+ST_In_MD/TEXT_01_FR_NAME_SF56,リリックモンキーズ,Lyric Monkeys,,
+ST_In_MD/TEXT_01_FR_NAME_SF57,ＴＨＥバックシャン,,,
+ST_In_MD/TEXT_01_FR_NAME_SF58,月光連盟,,,
+ST_In_MD/TEXT_01_FR_NAME_SF59,５ＯＴＨＩＣ／ＰＡＲＴＹ,5OTHIC/PARTY,,
+ST_In_MD/TEXT_01_FR_NAME_SF60,エレクトロ出張所,,,
+ST_In_MD/TEXT_01_FR_NAME_SMF11_1,戒律少女Σ,,,
+ST_In_MD/TEXT_01_FR_NAME_SMF11_2,戒律少女Σ,,,
+ST_In_MD/TEXT_01_FR_NAME_SMF11_3,戒律少女Σ,,,
+ST_In_MD/TEXT_01_FR_NAME_SSF21,恋してコニーリョ,,,
+ST_In_MD/TEXT_01_FR_NAME_WSF11,さくらんぼ三銃士,,,
+ST_In_MD/TEXT_01_FR_NAME_WSF12,また日曜日,,,
+ST_In_MD/TEXT_01_FR_NAME_WSF21,LovEME,LovEME,,
+ST_In_MD/TEXT_01_NAME_6601,北東エリアの輝き,Shine of the Northeast,,
+ST_In_MD/TEXT_01_NAME_6602,南エリアの輝き,Shine of the South,,
+ST_In_MD/TEXT_01_NAME_6603,上方エリアの輝き,Shine of Kansai,,
+ST_In_MD/TEXT_01_NAME_6604,西エリアの輝き,Shine of the West,,
+ST_In_MD/TEXT_01_NAME_6605,中央エリアの輝き,Shine of the Central,,
+ST_In_MD/TEXT_01_NAME_6606,首都エリアの輝き,Shine of the Capital,,
+ST_In_MD/TEXT_01_NAME_6701,テンションスペシャル,Tension Special,,
+ST_In_MD/TEXT_01_NAME_6702,ボーカルスペシャル,Vocal Special,,
+ST_In_MD/TEXT_01_NAME_6703,ダンススペシャル,Dance Special,,
+ST_In_MD/TEXT_01_NAME_6704,ビジュアルスペシャル,Visual Special,,
+ST_In_MD/TEXT_01_NAME_6705,メモリースペシャル,Memory Special,,
+ST_In_MD/TEXT_01_NAME_6706,シンセシススペシャル,Synthesis Special,,
+ST_In_MD/TEXT_01_UAP_DETAIL_0094,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase tension by {0}%</>","this section is all rival skills. descriptions should have
+subject nouns that do not confuse the reader",
+ST_In_MD/TEXT_01_UAP_DETAIL_0334,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0335,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>相手のテンションを{0}％下げる</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>reduce the opponent's tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0336,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the number of memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0353,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>相手のテンションを{0}％下げる</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>reduce the opponent's tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0355,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>相手の全スキルブーストを{0}％下げる</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>reduce all skill boosts of the opponent by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0357,"<appeal_def>ユニゾンアピールが発生している間</>
+<appeal_def>相手のアピールスコアを{0}に固定する</>","<appeal_def>While the Unison Appeal is active,</>
+<appeal_def>change the opponent's appeal score to {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0360,"<appeal_def>ユニゾンカウンター発生時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>When a Unison Counter occurs,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0373_1,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0373_2,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0373_3,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0374_1,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the number of memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0374_2,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the number of memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0374_3,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the number of memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0377_1,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the number of memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0377_2,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the number of memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0377_3,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the number of memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0394,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0504,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0507,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>相手のシンクロゲージを{0}％減らす</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>reduce the opponent's Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0509_1,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0509_2,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>reduce the opponent's memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0509_3,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0512_1,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>相手のテンションを{0}％下げる</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>reduce the opponent's tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0512_2,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>相手の思い出を{0}減らす</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>reduce the opponent's memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0512_3,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>相手のシンクロゲージを{0}％減らす</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>reduce the opponent's Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0601,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>相手のテンションを{0}％下げる</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>reduce the opponent's tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0609,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0616,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0628,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0702,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the number of memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0704,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the number of memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0706,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the number of memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0708,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0710,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0712,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0801,"<appeal_def>ユニゾンアピールが発生している間</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>While the Unison Appeal is active,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0802,"<appeal_def>ユニゾンアピールが発生している間</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>While the Unison Appeal is active,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0803,"<appeal_def>ユニゾンアピールが発生している間</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>While the Unison Appeal is active,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0805,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0806,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0807,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0809,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase the number of memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0810,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase the number of memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0811,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase the number of memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0815,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0818_1,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>相手の全スキルブーストを{0}％下げる</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>reduce all skill boosts of the opponent by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0818_2,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>相手の全スキルブーストを{0}％下げる</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>reduce all skill boosts of the opponent by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0818_3,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>相手の全スキルブーストを{0}％下げる</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>reduce all skill boosts of the opponent by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_0904,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_AF01,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>increase the number memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_AF02,"<appeal_def>ユニゾンカウンター発生時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>When a Unison Counter occurs,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_CF01,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the number of memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_CF02,"<appeal_def>ユニゾンアピールが発生している間</>
+<appeal_def>相手のアピールスコアを{0}に固定する</>","<appeal_def>While the Unison Appeal is active,</>
+<appeal_def>change the opponent's appeal score to {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_CMF21_1,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>相手のシンクロゲージを{0}％減らす</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>reduce the opponent's Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_CMF21_2,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>相手のシンクロゲージを{0}％減らす</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>reduce the opponent's Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_CMF21_3,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>相手のシンクロゲージを{0}％減らす</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>reduce the opponent's Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_CSF11,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_CSF12,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase the number of memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_CSF21,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>相手の思い出を{0}減らす</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>reduce the opponent's memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_DF01,"<appeal_def>ユニゾンカウンター発生時に</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>When a Unison Counter occurs,</>
+<appeal_def>increase the number of memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_DF02,"<appeal_def>ユニゾンアピールが発生している間</>
+<appeal_def>相手のアピールスコアを{0}に固定する</>","<appeal_def>While the Unison Appeal is active,</>
+<appeal_def>change the opponent's appeal score to {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_DF03,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>increase the number of memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_DF04,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_DF05,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>increase the number of memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_DF06,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>相手の全スキルブーストを{0}％下げる</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>reduce all skill boosts of the opponent by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_KSF11,"<appeal_def>ユニゾンアピールが発生している間</>
+<appeal_def>相手のアピールスコアを{0}に固定する</>","<appeal_def>While the Unison Appeal is active,</>
+<appeal_def>change the opponent's appeal score to {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_KSF21,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the number of memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_KSF22,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_LF01,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>相手の思い出を{0}減らす</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>reduce the opponent's memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_LF02,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the number of memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_MF01_1,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>相手のテンションを乱す</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>disturb the opponent's tension</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_MF01_2,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>相手のテンションを乱す</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>disturb the opponent's tension</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_MF01_3,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>相手のテンションを乱す</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>disturb the opponent's tension</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_MF02_1,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>相手のテンションを乱す</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>disturb the opponent's tension</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_MF02_2,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>相手のテンションを乱す</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>disturb the opponent's tension</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_MF02_3,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>相手のテンションを乱す</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>disturb the opponent's tension</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_MF03_1,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>相手のテンションを乱す</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>disturb the opponent's tension</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_MF03_2,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>相手のテンションを乱す</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>disturb the opponent's tension</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_MF03_3,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>相手のテンションを乱す</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>disturb the opponent's tension</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_MF04_1,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>相手のテンションを乱す</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>disturb the opponent's tension</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_MF04_2,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>相手のテンションを乱す</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>disturb the opponent's tension</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_MF04_3,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>相手のテンションを乱す</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>disturb the opponent's tension</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_MF05_1,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>相手のテンションを乱す</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>disturb the opponent's tension</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_MF05_2,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>相手のテンションを乱す</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>disturb the opponent's tension</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_MF05_3,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>相手のテンションを乱す</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>disturb the opponent's tension</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_MF06_1,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>相手のテンションを乱す</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>disturb the opponent's tension</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_MF06_2,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>相手のテンションを乱す</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>disturb the opponent's tension</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_MF06_3,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>相手のテンションを乱す</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>disturb the opponent's tension</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_MSF11,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>相手のテンションを乱す</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>disturb the opponent's tension</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_MSF12,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>相手の思い出を{0}減らす</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>reduce the opponent's memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_MSF21,"<appeal_def>ユニゾンアピール終了から{0}秒間</>
+<appeal_def>能力リクエストをVi.に変える</>","<appeal_def>{0} seconds from the end of the Unison Appeal,</>
+<appeal_def>change the requested appeal type to Vi.</> ",,
+ST_In_MD/TEXT_01_UAP_DETAIL_MSF22,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_NSF11,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_NSF21,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>相手の全スキルブーストを{0}％下げる</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>reduce all skill boosts of the opponent by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_QSF01,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>相手の思い出を{0}減らす</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>reduce the opponent's memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_QSF02,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>increase the number of memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_QSF03,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the number of memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF11,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the number of memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF12,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF13,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF14,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>相手のテンションを乱す</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>disturb the opponent's tension</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF15,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>相手の全スキルブーストを{0}％下げる</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>reduce all skill boosts of the opponent by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF16,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>相手のシンクロゲージを{0}％減らす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>reduce the opponent's Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF17,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF18,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>相手のテンションを{0}％下げる</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>reduce the opponent's tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF19,"<appeal_def>ユニゾンカウンター発生時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>When a Unison Counter occurs,</>
+<appeal_def>increase your tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF20,"<appeal_def>ユニゾンアピール終了から{0}秒間</>
+<appeal_def>能力リクエストをVi.に変える</>","<appeal_def>{0} seconds from the end of the Unison Appeal,</>
+<appeal_def>change the requested appeal type to Vi.</> ",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF21,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF22,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF23,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>相手の思い出を{0}減らす</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>reduce the opponent's memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF24,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF25,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>相手のテンションを乱す</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>disturb the opponent's tension</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF26,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF27,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>相手の思い出を{0}減らす</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>reduce the opponent's memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF28,"<appeal_def>ユニゾンアピールが発生している間</>
+<appeal_def>相手のアピールスコアを{0}に固定する</>","<appeal_def>While the Unison Appeal is active,</>
+<appeal_def>change the opponent's appeal score to {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF29,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>相手のテンションを乱す</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>disturb the opponent's tension</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF30,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the number of memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF31,"<appeal_def>ユニゾンアピールが発生している間</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>While the Unison Appeal is active,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF32,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF33,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>相手の思い出を{0}減らす</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>reduce the opponent's memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF34,"<appeal_def>ユニゾンアピール終了から{0}秒間</>
+<appeal_def>能力リクエストをVo.に変える</>","<appeal_def>{0} seconds from the end of the Unison Appeal,</>
+<appeal_def>change the requested appeal type to Vo.</> ",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF35,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>increase the number of memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF36,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>相手の全スキルブーストを{0}％下げる</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>reduce all skill boosts of the opponent by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF37,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF38,"<appeal_def>ユニゾンアピール終了から{0}秒間</>
+<appeal_def>能力リクエストをDa.に変える</>","<appeal_def>{0} seconds from the end of the Unison Appeal,</>
+<appeal_def>change the requested appeal type to Da.</> ",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF39,"<appeal_def>ユニゾンアピールが発生している間</>
+<appeal_def>相手のアピールスコアを{0}に固定する</>","<appeal_def>While the Unison Appeal is active,</>
+<appeal_def>change the opponent's appeal score to {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF40,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のシンクロゲージを{0}％増やす</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase the Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF41,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>相手のテンションを{0}％下げる</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>reduce the opponent's tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF42,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of the Unison Appeal,</>
+<appeal_def>increase the synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF43,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the start of the Unison Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF44,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>increase the number memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF45,"<appeal_def>ユニゾンカウンター発生時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>When a Unison Counter occurs,</>
+<appeal_def>increase your tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF46,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>相手の全スキルブーストを{0}％下げる</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>reduce all skill boosts of the opponent by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF47,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>increase the number of memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF48,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>相手のシンクロゲージを{0}％減らす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>reduce the opponent's Synchro Gauge by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF49,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF50,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase the number of memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF51,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>相手のテンションを{0}％下げる</>","<appeal_def>At the end a Unison Appeal,</>
+<appeal_def>reduce the opponent's tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF52,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF53,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>相手の思い出を{0}減らす</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>reduce the opponent's memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF54,"<appeal_def>ユニゾンアピール終了から{0}秒間</>
+<appeal_def>能力リクエストをVi.に変える</>","<appeal_def>{0} seconds from the end of the Unison Appeal,</>
+<appeal_def>change the requested appeal type to Vi.</> ",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF55,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のシンクロ増加量を{0}％上げる</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase synchronization by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF56,"<appeal_def>ユニゾンアピール中アピール1回ごとに</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>For each appeal made during a Unison Appeal,</>
+<appeal_def>increase the number of memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF57,"<appeal_def>ユニゾンカウンター発生時に</>
+<appeal_def>自分の思い出を{0}増やす</>","<appeal_def>When a Unison Counter occurs,</>
+<appeal_def>increase the number of memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF58,"<appeal_def>ユニゾンアピール終了から{0}秒間</>
+<appeal_def>能力リクエストをDa.に変える</>","<appeal_def>{0} seconds from the end of the Unison Appeal,</>
+<appeal_def>change the requested appeal type to Da.</> ",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF59,"<appeal_def>ユニゾンアピールが発生している間</>
+<appeal_def>相手のアピールスコアを{0}に固定する</>","<appeal_def>While the Unison Appeal is active,</>
+<appeal_def>change the opponent's appeal score to {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SF60,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>相手の全スキルブーストを{0}％下げる</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>reduce all skill boosts of the opponent by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SMF11_1,"<appeal_def>ユニゾンカウンター発生時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>When a Unison Counter occurs,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SMF11_2,"<appeal_def>ユニゾンカウンター発生時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>When a Unison Counter occurs,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SMF11_3,"<appeal_def>ユニゾンカウンター発生時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>When a Unison Counter occurs,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_SSF21,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>相手の思い出を{0}減らす</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>reduce the opponent's memories by {0}</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_WSF11,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_WSF12,"<appeal_def>ユニゾンアピール終了時に</>
+<appeal_def>自分のテンションを{0}％上げる</>","<appeal_def>At the end of a Unison Appeal,</>
+<appeal_def>increase tension by {0}%</>",,
+ST_In_MD/TEXT_01_UAP_DETAIL_WSF21,"<appeal_def>ユニゾンアピール開始時に</>
+<appeal_def>相手のテンションを乱す</>","<appeal_def>At the start of a Unison Appeal,</>
+<appeal_def>disturb the opponent's tension</>",,
+ST_In_MD/TEXT_01_UAP_NAME_0094,ウルトラオレンジ,Ultra Orange,,
+ST_In_MD/TEXT_01_UAP_NAME_0334,ラブ・アテンション,Love Attention,,
+ST_In_MD/TEXT_01_UAP_NAME_0335,さよならポップス,Goodbye Pops,,
+ST_In_MD/TEXT_01_UAP_NAME_0336,ＦＬＡＳＨ←ＢＡＣＫ,FLASH←BACK,,
+ST_In_MD/TEXT_01_UAP_NAME_0353,さよならポップス,Goodbye Pops,,
+ST_In_MD/TEXT_01_UAP_NAME_0355,ココロブレーキング,Kokoro Breaking,,
+ST_In_MD/TEXT_01_UAP_NAME_0357,カタクナ／ロリータ,Katakana/Lolita,,
+ST_In_MD/TEXT_01_UAP_NAME_0360,ＭａｋｅＰＯＳＥ,Make POSE,,
+ST_In_MD/TEXT_01_UAP_NAME_0373_1,ラブ・アテンション,Love Attention,,
+ST_In_MD/TEXT_01_UAP_NAME_0373_2,ラブ・アテンション,Love Attention,,
+ST_In_MD/TEXT_01_UAP_NAME_0373_3,ラブ・アテンション,Love Attention,,
+ST_In_MD/TEXT_01_UAP_NAME_0374_1,ＦＬＡＳＨ←ＢＡＣＫ,FLASH←BACK,,
+ST_In_MD/TEXT_01_UAP_NAME_0374_2,ＦＬＡＳＨ←ＢＡＣＫ,FLASH←BACK,,
+ST_In_MD/TEXT_01_UAP_NAME_0374_3,ＦＬＡＳＨ←ＢＡＣＫ,FLASH←BACK,,
+ST_In_MD/TEXT_01_UAP_NAME_0377_1,ＦＬＡＳＨ←ＢＡＣＫ,FLASH←BACK,,
+ST_In_MD/TEXT_01_UAP_NAME_0377_2,ＦＬＡＳＨ←ＢＡＣＫ,FLASH←BACK,,
+ST_In_MD/TEXT_01_UAP_NAME_0377_3,ＦＬＡＳＨ←ＢＡＣＫ,FLASH←BACK,,
+ST_In_MD/TEXT_01_UAP_NAME_0394,漆黒を舞う熱き想念,Passionate Thoughts Dancing in the Dark,,
+ST_In_MD/TEXT_01_UAP_NAME_0504,ラブ・アテンション,Love Attention,,
+ST_In_MD/TEXT_01_UAP_NAME_0507,魔王の微笑み,Devil's Smirk,,
+ST_In_MD/TEXT_01_UAP_NAME_0509_1,ドライ・シャイネンL,Drei Scheinen L,most diamant stuff is german -F91,
+ST_In_MD/TEXT_01_UAP_NAME_0509_2,ドライ・シャイネンS,Drei Scheinen S,most diamant stuff is german -F91,
+ST_In_MD/TEXT_01_UAP_NAME_0509_3,ドライ・シャイネンA,Drei Scheinen A,most diamant stuff is german -F91,
+ST_In_MD/TEXT_01_UAP_NAME_0512_1,ドライ・シャイネンL,Drei Scheinen L,most diamant stuff is german -F91,
+ST_In_MD/TEXT_01_UAP_NAME_0512_2,ドライ・シャイネンS,Drei Scheinen S,most diamant stuff is german -F91,
+ST_In_MD/TEXT_01_UAP_NAME_0512_3,ドライ・シャイネンA,Drei Scheinen A,most diamant stuff is german -F91,
+ST_In_MD/TEXT_01_UAP_NAME_0601,伝えたい気持ち,Feelings to Convey,,
+ST_In_MD/TEXT_01_UAP_NAME_0609,うつろう季節のように,Like the Wandering Season,,
+ST_In_MD/TEXT_01_UAP_NAME_0616,ラブ・アテンション,Love Attention,,
+ST_In_MD/TEXT_01_UAP_NAME_0628,ラブ・アテンション,Love Attention,,
+ST_In_MD/TEXT_01_UAP_NAME_0702,とつげき豆タンク,Assaulting Tankette,,
+ST_In_MD/TEXT_01_UAP_NAME_0704,虹色の夢,Rainbow Dreams,,
+ST_In_MD/TEXT_01_UAP_NAME_0706,希望の旗,Banner of Hope,,
+ST_In_MD/TEXT_01_UAP_NAME_0708,壮大華麗！,Magnificent!,,
+ST_In_MD/TEXT_01_UAP_NAME_0710,豪華絢爛！,Innocence!,,
+ST_In_MD/TEXT_01_UAP_NAME_0712,天真爛漫！,Innocence!,,
+ST_In_MD/TEXT_01_UAP_NAME_0801,きらめく個性！,Sparkling Personality!,,
+ST_In_MD/TEXT_01_UAP_NAME_0802,きらめく個性！,Sparkling Personality!,,
+ST_In_MD/TEXT_01_UAP_NAME_0803,きらめく個性！,Sparkling Personality!,,
+ST_In_MD/TEXT_01_UAP_NAME_0805,リターンオブステージ,Return of the Stage,,
+ST_In_MD/TEXT_01_UAP_NAME_0806,リターンオブステージ,Return of the Stage,,
+ST_In_MD/TEXT_01_UAP_NAME_0807,リターンオブステージ,Return of the Stage,,
+ST_In_MD/TEXT_01_UAP_NAME_0809,ディアリースターズ,Dearly Stars,,
+ST_In_MD/TEXT_01_UAP_NAME_0810,ディアリースターズ,Dearly Stars,,
+ST_In_MD/TEXT_01_UAP_NAME_0811,ディアリースターズ,Dearly Stars,,
+ST_In_MD/TEXT_01_UAP_NAME_0815,サイバーフェアリー,Cyber-Fairy,,
+ST_In_MD/TEXT_01_UAP_NAME_0818_1,ゆめゆめ油断厳禁☆,Yume-Yume Be On Guard ☆,using translation from OFA English patch -F91,
+ST_In_MD/TEXT_01_UAP_NAME_0818_2,ゆめゆめ油断厳禁☆,Yume-Yume Be On Guard ☆,using translation from OFA English patch -F91,
+ST_In_MD/TEXT_01_UAP_NAME_0818_3,ゆめゆめ油断厳禁☆,Yume-Yume Be On Guard ☆,using translation from OFA English patch -F91,
+ST_In_MD/TEXT_01_UAP_NAME_0904,漆黒を舞う熱き想念,Passionate Thoughts Dancing in the Dark,,
+ST_In_MD/TEXT_01_UAP_NAME_AF01,忘レナ草,forget-me-not,,
+ST_In_MD/TEXT_01_UAP_NAME_AF02,ＭａｋｅＰＯＳＥ,Make POSE,,
+ST_In_MD/TEXT_01_UAP_NAME_CF01,あの日に戻れるなら,If I could go back to that day,,
+ST_In_MD/TEXT_01_UAP_NAME_CF02,カタクナ／ロリータ,Katakana/Lolita,,
+ST_In_MD/TEXT_01_UAP_NAME_CMF21_1,魔王の微笑み,Devil's Smirk,,
+ST_In_MD/TEXT_01_UAP_NAME_CMF21_2,魔王の微笑み,Devil's Smirk,,
+ST_In_MD/TEXT_01_UAP_NAME_CMF21_3,魔王の微笑み,Devil's Smirk,,
+ST_In_MD/TEXT_01_UAP_NAME_CSF11,ピタゴラスアクション,Pythagorean Action,,
+ST_In_MD/TEXT_01_UAP_NAME_CSF12,思い出、砂糖多め,Memories and a ton of Sugar,,
+ST_In_MD/TEXT_01_UAP_NAME_CSF21,ピンボケメモル,,,
+ST_In_MD/TEXT_01_UAP_NAME_DF01,ＧｅｔＩｔＯｕｔ！,Get It Out!,,
+ST_In_MD/TEXT_01_UAP_NAME_DF02,ナチュラル・ハイ,Natural High,,
+ST_In_MD/TEXT_01_UAP_NAME_DF03,思い出、砂糖多め,Memories and a ton of Sugar,,
+ST_In_MD/TEXT_01_UAP_NAME_DF04,ラブ・アテンション,Love Attention,,
+ST_In_MD/TEXT_01_UAP_NAME_DF05,あの日に戻れるなら,If I could go back to that day,,
+ST_In_MD/TEXT_01_UAP_NAME_DF06,ココロブレーキング,Kokoro Breaking,,
+ST_In_MD/TEXT_01_UAP_NAME_KSF11,こんなのはいかが？,How About This?,,
+ST_In_MD/TEXT_01_UAP_NAME_KSF21,なないろの輝き,Rainbow Shine,,
+ST_In_MD/TEXT_01_UAP_NAME_KSF22,素晴らしきＧ,Wonderful G,,
+ST_In_MD/TEXT_01_UAP_NAME_LF01,ボクたちの黒歴史,Our Dark History,,
+ST_In_MD/TEXT_01_UAP_NAME_LF02,ＦＬＡＳＨ←ＢＡＣＫ,FLASH←BACK,,
+ST_In_MD/TEXT_01_UAP_NAME_MF01_1,魔人の囁き,The Demon's Whisper,,
+ST_In_MD/TEXT_01_UAP_NAME_MF01_2,魔人の囁き,The Demon's Whisper,,
+ST_In_MD/TEXT_01_UAP_NAME_MF01_3,魔人の囁き,The Demon's Whisper,,
+ST_In_MD/TEXT_01_UAP_NAME_MF02_1,魔人の囁き,The Demon's Whisper,,
+ST_In_MD/TEXT_01_UAP_NAME_MF02_2,魔人の囁き,The Demon's Whisper,,
+ST_In_MD/TEXT_01_UAP_NAME_MF02_3,魔人の囁き,The Demon's Whisper,,
+ST_In_MD/TEXT_01_UAP_NAME_MF03_1,魔人の囁き,The Demon's Whisper,,
+ST_In_MD/TEXT_01_UAP_NAME_MF03_2,魔人の囁き,The Demon's Whisper,,
+ST_In_MD/TEXT_01_UAP_NAME_MF03_3,魔人の囁き,The Demon's Whisper,,
+ST_In_MD/TEXT_01_UAP_NAME_MF04_1,魔人の囁き,The Demon's Whisper,,
+ST_In_MD/TEXT_01_UAP_NAME_MF04_2,魔人の囁き,The Demon's Whisper,,
+ST_In_MD/TEXT_01_UAP_NAME_MF04_3,魔人の囁き,The Demon's Whisper,,
+ST_In_MD/TEXT_01_UAP_NAME_MF05_1,魔人の囁き,The Demon's Whisper,,
+ST_In_MD/TEXT_01_UAP_NAME_MF05_2,魔人の囁き,The Demon's Whisper,,
+ST_In_MD/TEXT_01_UAP_NAME_MF05_3,魔人の囁き,The Demon's Whisper,,
+ST_In_MD/TEXT_01_UAP_NAME_MF06_1,魔人の囁き,The Demon's Whisper,,
+ST_In_MD/TEXT_01_UAP_NAME_MF06_2,魔人の囁き,The Demon's Whisper,,
+ST_In_MD/TEXT_01_UAP_NAME_MF06_3,魔人の囁き,The Demon's Whisper,,
+ST_In_MD/TEXT_01_UAP_NAME_MSF11,ごちゃまぜメンタル,Mixed Mental,,
+ST_In_MD/TEXT_01_UAP_NAME_MSF12,ボクたちの黒歴史,Our Dark History,,
+ST_In_MD/TEXT_01_UAP_NAME_MSF21,ＲＥ：ＱＵＥＳＴ,RE : QUEST,,
+ST_In_MD/TEXT_01_UAP_NAME_MSF22,第一章：突然の出会い,Chapter 1: A Sudden Encounter,,
+ST_In_MD/TEXT_01_UAP_NAME_NSF11,カワイイクエスチョン,Kawaii Question,,
+ST_In_MD/TEXT_01_UAP_NAME_NSF21,サイバー・ガールズ,Cyber Girls,,
+ST_In_MD/TEXT_01_UAP_NAME_QSF01,ボクたちの黒歴史,Our Dark History,,
+ST_In_MD/TEXT_01_UAP_NAME_QSF02,思い出、砂糖多め,"Memories, Lots of Sugar",,
+ST_In_MD/TEXT_01_UAP_NAME_QSF03,ＦＬＡＳＨ←ＢＡＣＫ,Flash←Back,,
+ST_In_MD/TEXT_01_UAP_NAME_SF11,キス待ち停車,Stopping for a Kiss,,
+ST_In_MD/TEXT_01_UAP_NAME_SF12,とどけ、この歌！,"This Song, Must Reach!",Kono Uta!,
+ST_In_MD/TEXT_01_UAP_NAME_SF13,同じ風に吹かれて,Blown By The Same Wind,,
+ST_In_MD/TEXT_01_UAP_NAME_SF14,ジョウシャヒッスイ,Jousha Hissui,,
+ST_In_MD/TEXT_01_UAP_NAME_SF15,ゆめゆめ油断厳禁☆,Yume-Yume Be On Guard ☆,using translation from OFA English patch -F91,
+ST_In_MD/TEXT_01_UAP_NAME_SF16,伝えて！この気持ち,Tell them! This Feeling.,,
+ST_In_MD/TEXT_01_UAP_NAME_SF17,こい恋チェリッシュ,Koi Love Cherish,,
+ST_In_MD/TEXT_01_UAP_NAME_SF18,予知夢の向こう側,The Other Side of Premonition,,
+ST_In_MD/TEXT_01_UAP_NAME_SF19,ＭａｋｅＰＯＳＥ,Make POSE,,
+ST_In_MD/TEXT_01_UAP_NAME_SF20,ＲＥ：ＱＵＥＳＴ,RE : QUEST,,
+ST_In_MD/TEXT_01_UAP_NAME_SF21,コロコロノビタ,Kokoro Nobita,,
+ST_In_MD/TEXT_01_UAP_NAME_SF22,素晴らしきＧ,Wonderful G,,
+ST_In_MD/TEXT_01_UAP_NAME_SF23,ピンボケメモル,,,
+ST_In_MD/TEXT_01_UAP_NAME_SF24,７日後のまたね,See You in Seven Days,,
+ST_In_MD/TEXT_01_UAP_NAME_SF25,ごちゃまぜメンタル,Mixed Mental,,
+ST_In_MD/TEXT_01_UAP_NAME_SF26,カワイイクエスチョン,Kawaii Question,,
+ST_In_MD/TEXT_01_UAP_NAME_SF27,赤い瞳の目撃者,Red-eyed Witness,,
+ST_In_MD/TEXT_01_UAP_NAME_SF28,こんなのはいかが？,How about this?,,
+ST_In_MD/TEXT_01_UAP_NAME_SF29,アイシテルカラ,Aishiterukara,,
+ST_In_MD/TEXT_01_UAP_NAME_SF30,なないろの輝き,Rainbow Shine,"nana-iro can be implicitly translated as rainbow.
+can also leave this romanized because the user's name is Nanairo",
+ST_In_MD/TEXT_01_UAP_NAME_SF31,乱れ撃ちだドン！,Midare uchida Don!,,
+ST_In_MD/TEXT_01_UAP_NAME_SF32,ピタゴラスアクション,Pythagorean Action,,
+ST_In_MD/TEXT_01_UAP_NAME_SF33,ボクたちの黒歴史,Our Dark History,,
+ST_In_MD/TEXT_01_UAP_NAME_SF34,あの日を撃ち抜いて,Shoot through that Day,,
+ST_In_MD/TEXT_01_UAP_NAME_SF35,思い出、砂糖多め,Memories and a ton of Sugar,,
+ST_In_MD/TEXT_01_UAP_NAME_SF36,サイバー・ガールズ,Cyber Girls,,
+ST_In_MD/TEXT_01_UAP_NAME_SF37,第一章：突然の出会い,Chapter 1: A Sudden Encounter,,
+ST_In_MD/TEXT_01_UAP_NAME_SF38,木偶人形は踊る,The Wooden Dolls Dance,,
+ST_In_MD/TEXT_01_UAP_NAME_SF39,ナチュラル・ハイ,Natural High,,
+ST_In_MD/TEXT_01_UAP_NAME_SF40,フレッシュ！,Fresh!,,
+ST_In_MD/TEXT_01_UAP_NAME_SF41,起き抜けホームルーム,Wake up Homeroom,,
+ST_In_MD/TEXT_01_UAP_NAME_SF42,きれいでしょう♪,Isn't it Beautiful?♪,,
+ST_In_MD/TEXT_01_UAP_NAME_SF43,こい恋チェリッシュ,Koi Love Cherish,,
+ST_In_MD/TEXT_01_UAP_NAME_SF44,忘レナ草,forget-me-not,,
+ST_In_MD/TEXT_01_UAP_NAME_SF45,ＭａｋｅＰＯＳＥ,Make POSE,,
+ST_In_MD/TEXT_01_UAP_NAME_SF46,魅惑の吐息,Enchanting Breath,,
+ST_In_MD/TEXT_01_UAP_NAME_SF47,思い出、砂糖多め,Memories and a ton of Sugar,,
+ST_In_MD/TEXT_01_UAP_NAME_SF48,墜落ランデブー,Crash Rendezvous,,
+ST_In_MD/TEXT_01_UAP_NAME_SF49,カラフルパレット,Colorful Palette,,
+ST_In_MD/TEXT_01_UAP_NAME_SF50,あの日に戻れるなら,If I could go back to that day,,
+ST_In_MD/TEXT_01_UAP_NAME_SF51,起き抜けホームルーム,Wake Up Homeroom,,
+ST_In_MD/TEXT_01_UAP_NAME_SF52,孤独からの旅立ち,Departure from Loneliness,,
+ST_In_MD/TEXT_01_UAP_NAME_SF53,ボクたちの黒歴史,Our Dark History,,
+ST_In_MD/TEXT_01_UAP_NAME_SF54,ＲＥ：ＱＵＥＳＴ,RE : QUEST,,
+ST_In_MD/TEXT_01_UAP_NAME_SF55,第一章：突然の出会い,Chapter 1: A Sudden Encounter,,
+ST_In_MD/TEXT_01_UAP_NAME_SF56,忘レナ草,forget-me-not,,
+ST_In_MD/TEXT_01_UAP_NAME_SF57,ＧｅｔＩｔＯｕｔ！,Get It Out!,,
+ST_In_MD/TEXT_01_UAP_NAME_SF58,木偶人形は踊る,The Wooden Dolls Dance,,
+ST_In_MD/TEXT_01_UAP_NAME_SF59,カタクナ／ロリータ,Katakana/Lolita,,
+ST_In_MD/TEXT_01_UAP_NAME_SF60,感情ミュート,Emotion Mute,,
+ST_In_MD/TEXT_01_UAP_NAME_SMF11_1,ＭａｋｅＰＯＳＥ,Make POSE,,
+ST_In_MD/TEXT_01_UAP_NAME_SMF11_2,ＭａｋｅＰＯＳＥ,Make POSE,,
+ST_In_MD/TEXT_01_UAP_NAME_SMF11_3,ＭａｋｅＰＯＳＥ,Make POSE,,
+ST_In_MD/TEXT_01_UAP_NAME_SSF21,赤い瞳の目撃者,Red-eyed Witness,,
+ST_In_MD/TEXT_01_UAP_NAME_WSF11,こい恋チェリッシュ,Love Love Cherish,,
+ST_In_MD/TEXT_01_UAP_NAME_WSF12,７日後のまたね,See You in 7 Days,,
+ST_In_MD/TEXT_01_UAP_NAME_WSF21,アイシテルカラ,,,
+ST_In_MD/TEXT_AUDITION_CLEARTERMS_DEFAULT,{JOIN_IDOL_NUM}組中、{CLEAR_RANK}位以内,Make top {CLEAR_RANK} out of {JOIN_IDOL_NUM} groups,trying to shorten this description to account for overflow -F91,
+ST_In_MD/TEXT_CLIMAX_CHALLENGE_CLEARTERMS,クライマックスアピールを使用する,Use a Climax Appeal,,
+ST_In_MD/TEXT_ENCORE_TITLE,"アンコールを行いますか？
+
+※アンコール確認の設定は
+オプションから切り替えることができます。","Do you want to perform an encore?
+
+※ Encore confirmation settings
+can be adjusted in the options menu.",,
+ST_In_MD/TEXT_EV_FEST_CLEARTERMS_DEFAULT,？？？？,,,
+ST_In_MD/TEXT_EV_FEST_RETRY,もう一度挑戦します,Try Again,,
+ST_In_MD/TEXT_FEST_CLEARTERMS_DEFAULT,ライバルより高いスコアの獲得,Outscore your rivals.,adjusting for overflow -F91,
+ST_In_MD/TEXT_GROUP_NAME,プロジェクト ルミナス,Project Luminous,,
+ST_In_MD/TEXT_IN_GUIDE_STAGE_001,SET{0},,,
+ST_In_MD/TEXT_LIVE_CLEARTERMS_DEFAULT,ハコユレ {HAKOYURE} 以上,COMMOTION of {HAKOYURE} or above,,
+ST_In_MD/TEXT_PAUSE_CONTINUE,ステージ再開,Resume,,
+ST_In_MD/TEXT_PAUSE_END_LIVE,終了,End,,
+ST_In_MD/TEXT_PAUSE_NO,いいえ,No,,
+ST_In_MD/TEXT_PAUSE_PHOTOMODE,フォトモード,Photo mode,,
+ST_In_MD/TEXT_PAUSE_REPLAY,リプレイ,Replay,,
+ST_In_MD/TEXT_PAUSE_REPLAY_TITLE,最初から再生しますか？,Do you want to play it from the beginning?,,
+ST_In_MD/TEXT_PAUSE_RETRY,リトライ,Retry,,
+ST_In_MD/TEXT_PAUSE_RETRY_TITLE,ステージを最初からやり直しますか？,Do you want to start the stage again from the beginning?,,
+ST_In_MD/TEXT_PAUSE_YES,はい,Yes,,
+ST_In_MD/TEXT_RANKING_FAILED,"ネットワークエラーが発生したため
+ランキングの登録に失敗しました。
+
+再度ランキングの登録を行いますか？","There was a network error.
+The ranking registration failed.
+
+Would you like to register your ranking again?",,
+ST_In_MD/TEXT_RANKING_RANK_IN," <pop_sys> {UNIT_NAME}</>が
+ランクインしました。
+
+ランキングに登録しますか？"," <pop_sys> {UNIT_NAME}</>has been
+has been ranked.
+
+Would you like to be included in the ranking?",,
+ST_In_MD/TEXT_RANKING_READ_FAILED,"ネットワークエラーが発生したため
+ランキングの取得に失敗しました。
+
+再度ランキング情報を取得しますか？","There was a network error.
+Failed to retrieve the ranking.
+
+Would you like to retrieve the ranking information again?",,
+ST_In_MD/TEXT_RANKING_SUCCESS,ランキング登録が完了しました。,The ranking is now registered.,,
+ST_In_MD/TEXT_RETRY_TITLE,もう一度挑戦しますか？,Do you want to try again?,,
+ST_In_MD/TEXT_S4U_CAN_NOT_SAVE_TITLE,"LIBRARYの保存容量に空きがありません。
+ライブを保存する場合は
+LIBRARYのMVを削除してください。","There is no space left in the Library.
+If you want to save your live performance
+Please delete the MV from the Library.",,
+ST_In_MD/TEXT_S4U_PHOTO_0001,表示,Show,,
+ST_In_MD/TEXT_S4U_PHOTO_0002,非表示,Hide,,
+ST_In_MD/TEXT_S4U_PHOTO_0003,なし,None,,
+ST_In_MD/TEXT_S4U_PHOTO_0004,なし,None,,
+ST_In_MD/TEXT_S4U_PHOTO_END,フォトモードを終了しますか？,Do you want to exit photo mode?,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_BASIC01,ベーシック①,Basic ①,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_BASIC02,ベーシック②,Basic ②,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_BASIC03,ベーシック③,Basic ③,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_BASIC04,ベーシック④,Basic ④,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_BASIC05,ベーシック⑤,Basic ⑤,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_BASIC06,ベーシック⑥,Basic ⑥,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_BASIC07,ベーシック⑦,Basic ⑦,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_BASIC08,ベーシック⑧,Basic ⑧,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0101,天海 春香,Haruka Amami,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0102,星井 美希,Miki Hoshii,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0103,如月 千早,Chihaya Kisaragi,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0104,高槻 やよい,Yayoi Takatsuki,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0105,萩原 雪歩,Yukiho Hagiwara,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0106,菊地 真,Makoto Kikuchi,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0107,双海 真美,Mami Futami,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0108,四条 貴音,Takane Shijou,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0109,我那覇 響,Hibiki Ganaha,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0110,水瀬 伊織,Iori Minase,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0111,双海 亜美,Ami Futami,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0112,三浦 あずさ,Azusa Miura,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0113,秋月 律子,Ritsuko Akizuki,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0201,神崎 蘭子,Ranko Kanzaki,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0202,双葉 杏,Anzu Futaba,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0203,城ヶ崎 美嘉,Mika Jougasaki,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0204,諸星 きらり,Kirari Moroboshi,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0205,安部 菜々,Nana Abe,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0206,高垣 楓,Kaede Takagaki,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0301,春日 未来,Mirai Kasuga,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0302,最上 静香,Shizuka Mogami,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0303,伊吹 翼,Tsubasa Ibuki,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0304,白石 紬,Tsumugi Shiraishi,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0305,桜守 歌織,Kaori Sakuramori,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0306,田中 琴葉,Kotoha Tanaka,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0401,大崎 甜花,Tenka Osaki,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0402,白瀬 咲耶,Sakuya Shirase,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0403,小宮 果穂,Kaho Komiya,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0404,大崎 甘奈,Amana Osaki,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0405,杜野 凛世,Rinze Morino,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0406,田中 摩美々,Mamimi Tanaka,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0501,玲音,Leon,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0502,詩花,Shika,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0601,奥空 心白,Kohaku Okuzora,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_CHR0602,亜夜,Aya,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_STAMP01,スタンプ①,Stamp ①,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_STAMP02,スタンプ②,Stamp ②,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_STAMP03,スタンプ③,Stamp ③,,
+ST_In_MD/TEXT_S4U_PHOTO_FRAME_STAMP04,スタンプ④,Stamp ④,,
+ST_In_MD/TEXT_S4U_PHOTO_RESET_PARAM,設定をリセットしますか？,Reset the settings to their defaults?,,
+ST_In_MD/TEXT_S4U_REPLAY_TITLE,先程のライブ映像を視聴しますか？,Watch the Live video?,,
+ST_In_MD/TEXT_S4U_RIGHT_CAPPEAL,"STAGE FOR YOU!にて、クライマックスアピール
+『{CA_NAME}』が開放されました","The Climax Appeal ""{CA_NAME}"" 
+is now open in STAGE FOR YOU!",,
+ST_In_MD/TEXT_S4U_RIGHT_COSTUME,"STAGE FOR YOU!にて、衣装
+『{COSTUME_NAME}』が開放されました","The costume ""{COSTUME_NAME}"" 
+has been released in STAGE FOR YOU!",,
+ST_In_MD/TEXT_S4U_RIGHT_IDOL,"STAGE FOR YOU!にて、アイドル
+『{IDOL_NAME}』が開放されました","The idol ""{IDOL_NAME}"" 
+has been released in STAGE FOR YOU!",,
+ST_In_MD/TEXT_S4U_RIGHT_MUSIC,"STAGE FOR YOU!にて、楽曲
+『{MUSIC_TITLE}』が開放されました","The song ""{MUSIC_TITLE}"" 
+has been released in STAGE FOR YOU!",,
+ST_In_MD/TEXT_S4U_RIGHT_STAGE,"STAGE FOR YOU!にて、ステージ
+『{STAGE_NAME}』が開放されました","Stage ""{STAGE_NAME}"" 
+has been opened in STAGE FOR YOU!",,
+ST_In_MD/TEXT_S4U_SAVE_LIVE_TITLE,保存しますか？,Do you want to save?,,
+ST_In_MD/TEXT_SNG001_TITLE,SESSION!,SESSION!,,
+ST_In_MD/TEXT_SNG002_TITLE,夏のBang!!,Natsu no Bang!!,,
+ST_In_MD/TEXT_SNG003_TITLE,アイシテの呪縛～Je vous aime～,Aishite no Jubaku ~Je vous aime~,,
+ST_In_MD/TEXT_SNG004_TITLE,GR@TITUDE,GR@TITUDE,,
+ST_In_MD/TEXT_SNG005_TITLE,EVER RISING,EVER RISING,,
+ST_In_MD/TEXT_SNG006_TITLE,1st Call,1st Call,,
+ST_In_MD/TEXT_SNG007_TITLE,THE IDOLM@STER,THE IDOLM@STER,,
+ST_In_MD/TEXT_SNG008_TITLE,READY!!,READY!!,,
+ST_In_MD/TEXT_SNG009_TITLE,M@STERPIECE,M@STERPIECE,,
+ST_In_MD/TEXT_SNG010_TITLE,MUSIC♪,MUSIC♪,,
+ST_In_MD/TEXT_SNG011_TITLE,Brand New Theater!,Brand New Theater!,,
+ST_In_MD/TEXT_SNG012_TITLE,Thank You!,Thank You!,,
+ST_In_MD/TEXT_SNG013_TITLE,UNION!!,UNION!!,,
+ST_In_MD/TEXT_SNG014_TITLE,お願い!シンデレラ,Onegai! Cinderella,,
+ST_In_MD/TEXT_SNG015_TITLE,Star!!,Star!!,,
+ST_In_MD/TEXT_SNG016_TITLE,M@GIC☆,M@GIC☆,,
+ST_In_MD/TEXT_SNG017_TITLE,Spread the Wings!!,Spread the Wings!!,,
+ST_In_MD/TEXT_SNG018_TITLE,Multicolored Sky,Multicolored Sky,,
+ST_In_MD/TEXT_SNG019_TITLE,Ambitious Eve,Ambitious Eve,,
+ST_In_MD/TEXT_SNG020_TITLE,オーバーマスター,Overmaster,,
+ST_In_MD/TEXT_SNG021_TITLE,IDOL☆HEART,IDOL☆HEART,,
+ST_In_MD/TEXT_SNG022_TITLE,KAWAIIウォーズ,KAWAII Wars,,
+ST_In_MD/TEXT_SNG023_TITLE,全力★ドリーミングガールズ,Zenryoku★Dreaming Girls,,
+ST_In_MD/TEXT_SNG024_TITLE,ダンス・ダンス・ダンス,"Dance, Dance, Dance",,
+ST_In_MD/TEXT_SNG025_TITLE,なんどでも笑おう,Nandemo Waraou,,
+ST_In_MD/TEXT_SNG026_TITLE,THE IDOLM@STER,THE IDOLM@STER,,
+ST_In_MD/TEXT_SNG027_TITLE,THE IDOLM@STER,THE IDOLM@STER,,
+ST_In_MD/TEXT_SNG028_TITLE,GR@TITUDE,GR@TITUDE,,
+ST_In_MD/TEXT_SNG029_TITLE,IDOL☆HEART,IDOL☆HEART,,
+ST_In_MD/TEXT_SNG030_TITLE,ToP!!!!!!!!!!!!!,ToP!!!!!!!!!!!!!,,
+ST_In_MD/TEXT_TUTORIAL1_CLEARTERMS_DEFAULT,シンクロゲージ：{SYNCHRO}％以上,Synchro gauge: {SYNCHRO}% or more,,
+ST_In_MD/TEXT_TUTORIAL2_CLEARTERMS_DEFAULT,スコア：{SCORE}以上,Score: {SCORE} or higher,,
+ST_In_MD/TEXT_TUTORIAL_RETRY_TITLE,もう一度練習しますか？,Do you want to try again?,,
