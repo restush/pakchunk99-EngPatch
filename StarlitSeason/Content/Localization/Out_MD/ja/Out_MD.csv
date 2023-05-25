@@ -516,7 +516,7 @@ ST_Out_MD/CHARA_CV_FIRST_NAME_chr1001,樹里,Juri,,
 ST_Out_MD/CHARA_CV_FIRST_NAME_chr1002,知佳,Chika,,
 ST_Out_MD/CHARA_CV_FIRST_NAME_chr1003,利奈,Rina,,
 ST_Out_MD/CHARA_CV_FIRST_NAME_chr1004,響,Hibiku,,
-ST_Out_MD/CHARA_CV_FIRST_NAME_chr1101,芳忠,Hochu,✓ Takagi's VA's name is Hochu ,
+ST_Out_MD/CHARA_CV_FIRST_NAME_chr1101,芳忠,Hochu,"✓ Takagi's VA's name is Hochu ",
 ST_Out_MD/CHARA_CV_FIRST_NAME_chr1102,武人,Takehito,✓ This is actually the name of Kuroi's VA,
 ST_Out_MD/CHARA_CV_FIRST_NAME_chr1103,健次郎,Kenjiro,,
 ST_Out_MD/CHARA_CV_LAST_NAME_chr0101,中村,Nakamura,,
@@ -722,7 +722,7 @@ ST_Out_MD/COMMU_ORDER_UI_027,次月へ,Next Month,,
 ST_Out_MD/COMMU_ORDER_UI_028,クリア,Clear,,
 ST_Out_MD/COMMU_ORDER_UI_029,月末の手前,Before the End of the Month,,
 ST_Out_MD/COMMU_ORDER_UI_030,月末,End of the Month,,
-ST_Out_MD/COMMU_ORDER_UI_031,月末の手前に設定された「期日」までに「獲得ファン人数」を達成してください。,Please reach a certain threshold of new fans by the deadline before the end of each month. ,,
+ST_Out_MD/COMMU_ORDER_UI_031,月末の手前に設定された「期日」までに「獲得ファン人数」を達成してください。,"Please reach a certain threshold of new fans by the deadline before the end of each month. ",,
 ST_Out_MD/COMMU_ORDER_UI_032,選考ステージの無い月は、,Months without Selection Stages,,
 ST_Out_MD/COMMU_ORDER_UI_033,月末ステージ,Monthly Stage,,
 ST_Out_MD/COMMU_ORDER_UI_034,"『月末ステージ』は各ユニット自ら選択する、より多くのファンを獲得するためのステージです。
@@ -857,7 +857,7 @@ ST_Out_MD/CONNECTION_MESSAGE_C1213_002,キミは、さらに潜ればいい,You 
 ST_Out_MD/CONNECTION_MESSAGE_C1213_003,キミは、さらに潜ればいい,You should be able to dive further.,,
 ST_Out_MD/CONNECTION_MESSAGE_C1213_004,キミは、さらに潜ればいい,You should be able to dive further.,,
 ST_Out_MD/CONNECTION_MESSAGE_C1213_005,目指すべき輝きは上にある,,,
-ST_Out_MD/CONNECTION_MISSION_C1208_001,<mis_def>営業でClear以上の結果を</><mis_sys>{0}</><mis_def>回行う</>,<mis_def>Finish job(s) with Clear or better results</><mis_sys> {0} </><mis_def>times.</> ,,
+ST_Out_MD/CONNECTION_MISSION_C1208_001,<mis_def>営業でClear以上の結果を</><mis_sys>{0}</><mis_def>回行う</>,"<mis_def>Finish job(s) with Clear or better results</><mis_sys> {0} </><mis_def>times.</> ",,
 ST_Out_MD/CONNECTION_MISSION_C1209_001,"<mis_def>アイドルユニットグレードを</><mis_sys>{0}</><mis_def>にする</>
 （累計ファン人数20000人以上）","<mis_def>Reach the</><mis_sys> {0} </><mis_def>idol unit grade.</> 
 (Total of 20000 fans or more)",,
@@ -881,7 +881,7 @@ ST_Out_MD/CONNECTION_MISSION_C1210_003,<mis_def>{1}人の</><mis_Vi>Vi.</><mis_d
 <mis_sys> {0} </><mis_def>or more.</> ",,
 ST_Out_MD/CONNECTION_MISSION_C1210_004,<mis_def>{1}人の</><mis_Vo>Vo.</><mis_Da>Da.</><mis_Vi>Vi.</><mis_def>を</><mis_sys>{0}</><mis_def>以上にする</>,"<mis_sys>{1} </><mis_def>members have all parameters at</>
 <mis_sys> {0} </><mis_def>or more.</> ",,
-ST_Out_MD/CONNECTION_MISSION_C1211_001,<mis_def>PLvをLv</><mis_sys>{0}</><mis_def>にする </>,<mis_def>Reach PLv</><mis_sys> {0} </><mis_def>.</> ,,
+ST_Out_MD/CONNECTION_MISSION_C1211_001,<mis_def>PLvをLv</><mis_sys>{0}</><mis_def>にする </>,"<mis_def>Reach PLv</><mis_sys> {0} </><mis_def>.</> ",,
 ST_Out_MD/CONNECTION_MISSION_C1213_001,<mis_def>絆Lvの合計を</><mis_sys>{0}</><mis_def>以上にする</>,"<mis_def>Have the total bond levels of all idols</>
 <mis_def>reach</><mis_sys> {0} </><mis_def>.</> ",,
 ST_Out_MD/CONNECTION_MISSION_MES_C1208_001,仕事の経験、積んできてね～,Go get some work experience.,,
@@ -2076,11 +2076,11 @@ ST_Out_MD/ItemName_001_02,リラックスアロマ L,Relax Aroma L,,
 ST_Out_MD/ItemName_100_00,スマイルハニー,Smile Honey,,
 ST_Out_MD/ItemName_100_02,スマイルハニー L,Smile Honey L,,
 ST_Out_MD/ItemName_200_00,ピーチキャンディ,Peach Candy,,
-ST_Out_MD/ItemName_200_02,ピーチキャンディ L,Peach Candy L, ,
+ST_Out_MD/ItemName_200_02,ピーチキャンディ L,Peach Candy L," ",
 ST_Out_MD/ItemName_201_00,ベリーキャンディ,Berry Candy,,
 ST_Out_MD/ItemName_201_02,ベリーキャンディ L,Berry Candy L,,
 ST_Out_MD/ItemName_202_00,レモンキャンディ,Lemon Candy,,
-ST_Out_MD/ItemName_202_02,レモンキャンディ L,Lemon Candy L, ,
+ST_Out_MD/ItemName_202_02,レモンキャンディ L,Lemon Candy L," ",
 ST_Out_MD/ItemName_203_00,ミックスキャンディ,Mixed Candy,,
 ST_Out_MD/ItemName_203_02,ミックスキャンディ L,Mixed Candy L,,
 ST_Out_MD/ItemName_204_00,チャージチョコ,Charge Chocolate,,
@@ -3787,86 +3787,121 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c502_020,"プロデューサーさん、
 ST_Out_MD/KIZUNA_MAP_TEXT_c502_021,"プロデューサーさん、素敵な１日を
 ありがとうございました♪",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c601_001,"みなさんすごい人ばかりだし、
-私も頑張らないと！",,,
+私も頑張らないと！","Everyone is amazing, and I have to do my best too!",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c601_002,"このケーキ屋さん、最近人気なんだ。
-近くみたいだし、行ってみようかな",,,
+近くみたいだし、行ってみようかな","This cake shop is popular these days.
+It seems to be nearby, so I think I'll check it out.",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c601_003,"昨日のあの番組、面白かったな。
-プロデューサーさんも見たのかな？",,,
+プロデューサーさんも見たのかな？","That program last night was interesting.
+Did you see the producer?",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c601_004,"プロデューサーさん、買い出しなら
-私もお手伝いしますね！",,,
+私もお手伝いしますね！","Producer-san, if you're shopping
+I can help you too!",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c601_005,"今日はまだ時間もあるし……
-振り付けの確認をしておこうかな",,,
+振り付けの確認をしておこうかな","I still have time today...
+Shall I check the choreography?",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c601_006,"衣装の話だったら、
-いつものお店が参考になるかな？",,,
+いつものお店が参考になるかな？","When it comes to clothes,
+Will the usual shop be helpful?",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c601_007,"新しいマイブーム、
-なにかないかな？",,,
+なにかないかな？","I wonder if,
+there's something new about my boom?",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c601_008,"どうすれば、納得できる
-ダンスが踊れるんだろう……",,,
+ダンスが踊れるんだろう……","How can I convince
+I wonder if I can dance...",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c601_009,"あっ、これ面白い……♪
-プロデューサーさんにも見せたいな",,,
+プロデューサーさんにも見せたいな","Ah, this is interesting……♪
+I want to show it to the producer",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c601_010,"うん、うまくできたかな……。
-喜んでくれるといいな♪",,,
+喜んでくれるといいな♪","Yeah, I think it turned out well....
+I hope you like it♪",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c601_011,"今日は遊園地で、
-プロデューサーさんと勉強！",,,
+プロデューサーさんと勉強！","Today, I'm studying with the producer
+at the amusement park!",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c601_012,"ちゃんと、プロデューサーさんに
-伝えなきゃ……！",,,
+伝えなきゃ……！",I have to tell the producer properly...!,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c601_013,"あの人たちお店の迷惑になってる……
-注意した方がいいのかな……",,,
+注意した方がいいのかな……","Those people are a nuisance to the shop...
+Maybe I should be careful...",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c601_014,"そろそろオフの日か……
-なにをして過ごそうかな？",,,
+なにをして過ごそうかな？","It's almost time to have an off day...
+What should I do?",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c601_015,"最近はこんなのが流行ってるんだ。
-面白そう……！",,,
+面白そう……！","This kind of thing is popular these days.
+It looks interesting...!",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c601_016,"あ、お母さんが出てるドラマ……
-お父さんも見てるのかな？",,,
+お父さんも見てるのかな？","Oh, the drama that your mother is in...
+I wonder if your father is watching it too?",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c601_017,"映画やＴＶドラマを
-よく見るか、ですか？",,,
+よく見るか、ですか？","Movies and TV dramas
+do you take a good look?",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c601_018,"プロデューサーさん、この中だったら
-どのメニューがおすすめですか？",,,
+どのメニューがおすすめですか？","Producer-san, which menu would you recommend?",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c601_019,"プロデューサーさん！あの景品、
-かわいいと思いませんか？",,,
+かわいいと思いませんか？","Producer-san!
+Don't you think that prize is cute?",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c601_020,"プロデューサーさん！誰のものまねか
-当ててみてくださいね♪",,,
+当ててみてくださいね♪","Producer-san! 
+Please try to guess who you are imitating ♪",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c601_021,"プロデューサーさんのおかげで、
-楽しい時間を過ごせました！",,,
+楽しい時間を過ごせました！","Thanks to the producers, we had a great time!",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c602_001,"さーて、なにか面白いものは
-あるかしら……？",,,
+あるかしら……？","Well, is there anything interesting...?",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c602_002,"もう少しで本番ね。
-集中、集中……",,,
+集中、集中……","It's almost time for the real show.
+Focus, focus...",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c602_003,"この間のソロライブ、
-結構いい出来だったわ",,,
+結構いい出来だったわ","Solo live during this time,
+it was pretty good",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c602_004,"このイベント、面白そうね。
-予定は空いてるし、行こうかしら",,,
+予定は空いてるし、行こうかしら","This event looks interesting.
+I have no plans, let's go",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c602_005,"まさか、『さややん』を
-知っているなんて……",,,
+知っているなんて……","No way, 'Sayayan'
+You know...",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c602_006,"どうせバレちゃってるんだし、
-いっそのこと有効活用してやるわ！",,,
+いっそのこと有効活用してやるわ！","Why did you find out,
+I'll make good use of it! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c602_007,"今日の仕事は終わったし、玲音さんや
-詩花さんとお話しできるかしら……",,,
+詩花さんとお話しできるかしら……","I'm done with today's work, Laine-san and
+I wonder if I can talk to Shika-san...",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c602_008,"ルミナスのプロデューサーに、
-手伝ってもらおうかしら",,,
-ST_Out_MD/KIZUNA_MAP_TEXT_c602_009,うーん、どうしたものかしら……,,,
-ST_Out_MD/KIZUNA_MAP_TEXT_c602_010,もう少し、実力を見てみたいわね,,,
+手伝ってもらおうかしら","To the producer of Luminous,
+Could you please help me?",,
+ST_Out_MD/KIZUNA_MAP_TEXT_c602_009,うーん、どうしたものかしら……,"Hmm, I wonder what happened...",,
+ST_Out_MD/KIZUNA_MAP_TEXT_c602_010,もう少し、実力を見てみたいわね,I want to see my strength a little more,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c602_011,"お目当ての『あれ』のため……
-誘うしかないか……！",,,
+誘うしかないか……！","Because of the 'that' you're looking for...
+I have no choice but to invite...! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c602_012,"……伝えるべきはことは、
-ちゃんと伝えないとね",,,
+ちゃんと伝えないとね","... what I should tell you is,
+I have to tell you properly.",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c602_013,"映画が始まるまで時間があるし、
-少し買い物をしようかしら",,,
+少し買い物をしようかしら","We have time before the movie starts,
+Let's do some shopping.",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c602_014,"あそこでぼんやり
-立っているのって、もしかして……",,,
+立っているのって、もしかして……","I'm absentminded over there
+Standing, could it be...",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c602_015,"うん、次のバラエティ番組も
-面白くなりそうね！",,,
+面白くなりそうね！","Yeah, the next variety show
+It's going to be interesting! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c602_016,"……プロデューサーに
-聞いてみようかしら",,,
+聞いてみようかしら","...to the producer
+Let's hear it.",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c602_017,"ちょっといい？
-相談があるんだけど……",,,
+相談があるんだけど……","Can I have a minute?
+I have a consultation, but...",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c602_018,"ねえ。
-メニュー、選んでくれない？",,,
+メニュー、選んでくれない？","Hey you.
+Menu, can you choose? ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c602_019,"あった、景品！
-はやくあれを取って！",,,
-ST_Out_MD/KIZUNA_MAP_TEXT_c602_020,ふふ、誰のモノマネか当てられる？,,,
+はやくあれを取って！","There was a prize!
+Hurry up and take that! ",,
+ST_Out_MD/KIZUNA_MAP_TEXT_c602_020,ふふ、誰のモノマネか当てられる？,"Fufu, can you guess whose
+impersonation?",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c602_021,"ありがとう、
-今日はまあまあ楽しかったわ。",,,
+今日はまあまあ楽しかったわ。","thank you,
+I had a lot of fun today. ",,
 ST_Out_MD/KIZUNA_MESSAGE_TEXT_c101_001,"私もみんなと一緒に
 頑張っていきますね","I'll do my best with 
 everyone.",,
@@ -4206,7 +4241,7 @@ ST_Out_MD/KIZUNA_MISSION_TEXT_001,<mis_def>営業をクリアする</>,<mis_def>
 ST_Out_MD/KIZUNA_MISSION_TEXT_002,<mis_def>絆営業をクリアする</>,<mis_def>Clear a bond job.</>,,
 ST_Out_MD/KIZUNA_MISSION_TEXT_003,<mis_def>絆営業１と２をクリアする</>,<mis_def>Clear the first and second bond job.</>,,
 ST_Out_MD/KIZUNA_MISSION_TEXT_004,<mis_def>{0}を入れレッスンを</><mis_sys>１</><mis_def>回クリアする</>,<mis_def>Clear</><mis_sys> 1 </><mis_def>lesson with {0}.</>,,
-ST_Out_MD/KIZUNA_MISSION_TEXT_005, <mis_Vo> Vo.レッスン</> <mis_def> をクリアする</>,<mis_def>Clear a</><mis_Vo> Vo. Lesson</><mis_def> with her.</>,,
+ST_Out_MD/KIZUNA_MISSION_TEXT_005," <mis_Vo> Vo.レッスン</> <mis_def> をクリアする</>",<mis_def>Clear a</><mis_Vo> Vo. Lesson</><mis_def> with her.</>,,
 ST_Out_MD/KIZUNA_MISSION_TEXT_006,<mis_def>{0}を入れ</><mis_Vo>Vo.レッスン</><mis_def>を</><mis_sys>１</><mis_def>回クリアする</>,<mis_def>Clear</><mis_sys> 1 </><mis_Vo>Vo. lesson</><mis_def> with {0}.</>,,
 ST_Out_MD/KIZUNA_MISSION_TEXT_007,<mis_def>{0}を入れ</><mis_Da>Da.レッスン</><mis_def>を</><mis_sys>１</><mis_def>回クリアする</>,<mis_def>Clear</><mis_sys> 1 </><mis_Da>Da. lesson</><mis_def> with {0}.</>,,
 ST_Out_MD/KIZUNA_MISSION_TEXT_008,<mis_def>{0}を入れ</><mis_Vi>Vi.レッスン</><mis_def>を</><mis_sys>１</><mis_def>回クリアする</>,<mis_def>Clear</><mis_sys> 1 </><mis_Vi>Vi. lesson</><mis_def> with {0}.</>,,
@@ -4216,7 +4251,7 @@ ST_Out_MD/KIZUNA_MISSION_TEXT_011,<mis_def>絆ステージをクリアする</>,
 ST_Out_MD/KIZUNA_MISSION_TEXT_012,"<mis_def>ヴィーナスヒロインで衣装を</>
 <mis_sys>{0}</><mis_def>着購入し、受け取る</>","<mis_def>Purchase and receive</><mis_sys> {0}</>
 <mis_def>outfits from Venus Heroine.</>",,
-ST_Out_MD/KIZUNA_MISSION_TEXT_013,<mis_def>{0}の絆Lvを</><mis_sys>{1}</><mis_def>以上にする</>,<mis_def>Reach bond level</><mis_sys> {1} </><mis_def>with {0}.</> ,,
+ST_Out_MD/KIZUNA_MISSION_TEXT_013,<mis_def>{0}の絆Lvを</><mis_sys>{1}</><mis_def>以上にする</>,"<mis_def>Reach bond level</><mis_sys> {1} </><mis_def>with {0}.</> ",,
 ST_Out_MD/KIZUNA_MISSION_TEXT_014,<mis_def>{0}を入れ</><mis_Vo>Vo.レッスン</><mis_def>を</><mis_sys>２</><mis_def>回クリアする</>,<mis_def>Clear</><mis_sys> 2 </><mis_Vo>Vo. lessons</><mis_def> with {0}.</>,,
 ST_Out_MD/KIZUNA_MISSION_TEXT_015,<mis_def>{0}を入れ</><mis_Da>Da.レッスン</><mis_def>を</><mis_sys>２</><mis_def>回クリアする</>,<mis_def>Clear</><mis_sys> 2 </><mis_Da>Da. lessons</><mis_def> with {0}.</>,,
 ST_Out_MD/KIZUNA_MISSION_TEXT_016,<mis_def>{0}を入れ</><mis_Vi>Vi.レッスン</><mis_def>を</><mis_sys>２</><mis_def>回クリアする</>,<mis_def>Clear</><mis_sys> 2 </><mis_Vi>Vi. lessons</><mis_def> with {0}.</>,,
@@ -5881,11 +5916,11 @@ ST_Out_MD/SHP_MENU_POP_UP_018,"Ｏｈ Ｎｏ！
 ST_Out_MD/SHP_MENU_POP_UP_019," <pop_sys> {0}</>のご依頼を承りました。
 完成次第、お客様のもとへお届け致します","We have received your request for <pop_sys> {0}</>.
 We will deliver it to you as soon as it is completed!",,
-ST_Out_MD/SHP_MENU_POP_UP_020, <pop_sys> {0}</>×{1}を購入しました,<pop_sys> {0}</> x {1} has been purchased!,,
-ST_Out_MD/SHP_MENU_POP_UP_021, <pop_sys> {0}</>を覚えたいのかしらん？,Do you want to remember <pop_sys> {0}</>?,,
+ST_Out_MD/SHP_MENU_POP_UP_020," <pop_sys> {0}</>×{1}を購入しました",<pop_sys> {0}</> x {1} has been purchased!,,
+ST_Out_MD/SHP_MENU_POP_UP_021," <pop_sys> {0}</>を覚えたいのかしらん？",Do you want to remember <pop_sys> {0}</>?,,
 ST_Out_MD/SHP_MENU_POP_UP_022," <pop_sys> {0}</>は一旦忘れて、
  <pop_sys> {1}</>を覚えたいのかしらん？",,,
-ST_Out_MD/SHP_MENU_POP_UP_023, <pop_sys> {0}</>を制作致しますか？,Would you like to create a <pop_sys> {0}</>?,,
+ST_Out_MD/SHP_MENU_POP_UP_023," <pop_sys> {0}</>を制作致しますか？",Would you like to create a <pop_sys> {0}</>?,,
 ST_Out_MD/SHP_MENU_POP_UP_024,ブラザー、いくつ欲しいんだ？,"How much you wanna buy, bro?",This vendor is very informal. Also decided to change brother to bro to give an impression of the character and type of store he runs,
 ST_Out_MD/SHP_MENU_POP_UP_025,おう、いくつ買う？,"Oh, how much do you want to buy?",,
 ST_Out_MD/SHP_MENU_POP_UP_026,いくつだ……？,How many...?,,
@@ -10781,11 +10816,11 @@ clear a Lv<col_sys>{6} </>or higher weekday stage<col_sys> {1} </>time.",i dont 
 ST_Out_MD/TaskTitleReq_03,"<col_sys>Vo.Da.Vi.パラメータ</>が全て<col_sys>{3}</>以上となる
 アイドルが<col_sys>{1}</>人以上いる","Have<col_sys> {1} </>idol(s) with a<col_sys> combined Vo.Da.Vi</>
 <col_sys>parameter </>value of<col_sys> {3} </>or greater.",,
-ST_Out_MD/TaskTitleReq_04, <Col_Vo>Vo.パラメータが</><col_sys>{3}</>以上となるアイドルが<col_sys>{1}</>人以上いる,"Have<col_sys> {1} </>Luminous idol(s) with a 
+ST_Out_MD/TaskTitleReq_04," <Col_Vo>Vo.パラメータが</><col_sys>{3}</>以上となるアイドルが<col_sys>{1}</>人以上いる","Have<col_sys> {1} </>Luminous idol(s) with a 
 <col_Vo>Vo. parameter </>value of<col_sys> {3} </>or greater.",,
-ST_Out_MD/TaskTitleReq_05, <Col_Da>Da.パラメータが</><col_sys>{3}</>以上となるアイドルが<col_sys>{1}</>人以上いる,"Have<col_sys> {1} </>Luminous idol(s) with a 
+ST_Out_MD/TaskTitleReq_05," <Col_Da>Da.パラメータが</><col_sys>{3}</>以上となるアイドルが<col_sys>{1}</>人以上いる","Have<col_sys> {1} </>Luminous idol(s) with a 
 <col_Da>Da. parameter </>value of<col_sys> {3} </>or greater.",,
-ST_Out_MD/TaskTitleReq_06, <Col_Vi>Vi.パラメータが</><col_sys>{3}</>以上となるアイドルが<col_sys>{1}</>人以上いる,"Have<col_sys> {1} </>Luminous idol(s) with a 
+ST_Out_MD/TaskTitleReq_06," <Col_Vi>Vi.パラメータが</><col_sys>{3}</>以上となるアイドルが<col_sys>{1}</>人以上いる","Have<col_sys> {1} </>Luminous idol(s) with a 
 <col_Vi>Vi. parameter </>value of<col_sys> {3} </>or greater.",,
 ST_Out_MD/TaskTitleReq_07,"スキル<col_sys>『スコアアップ★』</>を習得したアイドル<col_sys>{8}</>人以上で
 ステージLv<col_sys>{6}</>以上の平日ステージを<col_sys>{1}</>回クリアする","Have<col_sys> {8} </>or more performing idols with the<col_sys> Score Up★ </>skill
@@ -12657,7 +12692,7 @@ ST_Out_MD/WORK_SOLO_RULE3_066,川原の信頼Lvを<col_sys>5</>にする,Reach t
 ST_Out_MD/WORK_SOLO_RULE3_069,金成 大蔵の信頼Lvを<col_sys>5</>にする,Reach trust level<col_sys> 5 </>with Taizo Kanenari,,
 ST_Out_MD/WORK_SOLO_RULE3_077,衣装『水着』を所持している,Acquired a swimsuit outfit,,
 ST_Out_MD/WORK_SOLO_RULE3_081,杜野 凛世の<col_Vo>Vo.</>を<col_sys>550</>にする,Rinze's<col_Vo> Vo. </>reaches<col_sys> 550</>,,
-ST_Out_MD/WORK_SOLO_RULE3_087,取枡 和雄の信頼Lvを<col_sys>5</>にする,Reach trust level<col_sys> 5</>with ,,
+ST_Out_MD/WORK_SOLO_RULE3_087,取枡 和雄の信頼Lvを<col_sys>5</>にする,"Reach trust level<col_sys> 5</>with ",,
 ST_Out_MD/WORK_SOLO_SUBTITLE_001,チャレンジＴＨＥアイドル,Challenge THE Idol,,
 ST_Out_MD/WORK_SOLO_SUBTITLE_002,芸能人・誰も知らない家庭の事情！,,,
 ST_Out_MD/WORK_SOLO_SUBTITLE_003,Ｆｌｏｗｉｎｇ　過去と現在,,,
