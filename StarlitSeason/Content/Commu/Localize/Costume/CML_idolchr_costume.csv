@@ -3,17 +3,17 @@
 衣装のサンプルが届いたぞ","Everyone wears it on ""Spring Night"".
 I just received a sample of your costume."
 "Costume_01_04_00_002(0)","Ｐ","えーっと、誰にサンプルを着てもらおうかな……","Let's see, who should we get to wear the samples: ......"
-"Costume_01_04_00_003(0)","選択肢","心白、お願いするよ","Shinbaku, please."
+"Costume_01_04_00_003(0)","選択肢","心白、お願いするよ","Kohaku, please."
 "Costume_01_04_00_004(0)","選択肢","響、頼んだ！","Hibiki, I asked!"
 "Costume_01_04_00_005(0)","選択肢","春香、よろしく","Haruka, nice to meet you."
 "Costume_01_04_00_006(0)","選択肢","伊織、着てみてくれ","Iori, try it on."
 "Costume_01_04_00_007(0)","選択肢","真、着てみないか？","True, why don't you try it on?"
-"Costume_01_04_00_008(0)","選択肢","未来、着てみるか？","Future, you want to try it on?"
-"Costume_01_04_00_009(0)","選択肢","杏、出番だ","Apricot, you're up."
+"Costume_01_04_00_008(0)","選択肢","未来、着てみるか？","Mirai, you want to try it on?"
+"Costume_01_04_00_009(0)","選択肢","杏、出番だ","Anzu, you're up."
 "Costume_01_04_00_010(0)","選択肢","菜々、任せた","Nana, you got it."
 "Costume_01_04_00_011(0)","選択肢","甘奈、頼む","Amana, please."
 "Costume_01_04_00_012(0)","選択肢","甜花、着てみるか？","Tenka, do you want to try it on?"
-"Costume_01_04_00_013(0)","Ｐ","心白、お願いするよ","Shinbaku, please."
+"Costume_01_04_00_013(0)","Ｐ","心白、お願いするよ","Kohaku, please."
 "Costume_01_04_00_014(0)","心白","私ですか？
 分かりました、試着してみますね","Is it me?
 Okay, I'll try it on."
@@ -63,7 +63,7 @@ It is so cute and I am looking forward to wearing it for the show!"
 "Costume_01_04_00_032(0)","Ｐ","気に入ってくれてよかったよ。
 本番までに全員分用意しておくからな","I'm glad you liked it.
 I'll have enough for everyone before the show."
-"Costume_01_04_00_033(0)","Ｐ","未来、着てみるか？","Future, you want to try it on?"
+"Costume_01_04_00_033(0)","Ｐ","未来、着てみるか？","Mirai, you want to try it on?"
 "Costume_01_04_00_034(0)","未来","はい！　やったー、実は着てみたかったんです！
 どんな衣装かなー♪","Yes! Yay, I actually wanted to wear it!
 I wonder what kind of costume... ♪"
@@ -73,7 +73,7 @@ I can't wait to get on stage!"
 "Costume_01_04_00_036(0)","Ｐ","気に入ってくれてよかったよ。
 本番までに全員分用意しておくからな","I'm glad you liked it.
 I'll have enough for everyone before the show."
-"Costume_01_04_00_037(0)","Ｐ","杏、出番だ","Apricot, you're up."
+"Costume_01_04_00_037(0)","Ｐ","杏、出番だ","Anzu, you're up."
 "Costume_01_04_00_038(0)","杏","杏？　ああ、サイズが合ってるか見ておきたいんだ？
 それならしょうがない、着てみるか……","Anzu? Yeah, you want to see if it's the right size?
 Then I can't help it, I'll try it on: ......"
@@ -99,7 +99,7 @@ I'll have enough for everyone before the show."
 I hope I can wear it well!"
 "Costume_01_04_00_047(0)","甘奈","かわいー！　この衣装、めっちゃいいね☆
 甜花ちゃんが着てるところも早く見てみたいな～","Cute! I love this outfit so much!
-I can't wait to see Tetuka wearing it too!"
+I can't wait to see Tenka-chan wearing it too!"
 "Costume_01_04_00_048(0)","Ｐ","気に入ってくれてよかったよ。
 本番までに全員分用意しておくからな","I'm glad you liked it.
 I'll have enough for everyone before the show."
@@ -186,7 +186,7 @@ Samples of the costumes have arrived!"
 "Costume_01_06_00_004(0)","選択肢","咲耶、着てみてくれ","Sakuya, try it on."
 "Costume_01_06_00_005(0)","選択肢","果穂、お願いするよ","Kaho, please."
 "Costume_01_06_00_006(0)","選択肢","甘奈、よろしく","Amana, nice to meet you."
-"Costume_01_06_00_007(0)","選択肢","凛世、いいかな？","Rinyo, may I?"
+"Costume_01_06_00_007(0)","選択肢","凛世、いいかな？","Rinze, may I?"
 "Costume_01_06_00_008(0)","Ｐ","甜花、頼むよ","Beet, please."
 "Costume_01_06_00_009(0)","甜花","あう……て、甜花……？
 わ、分かった……頑張る……","Au ...... and Tenka ......?
@@ -227,7 +227,7 @@ How do you like it, producer? Does it suit you?"
 "Costume_01_06_00_023(0)","Ｐ","ああ、よく似合ってるよ。
 本番までに全員分用意しておくからな","Yeah, it looks good on you.
 I'll have enough for everyone before the show."
-"Costume_01_06_00_024(0)","Ｐ","凛世、いいかな？","Rinyo, may I?"
+"Costume_01_06_00_024(0)","Ｐ","凛世、いいかな？","Rinze, may I?"
 "Costume_01_06_00_025(0)","凛世","はい……
 凛世が……お役にたてるなら……","Yes ......
 If Rinse can help you ...... ......"
@@ -241,9 +241,9 @@ I'll have enough for everyone before the show."
 衣装のサンプルが、届いたぞ","Everyone will wear it in the upcoming ""Summer Dolphin"".
 Samples of the costumes just arrived!"
 "Costume_01_07_00_002(0)","Ｐ","えーっと、誰にサンプルを着てもらおうかな……","Let's see, who should we get to wear the samples: ......"
-"Costume_01_07_00_003(0)","選択肢","心白に頼もう","Let's ask Shinbaku."
+"Costume_01_07_00_003(0)","選択肢","心白に頼もう","Let's ask Kohaku."
 "Costume_01_07_00_004(0)","選択肢","美希はどうだ？","How about Miki?"
-"Costume_01_07_00_005(0)","選択肢","翼に着てもらおう","Let's get Wings to wear it."
+"Costume_01_07_00_005(0)","選択肢","翼に着てもらおう","Let's get Tsubasa to wear it."
 "Costume_01_07_00_006(0)","選択肢","美嘉に任せよう","Let's leave it to Mika."
 "Costume_01_07_00_007(0)","選択肢","果穂がいいかな","I think I'll go with Kaho."
 "Costume_01_07_00_008(0)","選択肢","やよいはどうかな？","How about Yayoi?"
@@ -252,7 +252,7 @@ Samples of the costumes just arrived!"
 "Costume_01_07_00_011(0)","選択肢","真美がモデルだ","Mami is the model."
 "Costume_01_07_00_012(0)","選択肢","歌織さんにお願い","Please ask Kaori-san."
 "Costume_01_07_00_013(0)","選択肢","きらりはどうかな？","How about Kirari?"
-"Costume_01_07_00_014(0)","Ｐ","心白に頼もう","Let's ask Shinbaku."
+"Costume_01_07_00_014(0)","Ｐ","心白に頼もう","Let's ask Kohaku."
 "Costume_01_07_00_015(0)","心白","はい、頼まれました。
 ふふ……新しい衣装、楽しみです♪","Yes, I was asked.
 Hmmm... ...... I'm looking forward to your new outfit..."
@@ -272,7 +272,7 @@ Hey producer, Miki, does it look good on you?"
 "Costume_01_07_00_021(0)","Ｐ","ああ、似合ってるよ。気に入ってくれてよかった。
 本番までに全員分用意しておくからな","Yeah, it looks good on you, glad you like it.
 I'll have enough for everyone before the show."
-"Costume_01_07_00_022(0)","Ｐ","翼に着てもらおう","Let's get Wings to wear it."
+"Costume_01_07_00_022(0)","Ｐ","翼に着てもらおう","Let's get Tsubasa to wear it."
 "Costume_01_07_00_023(0)","翼","はーい、着ちゃいますねー。
 一番に新しい衣装が着れるなんて、嬉しいな～♪","Yes, I'll wear it!
 I'm so glad I get to wear my new outfit first!!!"
@@ -366,12 +366,12 @@ I'll have enough for everyone before the show."
 衣装のサンプルが、届いたぞ","Everyone will wear it in the upcoming ""Idol Summer"".
 Samples of the costumes just arrived!"
 "Costume_01_08_00_002(0)","Ｐ","えーっと、誰にサンプルを着てもらおうかな……","Let's see, who should we get to wear the samples: ......"
-"Costume_01_08_00_003(0)","選択肢","未来、任せる！","The future, leave it to me!"
+"Costume_01_08_00_003(0)","選択肢","未来、任せる！","Mirai leave it to me!"
 "Costume_01_08_00_004(0)","選択肢","静香、よろしく！","Shizuka, nice to meet you!"
-"Costume_01_08_00_005(0)","選択肢","翼、着てみないか？","Wings, would you like to try it on?"
+"Costume_01_08_00_005(0)","選択肢","翼、着てみないか？","Tsubasa, would you like to try it on?"
 "Costume_01_08_00_006(0)","選択肢","紬、どうだ？","How about you, Tsumugi?"
 "Costume_01_08_00_007(0)","選択肢","歌織さん、お願い！","Kaori, please!"
-"Costume_01_08_00_008(0)","Ｐ","未来、任せる！","The future, leave it to me!"
+"Costume_01_08_00_008(0)","Ｐ","未来、任せる！","Mirai leave it to me!"
 "Costume_01_08_00_009(0)","未来","ラジャー！　私、アイドルらしく、
 バッチリ着こなしてみせます！","Rajar! I, like an idol,
 I will dress it up perfectly!"
@@ -391,7 +391,7 @@ It looks strong and ...... spirited!"
 "Costume_01_08_00_015(0)","Ｐ","気に入ってくれてよかったよ。
 本番までに全員分用意しておくからな","I'm glad you liked it.
 I'll have enough for everyone before the show."
-"Costume_01_08_00_016(0)","Ｐ","翼、着てみないか？","Wings, would you like to try it on?"
+"Costume_01_08_00_016(0)","Ｐ","翼、着てみないか？","Tsubasa, would you like to try it on?"
 "Costume_01_08_00_017(0)","翼","いいですよ～。プロデューサーさんってば、
 わたしが衣装を着た姿……見たいってことですよね？","It's okay~, what a producer!
 You mean you want to see me in costume ......?"
@@ -399,7 +399,7 @@ You mean you want to see me in costume ......?"
 いいですね♪　どうですか、似合ってますか～？","It's not exactly the popular route, but it's cool.
 I like it... What do you think, does it suit you?"
 "Costume_01_08_00_019(0)","Ｐ","ああ、翼によく似合ってるよ。
-本番までに全員分用意しておくからな","Yeah, it looks great on the wings.
+本番までに全員分用意しておくからな","Yeah, it looks great on Tsubasa.
 I'll have enough for everyone before the show."
 "Costume_01_08_00_020(0)","Ｐ","紬、どうだ？","How about you, Tsumugi?"
 "Costume_01_08_00_021(0)","紬","どうだって、プロデューサーなら指名はちゃんと
@@ -432,7 +432,7 @@ Samples of the costumes just arrived!"
 "Costume_01_09_00_007(0)","選択肢","響だ！","Hibiki!"
 "Costume_01_09_00_008(0)","選択肢","やよいに！","To Yayoi!"
 "Costume_01_09_00_009(0)","選択肢","伊織だ！","Iori!"
-"Costume_01_09_00_010(0)","選択肢","雪歩に！","To the snowflakes!"
+"Costume_01_09_00_010(0)","選択肢","雪歩に！","To the Yukihos!"
 "Costume_01_09_00_011(0)","選択肢","律子だ！","Ritsuko!"
 "Costume_01_09_00_012(0)","選択肢","あずささんに！","To Azusa!"
 "Costume_01_09_00_013(0)","選択肢","亜美だ！","Ami!"
@@ -508,7 +508,7 @@ It looks like you did your best."
 "Costume_01_09_00_043(0)","Ｐ","気に入ってくれてよかったよ。
 本番までに全員分用意しておくからな","I'm glad you liked it.
 I'll have enough for everyone before the show."
-"Costume_01_09_00_044(0)","Ｐ","雪歩に着てもらおう！","Let's get snowflakes to wear it!"
+"Costume_01_09_00_044(0)","Ｐ","雪歩に着てもらおう！","Let's get Yukihos to wear it!"
 "Costume_01_09_00_045(0)","雪歩","は、はい、分かりました！　……えへへ、
 新しい衣装、結構楽しみにしてたんです","Ha, yes, I understand! ...... ehehe,
 I was pretty excited about the new outfit."
@@ -572,7 +572,7 @@ I'll have enough for everyone before the show."
 衣装のサンプルが、届いたぞ","Everyone will wear it at the upcoming ""Halloween Autumn"".
 Samples of the costumes just arrived!"
 "Costume_01_10_00_002(0)","Ｐ","えーっと、誰にサンプルを着てもらおうかな……","Let's see, who should we get to wear the samples: ......"
-"Costume_01_10_00_003(0)","選択肢","心白がいいな","I like the heart white."
+"Costume_01_10_00_003(0)","選択肢","心白がいいな","I like Kohaku."
 "Costume_01_10_00_004(0)","選択肢","貴音に頼もう","I'll ask Takane."
 "Costume_01_10_00_005(0)","選択肢","千早にお願いしよう","Let's ask Chihaya."
 "Costume_01_10_00_006(0)","選択肢","律子に任せよう","Let's leave it to Ritsuko."
@@ -581,8 +581,8 @@ Samples of the costumes just arrived!"
 "Costume_01_10_00_009(0)","選択肢","紬に頼むぞ","I'm going to ask you to pongee."
 "Costume_01_10_00_010(0)","選択肢","蘭子はどうだ","How about Ranko?"
 "Costume_01_10_00_011(0)","選択肢","咲耶にお願いしたい","I would like to ask Sakuya"
-"Costume_01_10_00_012(0)","選択肢","凛世に頼みたい","I'd like to ask Rinsei to do it for me."
-"Costume_01_10_00_013(0)","Ｐ","心白がいいな","I like the heart white."
+"Costume_01_10_00_012(0)","選択肢","凛世に頼みたい","I'd like to ask Rinze to do it for me."
+"Costume_01_10_00_013(0)","Ｐ","心白がいいな","I like Kohaku."
 "Costume_01_10_00_014(0)","心白","はい！
 ふふ、一番に衣装が着れるなんて、嬉しいです♪","Yes!
 Hmmm, I'm so happy to be the first to wear the costume..."
@@ -676,7 +676,7 @@ I'm looking forward to the show!"
 "Costume_01_10_00_050(0)","Ｐ","気に入ってくれてよかったよ。
 本番までに全員分用意しておくからな","I'm glad you liked it.
 I'll have enough for everyone before the show."
-"Costume_01_10_00_051(0)","Ｐ","凛世に頼みたい","I'd like to ask Rinsei to do it for me."
+"Costume_01_10_00_051(0)","Ｐ","凛世に頼みたい","I'd like to ask Rinze to do it for me."
 "Costume_01_10_00_052(0)","凛世","凛世で……よろしければ……","Rinse at ...... if you like ......"
 "Costume_01_10_00_053(0)","凛世","夜を……思わせる……
 美しい衣装……","Make the night seem ......
@@ -717,7 +717,7 @@ Samples of the costumes just arrived!"
 "Costume_01_11_00_029(0)","選択肢","果穂","Kaho"
 "Costume_01_11_00_030(0)","選択肢","甘奈","Amana"
 "Costume_01_11_00_031(0)","選択肢","凛世","Rinze"
-"Costume_01_11_00_032(0)","Ｐ","心白、着てみてくれるかな？","Heart white, would you try it on?"
+"Costume_01_11_00_032(0)","Ｐ","心白、着てみてくれるかな？","Kohaku, would you try it on?"
 "Costume_01_11_00_033(0)","心白","はい、もちろん！
 最終選考会用の衣装……緊張してきちゃいますね","Yes, of course!
 I'm getting nervous about the costumes for the finals ......"
@@ -857,7 +857,7 @@ It has to be a great stage!"
 "Costume_01_11_00_087(0)","Ｐ","気に入ってくれてよかったよ。
 本番までに全員分用意しておくからな","I'm glad you liked it.
 I'll have enough for everyone before the show."
-"Costume_01_11_00_088(0)","Ｐ","未来、お願いしていいかな？","Future, may I ask you a favor?"
+"Costume_01_11_00_088(0)","Ｐ","未来、お願いしていいかな？","Mirai, may I ask you a favor?"
 "Costume_01_11_00_089(0)","未来","もちろんです！　どんな衣装なんだろうなー。
 あ、着たら、写真撮ってもいいですか？","Of course! I wonder what kind of costumes they are wearing.
 Oh, and if I put it on, can I take a picture?"
@@ -877,7 +877,7 @@ I need to take lessons to avoid embarrassment: ......"
 "Costume_01_11_00_095(0)","Ｐ","気に入ってくれてよかったよ。
 本番までに全員分用意しておくからな","I'm glad you liked it.
 I'll have enough for everyone before the show."
-"Costume_01_11_00_096(0)","Ｐ","翼、いいかな？","Wings, okay?"
+"Costume_01_11_00_096(0)","Ｐ","翼、いいかな？","Tsubasa, okay?"
 "Costume_01_11_00_097(0)","翼","もちろん、オッケーでーす！
 わたしの着こなし、見ていてくださいね♪","Of course, ok!
 Please watch how I dress...."
@@ -1003,7 +1003,7 @@ I'm looking forward to the day."
 "Costume_01_11_00(146)","Ｐ","気に入ってくれてよかったよ。
 本番までに全員分用意しておくからな","I'm glad you liked it.
 I'll have enough for everyone before the show."
-"Costume_01_11_00(147)","Ｐ","凛世、お願いするよ","Rinyo, please."
+"Costume_01_11_00(147)","Ｐ","凛世、お願いするよ","Rinze, please."
 "Costume_01_11_00(148)","凛世","はい……
 凛世で……よろしければ……","Yes ......
 Rinse at ...... if you like ......"
@@ -1046,7 +1046,7 @@ Samples of the costumes just arrived!"
 "Costume_01_12_00_029(0)","選択肢","果穂","Kaho"
 "Costume_01_12_00_030(0)","選択肢","甘奈","Amana"
 "Costume_01_12_00_031(0)","選択肢","凛世","Rinze"
-"Costume_01_12_00_032(0)","Ｐ","心白、お願いしていいかな","Shinbaku, may I ask you for a favor?"
+"Costume_01_12_00_032(0)","Ｐ","心白、お願いしていいかな","Kohaku, may I ask you for a favor?"
 "Costume_01_12_00_033(0)","心白","はい、いよいよ……ですね。
 試着でも、ドキドキしちゃいます！","Yes, it's finally .......
 Even when trying on clothes, I get nervous!"
@@ -1136,7 +1136,7 @@ Boku, boku ...... will do my very best!"
 "Costume_01_12_00_067(0)","Ｐ","気に入ってくれてよかったよ。
 本番までに全員分用意しておくからな","I'm glad you liked it.
 I'll have enough for everyone before the show."
-"Costume_01_12_00_068(0)","Ｐ","雪歩、着てくれるかな","Snowflake, will you put it on?"
+"Costume_01_12_00_068(0)","Ｐ","雪歩、着てくれるかな","Yukiho, will you put it on?"
 "Costume_01_12_00_069(0)","雪歩","ひぇ……私ですか～？　１２月の衣装、試着……。
 うぅ……大役ですぅ……","Hee ...... me~? Costumes for December, try on .......
 Ugh ...... great role ......"
@@ -1186,7 +1186,7 @@ You're a costume! You're doing it, brother!"
 "Costume_01_12_00_087(0)","Ｐ","気に入ってくれてよかったよ。
 本番までに全員分用意しておくからな","I'm glad you liked it.
 I'll have enough for everyone before the show."
-"Costume_01_12_00_088(0)","Ｐ","未来、よろしく頼むよ","Future, take care of it."
+"Costume_01_12_00_088(0)","Ｐ","未来、よろしく頼むよ","Mirai, take care of it."
 "Costume_01_12_00_089(0)","未来","はいっ！　大事なステージの衣装ですよね！
 私に任せてくださいっ！","Yes! It's an important stage costume, isn't it?
 I'll take care of it!"
@@ -1206,7 +1206,7 @@ We are honored to have the costumes available. ......"
 "Costume_01_12_00_095(0)","Ｐ","気に入ってくれてよかったよ。
 本番までに全員分用意しておくからな","I'm glad you liked it.
 I'll have enough for everyone before the show."
-"Costume_01_12_00_096(0)","Ｐ","翼、お願いするよ","Wings, please."
+"Costume_01_12_00_096(0)","Ｐ","翼、お願いするよ","Tsubasa, please."
 "Costume_01_12_00_097(0)","翼","わぁ、いいんですか～？
 衣装の試着、目いっぱい楽しんじゃいまーす♪","Wow, are you sure?
 I'm going to have so much fun trying on costumes!"
@@ -1332,7 +1332,7 @@ If I wore this, I'd be so nervous, I'd lose it."
 "Costume_01_12_00(146)","Ｐ","気に入ってくれてよかったよ。
 本番までに全員分用意しておくからな","I'm glad you liked it.
 I'll have enough for everyone before the show."
-"Costume_01_12_00(147)","Ｐ","凛世、着てみてくれないか？","Rinyo, will you try it on?"
+"Costume_01_12_00(147)","Ｐ","凛世、着てみてくれないか？","Rinze, will you try it on?"
 "Costume_01_12_00(148)","凛世","はい……大事な衣装……
 身が……引き締まります……","Yes ...... important outfit ......
 You will feel ...... tighter ......"

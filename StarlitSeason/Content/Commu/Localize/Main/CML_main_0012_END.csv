@@ -93,14 +93,14 @@ I'm glad you're here. You've been busy."
 Let's start with who's going to talk first: ......?)"
 "main_0012_Z_01_00_039(0)","選択肢","雪歩・伊織
 静香・甜花","Yukiho and Iori
-Shizuka and Tetuka"
+Shizuka and Tenka-chan"
 "main_0012_Z_01_00_040(0)","選択肢","亜美・真美
 杏","Ami and Mami
-apricot (Prunus armeniaca)"
+Anzu (Prunus armeniaca)"
 "main_0012_Z_01_00_041(0)","選択肢","美希・きらり
 凛世","Miki Kirari
 awe-inspiring"
-"main_0012_Z_01_00_042(0)","Ｐ","雪歩、今日はよく来てくれた。ありがとう！","Snowflake, thanks for coming in today!"
+"main_0012_Z_01_00_042(0)","Ｐ","雪歩、今日はよく来てくれた。ありがとう！","Yukiho, thanks for coming in today!"
 "main_0012_Z_01_00_043(0)","雪歩","いえ……。あの、ルミナスが始まって、
 なんだか今日まであっという間でしたね……","No, ....... Um, Luminous started,
 It kind of flew by until today: ......"
@@ -115,7 +115,7 @@ I'm so glad I stuck it out to the end."
 怖がらずに頑張ります。見ていてくださいね","If there are opportunities to try new things in the future,
 I will do my best without fear, please watch me."
 "main_0012_Z_01_00_048(0)","Ｐ","ありがとう、雪歩。
-次の活躍も期待しているぞ","Thanks, snowflake.
+次の活躍も期待しているぞ","Thanks, Yukiho.
 Looking forward to seeing what you do next!"
 "main_0012_Z_01_00_049(0)","Ｐ","伊織もよく来てくれたな","And Iori, I'm so glad you came."
 "main_0012_Z_01_00_050(0)","伊織","今日は、ルミナス最後の日だもの。
@@ -155,7 +155,7 @@ What did the producer learn?"
 "main_0012_Z_01_00_062(0)","Ｐ","俺は、ひとりひとりの可能性の素晴らしさだな。
 静香にもそのことを教えられたよ。ありがとう","I'm a great believer in each person's potential.
 Shizuka has taught me that too, thank you."
-"main_0012_Z_01_00_063(0)","Ｐ","甜花もよく来てくれたな","I'm surprised the beets are here, too."
+"main_0012_Z_01_00_063(0)","Ｐ","甜花もよく来てくれたな","I'm surprised Tenkas are here, too."
 "main_0012_Z_01_00_064(0)","甜花","プロデューサーさん……
 お疲れさま、です……","Producer: ......
 Good work, sir. ......"
@@ -163,7 +163,7 @@ Good work, sir. ......"
 ルミナスの力に……なれた、かな……？","Um, Tenka: ......
 Could I be ...... in the power of Luminous, or ......?"
 "main_0012_Z_01_00_066(0)","Ｐ","もちろんだ。甜花がルミナスのみんなに
-励まされたように、甜花もみんなを支えてくれた","Of course, the beet is for everyone at Luminous.
+励まされたように、甜花もみんなを支えてくれた","Of course, Tenka is for everyone at Luminous.
 As encouraged as they were, the sugar beets supported us all."
 "main_0012_Z_01_00_067(0)","甜花","そっか……。
 甜花も……みんなの力に……","I see. .......
@@ -211,7 +211,7 @@ Thanks for supporting Luminous, Mami."
 "main_0012_Z_01_00_084(0)","真美","もちろんだよ、兄ちゃん！
 これからも、よろよろ～！","Of course, brother!
 Keep up the good work~!"
-"main_0012_Z_01_00_085(0)","Ｐ","杏もよく来てくれたな","I'm glad you're here, apricot, too."
+"main_0012_Z_01_00_085(0)","Ｐ","杏もよく来てくれたな","I'm glad you're here, Anzu, too."
 "main_0012_Z_01_00_086(0)","杏","お疲れさま、プロデューサー。
 お互い、よくここまで頑張ったよね","Good job, producer.
 We both know how hard we've worked to get this far."
@@ -269,7 +269,7 @@ Kirarin Ganbayu so that you can be Happi-Happi!"
 "main_0012_Z_01_00(107)","きらり","きらりんをハピハピにしてくれたみたいに、
 みんなをハピハピにしてね♪　約束だよ、Ｐちゃん☆","Like you made Kirarin happy-happy,
 Make everyone happy-happy... I promise, P-chan☆."
-"main_0012_Z_01_00(108)","Ｐ","凛世もよく来てくれたな","I'm surprised Rinyo even showed up."
+"main_0012_Z_01_00(108)","Ｐ","凛世もよく来てくれたな","I'm surprised Rinze even showed up."
 "main_0012_Z_01_00(109)","凛世","明けましておめでとうございます……
 昨年はお世話になりました……","Happy New Year ......
 Thank you for your help last year: ......"
@@ -277,17 +277,17 @@ Thank you for your help last year: ......"
 大変眩しく……","Luminous shine is available at ......
 Very dazzling ......"
 "main_0012_Z_01_00(111)","凛世","凛世の心を……
-離れることはございません……","The Heart of Rinsei: ......
+離れることはございません……","The Heart of Rinze: ......
 We never leave. ......"
 "main_0012_Z_01_00(112)","Ｐ","ルミナスが輝けたのは、
 凛世の一途な気持ちがあったからだよ","Luminous was able to shine,
-It's because of Rinyo's single-mindedness."
+It's because of Rinze's single-mindedness."
 "main_0012_Z_01_00(113)","凛世","ありがとうございます……
 この輝きを糧にします……","Thank you ......
 We feed on this brilliance: ......"
 "main_0012_Z_01_00(114)","Ｐ","ああ、俺にとっても大切な宝物だ。
 凛世、ありがとう","Yeah, it's a treasure for me too.
-Rinyo, thank you."
+Rinze, thank you."
 "main_0012_Z_01_00(115)","Ｐ","次は……","Next to ......"
 "main_0012_Z_02_00_001(0)","Ｐ","（事務所にいるメンバーとは話をしたな。
 レッスンスタジオに行ってみるか……）","(You've talked to the members in the office.
@@ -442,8 +442,8 @@ Hibiki's hard work was vital to Luminous."
 You're going to want to do another new stage!"
 "main_0012_Z_02_00_059(0)","Ｐ","ああ、またみんなで必ずステージに立とう！","Yeah, let's all definitely take the stage again!"
 "main_0012_Z_02_00_060(0)","Ｐ","翼もよく来てくれたな。
-ルミナスは、どうだった？","I'm glad you're here, and I'm glad you're here for the wings, too.
-How was Luminous?"
+ルミナスは、どうだった？","Tsubasa came often too.
+How was Luminous? "
 "main_0012_Z_02_00_061(0)","翼","……レッスンがユーウツだった時もありました
 けど……。今は、ちょっとさびしいですね","There was a time when the ...... lesson was a euphemism!
 But ....... It's a bit lonely now."
@@ -464,10 +464,10 @@ I found a nice store... ♪"
 I'll see you next time."
 "main_0012_Z_02_00_067(0)","Ｐ","甘奈もよく来てくれたな","I'm surprised Amana even showed up."
 "main_0012_Z_02_00_068(0)","甘奈","プロデューサーさん、甜花ちゃんが
-歌ってる姿、世界中に配信されたね！","Producer-san, the beet is...
+歌ってる姿、世界中に配信されたね！","Producer-san, Tenka is...
 You sang, and it was broadcast all over the world!"
 "main_0012_Z_02_00_069(0)","甘奈","かわいー甜花ちゃんのこと、世界中の
-みんなが見てくれたんだ……","I'm sure the whole world will be impressed with the cute Tetuka-chan.
+みんなが見てくれたんだ……","I'm sure the whole world will be impressed with the cute Tenka-chan-chan.
 People saw this: ......"
 "main_0012_Z_02_00_070(0)","Ｐ","ああ、甜花のことを世界中に伝えられたのも、
 甘奈の努力の賜物ってことを忘れずにな","Oh, and I could tell the whole world about Tenka,
@@ -479,7 +479,7 @@ Thank you, Amana."
 プロデューサーさん！","No, thanks to you too!
 Producer!"
 "main_0012_Z_02_00_073(0)","甘奈","これからも、甜花ちゃんのかわいさを
-世界中に届けるために、甘奈頑張るね☆","We will continue to make Tetuka-chan's cuteness
+世界中に届けるために、甘奈頑張るね☆","We will continue to make Tenka-chan-chan's cuteness
 I'll do my best to deliver it to the world, Amana☆."
 "main_0012_Z_02_00_074(0)","Ｐ","次は……","Next to ......"
 "main_0012_Z_03_00_001(0)","Ｐ","（レッスン場にいるメンバーとは話をしたな。
@@ -604,7 +604,7 @@ My sister was watching the show and got really excited."
 We're all stoked for the new year... ♪ So ......"
 "main_0012_Z_03_00_047(0)","美嘉","活動を頑張っていれば、すごいプロデューサーから
 声をかけてもらえるかもよって、伝えておいたから★","If you work hard in your activities, you can get a great producer to
-I told him that he might be able to talk to me."
+I told her that he might be able to talk to me."
 "main_0012_Z_03_00_048(0)","Ｐ","そ、それって……俺のことか？
 ありがたいが、ルミナスの成功はみんなのおかげだ","So, is that ...... me?
 Thanks, but the success of Luminous is due to all of you."
@@ -673,17 +673,17 @@ I'm looking forward to seeing you grow in the future."
 私にとってのアイドルを求め続けていこうと思うよ","Thank you ....... I encourage you to take those words,
 I'm going to keep looking for the idol for me."
 "main_0012_Z_03_00_073(0)","Ｐ","次は……","Next to ......"
-"main_0012_Z_04_00_001(0)","Ｐ","心白は……どこだろう……","I wonder where is the heart white ...... ......"
+"main_0012_Z_04_00_001(0)","Ｐ","心白は……どこだろう……","I wonder where is Kohaku ...... ......"
 "main_0012_Z_04_00_002(0)","春香","あっ、プロデューサーさん。
 心白ちゃんなら、みんなを呼びに下に行きましたよ","Ah, Producer-san.
-If it's Shinbaku, he went downstairs to call everyone."
+If it's Kohaku, he went downstairs to call everyone."
 "main_0012_Z_04_00_003(0)","Ｐ","そうか、ありがとう！","Okay, thanks!"
 "main_0012_Z_04_00_004(0)","春香","待っていれば、戻ってくると思いますけど……","If you wait, I'm sure they'll come back to you, though. ......"
 "main_0012_Z_04_00_005(0)","Ｐ","心白に聞きたいことがあるんだ。
-すぐに戻ってくるよ！","I have a question for Shinbaku.
+すぐに戻ってくるよ！","I have a question for Kohaku.
 I'll be right back!"
 "main_0012_Z_04_00_006(0)","Ｐ","心白、ここにいたのか……。
-話したいことがあるんだ","Mind White, you're here: .......
+話したいことがあるんだ","Kohaku, you're here: .......
 I need to talk to you."
 "main_0012_Z_04_00_007(0)","心白","……プロデューサーさん。
 はい、あの話ですよね？　私もです","...... Producer.
@@ -712,7 +712,7 @@ I want to give back what I have learned to all of you."
 ……最初に、亜夜ちゃんとはじめたことなんです","I don't know what will happen yet, but idol
 ......It's what I started with Aya in the first place!"
 "main_0012_Z_04_00_017(0)","Ｐ","そうか……心白の決めたことだ。
-俺はその意思を応援する","Well, ...... that's what mind white decided to do.
+俺はその意思を応援する","Well, ...... that's what Kohaku decided to do.
 I support that intention."
 "main_0012_Z_04_00_018(0)","Ｐ","どんなことでも、願えば、叶うはずだ。
 スターリットシーズンもそうしてきたじゃないか","Whatever you wish for, if you wish for it, it will come true.
@@ -723,11 +723,11 @@ You've done that for the Stalit season."
 So, anytime you need anything, here--"
 "main_0012_Z_04_00_021(0)","Ｐ","７６５プロに来てくれ。
 ここはもう、心白の帰る場所なんだから","Come to 765 Pro.
-This is already the place for you to go back to, Shinbaku."
+This is already the place for you to go back to, Kohaku."
 "main_0012_Z_04_00_022(0)","心白","ありがとうございます、プロデューサーさん！","Thank you, producer!"
 "main_0012_Z_04_00_023(0)","Ｐ","俺こそ、言わせてくれ。
 心白、ありがとう！　","Let me be the one to tell you.
-Thank you, Heart White!"
+Thank you, Kohaku!"
 "main_0012_Z_04_00_024(0)","小鳥","あ、プロデューサーさん、ここにいたんですね！
 みんな屋上で待ってますよ！","Ah, there you are, Producer-san!
 Everyone is waiting for you on the rooftop!"
@@ -876,7 +876,7 @@ Have you cleared out some of your stuff? ......"
 "main_0012_Z_50_00_002(0)","Ｐ","懐かしいな、この小道具……。
 花見の時に使ったやつだよな……","I've missed this prop: .......
 That's the one you used for the cherry blossom viewing: ......"
-"main_0012_Z_50_00_003(0)","","――ガチャ","-- Gacha"
+"main_0012_Z_50_00_003(0)",,"――ガチャ","-- Gacha"
 "main_0012_Z_50_00_004(0)","亜夜","あら、あなた……。
 なんだか辛気臭い顔をしているわね？","Oh, you .......
 You look kind of testy, don't you?"
@@ -887,7 +887,7 @@ Why are you here ......?"
 あの……忙しかったでしょうか？","Hello, producer!
 Was that ...... busy?"
 "main_0012_Z_50_00_007(0)","Ｐ","心白も……！　いや、そんなことはないけど……。
-ふたりこそ、どうしたんだ？","Mind white is also ......! No, it's not, but it is .......
+ふたりこそ、どうしたんだ？","Kohaku is also ......! No, it's not, but it is .......
 What's wrong with you two?"
 "main_0012_Z_50_00_008(0)","眞弓","先程、ふたりの今後が決まりましたので、
 ご報告に来たのです","We have just decided on the future of the two of us,
@@ -903,7 +903,7 @@ Affiliation."
 Okuora, you made an office!"
 "main_0012_Z_50_00_012(0)","眞弓","はい、その通りです","Yes, that is correct."
 "main_0012_Z_50_00_013(0)","眞弓","心白には、スターリットシーズンが終わった後、
-色々なお声掛けをいただきました","After the stalitic season is over in mind white,
+色々なお声掛けをいただきました","After the stalitic season is over in Kohaku,
 We've had a lot of different calls."
 "main_0012_Z_50_00_014(0)","眞弓","亜夜も、９６１プロに所属していましたから……","Aya was also a member of 961 Pro, so ......"
 "main_0012_Z_50_00_015(0)","眞弓","随分と苦労しました。
@@ -929,7 +929,7 @@ I intend to give my full support."
 ようであれば……すぐにでもユニットを解散します","But we'll take advantage of it and show our unworthiness.
 I will disband the unit immediately at ...... if it seems"
 "main_0012_Z_50_00_023(0)","眞弓","心白、亜夜……。
-そのつもりで、しっかりやりなさい","Mind White, Aya. .......
+そのつもりで、しっかりやりなさい","Kohaku, Aya. .......
 So, do it right."
 "main_0012_Z_50_00_024(0)","心白＆亜夜","……は、はいっ！","......, yes!"
 "main_0012_Z_50_00_025(0)","心白＆亜夜","……は、はいっ！","......, yes!"
@@ -980,7 +980,7 @@ I have one favor to ask."
 まだまだこれから……人材も潤沢とは言えません","Although he has set up an office,
 We still have a lot of work to do. ...... human resources are not plentiful yet."
 "main_0012_Z_50_00_044(0)","眞弓","当分の間、心白と亜夜のこと、
-お手すきの際に、面倒を見てもらえませんか？","For the time being, Shinbaku and Aya,
+お手すきの際に、面倒を見てもらえませんか？","For the time being, Kohaku and Aya,
 Could you take care of them when you are free?"
 "main_0012_Z_50_00_045(0)","眞弓","勝手な申し出ですが……あなたになら、
 このふたりを任せられると思っています","It's a selfish offer, but I'd be happy to make it to ...... for you,

@@ -1,7 +1,7 @@
 "id","character","source","translatedstr"
 "Idolchr_0110_B_20_01_001(0)","Ｐ","（伊織が雑誌を読んでいるみたいだ……。
 声をかけてみよう）","(It looks like Iori is reading a magazine. ......
-(Let's call out to him.)"
+(Let's call out to her.)"
 "Idolchr_0110_B_20_01_002(0)","Ｐ","伊織、何を読んでいるんだ？","Iori, what are you reading?"
 "Idolchr_0110_B_20_01_003(0)","伊織","ん、これ？　海外の情報雑誌よ。スーパーアイドルの
 伊織ちゃんは、忙しくてロクに海外旅行も出来ないの","Hmm, what's this? It's an international magazine about Super Idol.
@@ -83,14 +83,14 @@ If you have a better idea, will you get back to me ASAP?"
 Let's make it a good show."
 "Idolchr_0110_B_20_03_001(0)","Ｐ","（ん……？　伊織が何か見てるな。
 声をかけてみよう）","(Nn......? Iori is looking at something.
-(Let's call out to him.)"
+(Let's call out to her.)"
 "Idolchr_0110_B_20_03_002(0)","Ｐ","伊織、何を見てるんだ……？
 って、杏が置いていったぬいぐるみか","Iori, what are you looking at ......?
-I mean, is that the stuffed animal that apricot left behind?"
+I mean, is that the stuffed animal that Anzu left behind?"
 "Idolchr_0110_B_20_03_003(0)","伊織","そうよ。でも、ぬいぐるみっていうより、
 杏のことね。……なんだかアレに似てるな、って","Yes, but it's more like a stuffed animal,
-You mean the apricot. ...... I thought it kind of looked like that one."
-"Idolchr_0110_B_20_03_004(0)","Ｐ","（アレ……？　杏に似ているのって言えば……）","(That thing ......? If you say it looks like an apricot, it's ......)"
+You mean Anzu. ...... I thought it kind of looked like that one."
+"Idolchr_0110_B_20_03_004(0)","Ｐ","（アレ……？　杏に似ているのって言えば……）","(That thing ......? If you say it looks like Anzu, it's ......)"
 "Idolchr_0110_B_20_03_005(0)","選択肢","美希","Miki"
 "Idolchr_0110_B_20_03_006(0)","選択肢","俺","I"
 "Idolchr_0110_B_20_03_007(0)","選択肢","伊織","Iori"
@@ -100,7 +100,7 @@ They both like to nap."
 "Idolchr_0110_B_20_03_009(0)","伊織","あら、正解よ♪　
 美希と杏って、ちょっと似てるわよね","Oh, you're right.
 Miki and Anzu are a bit alike, aren't they?"
-"Idolchr_0110_B_20_03_010(0)","Ｐ","杏が似てるっていうのは……俺、なんてな！","Apricot looks like ...... me, oh my!"
+"Idolchr_0110_B_20_03_010(0)","Ｐ","杏が似てるっていうのは……俺、なんてな！","Anzu looks like ...... me, oh my!"
 "Idolchr_0110_B_20_03_011(0)","伊織","ああ、アンタも普段ボーっとしているのに、やる時は
 やる……って、違うわよ、美希のことを話してるの！","Yeah, you're usually in a daze, but when you do it, you do it.
 I'm going to do ......, no, I'm talking about Miki!"
@@ -110,7 +110,7 @@ I'm going to do ......, no, I'm talking about Miki!"
 I am talking about Miki!"
 "Idolchr_0110_B_20_03_014(0)","Ｐ","伊織もうさぎのぬいぐるみを持っているから、
 杏のぬいぐるみが欲しいのかと思ったよ","Because Iori also has a stuffed rabbit,
-I thought you wanted a stuffed apricot."
+I thought you wanted a stuffed Anzu."
 "Idolchr_0110_B_20_03_015(0)","伊織","そんなわけないでしょ。美希と杏って、ステージでは
 しっかりアイドルなところが、似てるって思ったの","Miki and Anzu are not like that on stage.
 I thought we were similar in that we were both idols."
@@ -391,7 +391,7 @@ Hey, do you have a better idea?"
 じゃあ……","I see, a slightly different way of selling.
 Then ......"
 "workchr_0110_A_01_00_011(0)","選択肢","路上で伊織が配る","Iori distributes them on the street."
-"workchr_0110_A_01_00_012(0)","選択肢","とにかく褒める","Anyway, praise him."
+"workchr_0110_A_01_00_012(0)","選択肢","とにかく褒める","Anyway, praise her."
 "workchr_0110_A_01_00_013(0)","選択肢","いつも通り宣伝する","Advertise as usual."
 "workchr_0110_A_01_00_014(0)","選択肢","伊織の実家を頼る","Rely on Iori's parents' home"
 "workchr_0110_A_01_00_015(0)","Ｐ","伊織が直接路上で配ってみるのはどうだ？
@@ -566,7 +566,7 @@ Any ideas?"
 "workchr_0110_C_01_00_009(0)","Ｐ","もっと魅力的なＭＣをするには、か……","To make your MC more attractive, or ......"
 "workchr_0110_C_01_00_010(0)","選択肢","お礼を言う","thank"
 "workchr_0110_C_01_00_011(0)","選択肢","いつも通り","as always"
-"workchr_0110_C_01_00_012(0)","選択肢","甘えてみる","I'm going to spoil him."
+"workchr_0110_C_01_00_012(0)","選択肢","甘えてみる","I'm going to spoil her."
 "workchr_0110_C_01_00_013(0)","選択肢","俺に言うみたいに","Like you're talking to me."
 "workchr_0110_C_01_00_014(0)","Ｐ","そうだな、応援してくれるファンに
 たまには素直にお礼を言ってみたらどうだ？","Yes, to the fans who support us.

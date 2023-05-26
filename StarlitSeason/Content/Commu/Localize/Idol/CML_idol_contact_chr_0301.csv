@@ -1,8 +1,8 @@
 "id","character","source","translatedstr"
 "spworkchr_0301_A_01_00_001(0)","Ｐ","（とうとうクイズ番組収録当日だ。出演が決まって
 から、未来は勉強を頑張っていたけれど……）","(It's finally the day of the quiz show taping, and I've been selected to appear on the show.
-(......), although the future was studying hard, from"
-"spworkchr_0301_A_01_00_002(0)","Ｐ","未来、調子はどうだ？","Future, how are you doing?"
+(......), although Mirai was studying hard, from"
+"spworkchr_0301_A_01_00_002(0)","Ｐ","未来、調子はどうだ？","Mirai, how are you doing?"
 "spworkchr_0301_A_01_00_003(0)","未来","調子はいいです！　いっぱい、いーっぱい
 勉強してきましたからね！　でへへ♪","I'm in good shape!
 I've been studying!"
@@ -43,7 +43,7 @@ That's the best I can do; think hard and answer."
 プロデューサーさん、しっかり見ててくださいね！","Yes! I will do my best to come!
 Producers, please watch closely!"
 "spworkchr_0301_A_01_00_020(0)","Ｐ","（未来、頑張って答えてるじゃないか！
-いい調子だぞ！）","(Future, you're doing your best to answer the question!
+いい調子だぞ！）","(Mirai, you're doing your best to answer the question!
 (You're doing great!)"
 "spworkchr_0301_A_01_00_021(0)","Ｐ","時間ギリギリまで考えるんだ！
 分からないなりに、ちゃんと考えたほうがいいぞ","Think until the last minute!
@@ -76,7 +76,7 @@ How are things going in Luminous?"
 いろいろな人が一緒って、とっても楽しいです♪","
 It's so much fun to be with people from all walks of life."
 "runintochr_0301_A_01_00_005(0)","Ｐ","それは良かったよ。未来なら、ルミナスの中で
-楽しみながら成長できると思うぞ","That's good to hear...in the future, in the luminous
+楽しみながら成長できると思うぞ","That's good to hear... Mirai, in the luminous
 I think you'll grow up having fun."
 "runintochr_0301_A_01_00_006(0)","未来","そうなんです！　新しい発見もたくさんあって、
 毎日いっぱいいーっぱい成長できてる気がします！","Yes! I have discovered many new things,
@@ -92,8 +92,8 @@ But I'm glad I got up early!"
 "runintochr_0301_B_02_00_004(0)","Ｐ","そうか、ずいぶんとご機嫌だな？","Well, you're in quite a good mood, aren't you?"
 "runintochr_0301_B_02_00_005(0)","未来","えへへ♪　おかげで、朝からプロデューサーさんに
 会えるなんて、すっごくラッキーだなぁって！","Ehehe♪ Thanks to you, I've been working with the producer since this morning.
-I felt so lucky to be able to meet him!"
-"runintochr_0301_B_02_00_006(0)","Ｐ","ああ、俺も朝から未来に会えて、元気が出たよ","Yeah, I got to see the future in the morning, too, which cheered me up."
+I felt so lucky to be able to meet her!"
+"runintochr_0301_B_02_00_006(0)","Ｐ","ああ、俺も朝から未来に会えて、元気が出たよ","Yeah, I got to see Mirai in the morning, too, which cheered me up."
 "runintochr_0301_B_02_00_007(0)","未来","でへへ～……♪　今日はもっとも～っと、
 いいことあるかもですね～！","Dehehe~......♪ Today is the most~,
 It might be a good thing!"
@@ -107,7 +107,7 @@ I'm just finishing up right now."
 プロデュースをしてくれて、ありがとうございます！","Well, you know, always, always, always, there's always a lot of our
 Thank you for producing!"
 "runintochr_0301_C_03_00_004(0)","Ｐ","わざわざありがとうな。でも俺は、未来たちに
-思いっきり輝いてもらいたくて、動いているだけだよ","Thanks for going out of your way, but I'm not going to let the future
+思いっきり輝いてもらいたくて、動いているだけだよ","Thanks for going out of your way, but I'm not going to let Mirai
 I'm just trying to get them to shine as brightly as they can, and they're moving."
 "runintochr_0301_C_03_00_005(0)","未来","わわっ、そしたらプロデューサーさんの
 期待に応えるために、もっと頑張らないと……！","Wow, then the producer's
@@ -128,14 +128,14 @@ Produce again tomorrow, thank you very much!"
 "runintochr_0301_E_02_01_001(0)","未来","今日はすごく頑張ったのでぐっすり眠れそう……。
 あっ、宿題があるのを忘れてました！","I worked very hard today and will sleep well. ......
 Oh, I forgot I have homework!"
-"workchr_0301_A_01_00_001(0)","Ｐ","（今日は未来のミニライブの本番当日だが……）","(Today is the day of the future mini-live show, but ......)"
+"workchr_0301_A_01_00_001(0)","Ｐ","（今日は未来のミニライブの本番当日だが……）","(Today is the day of Mirai mini-live show, but ......)"
 "workchr_0301_A_01_00_002(0)","Ｐ","もうすぐリハーサルが始まるぞ。
 未来、準備はできているか？","Rehearsals will be starting soon.
-Future, are you ready?"
+Mirai, are you ready?"
 "workchr_0301_A_01_00_003(0)","未来","はいっ、準備オッケーです！
 いつでもリハーサルにいけますよ！","Yes, I'm ready!
 You can always go to rehearsal!"
-"workchr_0301_A_01_00_004(0)","Ｐ","さすが未来、たのもしいな","That's the future, my friend."
+"workchr_0301_A_01_00_004(0)","Ｐ","さすが未来、たのもしいな","That's Mirai, my friend."
 "workchr_0301_A_01_00_005(0)","未来","あの、プロデューサーさん、ミニライブの
 最後の曲についてお話ししたいことがあるんです！","Um, Producer-san, the mini live
 I would like to talk to you about the last song!"
@@ -187,7 +187,7 @@ It was a lot of fun to the end and ...... Kyah!"
 ……あれ？　あの単語、なんて読むんだっけ？","Well then, here goes the last song!
 ...... Huh? What's that word you read?"
 "workchr_0301_A_01_00_029(0)","Ｐ","（未来には英語の歌詞が難しすぎたようで、
-ステージの上で固まってしまった……）","(The English lyrics seemed too difficult for the future,
+ステージの上で固まってしまった……）","(The English lyrics seemed too difficult for Mirai,
 (I froze on stage: ......)"
 "workchr_0301_A_01_00_030(0)","Ｐ","（今回の仕事は成功だ！）","(This job was a success!)"
 "workchr_0301_A_01_00_031(0)","Ｐ","（今回の仕事は失敗だ。次こそは！）","（This job was a mistake...next time!)"
@@ -197,7 +197,7 @@ It was a lot of fun to the end and ...... Kyah!"
 "workchr_0301_B_01_00_002(0)","未来","お仕事で牛乳が飲めちゃうなんて……。
 しかも最高峰の。最高の気分です！","I can't believe you get to drink milk at work. ......
 It's a great feeling!"
-"workchr_0301_B_01_00_003(0)","Ｐ","んん、ちょっと待て、未来……これ……","Hmm, wait a minute, the future ...... this ......"
+"workchr_0301_B_01_00_003(0)","Ｐ","んん、ちょっと待て、未来……これ……","Hmm, wait a minute, Mirai ...... this ......"
 "workchr_0301_B_01_00_004(0)","未来","どうしたんですか、プロデューサーさ……ん？
 ぎゅ、牛乳を使った料理にチャレンジ！？","What's the matter, producer?
 Gyu, try cooking with milk!"
@@ -229,7 +229,7 @@ I'll tell everyone where the bread is!"
 "workchr_0301_B_01_00_016(0)","Ｐ","（視聴者から、このパンを知りたいという
 問い合わせも、たくさん来たそうだ！）","(A viewer asked to know about this bread.
 (I hear they got a lot of inquiries, too!)"
-"workchr_0301_B_01_00_017(0)","Ｐ","あ、カフェオレなら未来でも作れるだろ！","Oh, you can make café au lait in the future!"
+"workchr_0301_B_01_00_017(0)","Ｐ","あ、カフェオレなら未来でも作れるだろ！","Oh, you can make café au lait Mirai!"
 "workchr_0301_B_01_00_018(0)","未来","はいっ！　カフェオレ大好きです。
 牛乳が引き立って、すっごくおいしいですよね！","Yes! I love cafe au lait.
 The milk enhances it and makes it very tasty!"
@@ -251,7 +251,7 @@ It was delicious! I'll try to make it!"
 同時にルーを準備って、あれ、どこだろう！？","Well, then you put the stir-fried ingredients into the pot.
 Preparing the roux at the same time... Oh, where is that!"
 "workchr_0301_B_01_00_026(0)","Ｐ","（予定の時間を大幅に過ぎても、未来は
-シチューを完成させることが出来なかった）","(Even if it is well past the scheduled time, the future is
+シチューを完成させることが出来なかった）","(Even if it is well past the scheduled time, Mirai is
 (I couldn't finish the stew.)"
 "workchr_0301_B_01_00_027(0)","Ｐ","（結局、撮影は仕切り直しになり、
 番組の放送も延期になってしまった）","(Eventually, the shooting had to be rescheduled,
@@ -301,7 +301,7 @@ I think I want to take the most care of them!"
 輝いて見えるのは、その思いがあるからなんだね","I see. ....... Mirai-san is live.
 You look radiant because you have the desire to do so."
 "workchr_0301_C_01_00_015(0)","Ｐ","（未来のライブに対する、真っ直ぐな思いを
-記事にした雑誌は無事発売された！）","(Straightforward thoughts on the future live
+記事にした雑誌は無事発売された！）","(Straightforward thoughts on Mirai live
 (The magazine I wrote about was successfully released!)"
 "workchr_0301_C_01_00_016(0)","Ｐ","（雑誌はなんと増刷するほどの人気になった！）","(The magazine became so popular that they had to print more!)"
 "workchr_0301_C_01_00_017(0)","Ｐ","レッスンの大変さも、大事じゃないか？","Isn't the difficulty of the lesson important, too?"
@@ -310,7 +310,7 @@ You look radiant because you have the desire to do so."
 Okay, I'll talk about it so that it doesn't get too dark!"
 "workchr_0301_C_01_00_019(0)","記者","プロジェクトルミナスについて、
 未来さんから伝えたいことはある？","About Project Luminous,
-Is there anything you would like to tell us from the future?"
+Is there anything you would like to tell us Mirai?"
 "workchr_0301_C_01_00_020(0)","未来","はい、毎日レッスン頑張ってます！　大変だけど、
 みんなで頑張って、トップアイドルになります！","Yes, I'm working hard at my lessons every day, even though it's hard work,
 We will all work hard and become top idols!"
@@ -430,7 +430,7 @@ You can have as many as you want."
 I'll just watch today!"
 "Idolchr_0301_B_20_02_018(0)","Ｐ","（そう言って、楽しそうに髪飾りを見ている未来。
 また連れてきてあげよう）","(Saying so, the future happily looks at the hair ornament.
-(I'll bring him back again.)"
+(I'll bring her back again.)"
 "Idolchr_0301_B_20_03_001(0)","Ｐ","（喫茶店で、未来が中心となるミニライブについて
 未来と打ち合わせ中だが‥…）","(About the mini live performance at the coffee shop, where the future will be the center of the event.
 I'm in a meeting with the future.)"
@@ -475,14 +475,14 @@ Let's cherish that feeling."
 すっごく楽しみだな～！","I am going to visit with Kohaku-san on my next vacation!
 I'm really looking forward to it!"
 "Idolchr_0301_B_20_04_003(0)","Ｐ","心白と行くのか。
-未来と心白はどんなことをするんだ？","You're going with heart white.
-What will the future and mind white do?"
+未来と心白はどんなことをするんだ？","You're going with Kohaku.
+What will the future and Kohaku do?"
 "Idolchr_0301_B_20_04_004(0)","未来","色々ですよ！　プールにも行きました♪
 あっ、どこかおすすめの場所ってありますか？","We went to the pool....
 Oh, is there anywhere you would recommend?"
 "Idolchr_0301_B_20_04_005(0)","Ｐ","えっ、俺の？
-そうだな、未来と心白が遊ぶなら……","What, me?
-Yes, if the future and heart white play: ......"
+そうだな、未来と心白が遊ぶなら……","Eh, mine?
+That's right, if Mirai and Kohaku can play together..."
 "Idolchr_0301_B_20_04_006(0)","選択肢","スイーツバイキング","sweet buffet"
 "Idolchr_0301_B_20_04_007(0)","選択肢","ショッピングモール","shopping mall"
 "Idolchr_0301_B_20_04_008(0)","選択肢","温泉","hot spring"
@@ -569,15 +569,15 @@ I'll get you a drink, just give me a minute."
 "Idolchr_0301_B_20_06_005(0)","選択肢","牛乳","(cow's) milk"
 "Idolchr_0301_B_20_06_006(0)","選択肢","お茶","tea ceremony"
 "Idolchr_0301_B_20_06_007(0)","選択肢","コーヒー","coffee"
-"Idolchr_0301_B_20_06_008(0)","Ｐ","未来、牛乳で良かったか？","Future, are you happy with the milk?"
+"Idolchr_0301_B_20_06_008(0)","Ｐ","未来、牛乳で良かったか？","Mirai, are you happy with the milk?"
 "Idolchr_0301_B_20_06_009(0)","未来","でへへ、牛乳大好きです！
 ありがとうございます～♪","Dehehe, I love milk!
 Thank you~♪"
 "Idolchr_0301_B_20_06_010(0)","Ｐ","（よし！　すごく喜んでくれているな……！）","(Okay! You're making me very happy. ......!)"
-"Idolchr_0301_B_20_06_011(0)","Ｐ","未来、お茶を買ってきたぞ","Future, I got you some tea."
+"Idolchr_0301_B_20_06_011(0)","Ｐ","未来、お茶を買ってきたぞ","Mirai, I got you some tea."
 "Idolchr_0301_B_20_06_012(0)","未来","ありがとうございます、プロデューサーさん♪","Thank you, producer. ♪"
 "Idolchr_0301_B_20_06_013(0)","Ｐ","（ふう。どうやら喜んでくれたみたいだ）","(Wind...apparently he was pleased.)"
-"Idolchr_0301_B_20_06_014(0)","Ｐ","未来、コーヒーで良かったか？","Future, was I right about the coffee?"
+"Idolchr_0301_B_20_06_014(0)","Ｐ","未来、コーヒーで良かったか？","Mirai, was I right about the coffee?"
 "Idolchr_0301_B_20_06_015(0)","未来","わっ、す、すみません……
 私、苦いコーヒーって苦手で……","Wow, sorry. ......
 I'm not a fan of bitter coffee. ......"

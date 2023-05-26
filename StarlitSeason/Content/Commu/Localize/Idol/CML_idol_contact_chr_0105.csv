@@ -1,5 +1,5 @@
 "id","character","source","translatedstr"
-"workchr_0105_A_01_00_001(0)","Ｐ","ええと、遺跡調査のＴＶ番組に雪歩が選ばれた、と","Well, snowflakes were chosen for a TV program on archaeological sites."
+"workchr_0105_A_01_00_001(0)","Ｐ","ええと、遺跡調査のＴＶ番組に雪歩が選ばれた、と","Well, Yukihos were chosen for a TV program on archaeological sites."
 "workchr_0105_A_01_00_002(0)","雪歩","遺跡調査、ですか？
 あの、どうして私なんでしょうか？","Archaeological site survey, is it?
 Um, why me?"
@@ -46,7 +46,7 @@ Producers, something is coming up!"
 そうでないような。とにかく調査員に見せてみよう！","Ho, really! ...... Somewhat like a tea bowl.
 Let's show it to the surveyor anyway!"
 "workchr_0105_A_01_00_021(0)","Ｐ","（その後、雪歩が掘り当てた物が非常に歴史的価値が
-あるものだったことが判明し、大騒ぎに……）","(Later, the snowflake digs up something of great historical value.
+あるものだったことが判明し、大騒ぎに……）","(Later, the Yukiho digs up something of great historical value.
 (It turned out to be something that was, and all hell broke loose. ......)"
 "workchr_0105_A_01_00_022(0)","Ｐ","（番組も高視聴率を獲得し、大盛況に終わった）","(The program also received high ratings and was a huge success.)"
 "workchr_0105_A_01_00_023(0)","Ｐ","よし、北のポイントを掘ってみようか","Okay, let's dig out the north point."
@@ -60,7 +60,7 @@ Yes, yes, dogs are all over ......!"
 俺たちは大量の犬に追いかけられた）","(A large number of bones were buried by stray dogs,
 (We were chased by a bunch of dogs.)"
 "workchr_0105_A_01_00_027(0)","Ｐ","（番組的には盛り上がったが、雪歩にはトラウマもの
-だったろうな……）","(It was a great show, but a traumatic experience for the snowflakes.
+だったろうな……）","(It was a great show, but a traumatic experience for the Yukihos.
 (It would have been ......)"
 "workchr_0105_A_01_00_028(0)","Ｐ","ここは、東のポイントかな","I guess this is the point to the east."
 "workchr_0105_A_01_00_029(0)","Ｐ","さて、東のポイントについたけど、
@@ -83,14 +83,14 @@ What does this have to do with anything?"
 わ、私っ、ここで作業するのは無理ですぅぅぅ！","Eh, oh, oh, there are so many men. ......
 Wow, I can't work here!"
 "workchr_0105_A_01_00_036(0)","Ｐ","（結局、終始雪歩が怯えてしまい、その後の撮影は
-中断となり、番組の放送も延期になってしまった）","(In the end, the snowflakes were frightened the whole time, and the rest of the shoot was
+中断となり、番組の放送も延期になってしまった）","(In the end, the Yukihos were frightened the whole time, and the rest of the shoot was
 (The program was suspended and the broadcast of the program was postponed.)"
 "workchr_0105_A_01_00_037(0)","Ｐ","（今回の仕事は成功だ！）","(This job was a success!)"
 "workchr_0105_A_01_00_038(0)","Ｐ","（今回の仕事は失敗だ。次こそは！）","（This job was a mistake...next time!)"
 "workchr_0105_B_01_00_001(0)","雪歩","新発売のお茶の、キャンペーンガールですか？","Are you a campaign girl for a new tea product?"
 "workchr_0105_B_01_00_002(0)","Ｐ","ああ。どうもその会社の社長が、
 雪歩の大ファンらしくてな……。是非、と言われたよ","Yeah, well, the president of the company,
-She's a big fan of snowflakes. ....... She said he'd love to see you."
+She's a big fan of Yukihos. ....... She said he'd love to see you."
 "workchr_0105_B_01_00_003(0)","雪歩","だ、大ファンなんて、照れちゃいますね……。
 私、頑張りますぅ","I'm embarrassed to say that I'm a big fan. ......
 I'll do my best."
@@ -98,7 +98,7 @@ I'll do my best."
 もっと有名にして、売り上げを伸ばしたいそうだ","That tea, it's a new product that's just come out.
 They want to make it more famous and increase sales."
 "workchr_0105_B_01_00_005(0)","Ｐ","それで、お茶に詳しい雪歩なら、
-お茶の知名度を上げる方法が浮かぶんじゃないかって","So, if you're a tea-savvy snowflake,
+お茶の知名度を上げる方法が浮かぶんじゃないかって","So, if you're a tea-savvy Yukiho,
 I was wondering if you could come up with a way to raise the profile of tea."
 "workchr_0105_B_01_00_006(0)","雪歩","お茶にはちょっぴり詳しい自信がありますけど……。
 そういうことは、思いつかないですぅ～","I'm confident I know a little bit about tea, though. ......
@@ -116,11 +116,11 @@ make an appearance"
 試飲販売をする","In the city
 Tasting and selling"
 "workchr_0105_B_01_00_012(0)","選択肢","雪歩の考えた
-グッズをつける","Snowflake's idea.
+グッズをつける","Yukiho's idea.
 add goods (to a good deed)"
 "workchr_0105_B_01_00_013(0)","Ｐ","雪歩が飲む姿を見せるのがいいかな。
-雪歩がお茶を飲む姿を見ると、俺も飲みたくなるし","I'd like to see snowflakes drink.
-And when I see snowflakes drinking tea, I want to drink it too."
+雪歩がお茶を飲む姿を見ると、俺も飲みたくなるし","I'd like to see Yukihos drink.
+And when I see Yukihos drinking tea, I want to drink it too."
 "workchr_0105_B_01_00_014(0)","雪歩","そ、そうですか？　えへへ……。
 私、美味しそうに見えるように頑張りますね！","Oh, really? Ehehe .......
 Me, I'll do my best to make it look delicious!"
@@ -131,14 +131,14 @@ It tastes clean and is easy to drink!"
 よりお茶が美味しそうに見える……！","Isn't it nice! Combined with the expression on Yukiho's face, it's a nice touch,
 It makes the tea look more delicious. ......"
 "workchr_0105_B_01_00_017(0)","Ｐ","（雪歩のお茶を飲む姿が美味しそうだと、
-ＳＮＳで話題になった）","(She said the sight of snowflakes drinking tea looks delicious,
+ＳＮＳで話題になった）","(She said the sight of Yukihos drinking tea looks delicious,
 (It was a hot topic on social networking sites.)"
 "workchr_0105_B_01_00_018(0)","Ｐ","（売り上げが伸びたと、
 メーカーの社長も大喜びだった！）","(She said that sales have increased,
 (The president of the manufacturer was overjoyed!)"
 "workchr_0105_B_01_00_019(0)","Ｐ","キャッチコピーを考えるのはどうだ？
 雪歩はよく詩を書いているし、得意なんじゃないか","How about coming up with a catchphrase?
-Snowflake often writes poetry, and he's good at it."
+Yukiho often writes poetry, and he's good at it."
 "workchr_0105_B_01_00_020(0)","雪歩","え、えっと、詩を書くのは好きですけど、
 キャッチコピーなんて、私に書けるのかな……","Well, um, I like to write poetry,
 I don't know if I can write a catchphrase. ......"
@@ -146,16 +146,16 @@ I don't know if I can write a catchphrase. ......"
 『香り高く、透き通る味わいはまるで初雪のよう』","It's done, producer!
 The aroma is fragrant and the clear taste is like that of the first snow."
 "workchr_0105_B_01_00_022(0)","Ｐ","おおっ！　雪歩らしくて、いいんじゃないか？
-よし、それでいこう！","Oh! Isn't that just like a snowflake?
+よし、それでいこう！","Oh! Isn't that just like a Yukiho?
 Okay, let's go with that!"
 "workchr_0105_B_01_00_023(0)","Ｐ","（雪歩がキャッチコピーを考えたということで、
-お茶はそこそこ話題になった）","(I'm just saying that snowflake came up with the catchphrase,
+お茶はそこそこ話題になった）","(I'm just saying that Yukiho came up with the catchphrase,
 (Tea was the talk of the town there.)"
 "workchr_0105_B_01_00_024(0)","Ｐ","（売り上げも上昇しつつあると、
 メーカーの社長も喜んでくれた）","(Sales are also on the rise, he said,
 (The manufacturer's president was also pleased.)"
 "workchr_0105_B_01_00_025(0)","Ｐ","雪歩が試飲販売するのはどうだろう？
-街中となると、緊張するとは思うけど……","How about a snowflake tasting and selling?
+街中となると、緊張するとは思うけど……","How about a Yukiho tasting and selling?
 I know it's nerve-wracking when it's in the city, but ......"
 "workchr_0105_B_01_00_026(0)","雪歩","試飲販売ですか？　やったことがないので、
 緊張しますけど、頑張りますぅ","Tasting and selling? I've never done it before,
@@ -164,14 +164,14 @@ I'm nervous, but I'll do my best."
 ……こんな感じでしょうか？","Well, well, well, everyone, it's a delicious tea!
 ...... like this?"
 "workchr_0105_B_01_00_028(0)","Ｐ","（雪歩が試飲販売をしたことで、
-知名度はそれなりに上がったようだ）","(Snowflake did the tasting and selling,
+知名度はそれなりに上がったようだ）","(Yukiho did the tasting and selling,
 (It seems to have gained a fair amount of notoriety.)"
 "workchr_0105_B_01_00_029(0)","Ｐ","（しかし、売り上げが伸びるほどの影響は
 出せず……メーカーの社長も残念そうだった）","(But the impact is not enough to increase sales.
 (The president of the ...... manufacturer seemed disappointed that he couldn't get it out.)"
 "workchr_0105_B_01_00_030(0)","Ｐ","グッズをつけるのが良いと思うぞ！
 雪歩のグッズなら、みんな欲しがるよ","I think you'd better put some goodies on it!
-If it's snowflake merchandise, people will want it."
+If it's Yukiho merchandise, people will want it."
 "workchr_0105_B_01_00_031(0)","雪歩","そ、そうですかね……？
 うーん、どんなグッズがいいかな……？","Well, is that right ......?
 Hmmm, what kind of goodies would you like ......?"
@@ -179,7 +179,7 @@ Hmmm, what kind of goodies would you like ......?"
 こんな感じの、漆塗りのがいいかなって思いますぅ","How about a saucer, producer?
 I think I'd like a lacquered one like this."
 "workchr_0105_B_01_00_033(0)","Ｐ","（雪歩が考えたグッズは、
-コストがかかるということで断られてしまった……）","(Snowflake's idea of goods is,
+コストがかかるということで断られてしまった……）","(Yukiho's idea of goods is,
 (I was turned down because of the cost: ......)"
 "workchr_0105_B_01_00_034(0)","Ｐ","（結局、売り上げを伸ばすことができず……
 メーカーの社長も残念そうだった）","(In the end, we were unable to increase sales. ......
@@ -188,10 +188,10 @@ I think I'd like a lacquered one like this."
 "workchr_0105_B_01_00_036(0)","Ｐ","（今回の仕事は失敗だ。次こそは！）","（This job was a mistake...next time!)"
 "workchr_0105_C_01_00_001(0)","Ｐ","（アイドル大好きな芸能人が司会をしている
 ラジオに、雪歩が出演することになった……）","(Idol-loving entertainers are hosting the event.
-(On the radio, Snowflake will be appearing at ......)"
+(On the radio, Yukiho will be appearing at ......)"
 "workchr_0105_C_01_00_002(0)","雪歩","うう、プロデューサ～～！","Ugh, the producer~~!"
 "workchr_0105_C_01_00_003(0)","Ｐ","どうしたんだ雪歩、緊張しているみたいだけど、
-なにかあったのか？　司会の人は女性だろう？","What's wrong snowflake, you seem nervous,
+なにかあったのか？　司会の人は女性だろう？","What's wrong Yukiho, you seem nervous,
 What's wrong? The moderator is a woman, right?"
 "workchr_0105_C_01_00_004(0)","雪歩","そうなんですけど、そこじゃなくて～！
 質問コーナーで、どう答えていいか分からなくて","Yes, but not there~!
@@ -255,13 +255,13 @@ I'm sure you'll be pleased."
 うーん、どんなことを宣伝すればいいんでしょう","Are you promoting a program?
 Hmmm, what should we advertise?"
 "workchr_0105_C_01_00_028(0)","ラジオ司会","雪歩さんに質問のコーナー！　雪歩さん、
-ズバリ、アイドルしてるって思うのはどんな時？","Question Corner for Snowflake! Snowflake,
+ズバリ、アイドルしてるって思うのはどんな時？","Question Corner for Yukiho! Yukiho,
 Zubari, when do you feel like an idol?"
 "workchr_0105_C_01_00_029(0)","雪歩","えっとえっと、この番組は毎週木曜日の、
 この時間から放送してますぅ","Let's see, this program is every Thursday,
 It's on the air at this hour."
 "workchr_0105_C_01_00_030(0)","ラジオ司会","え、えーっと、雪歩さん。宣伝してくれるのは
-ありがたいんだけど、アイドルのお話を聞きたいな","Well, let's see, snowflake, you're the one who's going to promote it.
+ありがたいんだけど、アイドルのお話を聞きたいな","Well, let's see, Yukiho, you're the one who's going to promote it.
 Thanks, but I'd like to hear about your idol."
 "workchr_0105_C_01_00_031(0)","Ｐ","（あんまりウケていないな……。
 司会の人も困っているようだ）","(Not very popular. .......
@@ -276,14 +276,14 @@ It's a basic requirement for idols to properly identify themselves, isn't it?"
 うーん、自己紹介は違う気がしますけど……","Is that so?
 Hmmm, I don't think I'd introduce myself that way: ......"
 "workchr_0105_C_01_00_035(0)","ラジオ司会","次で最後の質問です！　雪歩さんが
-アイドルしてるな～って思うのはどんな時？","Next and last question! The snowflake...
+アイドルしてるな～って思うのはどんな時？","Next and last question! The Yukiho...
 When do you feel like an idol?"
 "workchr_0105_C_01_00_036(0)","雪歩","ええっと、自己紹介してるときですぅ。
 私、萩原雪歩って言うんですけど……","Let's see, that's when I introduce myself.
 My name is Yukiho Hagiwara. ......"
 "workchr_0105_C_01_00_037(0)","ラジオ司会","いやいやいや、知ってるって！
 もー、雪歩さんどうしちゃったの？","No, no, no, no, no, I know!
-Mooo, what's wrong with you, snowflake?"
+Mooo, what's wrong with you, Yukiho?"
 "workchr_0105_C_01_00_038(0)","Ｐ","（しまった、滑ってしまったみたいだ。
 司会の人が呆れてしまった……）","(Oh shoot, I think I slipped.
 (The moderator was taken aback: ......)"
@@ -292,8 +292,8 @@ Mooo, what's wrong with you, snowflake?"
 (It wasn't exciting at all. ......)"
 "workchr_0105_C_01_00_040(0)","Ｐ","（今回の仕事は成功だ！）","(This job was a success!)"
 "workchr_0105_C_01_00_041(0)","Ｐ","（今回の仕事は失敗だ。次こそは！）","（This job was a mistake...next time!)"
-"Idolchr_0105_B_20_01_001(0)","Ｐ","（休憩中の雪歩に声をかけてみよう……）","(Let's talk to the snowflakes on their break: ......)"
-"Idolchr_0105_B_20_01_002(0)","Ｐ","雪歩、最近の調子はどうだ？","Snowflake, how are you doing these days?"
+"Idolchr_0105_B_20_01_001(0)","Ｐ","（休憩中の雪歩に声をかけてみよう……）","(Let's talk to the Yukihos on their break: ......)"
+"Idolchr_0105_B_20_01_002(0)","Ｐ","雪歩、最近の調子はどうだ？","Yukiho, how are you doing these days?"
 "Idolchr_0105_B_20_01_003(0)","雪歩","プロデューサー。あの、実は私、
 最近気になる人がいて……","Producer: Um, actually, I..,
 Someone I've been interested in recently: ......"
@@ -301,48 +301,48 @@ Someone I've been interested in recently: ......"
 そ、それって誰なんだ？","Oh, who cares?
 Well, who is that?"
 "Idolchr_0105_B_20_01_005(0)","雪歩","凛世ちゃんなんですけど、
-もっとお話ししたいなって思ってるんですぅ","I'm Rinyo,
+もっとお話ししたいなって思ってるんですぅ","I'm Rinze,
 I'd love to talk to you more."
 "Idolchr_0105_B_20_01_006(0)","Ｐ","気になる人って……凛世のことだったのか。
-凛世の気になるところといえば……","Was the person you were wondering about ...... Rinsei?
-Speaking of Rinyo's concern: ......"
+凛世の気になるところといえば……","Was the person you were wondering about ...... Rinze?
+Speaking of Rinze's concern: ......"
 "Idolchr_0105_B_20_01_007(0)","選択肢","茶道","tea ceremony"
 "Idolchr_0105_B_20_01_008(0)","選択肢","少女漫画好き","Shoujo manga lovers"
 "Idolchr_0105_B_20_01_009(0)","選択肢","和服","Japanese clothes"
-"Idolchr_0105_B_20_01_010(0)","Ｐ","凛世の趣味が茶道ってところか？","Is this where Rinyo's hobby is tea ceremony?"
+"Idolchr_0105_B_20_01_010(0)","Ｐ","凛世の趣味が茶道ってところか？","Is this where Rinze's hobby is tea ceremony?"
 "Idolchr_0105_B_20_01_011(0)","雪歩","はい！　凛世ちゃんといろいろなお茶の話を
-してみたいな、って思っています～♪","Yes! Rinyo and I talked about various kinds of tea.
+してみたいな、って思っています～♪","Yes! Rinze and I talked about various kinds of tea.
 I'd like to do that!"
 "Idolchr_0105_B_20_01_012(0)","Ｐ","少女漫画が好きってところか？","The part about liking shoujo manga?"
 "Idolchr_0105_B_20_01_013(0)","雪歩","はい。凛世ちゃんのおすすめの少女漫画とか
-教えてもらいたいです～","Yes, Rinyo-chan recommends shoujo manga or something like that.
+教えてもらいたいです～","Yes, Rinze-chan recommends shoujo manga or something like that.
 I'd love to know!"
 "Idolchr_0105_B_20_01_014(0)","Ｐ","和服を着ているところか？","Is this the part where they wear kimonos?"
 "Idolchr_0105_B_20_01_015(0)","雪歩","そうですね。凛世ちゃんって和服姿が
-とっても似合ってますよね","Yes, Rinyo looks great in kimonos.
+とっても似合ってますよね","Yes, Rinze looks great in kimonos.
 It suits you very well."
 "Idolchr_0105_B_20_01_016(0)","Ｐ","それじゃあ、今度凛世と
-一緒にお茶をしたらどうだ？","I'll see you next time with Rinyo.
+一緒にお茶をしたらどうだ？","I'll see you next time with Rinze.
 Why don't you come and have tea with us?"
 "Idolchr_0105_B_20_01_017(0)","雪歩","分かりました～。
 少し緊張しますけど、頑張ってお話ししてみますね","I understand~.
 I'm a little nervous, but I'll do my best to talk to you."
 "Idolchr_0105_B_20_02_001(0)","Ｐ","（次の仕事まで時間が空いたので、
 雪歩がいるという公園に来た）","(I had some free time until my next job,
-(I came to a park where they say there is a snowflake.)"
+(I came to a park where they say there is a Yukiho.)"
 "Idolchr_0105_B_20_02_002(0)","","ダッダッダッ……！","Dadda dadda dadda. ......"
 "Idolchr_0105_B_20_02_003(0)","雪歩","ひぅっ！？　い、犬が追いかけて……。
-だ、誰か～！　助けてください～っ！","Hee hee hee!!!? No, the dog chased him. ......
+だ、誰か～！　助けてください～っ！","Hee hee hee!!!? No, the dog chased her. ......
 Please help me!"
 "Idolchr_0105_B_20_02_004(0)","Ｐ","ゆ、雪歩！？
-待ってろ、すぐに助ける！","Yui, snowflake!
+待ってろ、すぐに助ける！","Yui, Yukiho!
 Hold on, I'll help you soon!"
-"Idolchr_0105_B_20_02_005(0)","Ｐ","大丈夫か、雪歩？","Are you okay, snowflake?"
+"Idolchr_0105_B_20_02_005(0)","Ｐ","大丈夫か、雪歩？","Are you okay, Yukiho?"
 "Idolchr_0105_B_20_02_006(0)","雪歩","は、はい……ありがとうございます～。
 プロデューサーは命の恩人ですぅ","Ha, yes ...... thank you~!
 The producer saved my life."
 "Idolchr_0105_B_20_02_007(0)","Ｐ","雪歩が無事でよかったよ。それにしても、
-どうして犬に追いかけられていたんだ？","I'm just glad the snowflake is ok...and for that matter, I'm glad she's ok,
+どうして犬に追いかけられていたんだ？","I'm just glad the Yukiho is ok...and for that matter, I'm glad she's ok,
 Why was he being chased by a dog?"
 "Idolchr_0105_B_20_02_008(0)","雪歩","パンを食べようとしたら、犬が集まって来ちゃって。
 ど、どうしたら犬が平気になるんでしょうか……","When I tried to eat the bread, the dogs gathered around.
@@ -353,7 +353,7 @@ How can I get my dog to be okay with this? ......"
 "Idolchr_0105_B_20_02_012(0)","選択肢","犬の鳴き声ＣＤ","Dog Barking CD"
 "Idolchr_0105_B_20_02_013(0)","Ｐ","ぬいぐるみから始めるのはどうだ？
 抱っこをしたり撫でても、吠えないからな","How about starting with a stuffed animal?
-I'll give him a cuddle or pet him and he won't bark."
+I'll give her a cuddle or pet her and he won't bark."
 "Idolchr_0105_B_20_02_014(0)","雪歩","あ、それなら大丈夫そうです……。
 わ、分かりました。さっそく試してみますね","Oh, that looks fine. ......
 Wow, okay, I'll give it a try right away."
@@ -387,9 +387,9 @@ That's an interesting range of topics."
 I'm so jealous!"
 "Idolchr_0105_B_20_03_005(0)","Ｐ","おしゃべりが得意じゃなくても、
 雪歩らしさを発信すればいいんだよ","Even if you're not a great talker,
-You just have to send out your snowflake-ness."
+You just have to send out your Yukiho-ness."
 "Idolchr_0105_B_20_03_006(0)","Ｐ","もし、雪歩がラジオ番組で、
-コーナーを持つとしたら……","If the snowflake is on a radio show,
+コーナーを持つとしたら……","If the Yukiho is on a radio show,
 If you have a corner: ......"
 "Idolchr_0105_B_20_03_007(0)","選択肢","詩を作る","compose a poem"
 "Idolchr_0105_B_20_03_008(0)","選択肢","お茶を淹れる","brew a cup of tea"
@@ -400,25 +400,25 @@ If you have a corner: ......"
 どんなお題が出るのか、ドキドキしちゃいますね♪","Wow! Looks like a lot of fun!
 I'm so excited to see what kind of subject you'll come up with..."
 "Idolchr_0105_B_20_03_012(0)","Ｐ","雪歩はお茶が好きだから、
-お茶を淹れるコーナーがピッタリじゃないか？","Snowflake likes tea,
+お茶を淹れるコーナーがピッタリじゃないか？","Yukiho likes tea,
 Wouldn't a corner for brewing tea be perfect?"
 "Idolchr_0105_B_20_03_013(0)","雪歩","ら、ラジオだから、淹れているところは見せられ
 ませんが……が、頑張ってお茶の魅力を伝えますね！","I can't show you what I'm brewing because it's on the radio.
 I am not, but ...... will do my best to convey the charm of tea!"
 "Idolchr_0105_B_20_03_014(0)","Ｐ","穴掘り特集を組んだら、
 雪歩のファンが喜ぶこと間違いなしだぞ！","If you put together a hole digging feature,
-Snowflake's fans are going to love it!"
+Yukiho's fans are going to love it!"
 "Idolchr_0105_B_20_03_015(0)","雪歩","な、なんだか地味な気がしますが……。ファンの
 みんなが喜んでくれるなら、頑張りますぅ～！","Hey, I know it seems kind of plain, but I'm a fan of .......
 If it makes everyone happy, I'll do my best!"
 "Idolchr_0105_B_20_03_016(0)","Ｐ","でも、雪歩のトークが好きってファンも多いと思う。
-今度、挑戦してみようか","But I think there are a lot of fans who like the snowflake talk.
+今度、挑戦してみようか","But I think there are a lot of fans who like the Yukiho talk.
 I'll give it a try sometime."
 "Idolchr_0105_B_20_03_017(0)","雪歩","わ、分かりましたぁ。か、考えるだけでも、
 緊張しますけど……。何事も挑戦、ですよねっ！","I understand...or just think about it,
 I'm nervous, but ....... Everything is a challenge, right?"
 "Idolchr_0105_B_20_04_001(0)","Ｐ","（雪歩の仕事が終わり、事務所に戻る前に、
-カフェで休憩することになった）","(Before returning to the office after the snowflake's work is done,
+カフェで休憩することになった）","(Before returning to the office after the Yukiho's work is done,
 (We're going to take a break at a cafe.)"
 "Idolchr_0105_B_20_04_002(0)","Ｐ","ふぅ……。こういう店のお茶って、
 やっぱり海外とサイズが違うな","Phew. ....... Tea at a place like this,
@@ -441,7 +441,7 @@ I wonder if living abroad will make them bigger!"
 "Idolchr_0105_B_20_04_010(0)","選択肢","横に大きくなるかも","Might get bigger sideways."
 "Idolchr_0105_B_20_04_011(0)","Ｐ","無理に大きくなろうとしなくても、
 雪歩は今のままでいいよ","You don't have to try to force yourself to be big,
-Snowflake is fine the way it is."
+Yukiho is fine the way it is."
 "Idolchr_0105_B_20_04_012(0)","雪歩","あ、ありがとうございますぅ。プロデューサーが
 そう言ってくれるなら、このままでもいいかも……","Oh, thank you very much, my producer.
 If you say so, maybe we can keep it that way: ......"
@@ -458,8 +458,8 @@ You know, it could be bigger sideways, right?"
 うう……やっぱり、そう簡単にはいきませんよね……","Hah! Well, that's a little .......
 Ugh......It's not so easy after all......"
 "Idolchr_0105_B_20_04_017(0)","Ｐ","憧れを持つのはいいけど、雪歩は十分魅力的だ。
-雪歩にしかない魅力を大切にしていこうな","It's nice to have admiration, but snowflakes are attractive enough.
-Let's cherish the charm that only snowflakes have."
+雪歩にしかない魅力を大切にしていこうな","It's nice to have admiration, but Yukihos are attractive enough.
+Let's cherish the charm that only Yukihos have."
 "Idolchr_0105_B_20_04_018(0)","雪歩","は、はい。ありがとうございますぅ","Yes, thank you very much."
 "Idolchr_0105_B_20_05_001(0)","Ｐ","（雪歩がテレビの『和風カフェ』特集を見ながら、
 熱心にメモを取っている）","(Yukiho watching a TV special on ""Japanese-style cafes,
@@ -503,35 +503,35 @@ Well, I can't ...... believe that every day. ......"
 毎日おちゅ……お茶をお淹れしますぅ～！","Sincerely, to the producer.
 I will brew Ochu...... tea every day!"
 "Idolchr_0105_B_20_06_001(0)","Ｐ","（雪歩の仕事が終わった後、
-気分転換を兼ねて公園に散歩に来た）","(After the snowflake's work is done,
+気分転換を兼ねて公園に散歩に来た）","(After the Yukiho's work is done,
 (I came for a walk in the park for a change of pace.)"
 "Idolchr_0105_B_20_06_002(0)","雪歩","ふぅ……結構歩きましたね。
 でも、すごく気分がリフレッシュされましたぁ","Whew ...... that was quite a walk.
 But I feel so refreshed!"
 "Idolchr_0105_B_20_06_003(0)","Ｐ","雪歩、疲れたんじゃないか？
-飲み物でも買ってくるから、待っていてくれ","Snowflake, you must be tired.
+飲み物でも買ってくるから、待っていてくれ","Yukiho, you must be tired.
 I'll get you a drink or something, just wait for me."
 "Idolchr_0105_B_20_06_004(0)","Ｐ","（ええと、何にしようかな……）","(Uh, what shall we call it: ......)"
 "Idolchr_0105_B_20_06_005(0)","選択肢","お茶","tea ceremony"
 "Idolchr_0105_B_20_06_006(0)","選択肢","水","water (esp. cool, fresh water, e.g. drinking water)"
 "Idolchr_0105_B_20_06_007(0)","選択肢","炭酸","carbonated water"
-"Idolchr_0105_B_20_06_008(0)","Ｐ","雪歩、飲み物を買ってきたぞ","Snowflake, I got you a drink."
+"Idolchr_0105_B_20_06_008(0)","Ｐ","雪歩、飲み物を買ってきたぞ","Yukiho, I got you a drink."
 "Idolchr_0105_B_20_06_009(0)","雪歩","プロデューサー、ありがとうございます～♪
 このお茶、好きなんです！","Thank you, producer~♪
 I like this tea!"
 "Idolchr_0105_B_20_06_010(0)","Ｐ","（よし！　すごく喜んでくれているな……！）","(Okay! You're making me very happy. ......!)"
-"Idolchr_0105_B_20_06_011(0)","Ｐ","雪歩、飲み物を買ってきたぞ","Snowflake, I got you a drink."
+"Idolchr_0105_B_20_06_011(0)","Ｐ","雪歩、飲み物を買ってきたぞ","Yukiho, I got you a drink."
 "Idolchr_0105_B_20_06_012(0)","雪歩","ありがとうございます、プロデューサー。
 くたびれた時は、普通のお水がおいしいですね","
 When I'm tired, plain water tastes good."
 "Idolchr_0105_B_20_06_013(0)","Ｐ","（ふう、どうやら喜んでくれたみたいだ）","(Phew, apparently he's pleased.)"
-"Idolchr_0105_B_20_06_014(0)","Ｐ","雪歩、飲み物を買ってきたぞ","Snowflake, I got you a drink."
+"Idolchr_0105_B_20_06_014(0)","Ｐ","雪歩、飲み物を買ってきたぞ","Yukiho, I got you a drink."
 "Idolchr_0105_B_20_06_015(0)","雪歩","あ、ありがとうございます……
 でも今は炭酸、飲めない気分かも……","Oh, thank you ......
 But now, soda, maybe I'm not in the mood for it: ......"
 "Idolchr_0105_B_20_06_016(0)","Ｐ","（うーん、あまり喜んでくれなかったみたいだ……）","(Hmmm, I don't think he was too happy about it. ......)"
 "Idolchr_0105_B_20_07_001(0)","Ｐ","雪歩、次の仕事まで時間があるから、
-ゲームセンターで時間を潰そうか","Snowflake, I have time until my next job,
+ゲームセンターで時間を潰そうか","Yukiho, I have time until my next job,
 Let's kill some time at the arcade."
 "Idolchr_0105_B_20_07_002(0)","Ｐ","何か気になるゲームはあるか？","Any games you're interested in?"
 "Idolchr_0105_B_20_07_003(0)","雪歩","え、えっと……いろんなゲームがたくさんあって、
@@ -547,7 +547,7 @@ I don't know which one you can do. ......"
 I'm not sure, but I'll try ...... and see what I can do!"
 "Idolchr_0105_B_20_07_010(0)","Ｐ","（予想よりも難しくて、二人ともスコアがボロボロ
 だったが、雪歩はかなり楽しんでくれたようだ）","(It was harder than expected, and both of us got our scores in shambles.
-(but the snowflakes seemed to enjoy it quite a bit)."
+(but the Yukihos seemed to enjoy it quite a bit)."
 "Idolchr_0105_B_20_07_011(0)","Ｐ","クレーンゲームをやってみないか？
 お菓子とかぬいぐるみとか、いろんな種類があるぞ","Would you like to try the crane game?
 There's candy, stuffed animals, all kinds of stuffed animals."
@@ -555,7 +555,7 @@ There's candy, stuffed animals, all kinds of stuffed animals."
 できるかも……。やってみますねっ！","Wow, this looks so interesting!
 Maybe I can do it. ....... I'll give it a try!"
 "Idolchr_0105_B_20_07_013(0)","Ｐ","（雪歩は終始楽しそうに、クレーンゲームを
-プレイしていた。どうやら気に入ったみたいだな）","(Snowflake looks happy from beginning to end and plays the crane game.
+プレイしていた。どうやら気に入ったみたいだな）","(Yukiho looks happy from beginning to end and plays the crane game.
 (They played it; apparently they liked it.)"
 "Idolchr_0105_B_20_07_014(0)","Ｐ","シューティングゲームをやってみないか？
 ほら、協力プレイもできるみたいだぞ","Would you like to play a shooting game?
@@ -564,19 +564,19 @@ See, it looks like you can play co-op."
 ううっ、こ、怖いけど、……やっぱり怖いですぅ！","This is the one where you beat the zombies, right?
 Ugh, I'm scared, but I'm still scared of ......!"
 "Idolchr_0105_B_20_07_016(0)","Ｐ","（雪歩はゾンビに怯えてしまい、
-あまり楽しめなかったようだ……）","(The snowflakes were frightened by the zombies,
+あまり楽しめなかったようだ……）","(The Yukihos were frightened by the zombies,
 (She didn't seem to enjoy it much: ......)"
 "Idolchr_0105_B_20_08_001(0)","Ｐ","なあ、雪歩。最近ルミナスの中で、
-モノマネが流行っているって聞いたぞ","Hey, snowflake, recently in Luminous,
+モノマネが流行っているって聞いたぞ","Hey, Yukiho, recently in Luminous,
 I hear the moniker is all the rage."
-"Idolchr_0105_B_20_08_002(0)","Ｐ","雪歩が得意なモノマネはあるのか？","Are there any monikers that snowflakes are good at?"
+"Idolchr_0105_B_20_08_002(0)","Ｐ","雪歩が得意なモノマネはあるのか？","Are there any monikers that Yukihos are good at?"
 "Idolchr_0105_B_20_08_003(0)","雪歩","は、はい……実はこっそり家で練習してて。
 チャレンジするので、当ててみてください～！","Ha, yes ...... I've actually been practicing at home secretly.
 I'll give you a challenge, so guess what~!"
 "Idolchr_0105_B_20_08_004(0)","雪歩","『私は人をときめかせる存在でありたい。
 アイドルとして、全力を尽くすことを誓おう！』","I want to be an inspiration to others.
 As idols, let's pledge to give it our all!"""
-"Idolchr_0105_B_20_08_005(0)","Ｐ","わかったぞ！　雪歩がモノマネをしたのは……","All right, I got it! The snowflake did the moniker: ......"
+"Idolchr_0105_B_20_08_005(0)","Ｐ","わかったぞ！　雪歩がモノマネをしたのは……","All right, I got it! The Yukiho did the moniker: ......"
 "Idolchr_0105_B_20_08_006(0)","選択肢","咲耶","Sakuya"
 "Idolchr_0105_B_20_08_007(0)","選択肢","凛世","Rinze"
 "Idolchr_0105_B_20_08_008(0)","選択肢","きらり","Kirari"
@@ -585,7 +585,7 @@ As idols, let's pledge to give it our all!"""
 今度みんなの前で、披露してみますねっ！","Hehe, were they that similar~?
 I'll try to show it off in front of everyone next time!"
 "Idolchr_0105_B_20_08_011(0)","Ｐ","（よし、無事に当てられたぞ！）","(Okay, you guessed right!)"
-"Idolchr_0105_B_20_08_012(0)","Ｐ","多分……凛世だ！","Maybe it's ...... Rinsei!"
+"Idolchr_0105_B_20_08_012(0)","Ｐ","多分……凛世だ！","Maybe it's ...... Rinze!"
 "Idolchr_0105_B_20_08_013(0)","雪歩","違いますぅ～！
 ま、真ちゃんは当ててくれたのに……うう……","No, sir!
 Well, you guessed it, true. ...... ugh ......"
@@ -596,13 +596,13 @@ Well, you guessed it, true. ...... ugh ......"
 Wow, am I that bad at mimicking ......"
 "Idolchr_0105_B_20_08_017(0)","Ｐ","（しまった！
 自信を無くさせてしまったようだ……）","(It's gone!
-(I think I made him lose confidence: ......)"
+(I think I made her lose confidence: ......)"
 "Idolchr_0105_C_30_01_001(0)","Ｐ","（雪歩の仕事終わり、
-気分転換を兼ねて出かけることにした……）","(Snowflake's work is done,
+気分転換を兼ねて出かけることにした……）","(Yukiho's work is done,
 I decided to go out for a change (......)"
 "Idolchr_0105_C_30_01_002(0)","Ｐ","（もうこんな時間か……。
 雪歩も楽しんでくれたようだな）","(Is it that time already? .......
-(I see you enjoyed the snowflakes, too.)"
+(I see you enjoyed the Yukihos, too.)"
 "Idolchr_0105_C_30_01_003(0)","雪歩","今日はありがとうございました！
 プロデューサーと一緒にいられて、楽しかったですぅ","Thank you for your time today!
 It was a pleasure to be with the producer."
@@ -610,7 +610,7 @@ It was a pleasure to be with the producer."
 今日はありがとうございます。プロデューサー","I was a little tired, but it was fun.
 Thank you for your time today, Producer."
 "runintochr_0105_A_01_00_001(0)","Ｐ","お？　あそこにいるのは雪歩か？
-おーい","Oh? Is that a snowflake over there?
+おーい","Oh? Is that a Yukiho over there?
 hello"
 "runintochr_0105_A_01_00_002(0)","雪歩","あ、プロデューサー。
 おはようございます","Oh, producer.
@@ -630,13 +630,13 @@ Fun is the best, I'm counting on you."
 おはようございます","Oh, producer.
 good morning"
 "runintochr_0105_B_02_00_002(0)","Ｐ","おお、雪歩か。
-おはよう、今日の調子はどうだ？","Oh, snowflakes.
+おはよう、今日の調子はどうだ？","Oh, Yukihos.
 Good morning, how are you today?"
 "runintochr_0105_B_02_00_003(0)","雪歩","今朝のお茶、茶柱が立ってたんです！
 だから、今日はいいことがありそうかなって","This morning's tea, there was a tea pillar!
 So I thought, ""Today could be a good day."
 "runintochr_0105_B_02_00_004(0)","Ｐ","茶柱か……もしかして雪歩の日頃の頑張りが、
-お茶にも出てきてくれたのかな","Chabashira or ...... maybe snowflake's daily efforts,
+お茶にも出てきてくれたのかな","Chabashira or ...... maybe Yukiho's daily efforts,
 I wonder if they even came out for tea."
 "runintochr_0105_B_02_00_005(0)","雪歩","そんな、私はまだまだで……でも、プロデューサーが
 励ましてくれるので、どうにかできてますぅ","Oh no, I'm not ready for that yet, and I'm still working on ......, but the producer is.
@@ -650,7 +650,7 @@ Ehehehe ......I had a good thing right away~!"
 "runintochr_0105_C_03_00_001(0)","雪歩","プロデューサー、少しお話ししたいことが
 あるんですけど……今、大丈夫ですか？","Producer, I'd like to talk to you about a few things.
 I have a ...... is it okay now?"
-"runintochr_0105_C_03_00_002(0)","Ｐ","お、雪歩。どうしたんだ？","Hey, snowflake, what's going on?"
+"runintochr_0105_C_03_00_002(0)","Ｐ","お、雪歩。どうしたんだ？","Hey, Yukiho, what's going on?"
 "runintochr_0105_C_03_00_003(0)","雪歩","あの、その……い、いつもプロデュースしてくれて、
 本当にありがとうございますぅ！","Well, you know, that ......, you always produce,
 Thank you so much!"

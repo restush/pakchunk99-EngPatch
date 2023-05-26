@@ -196,7 +196,7 @@ ST_Out_UI/COMMU_TVPLAN_A_004,アイドルの日々を自分たちで取材＆撮
 ST_Out_UI/COMMU_TVPLAN_A_005,番組のハイライトは……,"The highlight
 of the show is......",Potentially fixed overflowing using line breaks. Abridge if that doesn't help. - KK,
 ST_Out_UI/COMMU_TVPLAN_B_001,アイドル専門の歌番組,A concert dedicated to idols,,
-ST_Out_UI/COMMU_TVPLAN_B_002,HELLO☆アイドルフューチャー,HELLO ☆ Future Idols,"Changed the title from HELLO Idol Future, so it makes more sense given the context of trying out for auditions. - KK",
+ST_Out_UI/COMMU_TVPLAN_B_002,HELLO☆アイドルフューチャー,HELLO ☆ Future Idols,"Changed the title from HELLO Idol Mirai, so it makes more sense given the context of trying out for auditions. - KK",
 ST_Out_UI/COMMU_TVPLAN_B_003,出演オーディションへの挑戦,Trying out for an audition,,
 ST_Out_UI/COMMU_TVPLAN_B_004,オーディション挑戦の全てを自分たちで取材＆撮影,Covering and Capturing the Audition Challenges on Our Own,,
 ST_Out_UI/COMMU_TVPLAN_B_005,歌番組への出演挑戦,"Singing Performance

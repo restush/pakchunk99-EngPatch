@@ -1155,7 +1155,7 @@ ST_Out_MD/CostumeText_010,"離れてもすれ違っても朝と夜がいつか�
 night meet again. A stage costume for the day I dream of singing with you.",,
 ST_Out_MD/CostumeText_011,"誰にだって叫びたい時はあるでしょ？
 だから声をあげて、翼を広げて、ロックに叫ぶんだ！","Don't you have those moments where you want to scream?
-Now you can raise your voice, spread your wings, and rock out!",,
+Now you can raise your voice, spread your Tsubasa, and rock out!",,
 ST_Out_MD/CostumeText_012,"神話に登場する清らかな乙女をイメージした衣装。
 光の中で歌う姿は祈りを捧げているよう。","A costume inspired by a pure maiden in mythology.
 Singing in the light gives off the impression of praying.",,
@@ -2420,7 +2420,7 @@ ST_Out_MD/KIZUNA_LVUP_MESSAGE_c602_003,……ふふっ♪,,,
 ST_Out_MD/KIZUNA_LVUP_MESSAGE_c602_004,"あなたにはいろいろ手助けしてもらったし……
 一応、感謝してるわ。これからも……よろしくね！",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c101_001,"プロデューサーさんに会ったら、
-ちゃんと挨拶しないと……！","When I see Producer-san, I have to greet him properly...!","This entire section is for character quotes when you are selecting who to visit during 
+ちゃんと挨拶しないと……！","When I see Producer-san, I have to greet her properly...!","This entire section is for character quotes when you are selecting who to visit during 
 your free time. The text here DOES auto-break, but I think we have a strict 2 line limit. -F91",
 ST_Out_MD/KIZUNA_MAP_TEXT_c101_002,"今日はみんなとレッスン……
 うまくいくように頑張ろう！","Today's lesson with everyone...
@@ -2481,7 +2481,7 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c102_005,"ハニーたち……なんだか、
 とっても難しい顔してる？",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c102_006,"ハニー、いるかな？
 たまには一緒に遊びにいきたいな～","Is Honey there?
-I want to go out with him once in a while~",,
+I want to go out with her once in a while~",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c102_007,"ハニーとゴホウビデート、
 とっても楽しみなの♪",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c102_008,"にゃ～、にゃにゃ～♪
@@ -2518,13 +2518,16 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c102_021,"ハニー、ありがと☆
 今日はとっても楽しかったの♪","Thanks, Honey☆
 I had a lot of fun today♪",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c103_001,"ルミナスでも色々学んで、
-もっと高みを目指せれば……",,,
-ST_Out_MD/KIZUNA_MAP_TEXT_c103_002,これ、面白い……ふふっ♪,,,
+もっと高みを目指せれば……","I learned a lot at Luminous,
+If you can aim higher...",,
+ST_Out_MD/KIZUNA_MAP_TEXT_c103_002,これ、面白い……ふふっ♪,This is interesting... hehe♪,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c103_003,"ふぅ……。
-なかなか充実したレッスンだったわ",,,
-ST_Out_MD/KIZUNA_MAP_TEXT_c103_004,今日の予定を確認しておかなくちゃ,,,
+なかなか充実したレッスンだったわ","Phew....
+It was a very fulfilling lesson.",,
+ST_Out_MD/KIZUNA_MAP_TEXT_c103_004,今日の予定を確認しておかなくちゃ,I have to check today's schedule,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c103_005,"プロデューサーとカフェ……
-聞いてみたかった話、聞けるかしら",,,
+聞いてみたかった話、聞けるかしら","The producer and the cafe...
+I wonder if you can hear the story I wanted to hear.",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c103_006,今日はプロデューサーと買い物の日ね,,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c103_007,ちょっと休憩しようかしら……,,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c103_008,"今日は未来と小宮さんと一緒に
@@ -2596,15 +2599,20 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c104_020,"プロデューサー！
 ST_Out_MD/KIZUNA_MAP_TEXT_c104_021,"今日はありがとうございましたっ！
 とーっても楽しかったですー♪",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c105_001,"プロデューサーにちゃんと
-挨拶したいけど……うぅ",,,
+挨拶したいけど……うぅ","To the producer properly
+I want to say hello, but... Uh",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c105_002,"うーん
-次は何を書こうかなぁ……",,,
+次は何を書こうかなぁ……","Hmm
+What should I write next...",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c105_003,"今日はコラムの打ち合わせ……
-が、頑張ろう",,,
+が、頑張ろう","Today is a column meeting...
+but let's do our best",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c105_004,"スコップ、
-どこにいっちゃったんだろう……",,,
+どこにいっちゃったんだろう……","Scoop,
+I wonder where he went...",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c105_005,"次のネタはどうしよう……
-あ！こういう時は……",,,
+あ！こういう時は……","What about the next story...
+Ah! In times like these...",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c105_006,"この前のコラム、
 いい感じに書けましたぁ～",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c105_007,"うぅ……どうしよう……
@@ -2637,13 +2645,17 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c105_020,"プロデューサー、
 ST_Out_MD/KIZUNA_MAP_TEXT_c105_021,"プロデューサー、
 今日はとっても楽しかったですぅ",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c106_001,"さてと！
-今日もはじめようかなっ",,,
+今日もはじめようかなっ","Now!
+Shall we start today as well?",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c106_002,"今日はダンスレッスンだね。
-ダンスならボクにまかせて！",,,
+ダンスならボクにまかせて！","Today is a dance lesson.
+If it's dancing, leave it to me! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c106_003,"プロデューサー！
-ボクに、お仕事きてますか？",,,
+ボクに、お仕事きてますか？","Producer!
+Do you have a job for me? ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c106_004,"うん、いい手ごたえだった！
-プロデューサーに見てもらおう！",,,
+プロデューサーに見てもらおう！","Yeah, it was a good response!
+Let's see the producer! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c106_005,"今日の仕事は……おおっ！
 へへっ、楽しみだなー♪",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c106_006,"菜々、翼、甘奈、
@@ -2679,15 +2691,20 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c106_020,"プロデューサー！　ボクと
 ST_Out_MD/KIZUNA_MAP_TEXT_c106_021,"へへっ、プロデューサー、
 今日はすっごく楽しかったです！",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c107_001,"あ！
-兄ちゃん、みーっけ！",,,
+兄ちゃん、みーっけ！","Ah!
+Big brother, look! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c107_002,"この真美、７６５プロを代表して
-甘いものをショモウします！",,,
+甘いものをショモウします！","Kono Mami, on behalf of 765 Pro
+Enjoy sweets! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c107_003,"ふっふっふ～♪……兄ちゃんは
-真美のヘンカに気づけるかな？",,,
+真美のヘンカに気づけるかな？","Fufufu~♪……Brother
+Can you spot Mami's change? ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c107_004,"兄ちゃんがいない間も、真美は
-アイドルしてたんだかんね☆",,,
+アイドルしてたんだかんね☆","Even while my brother was away, Mami
+I guess I was an idol☆",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c107_005,"あっれー？なんかあのへん、
-メッチャざわざわしてない？",,,
+メッチャざわざわしてない？","Ah? Something like that,
+Aren't you making a lot of noise? ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c107_006,"兄ちゃんって、ドンカンだよね～。
 真美と亜美のアレに気づいてないし",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c107_007,"聞こえる……聞こえるぞ……！
@@ -2721,13 +2738,17 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c107_020,"ねえねえ、兄ちゃん！
 ST_Out_MD/KIZUNA_MAP_TEXT_c107_021,"兄ちゃん、やるじゃーん！
 真美、すっごく楽しかったよ～♪",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c108_001,"プロデューサーと再び仕事ができる
-とは……真、喜ばしいことです",,,
+とは……真、喜ばしいことです","I can work with the producer again
+I mean... it's truly a pleasure.",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c108_002,"あの店頭に並んでいるものは……
-もしや……！",,,
+もしや……！","Things lined up in that store...
+Maybe...! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c108_003,"こんなところに
-るみなすのぽすたーが……",,,
+るみなすのぽすたーが……","In a place like this
+Ruminasu's post is...",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c108_004,"今日はぼいすとれーにんぐですから、
-あれを用意しておきましょう",,,
+あれを用意しておきましょう","Today is a boy training,
+Have that ready.",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c108_005,"昨夜の事、プロデューサーに
 お伝えしなければ……",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c108_006,"何かをお探しの様子……
@@ -2762,16 +2783,21 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c108_020,"プロデューサー、
 ST_Out_MD/KIZUNA_MAP_TEXT_c108_021,"プロデューサー、
 真、楽しき時間でした",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c109_001,"う～ん……プロデューサー、
-全然、見つからないぞ……",,,
+全然、見つからないぞ……","Hmm... Producer,
+I can't find it at all...",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c109_002,"この１年で成長した自分を
-見せつけてやるぞ！",,,
+見せつけてやるぞ！","I've grown in the past year
+I'll show you! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c109_003,"ルミナスのみんなはすごいぞ……
-絶対に負けられないよね！",,,
+絶対に負けられないよね！","Everyone at Luminas is amazing...
+You can never lose! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c109_004,"えへへ、プロデューサーなら
-喜んでくれるよね♪",,,
-ST_Out_MD/KIZUNA_MAP_TEXT_c109_005,うぎぎぐぎ～～～～！,,,
+喜んでくれるよね♪","Ehehe, if you're a producer
+You'll be happy♪",,
+ST_Out_MD/KIZUNA_MAP_TEXT_c109_005,うぎぎぐぎ～～～～！,Ugigigugi~~~~!,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c109_006,"よいしょっと……。
-ちょっと重いぞ、これ……",,,
+ちょっと重いぞ、これ……","Okay....
+It's a little heavy, this...",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c109_007,"仕事もバッチリ終わったし、
 どこかに遊びにいこうよっ！",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c109_008,"やっぱり、海はいいよね！
@@ -2803,13 +2829,17 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c109_020,"プロデューサー！
 ST_Out_MD/KIZUNA_MAP_TEXT_c109_021,"プロデューサー、ありがと♪
 とっても楽しかったさー！",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c110_001,"プロデューサー、
-本当に大丈夫なのかしら……？",,,
+本当に大丈夫なのかしら……？","Producer,
+I wonder if it's really okay...? ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c110_002,"むぅ……おそい……！
-おそい、おそい、おっそーい！",,,
+おそい、おそい、おっそーい！","Muu... slow...!
+Slow, slow, slow! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c110_003,"この前見たＴＶの話、
-プロデューサーは知ってるかしら？",,,
+プロデューサーは知ってるかしら？","The story of the TV I saw the other day,
+Do you know the producer? ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c110_004,"そういえば……
-まだ詳しく聞いてなかったわね",,,
+まだ詳しく聞いてなかったわね","By the way……
+I haven't heard the details yet.",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c110_005,"さてと……
 なにか面白い記事はあるかしら？",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c110_006,"律子、まだかしら？
@@ -2845,17 +2875,23 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c110_020,"アンタ、この伊織ちゃんを
 ST_Out_MD/KIZUNA_MAP_TEXT_c110_021,"ありがと、プロデューサー、
 今日は悪くなかったわよ♪",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c111_001,"ニオう、ニオうぞ……！
-くんくん、くんくん……",,,
+くんくん、くんくん……","It smells, it smells...!
+Kun-kun, Kun-kun...",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c111_002,"んっふっふー♪
-これは亜美からの挑戦状である！",,,
+これは亜美からの挑戦状である！","Nmph ♪
+This is a letter of challenge from Ami! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c111_003,"お仕事おーわりっ！どう？どう？
-亜美の超絶ヤバイ仕事っぷり！",,,
+亜美の超絶ヤバイ仕事っぷり！","Work is over! How is it? How is it?
+Ami's super crazy work! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c111_004,"いえーい！グラビア撮影だ☆
-兄ちゃん、ほめてツカワス～！",,,
+兄ちゃん、ほめてツカワス～！","Yeah! It's a gravure shoot☆
+Brother, praise me Tsukawasu~! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c111_005,"中華街でオサレランチ……
-これぞ、大人って感じだよね！",,,
+これぞ、大人って感じだよね！","Fancy lunch in Chinatown...
+This is what it feels like to be an adult! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c111_006,"真美と兄ちゃんと買い物……
-これは仕入れの大チャンス……！",,,
+これは仕入れの大チャンス……！","Shopping with Mami and Ni-chan...
+This is a great chance to purchase...! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c111_007,"帰りは兄ちゃんとふたりっきり……。
 これはもう聞くっきゃないね♪",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c111_008,"みてみて！
@@ -2887,17 +2923,23 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c111_020,"兄ちゃん、目を閉じて！
 ST_Out_MD/KIZUNA_MAP_TEXT_c111_021,"兄ちゃん、サンキュ！
 今日はとっても楽しかったぞ☆",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c112_001,"あらあら、
-ここはどこかしら～？",,,
+ここはどこかしら～？","Oh dear,
+Where is this~? ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c112_002,"困ったわねぇ……
-そうだわ、一旦事務所に……",,,
+そうだわ、一旦事務所に……","I'm in trouble...
+That's right, to the office once...",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c112_003,"う～ん、また迷っちゃったみたい。
-あら？あなたは……",,,
+あら？あなたは……","Hmm, looks like I got lost again.
+fault? you……",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c112_004,"ふふ、いいものが手に入ったわ。
-早速、試してみようかしら",,,
+早速、試してみようかしら","Fufu, I got some good stuff.
+Let's try it right away.",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c112_005,"本当にこの路地裏で
-合っているのかしら……？",,,
+合っているのかしら……？","Really in this back alley
+I wonder if it's right...? ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c112_006,"今日の運勢を
-占ってみようかしら？",,,
+占ってみようかしら？","Today's fortune
+Would you like to try your luck? ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c112_007,"はぁ……
 このままでいいのかしら……",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c112_008,"プロデューサーさんと
@@ -2928,15 +2970,20 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c112_020,"プロデューサーさん、
 ST_Out_MD/KIZUNA_MAP_TEXT_c112_021,"うふふっ、プロデューサーさん、
 今日はとても楽しい１日でした♪",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c113_001,"久しぶりにプロデューサーと
-ゆっくり話す時間がとれそうね！",,,
+ゆっくり話す時間がとれそうね！","With the producer after a long time
+It looks like we'll have time to talk slowly! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c113_002,"お疲れ様です。
-ただいま、戻りました！",,,
+ただいま、戻りました！","thank you for your hard work.
+I'm back! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c113_003,"今日はレッスンね。
-事前に少しだけ話しておこうかしら",,,
+事前に少しだけ話しておこうかしら","Today is a lesson.
+Let's talk a little bit beforehand.",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c113_004,"後学のためにも、プロデューサーに
-今後の方針を聞いておきたいわ",,,
+今後の方針を聞いておきたいわ","For the sake of posterity, I want to become a producer.
+I would like to hear about your future plans.",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c113_005,"私から、アドバイスですか……？
-わかりました、やってみます",,,
+わかりました、やってみます","Any advice from me...?
+Okay, I'll try.",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c113_006,"ふぅ……
 今日のレッスンはここまでね",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c113_007,"メールが来てるわね。
@@ -2970,15 +3017,20 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c113_020,"プロデューサー、
 ST_Out_MD/KIZUNA_MAP_TEXT_c113_021,"ありがとうございます。
 楽しい時間がすごせました♪",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c201_001,"我が友とは、今一度
-言霊を交わす必要がありそうね！",,,
+言霊を交わす必要がありそうね！","My friend is once again
+It looks like we need to exchange spirits! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c201_002,"さて、同胞の待つ居城へと
-向かうとしようかしら",,,
+向かうとしようかしら","Well, to the castle where my compatriots are waiting
+I wonder if I should go.",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c201_003,"まだ紐解いていない魔術書が
-あった筈……",,,
+あった筈……","A magic book that has not yet been unraveled
+There must have been...",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c201_004,"己の魔力を高めるためには、
-更なる修練が必要ね……",,,
+更なる修練が必要ね……","In order to increase your magical power,
+I need more training...",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c201_005,"此度のミサも、無事に
-終焉を迎えることができたわ",,,
+終焉を迎えることができたわ","The mass this time was also safe.
+I could meet the end.",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c201_006,"異国の書物、同胞たちも
 歓喜の渦へ誘うことができるかしら",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c201_007,"我が魔力は……存分に
@@ -3012,17 +3064,23 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c201_020,"我が友よ、あの亜空間に囚われ�
 ST_Out_MD/KIZUNA_MAP_TEXT_c201_021,"汝の導きが、
 我が翼に安息を与える……",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c202_001,"プロデューサーに、色々と
-話を聞いておかないとねー",,,
+話を聞いておかないとねー","To the producer, various
+I have to listen to you.",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c202_002,"今日はレッスンかぁ……
-う～ん……",,,
+う～ん……","Is there a lesson today...?
+Hmm...",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c202_003,"あれ、事務所のお菓子、
-ちょっとしかないじゃん",,,
+ちょっとしかないじゃん","Ah, sweets from the office,
+It's only a little.",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c202_004,"これで事務所にも
-杏の安息の地が……ふふふ",,,
+杏の安息の地が……ふふふ","Now in the office
+Anzu's resting place... fufufu",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c202_005,"うう……今日の仕事、
-大変だった……",,,
+大変だった……","Ugh... Today's work,
+that was so hard……",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c202_006,"プロデューサー、どんなの
-準備してくれてるかな～",,,
+準備してくれてるかな～","Producer, what
+Are you ready~",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c202_007,"最近頑張ってるけど、
 これでいいのかなぁ……",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c202_008,"いいこと思いついちゃった♪
@@ -3054,15 +3112,20 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c202_020,"ふっふっふ、誰の声まねか
 ST_Out_MD/KIZUNA_MAP_TEXT_c202_021,"プロデューサー、結構楽しかったよ。
 今日はありがと",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c203_001,"よっし、今日のお仕事も終わり★
-お疲れ様でした～！",,,
+お疲れ様でした～！","Alright, today's work is over★
+Thank you for your hard work ~! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c203_002,"プロデューサーがとってきてくれた
-仕事、頑張らないとね♪",,,
+仕事、頑張らないとね♪","Producer brought me
+I have to do my best at work♪",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c203_003,"次の仕事までちょっと時間が
-空いたし……寄り道していいかな？",,,
+空いたし……寄り道していいかな？","I have a little time until my next job.
+I'm empty... can I stop by? ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c203_004,"いろんな服を見てるだけでも
-楽しいんだよね★",,,
+楽しいんだよね★","Even if you just look at the various clothes
+It's fun, right?",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c203_005,"ちょっとドキドキする。
-喜んでくれるといいな……！",,,
+喜んでくれるといいな……！","I'm a little nervous.
+I hope you like it...! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c203_006,"今日は貴音さんたちと
 レッスンなんだけど……",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c203_007,"いい感じに仕上がってきたかな。
@@ -3096,15 +3159,20 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c203_020,"プロデューサー、誰の声まねか
 ST_Out_MD/KIZUNA_MAP_TEXT_c203_021,"プロデューサー、今日は
 連れてきてくれてありがとね★",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c204_001,"今日もきらりん、
-気合いばっちしだよ～☆",,,
+気合いばっちしだよ～☆","Kirarin again today,
+I'm so fired up~☆",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c204_002,"今日のお仕事、
-と～っても楽しみだにぃ☆",,,
+と～っても楽しみだにぃ☆","Today's work,
+I'm really looking forward to it☆",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c204_003,"こないだのお仕事の時のＰちゃん、
-何か気にしてるみたいだったにぃ……",,,
+何か気にしてるみたいだったにぃ……","P-chan at work the other day,
+You seemed to be worried about something...",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c204_004,"今日のお仕事もばっちし☆
-この後はどうしようかにぃ？",,,
+この後はどうしようかにぃ？","Today's work is perfect☆
+What should I do after this? ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c204_005,"折角なら、挑戦してみたいしぃ……
-Ｐちゃんに相談してみよっと！",,,
+Ｐちゃんに相談してみよっと！","If it's a chance, I'd like to try it...
+Let's talk to P-chan! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c204_006,"ふー、今日のレッスン、
 いつもより大変だったかも……",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c204_007,"そういえば、こないだ借りた漫画、
@@ -3138,15 +3206,20 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c204_020,"Ｐちゃん、みんなでお出かけす�
 ST_Out_MD/KIZUNA_MAP_TEXT_c204_021,"Ｐちゃん、きらりん、
 す～っごく楽しかったよぉ☆",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c205_001,"プロデューサーさんに、
-改めてご挨拶しなきゃ！",,,
+改めてご挨拶しなきゃ！","To the producer,
+I have to say hello again! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c205_002,"次のお仕事まで時間あるし、
-少し準備をしちゃいましょうか",,,
+少し準備をしちゃいましょうか","I have time until my next job,
+Shall we make some preparations?",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c205_003,"喫茶店で休憩、ですか？
-ありがとうございます、キャハッ☆",,,
+ありがとうございます、キャハッ☆","Are you taking a break at a coffee shop?
+Thank you, Kyaha☆",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c205_004,"上手く作れたし、プロデューサーさん
-に見てもらおうかな……？",,,
+に見てもらおうかな……？","You did a good job, Producer-san.
+Do you want me to take a look...? ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c205_005,"ファンのみんなが喜ぶこと……
-喜ぶこと……そうだ！",,,
+喜ぶこと……そうだ！","What makes all the fans happy...
+Rejoice... yes! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c205_006,"ピピッ！　ウサミン星から電波受信！
 紬ちゃん、甘奈ちゃん発見です！",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c205_007,"今日のイベントも、
@@ -3180,15 +3253,20 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c205_020,"プロデューサーさん！
 ST_Out_MD/KIZUNA_MAP_TEXT_c205_021,"プロデューサーさん、ナナ、
 とっても楽しかったです！キャハッ☆",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c206_001,"精一杯、ルミナスの
-サポートを務めさせてもらいます",,,
+サポートを務めさせてもらいます","Do your best, Luminous
+I will be your support.",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c206_002,"打ち合わせに使うカフェが満員……
-それでしたら、いい場所がありますよ",,,
+それでしたら、いい場所がありますよ","The café used for meetings is full...
+If that's the case, I've got a good place for you.",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c206_003,"あら、千早ちゃんたち、
-懐かしい映像を見ていますね",,,
+懐かしい映像を見ていますね","Oh, Chihaya-chan and the others,
+You're watching a nostalgic video.",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c206_004,"あずさちゃん、歌織ちゃんと何気ない
-おしゃべりをする時間……癒されます",,,
+おしゃべりをする時間……癒されます","Azusa-chan, Kaori-chan are casual
+Time to chat...it heals.",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c206_005,"あの、プロデューサー。なにか
-困ったことでも起きたのですか？",,,
+困ったことでも起きたのですか？","Um, Producer. What is it?
+Did you get into trouble? ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c206_006,"事務所でみんなとおしゃべりをすると
 元気になりますよね",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c206_007,"心白ちゃんたちがおしゃべりを……
@@ -3221,19 +3299,26 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c206_020,"プロデューサー、
 ST_Out_MD/KIZUNA_MAP_TEXT_c206_021,"今日はとっても楽しかったです。
 疲れも吹き飛ぶくらいに",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c301_001,"ルミナスの活動も楽しいし、
-私もちょっとずつ成長してるのかな？",,,
+私もちょっとずつ成長してるのかな？","Luminous activities are also fun,
+Am I growing little by little? ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c301_002,"すごいアイドルになるために、
-まず……宿題をちゃんとやろうっと！",,,
+まず……宿題をちゃんとやろうっと！","To become a great idol,
+First, let's do our homework! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c301_003,"プロデューサーさんと一緒に
-お買い物～♪",,,
+お買い物～♪","Together with the producer
+shopping~♪",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c301_004,"あーっ！　あれがない！？
-事務所に戻らなきゃ……！",,,
+事務所に戻らなきゃ……！","Oh! There's no that!?
+I have to go back to the office...! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c301_005,"あれ、何のスイッチだろう……？
-押してみてもいいかな？",,,
+押してみてもいいかな？","What kind of switch is that...?
+Can I try pressing it? ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c301_006,"プロデューサーさん、お話があるって
-言ってたけど、なんだろう？",,,
+言ってたけど、なんだろう？","Producer-san, I have something to tell you.
+I said, what is it? ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c301_007,"うーん、宿題終わらないよ～……
-…………ぐー……",,,
+…………ぐー……","Hmm, I haven't finished my homework...
+…………Goo……",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c301_008,"プロデューサーさんが言ってたこと、
 まだよく分かんないよ～……",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c301_009,あ、占いの人がいる！,,,
@@ -3261,15 +3346,19 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c301_020,"プロデューサーさん、
 誰のモノマネかわかりますか？",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c301_021,"プロデューサーさん、とっても
 楽しかったです！でへへ♪",,,
-ST_Out_MD/KIZUNA_MAP_TEXT_c302_001,早く、先に進まないと……,,,
+ST_Out_MD/KIZUNA_MAP_TEXT_c302_001,早く、先に進まないと……,If we don't move forward quickly...,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c302_002,"空き時間が出来たけど、
-何をしようかしら……",,,
+何をしようかしら……","I got free time,
+What should I do...",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c302_003,"レッスンの前に
-少し、体を動かしたいわね",,,
+少し、体を動かしたいわね","Before the lesson
+I want to move my body a little.",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c302_004,"そういえば、新しい事務所の中、
-ちゃんと見ていなかったわね……",,,
+ちゃんと見ていなかったわね……","Speaking of which, in the new office,
+I didn't see it properly...",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c302_005,"仕事が早めに終わったわね。
-……ちょっと小腹が空いてきたかも",,,
+……ちょっと小腹が空いてきたかも","You finished your work early.
+……Maybe I'm a little hungry.",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c302_006,"ふう、これで準備は終わり……と。
 後は、実践ね",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c302_007,"雑誌取材……
@@ -3302,15 +3391,20 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c302_020,あの、誰の声マネかわかりますか
 ST_Out_MD/KIZUNA_MAP_TEXT_c302_021,"今日は楽しかったです。
 ありがとうございました",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c303_001,"美希先輩みたいなモテモテハッピー
-ライフを目指したいな～",,,
+ライフを目指したいな～","I'm popular and happy like Miki-senpai
+I want to aim for life~",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c303_002,"今日の分のダンス、完璧だし
-もうレッスン終わりでいいよね～♪",,,
+もうレッスン終わりでいいよね～♪","Today's dance is perfect
+It's okay to finish the lesson already~♪",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c303_003,"プロデューサーさん、まだかな～
-これからお仕事なのに～",,,
+これからお仕事なのに～","Producer-san, are you still there?
+I have work to do~",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c303_004,"プロデューサーさん、
-早く帰ってこないかな～",,,
+早く帰ってこないかな～","Producer-san,
+Won't you come home soon?",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c303_005,"うーん、モテモテハッピーライフって
-なにが必要なのかな～？",,,
+なにが必要なのかな～？","Hmm, Motemote Happy Life
+What do you need? ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c303_006,"高校生って、モテモテハッピーライフ
 って感じですよね♪",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c303_007,"先輩たちみたいなアイドルに
@@ -3343,16 +3437,21 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c303_020,"あっ、あれかわいい～！
 ST_Out_MD/KIZUNA_MAP_TEXT_c303_021,"プロデューサーさんのおかげで
 息抜きできました～♪",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c304_001,"次のレッスンまで、まだ少し
-時間がありますね……",,,
+時間がありますね……","Until the next lesson,
+You have time...",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c304_002,"みなさんの足を引っ張らないように、
-もっと頑張らないと……！",,,
+もっと頑張らないと……！","Don't drag your feet,
+I have to work harder...! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c304_003,"このミュージックビデオ……
-最近話題の……",,,
+最近話題の……","This music video...
+It's been a hot topic lately...",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c304_004,"どうしても、うまくできん……！
-いったい、どこが……",,,
-ST_Out_MD/KIZUNA_MAP_TEXT_c304_005,何故プロデューサーとカフェに……？,,,
+いったい、どこが……","No matter what, I can't do it well...!
+Where the hell is...",,
+ST_Out_MD/KIZUNA_MAP_TEXT_c304_005,何故プロデューサーとカフェに……？,Why a producer and a cafe...?,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c304_006,"今日のレッスンはいつも以上に
-しっかりやらなきゃ……！",,,
+しっかりやらなきゃ……！","Today's lesson is more than usual
+I have to do it properly...! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c304_007,"プロデューサーと
 打ち合わせしないと……",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c304_008,"やっぱり、こっちは人通りが多くて、
@@ -3383,14 +3482,18 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c304_020,"プロデューサー、どこか息抜き
 ST_Out_MD/KIZUNA_MAP_TEXT_c304_021,"……プロデューサー、その、
 あなたのおかげで息抜きできました",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c305_001,"私、ルミナスに参加していて
-大丈夫なのかしら……",,,
-ST_Out_MD/KIZUNA_MAP_TEXT_c305_002,今日も、レッスン頑張りましょう♪,,,
+大丈夫なのかしら……","I'm participating in Luminous
+I wonder if it's okay...",,
+ST_Out_MD/KIZUNA_MAP_TEXT_c305_002,今日も、レッスン頑張りましょう♪,Let's do our best in the lesson today too♪,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c305_003,"パーティーにお誘いしてしまったけど
-……大丈夫かしら？",,,
+……大丈夫かしら？","I invited you to the party
+……Are you okay? ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c305_004,"この間のパーティーのお礼、
-プロデューサーさんにお伝えしなきゃ",,,
+プロデューサーさんにお伝えしなきゃ","Thanks for the party the other day,
+I have to tell the producer.",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c305_005,"これ、レッスンに使えないかしら。
-とりあえず持っていきましょう",,,
+とりあえず持っていきましょう","I wonder if this can be used for lessons.
+Let's take it for now.",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c305_006,"事務所でレッスン、早速
 やってみようかしら♪",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c305_007,今日もお仕事、お疲れさまでした,,,
@@ -3423,15 +3526,20 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c305_020,"クレーンゲームって、
 ST_Out_MD/KIZUNA_MAP_TEXT_c305_021,"プロデューサーさん、
 今日はとても楽しかったです♪",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c306_001,"ルミナスのサポート……
-うん、一生懸命頑張らないと！",,,
+うん、一生懸命頑張らないと！","Luminous support...
+Yeah, you have to work hard! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c306_002,"みんなの力になれるように、
-いっぱいレッスンをしないと",,,
+いっぱいレッスンをしないと","In order to become the power of everyone,
+I have to do a lot of lessons.",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c306_003,"心白ちゃんたちが、
-打ち合わせをしているみたい……",,,
+打ち合わせをしているみたい……","Kohaku-chan and the others,
+It looks like they're having a meeting...",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c306_004,"心白ちゃんたちのライブ、
-とても楽しかったですね！",,,
+とても楽しかったですね！","Kohaku-chan's live,
+It was a lot of fun! ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c306_005,"翼ちゃんたちがファッションについて
-話をしているみたいですね♪",,,
+話をしているみたいですね♪","Tsubasa-chan and others about fashion
+It looks like they're talking♪",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c306_006,"みんなと買い物に来たけど……
 ちょっと真美ちゃんが心配かも",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c306_007,"レッスンの時間なのに、美希ちゃんと
@@ -3462,12 +3570,12 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c306_020,"うーん、プロデューサー、
 どのゲームで遊びますか？",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c306_021,"プロデューサー、今日はありがとう
 ございました。楽しかったです♪",,,
-ST_Out_MD/KIZUNA_MAP_TEXT_c401_001,甜花で、いいのかな……？,,,
-ST_Out_MD/KIZUNA_MAP_TEXT_c401_002,たくさん……話しちゃった……,,,
+ST_Out_MD/KIZUNA_MAP_TEXT_c401_001,甜花で、いいのかな……？,"""Is Tenka okay...? We talked a lot...""",,
+ST_Out_MD/KIZUNA_MAP_TEXT_c401_002,たくさん……話しちゃった……,"""Should I talk to the producer...""",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c401_003,"プロデューサーさんに、
-話してみようかな……",,,
+話してみようかな……","""With this... you can play with everyone...! Maybe...""",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c401_004,"これなら……
-みんなと、遊べる……！かも……",,,
+みんなと、遊べる……！かも……","""Auuu... Tenka, what should I do...""",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c401_005,"あうぅ……甜花、
 どうしたら……",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c401_006,"お仕事、終わったら……
@@ -3541,13 +3649,16 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c402_020,"写真の展示か……
 ST_Out_MD/KIZUNA_MAP_TEXT_c402_021,"プロデューサーのおかげで、とても
 楽しい１日だったよ。ありがとう",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c403_001,"プロデューサーさんに、
-改めてごあいさつしよう！",,,
+改めてごあいさつしよう！",Let's say hello again to the producer!,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c403_002,"プロデューサーさん、
-ヒーロー番組って見るのかな？",,,
+ヒーロー番組って見るのかな？","Producer-san, do you watch
+hero shows?",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c403_003,"いいお天気だから、
-今日は屋上に行こうかなー！",,,
+今日は屋上に行こうかなー！","Since the weather is nice,
+Let's go to the roof today!",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c403_004,"お仕事を上手にできて、
-プロデューサーさんにほめられた！",,,
+プロデューサーさんにほめられた！","I was praised by the producer
+for doing a good job!",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c403_005,"そういえば、
 プロデューサーさんって……",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c403_006,"プロデューサーさんと
@@ -3581,13 +3692,13 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c403_020,"プロデューサーさん！
 ST_Out_MD/KIZUNA_MAP_TEXT_c403_021,"プロデューサーさんっ！今日は
 スッゴくスッゴく楽しかったですっ！",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c404_001,"あ！　
-甜花ちゃんの特集が載ってる雑誌だ～",,,
+甜花ちゃんの特集が載ってる雑誌だ～","""Ah! It's a magazine with a feature on Tenka-chan~""",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c404_002,"今日のレッスンは
-動きを重点的に練習しよう！",,,
+動きを重点的に練習しよう！","""Let's focus on movement in today's lesson!""",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c404_003,"甜花ちゃん、
-すごく輝いてるなぁ……",,,
+すごく輝いてるなぁ……","""Tenka-chan, you're really shining...""",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c404_004,"今日買うもの、
-しっかり確認しておこう！",,,
+しっかり確認しておこう！","""Check what you're buying today!""",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c404_005,甘奈……失敗しちゃった……,,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c404_006,"……。
 今日は何食べよっかな～☆",,,
@@ -3622,13 +3733,13 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c404_020,"プロデューサーさん、
 ST_Out_MD/KIZUNA_MAP_TEXT_c404_021,"プロデューサーさん、今日はめっちゃ
 楽しかったよ～！ありがとっ☆",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c405_001,"この機会を……
-大切に……",,,
+大切に……","""Take this opportunity... cherish...""",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c405_002,"プロデューサーさま……
-あちらに……",,,
+あちらに……","""Producer-sama... over there...""",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c405_003,"もっと……
-レッスンを……",,,
+レッスンを……","""More... lessons...""",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c405_004,"修練に……
-努めます……",,,
+努めます……","""Training... I'll do my best...""",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c405_005,"みなさまと……
 お買い物に……",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c405_006,"どのメニューに……
@@ -3664,15 +3775,19 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c405_020,"本日のレッスンは……
 ST_Out_MD/KIZUNA_MAP_TEXT_c405_021,"プロデューサーさま……楽しい
 時を……ありがとうございます……",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c406_001,"社長に言われて来たケド、
-何するんだろー",,,
+何するんだろー","Ked, who was told by the president,
+What are you doing?",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c406_002,"事務所、
-なんか甘い匂いがしませんー？",,,
+なんか甘い匂いがしませんー？","office,
+Doesn't it smell sweet? ",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c406_003,"次はターンしながら……
-あ、プロデューサー",,,
+あ、プロデューサー","Next time while turning...
+Oh, Producer",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c406_004,"ファッションによって
-気分も変わるからねー",,,
+気分も変わるからねー",Fashion can change your mood.,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c406_005,"お腹すいた気がするケド……
-まぁ、いいやー",,,
+まぁ、いいやー","I feel hungry...
+Well, that's fine.",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c406_006,"プロデューサー、
 杏はここにはいないですよー",,,
 ST_Out_MD/KIZUNA_MAP_TEXT_c406_007,"プロデューサーとカフェかぁ。
@@ -11476,7 +11591,7 @@ ST_Out_MD/TxtStageName_025,スターシップフロント,Starship Front,,
 ST_Out_MD/TxtStageName_026,LOVEフラッグシアター,LOVE Flag Theater,,
 ST_Out_MD/TxtStageName_027,スターリットスカイ,Starlit Sky,,
 ST_Out_MD/TxtStageName_028,スターリットレインボー,Starlit Rainbow,this line was added back in with the final update. -F91 3/12/2022,
-ST_Out_MD/TxtStageName_029,アイドルフューチャー,Idol Future,,
+ST_Out_MD/TxtStageName_029,アイドルフューチャー,Idol Mirai,,
 ST_Out_MD/TxtStageName_030,スターリットスカイ,Starlit Sky,,
 ST_Out_MD/TxtStageName_031,スターリットレインボー,Starlit Rainbow,,
 ST_Out_MD/TxtUnitLimit01,1人,1,,
@@ -11746,7 +11861,7 @@ ST_Out_MD/WORK_GROUP_SUBTITLE_030,『いつもいる…２』,,,
 ST_Out_MD/WORK_GROUP_SUBTITLE_031,ＳＯＵＮＤ　ＳＴＡＴＩＯＮ,SOUND STATION,Switching this away from fullwidth to maintain consistency with other strings that have full width characters mixed in with Japanese. -NG,
 ST_Out_MD/WORK_GROUP_SUBTITLE_032,ルミナス・ミニライブ,Luminous Mini Live,,
 ST_Out_MD/WORK_GROUP_SUBTITLE_033,トーキングアイドル,Talking Idol,,
-ST_Out_MD/WORK_GROUP_SUBTITLE_034,週刊フューチャー,Weekly Future,,
+ST_Out_MD/WORK_GROUP_SUBTITLE_034,週刊フューチャー,Weekly Mirai,,
 ST_Out_MD/WORK_GROUP_SUBTITLE_035,不思議な科学博,Wondrous Science Expo,,
 ST_Out_MD/WORK_GROUP_SUBTITLE_036,芸能人ドッキリグランプリ,,,
 ST_Out_MD/WORK_GROUP_SUBTITLE_037,開運！　おみくじ旅,Good Luck! Omikuji Trip,"I don't know if there is a good English equivalent to omikuji besides fortune slip.  The alternative I'm thinking of is ""Good Luck! Fortune Slip Journey.""

@@ -197,7 +197,7 @@ They look delicious, don't they?"
 "DLC_02_0002_A_00_00_005(0)","心白","ふふっ、喜んでもらえてよかったです。
 たくさんあるので、みなさんで食べてください","Phew, I'm glad you are pleased.
 There are plenty of them, so everyone is invited to eat them!"
-"DLC_02_0002_A_00_00_006(0)","P","心白？　事務所に来ていたのか","Heart white? You were at the office?"
+"DLC_02_0002_A_00_00_006(0)","P","心白？　事務所に来ていたのか","Kohaku? You were at the office?"
 "DLC_02_0002_A_00_00_007(0)","心白","プロデューサーさん、こんにちは。
 お邪魔してます","Hello, producer.
 greeting used when entering someone's home"
@@ -212,7 +212,7 @@ I buy them all the time when I'm out of the country too."
 Producers eat too, don't they?"
 "DLC_02_0002_A_00_00_011(0)","P","あとでいただくよ。
 心白も、わざわざありがとうな","I'll have some later.
-Thanks for going out of your way to help me out, too, Shinbaku."
+Thanks for going out of your way to help me out, too, Kohaku."
 "DLC_02_0002_A_00_00_012(0)","琴葉","あ、あの、プロデューサー！
 お話し中のところすみません……","Oh, um, producer!
 Sorry for interrupting ......"
@@ -351,15 +351,15 @@ Is there something on your mind?"
 I'd like to work together as a unit."
 "DLC_02_0002_A_00_00_096(0)","心白","え？","Huh?"
 "DLC_02_0002_A_00_00_097(0)","P","（心白をメンバーに入れることで、
-また新しいユニットの一面を見せることができるか）","(By including mind white as a member,
+また新しいユニットの一面を見せることができるか）","(By including Kohaku as a member,
 (Can you show us another new aspect of the unit?)"
 "DLC_02_0002_A_00_00_098(0)","P","俺個人としては賛成だ。最終的な確認は奥空さんに
 するけど、心白としてはどうだ？","I personally agree, final confirmation to Okuzora-san.
-I do, but how about as a mind white?"
+I do, but how about as Kohaku?"
 "DLC_02_0002_A_00_00_050(0)","心白","……あの、プロデューサーさん。
 それなら私も参加したいです！","...... Um, Producer-san.
 Then I would like to participate too!"
-"DLC_02_0002_A_00_00_051(0)","P","心白も？","And Shinbaku?"
+"DLC_02_0002_A_00_00_051(0)","P","心白も？","And Kohaku?"
 "DLC_02_0002_A_00_00_052(0)","心白","私はルミナスのみなさんのおかげで、
 またステージに立つことができました","I owe it to everyone at Luminous,
 We were able to get on stage again."
@@ -448,7 +448,7 @@ I did it, I did it well!"
 Got a minute?"
 "DLC_02_0003_A_00_00_005(0)","琴葉","あ、プロデューサー……と、菜々ちゃんと杏ちゃん。
 それに、甘奈ちゃんと甜花ちゃん……？","Oh, the producer ...... and Nana and Anzu.
-Besides, Amana and Tetuka ......?"
+Besides, Amana and Tenka-chan ......?"
 "DLC_02_0003_A_00_00_006(0)","菜々","お疲れさまです、琴葉ちゃん！
 今のダンス、すっごくかっこよかったですよ！","Good work, Kotoha!
 Now that was a very cool dance!"
@@ -539,7 +539,7 @@ Dancing in sparkling costumes☆"
 けど、なーちゃんと一緒なら……頑張れる……！","......Oh, the high road......Mu, the hard way......
 But with Naachan, you can ...... do your best ......!"
 "DLC_02_0003_A_00_00_036(0)","琴葉","甘奈ちゃんと甜花ちゃん……。
-確かにふたりの組み合わせは素敵だよね","Amana and Tetika: .......
+確かにふたりの組み合わせは素敵だよね","Amana and Tenka-chan: .......
 You're right, the two of you make a great combination."
 "DLC_02_0003_A_00_00_037(0)","甜花","そ、そうかな……にへへ……
 ……あの……双葉さんは……？","Well, I don't know. ...... hehe ......
@@ -584,7 +584,7 @@ Let's see ...... umm ......"
 "DLC_02_0003_A_00_00_055(0)","琴葉","……すみません、
 まだ、うまくまとまっていません……","Sorry ......,
 It's still not well organized: ......"
-"DLC_02_0003_A_00_00_056(0)","P","（余計に追い詰めてしまったようだ……）","(I think I've driven him into an extra corner. ......)"
+"DLC_02_0003_A_00_00_056(0)","P","（余計に追い詰めてしまったようだ……）","(I think I've driven her into an extra corner. ......)"
 "DLC_02_0003_A_00_00_057(0)","琴葉","みんな、ありがとう。意見を参考にして、
 少しずつイメージを固めていくね","Thanks, guys, for the input,
 I'll work on the image little by little."
@@ -719,10 +719,10 @@ Are you okay!"
 ぶつかっちゃって、ごめんなさい……","It's okay, it's okay. ...... Tenka are also ......
 I'm sorry I bumped into you. ......"
 "DLC_02_0004_A_00_00_029(0)","真","甜花はワンテンポ遅れてるから、
-気持ち早く動くように意識してみて","Because the beet is one step behind,
+気持ち早く動くように意識してみて","Because Tenka is one step behind,
 Try to be aware of how quickly you move."
 "DLC_02_0004_A_00_00_030(0)","真","未来は逆に、ワンテンポ早くなってる。
-周りの動きをよく見てね","The future, on the contrary, is a step faster.
+周りの動きをよく見てね","Mirai on the contrary, is a step faster.
 Watch what's going on around you."
 #DLC_02_0004_A_00_00_031(0)
 #DLC_02_0004_A_00_00_032(0)
@@ -733,7 +733,7 @@ Watch what's going on around you."
 ファイブ、シックス、セブン、エイト！","One, two, three, four,
 Five, Six, Seven, Eight!"
 "DLC_02_0004_A_00_00_035(0)","菜々","心白ちゃんも詩花ちゃんも息ピッタリ！
-すごいですねっ！","Both Shinbaku and Shika are breathtaking!
+すごいですねっ！","Both Kohaku and Shika are breathtaking!
 That's amazing!"
 "DLC_02_0004_A_00_00_036(0)","心白","ふぅ……ありがとうございます。
 でも、詩花さんに比べたらまだまだです","Phew ...... thank you.
@@ -891,7 +891,7 @@ That was fun, man!"
 It was a great performance, wasn't it?"
 "DLC_02_0005_A_00_00_005(0)","甜花","あうう……
 甜花……ちょっとだけ、ミスしちゃった……","Auau: ......
-I made a mistake, just a little bit of a beet ...... ......"
+I made a mistake, just a little bit of Tenka ...... ......"
 "DLC_02_0005_A_00_00_006(0)","甜花","でも、天海さんと詩花さん……
 フォローしてくれた……ありがとう……","But Amami and Shika ......
 Follow me on ......Thanks ......"
@@ -899,7 +899,7 @@ Follow me on ......Thanks ......"
 仲間なんだから当たり前だよ！","Hmmm...
 It's only natural, because they're my friends!"
 "DLC_02_0005_A_00_00_008(0)","詩花","そうですよ。甜花ちゃんと一緒のステージに立てて、
-とても楽しかったです！","Yes, I was able to be on stage with Tetuka,
+とても楽しかったです！","Yes, I was able to be on stage with Tenka-chan,
 I enjoyed it very much!"
 "DLC_02_0005_A_00_00_009(0)","甜花","う、うん……て、甜花も……
 楽しかった……にへへ……","Uh, yeah... T-Tenka too...
@@ -1047,7 +1047,7 @@ After you drop off your luggage, meet me at the lesson site."
 ターン、エンド、ターン！","One, Two, Three, Four. ......
 Turn, end, turn!"
 "DLC_02_0006_A_00_00_024(0)","響","未来、みんなとタイミングが合ってきたね。
-その調子だぞ！","Future, your timing is getting better with everyone.
+その調子だぞ！","Mirai, your timing is getting better with everyone.
 Keep it up!"
 "DLC_02_0006_A_00_00_025(0)","未来","は、はい……！
 響さんに褒められちゃった。でへへ♪","is yes, ......!
@@ -1239,11 +1239,11 @@ It doesn't look like that at all."
 "DLC_02_0007_A_00_00_009(0)","杏","すう……すぴー……","Suu......Supi......"
 "DLC_02_0007_A_00_00_010(0)","甜花","……すう……すう…………","...... number...... number............"
 "DLC_02_0007_A_00_00_011(0)","甘奈","杏ちゃんと甜花ちゃん
-寝ちゃったみたい……","Anzu and Tetuka
+寝ちゃったみたい……","Anzu and Tenka-chan
 I think I fell asleep: ......"
 "DLC_02_0007_A_00_00_012(0)","響","おーい、寝てたら反省会が始められないぞ？","Hey, if you go to sleep, we can't start the reflection meeting, can we?"
 "DLC_02_0007_A_00_00_013(0)","真","まあまあ、疲れてるなら休ませてあげた方が
-いいんじゃないかな？","Well, well, well. If he's tired, you should let him rest.
+いいんじゃないかな？","Well, well, well. If he's tired, you should let her rest.
 That's good, isn't it?"
 "DLC_02_0007_A_00_00_014(0)","琴葉","うーん……この様子だと、
 反省会をするのは無理そうね……","Hmmm ...... this looks like,
@@ -1410,7 +1410,7 @@ We're dealing with strong people, right?"
 ここまで来たからには、勝ちたいから！","So, I have to be more careful!
 Because I've come this far and I want to win!"
 "DLC_02_0008_A_00_00_008(0)","甜花","て、甜花も……勝ちたい……
-みんなと……一緒……！","Te, Tetuka also wants to win ...... ......
+みんなと……一緒……！","Te, Tenka-chan also wants to win ...... ......
 I'm ...... with everyone ......!"
 "DLC_02_0008_A_00_00_009(0)","菜々","はいっ！　ウサミンパワーで
 最後まで駆け抜けますよっ！","Yes, with Usamin power!
@@ -1836,7 +1836,7 @@ I could study it again: ......"
 "DLC_02_0010_A_00_00_016(0)","心白","みんなと一緒だからこそ、
 得られたものがたくさんあるんですね","It's because I'm with everyone,
 So much has been gained."
-"DLC_02_0010_A_00_00_017(0)","琴葉","未来、心白ちゃん……","The future, heart white girl: ......"
+"DLC_02_0010_A_00_00_017(0)","琴葉","未来、心白ちゃん……","Mirai Kohaku girl: ......"
 "DLC_02_0010_A_00_00_018(0)","心白","ですよね、プロデューサーさん？","Right, Producer-san?"
 "DLC_02_0010_A_00_00_019(0)","P","ああ、そうだな……","Oh, yeah. ......"
 "DLC_02_0010_A_00_00_020(0)","選択肢","琴葉を信じていた","I believed in Kotoha."

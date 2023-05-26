@@ -8,7 +8,7 @@ Yes, please have some tea."
 "main_0006_A_01_00_003(0)","Ｐ","音無さん、ありがとうございます。
 いただきますね","Thank you, Otonashi.
 Bon appétit."
-"main_0006_A_01_00_004(0)","","プルルル……プルルル……","Pullulu...... Pullulu......"
+"main_0006_A_01_00_004(0)","","プルルル……プルルル……","Ring...... Ring......"
 "main_0006_A_01_00_005(0)","Ｐ","お、ＴＶ局のディレクターからだ。
 ――はい、もしもし","Oh, it's from the director of the TV station.
 --Yes, hello."
@@ -102,7 +102,7 @@ It's the ""Discover New Idols"" section, right?"
 どうでしょうか？","Then, I would ask the five members of 283 Pro.
 What do you think?"
 "main_0006_A_01_00_039(0)","小鳥","心白ちゃんを除けば、ルミナスの中で一番の新人は、
-彼女たちですからね","The best newcomer in Luminous, except for Shinbaku-chan, is,
+彼女たちですからね","The best newcomer in Luminous, except for Kohaku-chan, is,
 It's them."
 "main_0006_A_01_00_040(0)","Ｐ","なるほど……！　それはいいですね！
 よし、その５人にしましょう！","I see. ......! That's a good one!
@@ -192,7 +192,7 @@ Let's all choose which one we prefer!"
 "main_0006_B_01_00_032(0)","甜花","──や、やった……当たった……！
 ……あれ？　えと、これって……甜花ってこと……？","I did it. ...... I won it. ......
 ...... that? What, does this mean ...... sugar beets ......?"
-"main_0006_B_01_00_033(0)","甘奈","えへへ、甜花ちゃんのレポーター、楽しみっ☆","Heh heh, I'm looking forward to seeing you as a reporter, Tetuka-chan."
+"main_0006_B_01_00_033(0)","甘奈","えへへ、甜花ちゃんのレポーター、楽しみっ☆","Heh heh, I'm looking forward to seeing you as a reporter, Tenka-chan-chan."
 "main_0006_B_01_00_034(0)","甜花","どきゅめんたりー……れぽーたー……
 あう……できるかな……","Dokkyu Mentaeri ...... Reporter ......
 Can we do a ...... ......"
@@ -204,7 +204,7 @@ I'll see you at ...... at your own pace, beet!"
 Just relax and take on the challenge like a sugar beet and you'll be fine."
 "main_0006_B_01_00_037(0)","果穂","あたしも一緒にがんばりますっ！","I'll do my best with you!"
 "main_0006_B_01_00_038(0)","凛世","凛世も……
-お手伝いを……","Rinsei also ......
+お手伝いを……","Rinze also ......
 Please help us at ......"
 "main_0006_B_01_00_039(0)","杏","……うーん。甜花ちゃん、大丈夫かな？","...... hmmm...Beet, are you okay?"
 "main_0006_B_01_00_040(0)","未来","きっと大丈夫ですよ！
@@ -348,7 +348,7 @@ Give me the secret technique of the heavenly dance!"
 I'll take it slow, so watch me!"
 "main_0006_B_03_00_027(0)","美希","ミキ、もう全部覚えたの☆
 踊ってみるから、凛世、確認してくれる？","Miki, I already memorized everything.
-I'll try to dance, Rinyo, can you check?"
+I'll try to dance, Rinze, can you check?"
 "main_0006_B_03_00_028(0)","凛世","はい……
 凛世で……よろしければ……","Yes ......
 Rinse at ...... if you like ......"
@@ -392,10 +392,10 @@ Beet, leave the follow-up to me!"
 Thank you for your help!"
 "main_0006_B_04_00_014(0)","果穂","はい、分かりましたっ！","Yes, I understand!"
 "main_0006_B_04_00_015(0)","凛世","凛世は……
-撮影を……","Rinsei can be found at ......
+撮影を……","Rinze can be found at ......
 Photography to ......"
 "main_0006_B_04_00_016(0)","咲耶","私はカメラ役の凛世の手伝いだけれど……。
-そうだな、こういうサポートはどうだろう","I'm helping Rinyo as the camera person, though. ......
+そうだな、こういうサポートはどうだろう","I'm helping Rinze as the camera person, though. ......
 Yes, how about this kind of support"
 "main_0006_B_04_00_017(0)","咲耶","カメラ……アクション！","Camera ...... action!"
 "main_0006_B_04_00_018(0)","凛世","それでは……
@@ -459,11 +459,11 @@ Hehehe, don't hesitate to ask me!"
 いいの……？","Wow, wow. ......!
 Are you sure ......?"
 "main_0006_B_04_00_038(0)","貴音","甜花。良きどきゅめんたりーを作り上げるのは、
-甜花だけの仕事ではありません","Tetuka. what makes a good Dokyu Mentari,
+甜花だけの仕事ではありません","Tenka-chan. what makes a good Dokyu Mentari,
 It's not just a job for sugar beets."
 "main_0006_B_04_00_039(0)","貴音","皆で、協力してまいりましょう","Let's all work together."
 "main_0006_B_04_00_040(0)","甘奈","甘奈も甜花ちゃんを、しっかりサポートするから☆
-一緒に頑張っていこっ！","Amana will support Tetuka-chan as well.
+一緒に頑張っていこっ！","Amana will support Tenka-chan-chan as well.
 Let's work hard together!"
 "main_0006_B_04_00_041(0)","果穂","亜美さんと真美さんにも来てもらいましたっ！","Ami and Mami also came!"
 "main_0006_B_04_00_042(0)","甜花","み……みんな、いる……！","They are all at ......!"
@@ -513,9 +513,9 @@ Like ...... that expresses suppleness and lightness to the fingertips."
 "main_0006_B_04_00_060(0)","甜花","にへへ……","2hehehe ......"
 "main_0006_B_04_00_061(0)","Ｐ","（みんなにインタビューしたことで、
 甜花の緊張が解けてきたみたいだな）","(By interviewing everyone,
-(It sounds like the tension in the beet is starting to dissipate.)"
+(It sounds like the tension in Tenka is starting to dissipate.)"
 "main_0006_B_04_00_062(0)","甘奈","凛世ちゃん、カメラ借りていいかなっ。
-甜花ちゃんの勇姿、撮っておきたいんだ～","Rinyo, can I borrow your camera?
+甜花ちゃんの勇姿、撮っておきたいんだ～","Rinze, can I borrow your camera?
 I want to take a picture of Beetika's bravery~!"
 "main_0006_B_04_00_063(0)","凛世","ふふ……
 カメラは廻る……","Hmmm... ......
@@ -542,7 +542,7 @@ Leave it to us to help you!"
 I'll do my best to support you."
 "main_0006_B_06_00_008(0)","凛世","ふふ……
 では……凛世も……","Hmmm... ......
-Then ...... Rinsei also ......"
+Then ...... Rinze also ......"
 "main_0006_B_06_00_009(0)","Ｐ","撮影の準備は整ったみたいだな。
 もうすぐトークショーが始まるぞ","Looks like we're ready to shoot.
 The talk show is about to start."
@@ -634,7 +634,7 @@ I'd love to have new pouches and accessories."
 Let's go shopping!"
 "main_0006_B_06_00_044(0)","美嘉","あ、いいね。みんなで出かけようか♪
 翼ちゃんたちは、どこか行きたいとこある？","Oh, great...let's all go out together...
-Wings, do you have somewhere you want to go?"
+Tsubasa, do you have somewhere you want to go?"
 "main_0006_B_06_00_045(0)","翼","わたしは、美嘉さんのおススメショップで
 コーデとかしてもらえたら、嬉しいな♪","I am at Mika's recommended store.
 I'd be happy to have you do some coding or something... ♪"
@@ -673,7 +673,7 @@ Would you like to try making udon noodles, Anzu?"
 せっかくだし勝負する？","Oh, that's nice, making udon noodles.
 Well, now that we're here, do you want to play?"
 "main_0006_B_06_00_058(0)","未来","あ、杏さん！
-静香ちゃんにうどん勝負なんて、ムボウすぎですっ！","Oh, apricot!
+静香ちゃんにうどん勝負なんて、ムボウすぎですっ！","Oh, Anzu!
 I am too much of a mbou to compete with Shizuka-chan for udon!"
 "main_0006_B_06_00_059(0)","杏","いや、勝算はあるよ。杏はお湯を注いで、
 ３分から５分くらいで完成するから","No, the odds are against it. Anzu pour hot water,
@@ -693,10 +693,10 @@ Authentic dashi broth is available on the market."
 I can make a cup of udon that beats a cup of udon. ......"
 "main_0006_B_06_00_065(0)","杏","ふふふ、静香ちゃんは気づいたようだね。
 杏のカップうどん、ちょい足しレシピの恐ろしさに！","Hmmm, Shizuka seems to have noticed.
-Apricot cup udon, to the horror of a little recipe!"
+Anzu cup udon, to the horror of a little recipe!"
 "main_0006_B_06_00_066(0)","杏","家から出ないため箱買いしたカップうどんに、
 改良を重ね完成させた１杯が、杏にはあるのだ！","To a cup of udon that I bought a box of because I never leave the house,
-The one cup that has been improved and perfected is found at Apricot!"
+The one cup that has been improved and perfected is found at Anzu!"
 "main_0006_B_06_00_067(0)","静香","杏さんの手によって、
 完成された１杯のカップうどん――","By Anzu,
 One cup of udon--completed."
@@ -711,7 +711,7 @@ Anzu also wants to eat the udon noodles that Shizuka-chan makes."
 I would like to eat the udon of both of you, so I will be a judge!"
 "main_0006_B_06_00_071(0)","咲耶","フフ、トークが盛り上がるように、
 杏の咄嗟の判断でシナリオを作ったようだね","Pfft, to make the talk more exciting,
-Looks like apricot spur of the moment decisions created the scenario."
+Looks like Anzu spur of the moment decisions created the scenario."
 "main_0006_B_06_00_072(0)","咲耶","静香と杏のうどん勝負、なかなか面白そうだ。
 私も審査を務められたらって思わずにいられないよ","Shizuka and Anzu's udon competition sounds quite interesting.
 I can't help but wish I could serve as a judge too."
@@ -900,7 +900,7 @@ I was wondering about that too!"
 私もプレイしてみたかったんです","That's the latest series of the famous fighting game.
 I wanted to play too."
 "main_0006_C_01_00_019(0)","杏","へ～、心白ちゃん、よく知ってるね。
-未来ちゃんも格ゲーが気になるとか、意外～","Heh, Shinbaku, you know a lot.
+未来ちゃんも格ゲーが気になるとか、意外～","Heh, Kohaku, you know a lot.
 I was surprised to hear that Mirai is also interested in gaming."
 "main_0006_C_01_00_020(0)","響","はいはーい、自分、アイディアがあるぞ。
 みんなでランチを作る会、とかどうかな？","Yes, yes, myself, I have an idea.
@@ -928,14 +928,14 @@ I'm in the mood for some window shopping."
 Let's cover the shopping group on Saturday, their day off."
 "main_0006_C_01_00_028(0)","咲耶","全部の取材が終わったら、
 私たちも羽を伸ばすとしよう","When all the interviews are over,
-Let us stretch our wings, too."
+Let us stretch our Tsubasa, too."
 "main_0006_C_01_00_029(0)","果穂","はいっ！　とっても楽しみですっ！","Yes! I'm really looking forward to it!"
 "main_0006_C_01_00_030(0)","甜花","にへへ……
 て、甜花……和風カフェに行きたい……","2hehehe ......
 Te, Tianhua ...... want to go to a Japanese style cafe ......"
 "main_0006_C_01_00_031(0)","凛世","ふふ……
 凛世も……","Hmmm... ......
-Rinsei also ......"
+Rinze also ......"
 "main_0006_C_01_00_032(0)","甘奈","決まり☆
 お休みできるように、お仕事頑張ろうねっ！","Done☆
 Good luck with your work so that you can rest!"
@@ -952,8 +952,8 @@ What kind of games are you guys playing?"
 でも、甜花たちは……ドキュメンタリー……！","I want to play a game ......, I want to play ......
 But Tenka are ...... documentary ......!"
 "main_0006_C_02_00_006(0)","咲耶","フフ、甜花は偉いね。
-──凛世、ゲーム中のカメラの位置なのだけど……","Huh, the beet is great.
-─ ─ Rinsei, it's the position of the camera in the game ......"
+──凛世、ゲーム中のカメラの位置なのだけど……","Huh, Tenka is great.
+─ ─ Rinze, it's the position of the camera in the game ......"
 "main_0006_C_02_00_007(0)","凛世","はい……
 お任せください……","Yes ......
 We'll take care of it. ......"
@@ -992,7 +992,7 @@ Phew, I'm off to make tea for everyone!"
 It's decided that it will be me and Ranko!"
 "main_0006_C_02_00_019(0)","杏","じゃ、肩慣らしってことで……。
 杏は戦士キャラでいこうかな","Well, let's just call it a shoulder break. ......
-I think I'll go with a warrior character for the apricot."
+I think I'll go with a warrior character for Anzu."
 "main_0006_C_02_00_020(0)","蘭子","我は召喚する……。
 いでよ、漆黒の翼を背負いし者！","I summon .......
 Come, you who bear jet-black wings!"
@@ -1026,16 +1026,16 @@ Requiem heard from Paradise Lost: ......"
 あとは実際に操作すれば、大丈夫だと思います","......I see, I now know how to operate it.
 Now all we need to do is actually operate it, and I think we'll be fine."
 "main_0006_C_02_00_032(0)","千早","心白、見ていただけなのに分かるの？
-……なら、私と代わってもらえないかしら","Shinbaku, how can you tell when you were just watching?
+……なら、私と代わってもらえないかしら","Kohaku, how can you tell when you were just watching?
 If you're ......, could you put me on the phone with you?"
 "main_0006_C_02_00_033(0)","果穂","千早さんが心白さんと交代ですっ！
-次の対戦はいったいどうなるんでしょうか！？","Chihaya-san has switched with Shinbaku-san!
+次の対戦はいったいどうなるんでしょうか！？","Chihaya-san has switched with Kohaku-san!
 What the heck will the next matchup be!"
 "main_0006_C_02_00_034(0)","律子","……このゲーム、杏は相当やりこんでるわ。
-１対３でも、追い詰めるのは難しいかも……","...... This game, Apricot is pretty much done.
+１対３でも、追い詰めるのは難しいかも……","...... This game, Anzu is pretty much done.
 Even one-on-three, it can be hard to track down: ......"
 "main_0006_C_02_00_035(0)","杏","次は心白ちゃんか……。
-じゃあ、そろそろ２戦目いくよー！！","Next, you can see the heart white girl or .......
+じゃあ、そろそろ２戦目いくよー！！","Next, you can see Kohaku girl or .......
 Well, it's time to go for the second round!"
 "main_0006_C_02_00_036(0)","果穂","──始まりましたー！
 未来さん、蘭子さん、いい感じですっ！","It has begun!
@@ -1053,7 +1053,7 @@ It's hard to time it right."
 ファイトファイト～！","Anzu, big peanut!
 Fight Fight Fight~!"
 "main_0006_C_02_00_041(0)","雪歩","心白ちゃん、すごい……。
-これなら杏ちゃんに勝てるかも……？","Heart White, you are amazing .......
+これなら杏ちゃんに勝てるかも……？","Kohaku, you are amazing .......
 Maybe this will win over Anzu: ......?"
 "main_0006_C_02_00_042(0)","未来","こ、心白さんに負けてられませんっ！
 蘭子ちゃん、左右から杏さんを挟みこみましょう！","I can't lose to Kohaku-san!
@@ -1064,7 +1064,7 @@ My wings are being consumed by black flames. ......"
 "main_0006_C_02_00_044(0)","（蘭子ログ）","（ごめんなさい、失敗です～っ！）","(Sorry, it's a mistake~!)"
 "main_0006_C_02_00_045(0)","果穂","あーっ！　未来さんと蘭子さんがやられましたっ！
 残ったのは杏さんと心白さんです！","Aah! Mirai and Ranko were killed!
-The remaining members are Anzu and Shinbaku!"
+The remaining members are Anzu and Kohaku!"
 "main_0006_C_02_00_046(0)","心白","次は杏さんが出していた、あの技を……。
 確か、こうやって……","Next up is that technique that Anzu was showing at .......
 As I recall, this is how ......"
@@ -1103,13 +1103,13 @@ You're discovering a lot when you're with me."
 "main_0006_C_06_00_012(0)","千早","ああやって、誰かがゲームをするのを見る、
 というのも悪くないかと","Oh, and watch someone play the game,
 is not a bad idea."
-"main_0006_C_06_00_013(0)","Ｐ","雪歩、ゲームはやってなかったけど楽しめているか？","Snowflake, I know you didn't play the game, but are you enjoying it?"
+"main_0006_C_06_00_013(0)","Ｐ","雪歩、ゲームはやってなかったけど楽しめているか？","Yukiho, I know you didn't play the game, but are you enjoying it?"
 "main_0006_C_06_00_014(0)","雪歩","はい、とっても楽しんでます","Yes, I enjoy it very much."
 "main_0006_C_06_00_015(0)","雪歩","咲耶さんたちは撮影で大変かもですけど、
 おかげで楽しいオフになりました","Sakuya and the others may have a hard time with the filming, though,
 Thanks to you, it was a fun day off!"
 "main_0006_C_06_00_016(0)","Ｐ","それに、雪歩の淹れてくれたお茶のおかげで、
-みんなもリラックスできていたぞ","Besides, thanks to the tea made by snowflakes,
+みんなもリラックスできていたぞ","Besides, thanks to the tea made by Yukihos,
 Everyone was relaxed, too."
 "main_0006_C_06_00_017(0)","雪歩","本当ですか！
 そう言ってもらえると、嬉しいですぅ♪","Really?
@@ -1158,7 +1158,7 @@ Today I'm a reporter, so please visit ......!"
 また今度、みなさんと一緒にゲームがしたいです！","But it looked like a lot of fun,
 I would like to play games with you all again sometime!"
 "main_0006_C_06_00_033(0)","Ｐ","凛世、撮影お疲れ様。
-どうだ、今日のゲームプレイ収録の感想は？","Rinyo, good job on the photo shoot.
+どうだ、今日のゲームプレイ収録の感想は？","Rinze, good job on the photo shoot.
 What do you think of today's gameplay recording?"
 "main_0006_C_06_00_034(0)","凛世","はい……
 大層な撮れ高を……頂きました……","Yes ......
@@ -1182,7 +1182,7 @@ Changed hence ......"
 同じアイドルとして、共感することがあるんだろう）","(They interact with others in a caring manner.
 (As fellow idols, I'm sure you can relate.)"
 "main_0006_B_05_00_003(0)","","ガチャッ","(with a) slamming noise (door, telephone receiver)"
-"main_0006_B_05_00_004(0)","Ｐ","心白……どうしたんだ？","What's up with the mind white ......?"
+"main_0006_B_05_00_004(0)","Ｐ","心白……どうしたんだ？","What's up with Kohaku ......?"
 "main_0006_B_05_00_005(0)","心白","あ……お疲れ様です。
 レッスン場にいたんです","Ah ...... thanks for your help.
 I was in the lesson hall."
@@ -1204,7 +1204,7 @@ A different vibe is ....... That's what it looked like to me."
 "main_0006_B_05_00_013(0)","心白","あの、まだレッスンしているみたいです","Um, I think he's still giving lessons."
 "main_0006_B_05_00_014(0)","Ｐ","そうか、ありがとう。
 心白、行ってみるよ","Okay, thanks.
-Shinbaku, I'll try to go there."
+Kohaku, I'll try to go there."
 "main_0006_B_05_00_015(0)","咲耶","それにしても、みんなの吸収力は素晴らしいね。
 ダンスも歌も、どんどん上手くなっていっている","By the way, everyone's ability to absorb is amazing.
 They are getting better and better at dancing and singing."
@@ -1235,7 +1235,7 @@ We all wanted to do ...... self-guided lessons, ......!"
 かまわないけど、理由を聞いておきたいな","Hmmm, yes, ...... if it's not too much to ask.
 I don't mind, but I'd like to hear why."
 "main_0006_B_05_00_026(0)","凛世","凛世たちも……
-負けては……おられず……","Rinyo and others are also ......
+負けては……おられず……","Rinze and others are also ......
 You can't lose: ......"
 "main_0006_B_05_00_027(0)","甘奈","それに、この曲は大事な曲だから
 たくさん頑張りたいのっ！","Besides, this is an important song.
@@ -1261,8 +1261,8 @@ But don't ever overdo it!"
 しっかりフォローしていかないとな……）","(Those kids have both enthusiasm and pressure. ......
 I'll have to follow up closely (......)"
 "main_0006_B_05_00_038(0)","Ｐ","（心白……みんなの様子によく気づいたな。
-今度もう少し話を聞いてみようか）","(mind white ...... How did you notice how everyone was doing?
-(I'll talk to him some more next time.)"
+今度もう少し話を聞いてみようか）","(Kohaku ...... How did you notice how everyone was doing?
+(I'll talk to her some more next time.)"
 "main_0006_C_03_00_001(0)","","――ランチ組撮影開始――","--Lunch group begins filming..."
 "main_0006_C_03_00_002(0)","Ｐ","（今日は、ランチ組の撮影か……）","(Today, you're shooting for the lunch group or ......)"
 "main_0006_C_03_00_003(0)","咲耶","さあ、今日はランチ組の撮影だね。
@@ -1278,8 +1278,8 @@ Please wait: ......"
 "main_0006_C_03_00_007(0)","咲耶","フフ、今日は私がカメラかな……となると……","Huh, I guess I'm the camera today. ...... would be ......"
 "main_0006_C_03_00_008(0)","凛世","いつもの……キュー出しは……
 サポートの凛世が……","The usual ...... cue out is ......
-Rinyo in support of ......"
-"main_0006_C_03_00_009(0)","咲耶","ありがとう凛世、頼んだよ","Thanks Rinyo, I'm counting on you."
+Rinze in support of ......"
+"main_0006_C_03_00_009(0)","咲耶","ありがとう凛世、頼んだよ","Thanks Rinze, I'm counting on you."
 "main_0006_C_03_00_010(0)","凛世","では……まいります……
 カメラ……アクション……！","Now we will go to ...... ......
 Camera ...... action ......!"
@@ -1459,7 +1459,7 @@ Brother, I hope you're looking forward to it... ♪"
 撮影もめーっちゃ面白かったし！","I'm in high spirits, I'm in a great mood!
 The filming was a lot of fun!"
 "main_0006_C_06_01_020(0)","真美","でも、今度はちゃんとイタズラするかんね。
-楽しみに待っているがよい～！","But this time, I'm going to play a prank on him.
+楽しみに待っているがよい～！","But this time, I'm going to play a prank on her.
 You can look forward to it~!"
 "main_0006_C_06_01_021(0)","Ｐ","いや、それは遠慮する","No, I'll pass on that."
 "main_0006_C_06_01_022(0)","真美","んっふっふ～。そうは言いつつも、兄ちゃんが
@@ -1512,7 +1512,7 @@ She's having fun, thank goodness.)"
 "main_0006_C_04_00_003(0)","甜花","次は……ショッピング組……
 レポーターは……えと、えっと……","Next to ...... shopping group ......
 Reporter is ...... uh, let's see, ......"
-"main_0006_C_04_00_004(0)","凛世","……はい……凛世が……","...... yes ...... Rinsei is ......"
+"main_0006_C_04_00_004(0)","凛世","……はい……凛世が……","...... yes ...... Rinze is ......"
 "main_0006_C_04_00_005(0)","咲耶","集合場所はこのあたりのはずだ。
 ……さて、みんなはどこに──","The meeting place should be around here.
 ...... Now, where is everyone..."
@@ -1775,7 +1775,7 @@ It was very, very, very cool!"
 It was very inspiring and a great stage to be on."
 "main_0006_C_05_00_017(0)","凛世","天網恢恢……
 凛世も……学びました……","Heaven's net is coarse and coarse, but it's not coarse and coarse. ......
-Rinyo also learned ...... ......"
+Rinze also learned ...... ......"
 "main_0006_C_05_00_018(0)","甜花","あれ……？","Is that ......?"
 "main_0006_C_05_00_019(0)","果穂","……？
 甜花さん、どうしたんですか？","......?
@@ -1880,7 +1880,7 @@ That feeling will show in our performance."
 "main_0006_D_01_00_020(0)","春香","ファンのためかぁ……。それって大事なことだよね！","For the fans. ....... That's important!"
 "main_0006_D_01_00_021(0)","律子","咲耶、ありがとう。それじゃあ、次は……。
 果穂、凛世、甘奈、甜花、あなたたちはどう？","Thank you, Sakuya, and now on to .......
-Kaho, Rinyo, Amana, Tetika, how about you guys?"
+Kaho, Rinze, Amana, Tenka-chan, how about you guys?"
 "main_0006_D_01_00_022(0)","果穂","みんなが笑顔になれたらいいなって思います！
 だから、歌もダンスも笑顔を忘れませんっ！","I hope it brings a smile to everyone's face!
 So I will never forget to smile when I sing or dance!"
@@ -1891,7 +1891,7 @@ Rinze will..."
 重なるよう……","We wish you all the best ...... ......
 To overlap: ......"
 "main_0006_D_01_00_025(0)","甘奈","甘奈はね、甜花ちゃんと、みんなと一緒に
-キラキラしたい！","Amana, you know, with Tetuka and everyone else.
+キラキラしたい！","Amana, you know, with Tenka-chan and everyone else.
 I want to sparkle!"
 "main_0006_D_01_00_026(0)","甘奈","だから、曲の表現も、キラキラってなるように
 頑張ってるんだ～☆","So, the expression of the song should also be sparkling.
@@ -1998,7 +1998,7 @@ Together with everyone ......, we will do our best ......!"
 "main_0006_D_02_00_033(0)","Ｐ","（おや、あそこにいるのは……。
 みんなの様子が気になっているんだろうか）","(Oh, look who's over there: .......
 (I wonder if he's wondering how everyone else is doing)"
-"main_0006_D_02_00_034(0)","Ｐ","心白、差し入れを買いに行かないか？","Heart white, why don't we go buy some refreshments?"
+"main_0006_D_02_00_034(0)","Ｐ","心白、差し入れを買いに行かないか？","Kohaku, why don't we go buy some refreshments?"
 "main_0006_D_02_00_035(0)","心白","プロデューサーさん！？　見られていたんですね。
 差し入れなら、ケーキなど甘いものが良いかと……","Producer-san! You were seen, weren't you?
 If you want to bring something sweet, like a cake, ......"
@@ -2031,7 +2031,7 @@ Your producer is very chic."
 What does 'iki' mean?"
 "main_0006_D_02_00_045(0)","咲耶","そうだね……さりげなくかっこいい、かな。
 影ながら誰かを支える、彼のような人を指す言葉さ","Yes, ...... casually cool, I guess.
-It's a term for someone like him who supports others in the shadows."
+It's a term for someone like her who supports others in the shadows."
 "main_0006_D_02_00_046(0)","果穂","さりげなくカッコいい……！
 なんだかヒーローみたいですっ！","Casually cool. ......
 I feel like a hero!"
@@ -2046,7 +2046,7 @@ We appreciate your kind attention. ......"
 いただきますっ☆","Ehehe, thanks, producer!
 Bon appétit!"
 "main_0006_D_02_00_051(0)","Ｐ","（こっそりと様子を見ていたが、
-喜んでくれてよかった。この調子で頑張ってくれ）","(I was sneaking a look at him, though,
+喜んでくれてよかった。この調子で頑張ってくれ）","(I was sneaking a look at her, though,
 Glad you're happy, keep up the good work.)"
 "main_0006_D_03_00_001(0)","Ｐ","（咲耶たちが自主レッスンできるよう、休日の
 レッスン場を開放し、俺も付き合うことにした）","(On holidays, so that Sakuya and her students can take lessons on their own.
@@ -2265,7 +2265,7 @@ I'm starting to look forward to those auditions!)"
 What is the story of that ...... today?"
 "main_0006_X_01_00_004(0)","Ｐ","そんなに大した話があるわけではないんだ。
 心白は最近、２８３プロのみんなを見てるだろ？","We don't have that big of a story to tell.
-You've been watching everyone at 283Pro lately, right, Shinbaku?"
+You've been watching everyone at 283Pro lately, right, Kohaku?"
 "main_0006_X_01_00_005(0)","Ｐ","ステージ活動と違って、ドキュメンタリー番組用の
 収録だしな。どこに興味をもったのかと思ってな","Unlike stage activities, for documentary programs
 It's a recording, and I was wondering where you got the interest."
@@ -2285,7 +2285,7 @@ I couldn't help but follow it with my eyes."
 いるから、俺も安心してみていられるんだ","I agree with Kohaku, it's great to record a smile like that.
 I can watch them without worrying about them."
 "main_0006_X_01_00_011(0)","心白","……みんな素敵な笑顔だと思います","...... I think they all have beautiful smiles!"
-"main_0006_X_01_00_012(0)","Ｐ","心白だって、いい笑顔を持ってると思うぞ","I think even heart white has a nice smile."
+"main_0006_X_01_00_012(0)","Ｐ","心白だって、いい笑顔を持ってると思うぞ","I think even Kohaku has a nice smile."
 "main_0006_X_01_00_013(0)","心白","…………","…………"
 "main_0006_X_01_00_014(0)","心白","小さい頃からお母さんに言われ人の演技を見ていま
 した。だから、見たものは自然と体に入ってきます","Ever since I was a little girl, my mother told me to watch other people's performances.
@@ -2569,7 +2569,7 @@ Was such an announcement on today's schedule?"
 I don't think it was in our script."
 "main_0006_Z_04_00_011(0)","心白","…………","…………"
 "main_0006_Z_04_00_012(0)","貴音","心白、顔色が芳しくないようですね。
-どうかしましたか？","Shinbaku, your complexion does not look good.
+どうかしましたか？","Kohaku, your complexion does not look good.
 Is something wrong?"
 "main_0006_Z_04_00_013(0)","心白","あ……すみません。だ、大丈夫です。
 帰る準備をしないといけませんね","Oh, ...... sorry, it's okay.
@@ -2619,7 +2619,7 @@ I'm officially entering the ""Starlit Season""."
 会場を盛り上げてみせる！","So we ...... absolutely more than luminous,
 I will try to liven up the venue!"
 "main_0006_Z_04_00_030(0)","亜夜","……心白、よく見てなさい。
-あたしは……あなたを超えてやるわ！","...... mind white, take a good look at it.
+あたしは……あなたを超えてやるわ！","...... Kohaku, take a good look at it.
 I'll go over ...... you!"
 "main_0006_Z_04_00_031(0)","心白","こ、超えるって……どういうこと？","What do you mean by exceeding ......?"
 "main_0006_Z_04_00_032(0)","亜夜","分からないのなら別にいいわ。……ともかく、
@@ -2630,7 +2630,7 @@ You guys should definitely attend the next show!"
 ...... as an idol, on stage!"
 "main_0006_Z_04_00_034(0)","心白","…………","…………"
 "main_0006_Z_04_00_035(0)","Ｐ","（どうも亜夜は心白に対して、
-強い対抗心があるみたいだな……）","(Thanks, Aya, for the heart white,
+強い対抗心があるみたいだな……）","(Thanks, Aya, for Kohaku,
 (Seems like there's a strong rivalry. ......)"
 "main_0006_Z_04_00_036(0)","亜夜","じゃ、そういうことだから。
 せいぜい頑張ってちょうだい","Well, then, that's how it is.

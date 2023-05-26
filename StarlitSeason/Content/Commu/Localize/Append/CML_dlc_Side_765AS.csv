@@ -259,11 +259,11 @@ M~......"
 I think it's time for a break."
 "DLC_04_0002_A_00_00_033(0)","雪歩","は、はいいぃ～……。やっと休憩ですぅ～","Hahayyyy~....... Finally, a break!"
 "DLC_04_0002_A_00_00_034(0)","真","雪歩、大丈夫？
-はい、このタオル使っていいよ","Snowflake, are you okay?
+はい、このタオル使っていいよ","Yukiho, are you okay?
 Yes, you can use this towel."
 "DLC_04_0002_A_00_00_035(0)","貴音","差し入れにおにぎりを持ってきました。
 雪歩、よければどうぞ","I brought onigiri (rice balls) to bring in.
-Snowflake, if you would like."
+Yukiho, if you would like."
 "DLC_04_0002_A_00_00_036(0)","あずさ","雪歩ちゃん、冷えたお茶をどうぞ♪","Yukiho, have some cold tea... ♪"
 "DLC_04_0002_A_00_00_037(0)","雪歩","み、みんな、ありがとうございますぅ","Thank you, everyone!"
 "DLC_04_0002_A_00_00_038(0)","P","みんな、お疲れ様。もうあんなに
@@ -320,7 +320,7 @@ Well then, let's give it a try right away."
 そのあと頭から通しでやってみよう","Yeah, check the back and forth connections first.
 After that, let's go through it head to head."
 "DLC_04_0002_A_00_00_057(0)","貴音","真、雪歩。試すのは、
-もう少し休憩してからにしましょう","True, snowflake,
+もう少し休憩してからにしましょう","True, Yukiho,
 Let's take a break a little longer."
 "DLC_04_0002_A_00_00_058(0)","あずさ","このあともレッスンがあるから、
 無理はよくないものね","I have another lesson after this,
@@ -719,7 +719,7 @@ Let's get into it!"
 "DLC_04_0003_A_00_00_071(0)","P","（みんな、いい緊張感を持っているようだな）","(They all seem to have a nice sense of urgency about them.)"
 "DLC_04_0003_A_00_00_072(0)","小鳥","プロデューサーさん、お疲れさまです","Thanks for your hard work, producer!"
 "DLC_04_0003_A_00_00_073(0)","小鳥","入館証、順調に渡せていますか？","Are you handing over your entrance pass in good order?"
-"DLC_04_0003_A_00_00_074(0)","P","いえ、まだ全然渡せてなくて……","No, I haven't given it to him yet at all. ......"
+"DLC_04_0003_A_00_00_074(0)","P","いえ、まだ全然渡せてなくて……","No, I haven't given it to her yet at all. ......"
 "DLC_04_0003_A_00_00_075(0)","P","時間を取って、ひとりひとりに
 ちゃんと話をして伝えたいんです","Take the time to meet with each and every one of them.
 I want to talk to them and tell them."
@@ -1123,7 +1123,7 @@ I can't wait for the time to come!"
 ちょっぴり不安もあるけど、みんなが一緒だから……","Oh, there are a lot of customers.
 I'm a little anxious, but we're all in this together. ......"
 "DLC_04_0005_A_00_00_070(0)","真","そうだよ、雪歩。
-みんなでファンのみんなを笑顔にしよう！","That's right, snowflake.
+みんなでファンのみんなを笑顔にしよう！","That's right, Yukiho.
 Let's all make all our fans smile!"
 "DLC_04_0005_A_00_00_071(0)","P","（いい感じにボルテージが上がっているみたいだな）","(Sounds like you've got some good voltage going on.)"
 "DLC_04_0005_A_00_00_072(0)","P","もう間もなく開演時間になるぞ。
@@ -1171,8 +1171,8 @@ I love you more than anyone in the world!"
 撮影が無事に終わってよかったです","Heh heh.
 I'm glad the shoot went well."
 "DLC_04_0006_A_00_00_018(0)","P","お疲れ様、雪歩、真……。
-って、どうした雪歩？　顔がにやけているぞ","Good job, snowflake, true .......
-What's the matter, snowflake? You've got a scowl on your face."
+って、どうした雪歩？　顔がにやけているぞ","Good job, Yukiho, true .......
+What's the matter, Yukiho? You've got a scowl on your face."
 "DLC_04_0006_A_00_00_019(0)","雪歩","えっ、そ、そうですか？　えへへっ♪
 真ちゃんがすごくかっこよかったから、つい……","Eh, yeah, is that so? Heh heh heh... ♪
 Shin-chan was so cool that I ended up going to ......"
@@ -1181,7 +1181,7 @@ Shin-chan was so cool that I ended up going to ......"
 I was soooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo excited!"
 "DLC_04_0006_A_00_00_021(0)","真","あはは、ありがとう。
 雪歩もかわいかったよ","Haha, thanks.
-Snowflake was cute too."
+Yukiho was cute too."
 "DLC_04_0006_A_00_00_022(0)","雪歩","ほ、ホントに！？　あのね、かっこよかったのも
 そうだけど……真ちゃん、すごくかわいかったよ","Oh, really! You know, it was cool, too.
 Yes, but ...... true, you were so cute!"
@@ -1189,13 +1189,13 @@ Yes, but ...... true, you were so cute!"
 ボクがかわいい……えへへ……","What? Is that so?
 I'm cute......hehehe......"
 "DLC_04_0006_A_00_00_024(0)","P","（真も雪歩も得られたものがあったみたいだな。
-俺からも一言なにか言ってあげるか。えーっと……）","(It seems that both true and snowflake got something out of it.
+俺からも一言なにか言ってあげるか。えーっと……）","(It seems that both true and Yukiho got something out of it.
 Let me say something to you too...let's see... ......)"
 "DLC_04_0006_A_00_00_025(0)","選択肢","真、上手く
 演じられていたぞ","True, well
 You've been played."
 "DLC_04_0006_A_00_00_026(0)","選択肢","雪歩も、
-すごくよかったぞ","Snowflakes, too,
+すごくよかったぞ","Yukihos, too,
 That was very good."
 "DLC_04_0006_A_00_00_027(0)","P","難しい役どころだけど、上手く演じ切れていた。
 さすが真だな","It was a difficult role to play, but it was played well.
@@ -1222,7 +1222,7 @@ I wish I could."
 自信に満ち溢れていた）","(The expressions on their faces when they laugh at each other like that,
 (She was full of confidence.)"
 "DLC_04_0006_A_00_00_035(0)","P","（真も雪歩も昔と比べて、
-見違えるように演技が上手くなったな……）","(Both true and snowflake compared to the past,
+見違えるように演技が上手くなったな……）","(Both true and Yukiho compared to the past,
 You're acting so differently now. ......)"
 "DLC_04_0006_A_00_00_036(0)","真","プロデューサー、すみません！
 準備に手間取っちゃって……","Sorry, producer!
@@ -1274,11 +1274,11 @@ Ehehe ......"
 嬉しくて、楽しくて、仕方なかったんです","I was able to perform in a way I couldn't before,
 I was happy, I was having fun, I couldn't help it."
 "DLC_04_0006_A_00_00_055(0)","P","そうか……。雪歩は、事務所に入った頃は、
-苦手なことから逃げ出しがちだったけど……","Well, ....... snowflake, when I started in the office,
+苦手なことから逃げ出しがちだったけど……","Well, ....... Yukiho, when I started in the office,
 I tended to run away from things I wasn't good at. ......"
 "DLC_04_0006_A_00_00_056(0)","P","少しずつチャレンジをするようになったな。
 頑張る雪歩の姿はみんなに勇気を与えているよ","You're starting to take on a little bit of a challenge.
-The sight of snowflakes working hard gives courage to all of us!"
+The sight of Yukihos working hard gives courage to all of us!"
 "DLC_04_0006_A_00_00_057(0)","P","ルミナスで活動していた時も、
 雪歩から挑戦する勇気を学んだアイドルは多いと思う","Even when I was active in Luminous,
 I think many idols have learned the courage to take on challenges from Yukiho."
@@ -1293,7 +1293,7 @@ Starlit Rainbow's entrance pass: ......"
 Thank you very much for your cooperation!"
 "DLC_04_0006_A_00_00_061(0)","P","（今日は亜美と真美が出演する生放送の
 バラエティ番組に同行することになった）","(Today, Ami and Mami will be performing live on the air.
-(I was to accompany him to a variety show.)"
+(I was to accompany her to a variety show.)"
 "DLC_04_0006_A_00_00_062(0)","司会者","……以上が、視聴者から募集した映像でした。
 いやあ、かわいい双子の赤ちゃんだったね","Over ...... was the video that was solicited from viewers.
 Well, they were cute twin babies."
@@ -1712,7 +1712,7 @@ I always made mistakes, didn't I?"
 "DLC_04_0009_A_00_00_022(0)","P","そんな春香が、みんなと一緒に頑張っている","Haruka is doing such a great job with everyone."
 "DLC_04_0009_A_00_00_023(0)","P","時には先輩として、
 背中を押してあげているんだ","Sometimes as a senior,
-I'm giving him a push."
+I'm giving her a push."
 "DLC_04_0009_A_00_00_024(0)","P","スターリットシーズンでもそうだっただろう？","Didn't we do that in the Stalit season?"
 "DLC_04_0009_A_00_00_025(0)","P","それは誰にでもできることじゃない。
 春香だからできることなんだよ","That's not something anyone can do.
@@ -1845,7 +1845,7 @@ Gusu ...... ugh~ ...... I can't even put it into words!"
 "DLC_04_0010_A_00_00_012(0)","伊織","ちょっと、何泣いているのよ。
 そんなに泣かれたら、うつっちゃうじゃない……","Hey, what are you crying about?
 If you cry that much, you'll get depressed. ......"
-"DLC_04_0010_A_00_00_013(0)","P","そ、そうだぞ、雪歩、伊織……","Yes, that's right, snowflake, Iori: ......"
+"DLC_04_0010_A_00_00_013(0)","P","そ、そうだぞ、雪歩、伊織……","Yes, that's right, Yukiho, Iori: ......"
 "DLC_04_0010_A_00_00_014(0)","律子","って、なんでプロデューサーまで
 涙目になってるんですか！　まったく……","I mean, why even the producer?
 Are you getting teary eyed! Totally ......"
@@ -1920,7 +1920,7 @@ Each one is so charming, it's hard to decide..."
 Because of what it says: ......"
 "DLC_04_0010_A_00_00_044(0)","真","それなら、ボクたちの方からファンのみんなに
 会いに行っちゃえばいい、って思うんだ","Then, we'll give it to our fans.
-I think, ""Why don't I go see him?"
+I think, ""Why don't I go see her?"
 "DLC_04_0010_A_00_00_045(0)","貴音","ふふ、きっとファンの皆様に
 喜んでいただけるでしょう","Hmmm... I'm sure that fans will
 You'll be glad you did."
