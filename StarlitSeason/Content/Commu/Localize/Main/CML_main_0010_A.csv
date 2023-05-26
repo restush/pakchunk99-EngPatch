@@ -561,7 +561,7 @@ It's a song I'm glad to have come across now."
 "main_0010_X_00_00_033(0)","Ｐ","……心白には黙っていたけれど、
 亜夜とふたりだけで会って、聞いた話がある","...... though I didn't tell Kohaku,
 I met with Aya alone, and we talked about what I heard."
-"main_0010_X_00_00_034(0)","Ｐ","『ある日突然、心白はあたしの前から消えた……』","""One day, all of a sudden, Xinhaku disappeared from my life: ......"""
+"main_0010_X_00_00_034(0)","Ｐ","『ある日突然、心白はあたしの前から消えた……』","""One day, all of a sudden, Kohaku disappeared from my life: ......"""
 "main_0010_X_00_00_035(0)","Ｐ","『でも、９６１プロで裏方として働かせてもらって、
 何とか踏みとどまることができた』","But I was allowed to work behind the scenes at 961 Pro,
 I managed to stay on."""
@@ -741,7 +741,7 @@ Wait and see what happens!"
 "main_0010_C_04_00_007(0)","Ｐ","（……あれ？　あそこにいるのは――）","(...... Huh? That's her right there--)"
 "main_0010_C_04_00_008(0)","心白","…………","…………"
 "main_0010_C_04_00_009(0)","Ｐ","心白じゃないか。
-今日はＴＶの仕事はないはずだけど……","Isn't that heart-white?
+今日はＴＶの仕事はないはずだけど……","Isn't that Kohaku?
 There should be no TV work today: ......"
 "main_0010_C_04_00_010(0)","心白","あっ、プロデューサーさん……","Oh, producer: ......"
 "main_0010_C_04_00_011(0)","Ｐ","なんでここにいるんだ？","Why are you here?"
@@ -1400,7 +1400,7 @@ By all means, I will."
 "main_0010_X_03_00_062(0)","Ｐ","（ディアマントのふたりにそのことを伝え、
 イベント当日に連携して動くことにした）","(Tell that to the two diamantes,
 (We decided to work in tandem on the day of the event.)"
-"main_0010_X_03_00_063(0)","Ｐ","（これで、心白と亜夜は会えるはずだ……）","(Now you should be able to see Xinhaku and Aya: ......)"
+"main_0010_X_03_00_063(0)","Ｐ","（これで、心白と亜夜は会えるはずだ……）","(Now you should be able to see Kohaku and Aya: ......)"
 "main_0010_D_03_00_001(0)","Ｐ","（歌唱メンバーはどんな感じかな……）","(What do the singing members look like? ......)"
 "main_0010_D_03_00_002(0)","あずさ","みんな、早速レッスンを始めましょう。
 まず最初は……なにから始ればいいかしら","Let's start the lesson right away, everyone.
@@ -1792,7 +1792,7 @@ I never became an idol."
 I just wanted to say that."
 "main_0010_E_02_00_093(0)","亜夜","……なにそれ","......What's that?"
 "main_0010_E_02_00_094(0)","亜夜","あのさ、心白。声が戻ったよね。
-あたしと出会って間もない時と同じ声……","You know, Xinhaku, your voice is back.
+あたしと出会って間もない時と同じ声……","You know, Kohaku, your voice is back.
 The same voice as when you first met me: ......"
 "main_0010_E_02_00_095(0)","心白","えっ……","Eh..."
 "main_0010_E_02_00_096(0)","亜夜","ずるいよ……","It's not fair. ......"
@@ -2506,13 +2506,13 @@ I see, I've had more lessons than I can count (......)"
 アイドルが、好き……もっと、輝きたい……！）","(I still like ...... songs ......
 Idol, I like ...... more, I want to shine ......!)"
 "main_0010_Z_04_00_023(0)","亜夜","（それに、あんな楽しそうな心白をみせられたら、
-ますます、そう思うに決まってるじゃない……！）","(And if I could see such a happy heart-white face,
+ますます、そう思うに決まってるじゃない……！）","(And if I could see such a happy Kohaku face,
 (More and more, of course you think so. ......!)"
 "main_0010_Z_04_00_024(0)","亜夜","（心白から目が離せない……あの強い輝き……
 今はただ、心白に勝ちたい……！）","(I can't take my eyes off of Kohaku: ...... that strong glow: ......
 Now I just want to win Kohaku ......!)"
 "main_0010_Z_04_00_025(0)","亜夜","（……覚悟しなさい、心白！　あたしの方が、
-上だってこと、証明してあげる！）","(......) Brace yourself, Xinhaku! I'm the one,
+上だってこと、証明してあげる！）","(......) Brace yourself, Kohaku! I'm the one,
 (I'll prove to you that I'm on top!)"
 "main_0010_Z_04_00_026(0)","","カットシーン終了","End of cutscene"
 "main_0010_Z_04_00_027(0)","心白＆亜夜","はぁ……はぁ……","Hah ...... Hah ......"
@@ -2611,7 +2611,7 @@ I've caused you a lot of trouble, too, Aya."
 気持ちを、最初に私に教えてくれて","And thanks ......... she said Idol is fun.
 feelings, first by letting me know."
 "main_0010_Z_04_00_067(0)","亜夜","心白……ううん、あたしこそ……勝手に勘違いして、
-あなたを目の敵にしていたのかも","Xinhaku...... no, I'm the one who ...... misunderstood on my own,
+あなたを目の敵にしていたのかも","Kohaku...... no, I'm the one who ...... misunderstood on my own,
 Maybe he was looking at you like you were the apple of her eye."
 "main_0010_Z_04_00_068(0)","亜夜","そっか……心白を目標にしちゃダメだと、
 眞弓さんは思っていたのね","I see. ...... that we shouldn't set our sights on Kohaku,
@@ -2651,7 +2651,7 @@ From now on, you can talk to me about anything."
 Did you drop it?"
 "main_0010_Z_04_00_082(0)","亜夜","そ、それは……。
 こ、心白が……ルミナスで楽しそうにしているからっ","So, that's .......
-This is because Xinhaku is having so much fun with ...... luminous!"
+This is because Kohaku is having so much fun with ...... luminous!"
 "main_0010_Z_04_00(117)","心白","っ……","You can find out more at ......"
 "main_0010_Z_04_00_083(0)","亜夜","夏を過ぎたくらいから、心白の動きがどんどん
 よくなって……前以上に輝いて見えたの","After the summer, Kohaku movement is getting more and more
@@ -2684,7 +2684,7 @@ She's always so cute!"
 ちょ、ちょっと……もう～っ！","...... Nah!
 Hey, hey, ...... already~!"
 "main_0010_Z_04_00_093(0)","亜夜","……とにかくっ！　これで、あたしと心白の
-ゴタゴタは終わり！","Anyway, ......, this is how I and Xinhaku's
+ゴタゴタは終わり！","Anyway, ......, this is how I and Kohaku's
 The mess is over!"
 "main_0010_Z_04_00_094(0)","亜夜","改めて……今度こそ、絶対に勝ってみせるわ！
 あたしのすごさ、思い知らせてあげるんだから！","Once again, ...... I'm going to win this time, I promise!
