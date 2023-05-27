@@ -2266,12 +2266,12 @@ ST_Out_MD/KIZUNA_LVUP_MESSAGE_c104_004,"私、プロデューサーがいたか�
 だから、これからもよろしくお願いしまーすっ！",,,
 ST_Out_MD/KIZUNA_LVUP_MESSAGE_c105_001,わぁ……♪,,,
 ST_Out_MD/KIZUNA_LVUP_MESSAGE_c105_002,すごいですぅ！,,,
-ST_Out_MD/KIZUNA_LVUP_MESSAGE_c105_003,えへへっ,E he he,,
+ST_Out_MD/KIZUNA_LVUP_MESSAGE_c105_003,えへへっ,E she she,,
 ST_Out_MD/KIZUNA_LVUP_MESSAGE_c105_004,"ダメダメな私を見捨てないでいてくれたから……
 これからは、私にもお返し、させて欲しいですぅ",,,
 ST_Out_MD/KIZUNA_LVUP_MESSAGE_c106_001,わぁー！,,,
 ST_Out_MD/KIZUNA_LVUP_MESSAGE_c106_002,凄いです！,,,
-ST_Out_MD/KIZUNA_LVUP_MESSAGE_c106_003,へへっ！,She he!,,
+ST_Out_MD/KIZUNA_LVUP_MESSAGE_c106_003,へへっ！,She she!,,
 ST_Out_MD/KIZUNA_LVUP_MESSAGE_c106_004,"色々ワガママに付き合ってくれて、嬉しかったです！
 これからも頑張りますから、傍で見ていて下さいね！",,,
 ST_Out_MD/KIZUNA_LVUP_MESSAGE_c107_001,わぉ！,,,
@@ -2609,7 +2609,7 @@ ST_Out_MD/KIZUNA_MAP_TEXT_c105_003,"今日はコラムの打ち合わせ……
 but let's do our best",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c105_004,"スコップ、
 どこにいっちゃったんだろう……","Scoop,
-I wonder where he went...",,
+I wonder where she went...",,
 ST_Out_MD/KIZUNA_MAP_TEXT_c105_005,"次のネタはどうしよう……
 あ！こういう時は……","What about the next story...
 Ah! In times like these...",,
@@ -6014,16 +6014,16 @@ ST_Out_MD/SHP_MENU_POP_UP_005,お客様、マニーが足りないようです,"
 ST_Out_MD/SHP_MENU_POP_UP_006,すまねぇ、在庫切れだぜ,"Sorry, that's out of stock.",,
 ST_Out_MD/SHP_MENU_POP_UP_007,悪いが、在庫切れだ,"My bad, that's out of stock","Not sure why this is duplicated from 3198.  悪い translates out to bad, poor, evil, ugly, at fault, etc.
 This looks like its a negative statement directed towards the player.  Trying to figure out how to word this. -NG 10/24/2021
-Turns out it's the same speaker, but he's got some crazy mood swings. -F91 11/5/2021
+Turns out it's the same speaker, but she's got some crazy mood swings. -F91 11/5/2021
 I think 悪い means ""sorry"" or ""my bad"" in this context - faraplay 28/11/2021",
 ST_Out_MD/SHP_MENU_POP_UP_008,在庫切れだ……,Out of stock...,,
-ST_Out_MD/SHP_MENU_POP_UP_009,ブラザー、それ以上は持てねぇぜ,"I don't have anymore, bro!",This vendor is very informal. Also decided to change brother to bro to give an impression of the character and type of store he runs.,
+ST_Out_MD/SHP_MENU_POP_UP_009,ブラザー、それ以上は持てねぇぜ,"I don't have anymore, bro!",This vendor is very informal. Also decided to change brother to bro to give an impression of the character and type of store she runs.,
 ST_Out_MD/SHP_MENU_POP_UP_010,それ以上は持てないようだぜ,I don't got anymore.,,
 ST_Out_MD/SHP_MENU_POP_UP_011,それ以上、持てない……,I don't have anymore...,,
-ST_Out_MD/SHP_MENU_POP_UP_012,ブラザー！？　マニーが足りねぇぜ！,"Bro, you ain't got enough money!",This vendor is very informal. Also decided to change brother to bro to give an impression of the character and type of store he runs,
+ST_Out_MD/SHP_MENU_POP_UP_012,ブラザー！？　マニーが足りねぇぜ！,"Bro, you ain't got enough money!",This vendor is very informal. Also decided to change brother to bro to give an impression of the character and type of store she runs,
 ST_Out_MD/SHP_MENU_POP_UP_013,アンタ、マニーが足りないようだぜ,You don't got enough money.,,
 ST_Out_MD/SHP_MENU_POP_UP_014,マニーが足りないようだ……,You don't have the money...,,
-ST_Out_MD/SHP_MENU_POP_UP_015,ブラザー！？　マニーが足りねぇぜ！,"Bro, you ain't got enough money!",This vendor is very informal. Also decided to change brother to bro to give an impression of the character and type of store he runs,
+ST_Out_MD/SHP_MENU_POP_UP_015,ブラザー！？　マニーが足りねぇぜ！,"Bro, you ain't got enough money!",This vendor is very informal. Also decided to change brother to bro to give an impression of the character and type of store she runs,
 ST_Out_MD/SHP_MENU_POP_UP_016,アンタ、マニーが足りないようだぜ,You don't got enough money there.,,
 ST_Out_MD/SHP_MENU_POP_UP_017,マニーが足りないようだ……,You don't have the money...,,
 ST_Out_MD/SHP_MENU_POP_UP_018,"Ｏｈ Ｎｏ！
@@ -6036,7 +6036,7 @@ ST_Out_MD/SHP_MENU_POP_UP_021," <pop_sys> {0}</>を覚えたいのかしらん�
 ST_Out_MD/SHP_MENU_POP_UP_022," <pop_sys> {0}</>は一旦忘れて、
  <pop_sys> {1}</>を覚えたいのかしらん？",,,
 ST_Out_MD/SHP_MENU_POP_UP_023," <pop_sys> {0}</>を制作致しますか？",Would you like to create a <pop_sys> {0}</>?,,
-ST_Out_MD/SHP_MENU_POP_UP_024,ブラザー、いくつ欲しいんだ？,"How much you wanna buy, bro?",This vendor is very informal. Also decided to change brother to bro to give an impression of the character and type of store he runs,
+ST_Out_MD/SHP_MENU_POP_UP_024,ブラザー、いくつ欲しいんだ？,"How much you wanna buy, bro?",This vendor is very informal. Also decided to change brother to bro to give an impression of the character and type of store she runs,
 ST_Out_MD/SHP_MENU_POP_UP_025,おう、いくつ買う？,"Oh, how much do you want to buy?",,
 ST_Out_MD/SHP_MENU_POP_UP_026,いくつだ……？,How many...?,,
 ST_Out_MD/SKILL_OPEN_INFO,メニュー『<pop_G>SKILL BOARD</>』が開放されました！,The <pop_G>SKILL BOARD </>menu has been unlocked!,,
@@ -6289,7 +6289,7 @@ Ooh hoo hoo ♪ Things are going to get lively, so I'm really look forward to it
 ST_Out_MD/Self_IntrO_23,"にひひっ♪
 みんなのアイドル、水瀬伊織ちゃんよ。
 こんなに可愛くて聡明なアイドル、他にはいないんだから！
-ルミナスでも一番ってコト、証明してあげるわ！","Ni he he
+ルミナスでも一番ってコト、証明してあげるわ！","Ni she she
 It's everyone's idol, Iori Minase-chan!
 With such cuteness and intellegence, there isn't an idol that can match it!
 I am the best fit for Luminous, and I'll prove it!",,

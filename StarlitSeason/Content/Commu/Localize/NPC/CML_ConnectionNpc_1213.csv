@@ -1,7 +1,7 @@
 "id","character","source","translatedstr"
 "ConnectionNpc_1213_A_01_00_0001(0)","P","メールで連絡したら、
 この川原で会おうって返事が来ていたけど","If you email me,
-I had heard back from her that he was going to meet me here on the riverbank."
+I had heard back from her that she was going to meet me here on the riverbank."
 "ConnectionNpc_1213_A_01_00_0002(0)","P","確か、野球帽が目印って話だよな……。
 どこにいるんだろう？","As I recall, we're talking about a baseball cap as a landmark. ......
 Where are they?"
@@ -24,7 +24,7 @@ So you're the producer at Manager Takagi's place."
 "ConnectionNpc_1213_A_01_00_0011(0)","P","い、いえ！　あの、何からお話すればいいか……","No, no! Um, I don't know where to start: ......"
 "ConnectionNpc_1213_A_01_00_0012(0)","川原","なら、自分の話からすればいい。
 話を聞こう","Then you can start with your own story.
-Let's hear what he has to say."
+Let's hear what she has to say."
 "ConnectionNpc_1213_A_01_00_0013(0)","P","はい！　自分はプロジェクトルミナスという
 アイドルユニットのプロデューサーをしています","I am Project Luminous.
 I am a producer of an idol unit"
@@ -162,7 +162,7 @@ In the first place, I don't want you to confuse what we're talking about now wit
 "ConnectionNpc_1213_A_03_00_0013(0)","P","す、すみません……。
 それで、今日もお話を聞いていただけたらと","Sorry, sorry. .......
 So, I was hoping you could talk to me today."
-"ConnectionNpc_1213_A_03_00_0014(0)","川原","話を聞こう","Let's hear what he has to say."
+"ConnectionNpc_1213_A_03_00_0014(0)","川原","話を聞こう","Let's hear what she has to say."
 "ConnectionNpc_1213_A_03_00_0015(0)","P","年末のステージに立つためには、
 毎月毎に一定の人気を集める必要があります","To be on stage at the end of the year,
 Each month must attract a certain amount of popularity"
@@ -237,14 +237,14 @@ She's kind of a mystery (......)."
 "ConnectionNpc_1213_A_05_00_0002(0)","P","川原か……。対岸には何があるんだろう……？","Is it a riverbank or ....... What's on the other side of the river ......?"
 "ConnectionNpc_1213_A_05_00_0003(0)","川原","見ても見えないから、見る","You see it, you don't see it"
 "ConnectionNpc_1213_A_05_00_0004(0)","川原","川の向こうは、彼岸の地、あの世と繋がっていると
-昔の人は考えたようだ","Beyond the river, he said, is the land of the other shore, connected to the other world.
+昔の人は考えたようだ","Beyond the river, she said, is the land of the other shore, connected to the other world.
 Seems the old-timers thought about it."
 "ConnectionNpc_1213_A_05_00_0005(0)","川原","何を見たのか、見たかったのか……。
 それだけ、向こうを見続けていたということだ","What did you see or wanted to see? .......
 That's how long I kept looking over there."
 "ConnectionNpc_1213_A_05_00_0006(0)","P","川原さん！？　
 何だか、現代の人じゃないみたいな……","Kawahara-san!
-It's kind of like he's not a modern man. ......"
+It's kind of like she's not a modern man. ......"
 "ConnectionNpc_1213_A_05_00_0007(0)","川原","ただの死生観だ","It's just life and death."
 "ConnectionNpc_1213_A_05_00_0008(0)","P","ますます、川原さんが何者なのか、
 見えなくなってきました……","More and more, we wonder who Kawahara-san is,
@@ -252,7 +252,7 @@ I can't see it anymore: ......"
 "ConnectionNpc_1213_A_05_00_0009(0)","P","……見えないといえば、ルミナスのみんなと
 コミュニケーションを取っていて思うんです","Speaking of not being able to see ......, I'm with all the Luminous everyone.
 I think we're communicating."
-"ConnectionNpc_1213_A_05_00_0010(0)","川原","話を聞こう","Let's hear what he has to say."
+"ConnectionNpc_1213_A_05_00_0010(0)","川原","話を聞こう","Let's hear what she has to say."
 "ConnectionNpc_1213_A_05_00_0011(0)","P","ひとりひとりと話すと、見えるものが全然違います。
 自分がどこまで見えているのか……","When you talk to each person, what you see is totally different.
 How far do you see yourself in ......"
@@ -291,7 +291,7 @@ Thank you."
 It was the same riverbank."
 "ConnectionNpc_1213_A_06_00_0003(0)","P","こ、こんにちは、川原さん","Hello, Kawahara-san."
 "ConnectionNpc_1213_A_06_00_0004(0)","川原","死角は取ったはずだが……驚かないようだ","I'm sure I took a blind spot, but ...... doesn't seem to surprise me."
-"ConnectionNpc_1213_A_06_00_0005(0)","P","心構えが変わってきたみたいです","It's like he's changing her mindset."
+"ConnectionNpc_1213_A_06_00_0005(0)","P","心構えが変わってきたみたいです","It's like she's changing her mindset."
 "ConnectionNpc_1213_A_06_00_0006(0)","川原","変化は進化だ。
 ボクもキミの変化に対応しないといけないね","Change is evolution.
 I'll have to adapt to your changes."
@@ -354,7 +354,7 @@ I feel connected to Kawahara-san as well."
 "ConnectionNpc_1213_A_07_00_0009(0)","P","歳とか、性別、立場を越えて、縁は繋がりますよね。
 ルミナスをプロデュースして実感しています","I think that connections can be made beyond age, gender, or position.
 I realize that producing luminous"
-"ConnectionNpc_1213_A_07_00_0010(0)","川原","話を聞こう","Let's hear what he has to say."
+"ConnectionNpc_1213_A_07_00_0010(0)","川原","話を聞こう","Let's hear what she has to say."
 "ConnectionNpc_1213_A_07_00_0011(0)","P","ひとりひとりが繋がって、ユニットができる。
 ユニットから、またひとりひとりに繋がっていく……","Each person is connected to the other to form a unit.
 From the unit, we are connected to each other again: ......"
